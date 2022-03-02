@@ -36,7 +36,10 @@ Midwest Winter </h1>
 <div class="breadcrumb"><a href="ernest_fredericks_art.html" style="width: 90%; margin:0 auto 24px auto;">View all Paintings from this Artist</a></div>
              <!-- testimonials desktop -->
 <div class="container test_int_desktop" style="padding-top: 24px; width: 90%; margin:20px auto; background-color: rgba(16,88,185,1.00);">
-<section class="wrapper" style="max-width: 860px; margin:auto;">
+<section class="wrapper" style="width: 90%; max-width: 860px; margin:auto;">
+  <div class="home_test">
+  <TestimonialsScroll />
+  </div>
 <!--#include virtual="testimonials_scroll.html"-->
 </section>
 </div>
@@ -79,3 +82,4 @@ Jerry Hawk,  Bedford Fine Art Gallery</span><span style="display:block; padding-
 
     </div>
 </template>
+

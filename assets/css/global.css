@@ -1707,3 +1707,56 @@ ul.checkmark li {
 
   }
 
+
+
+
+  .home_test p {
+	font-size:14px;
+	line-height:20px;
+	padding: 10px;
+}
+.reverse_header {
+
+	color: #EDEBDB;
+	line-height:1.25em;
+}
+.home_test {
+
+
+
+	margin: 0px 16px 0px 16px;
+}
+
+.test_int_desktop {
+	display:none;
+}
+.test_int_desktop span {
+	text-align: left;
+}
+
+@media screen and (min-width: 915px) {
+	.test_int_desktop {
+	display:block;
+	border-radius: 6px;
+}
+.test_int_mobile {
+	display:none;
+}
+
+}
+
+.reverse {
+	color: #EDEBDB;
+	text-align:left;
+}
+
+.test_int_desktop span {
+	text-align: left !important;
+    color: #fff;
+    font-weight: bold;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+

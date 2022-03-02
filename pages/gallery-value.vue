@@ -39,8 +39,9 @@
 
 
 <p class="oblique" style="margin-bottom: 1em; margin-top: 1em;">Bedford Fine Art Gallery Slideshow</p>
-<div class="home_test" style="width: 80%;
-margin:20px auto 0px auto;">
+<div class="home_test" style="width: 80%; margin:20px auto 0px auto;">
+
+<ImageSlideScroll />
 
   <div><nuxt-img style="width: 100%; height:auto;" src="/mural_1.jpg" width="864" height="864" alt="19th Century Artwork
 "/></div>
