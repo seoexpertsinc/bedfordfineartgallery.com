@@ -1760,3 +1760,43 @@ ul.checkmark li {
     width: 100%;
 }
 
+
+.pagination_sub {
+    text-align: center;
+    border-top: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    margin-top: 16px;
+  }
+
+  .pagination_sub ul {
+    padding-top: 16px;
+  }
+
+  .pagination_sub ul li {
+    color: #EDEBDB;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 16px;
+  }
+
+  .pagination_sub ul li a {
+    background-color: #EDEBDB;
+    display: block;
+    color: #5F0B0C;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 8px;
+    font-size: 15px;
+  }
+
+  .pagination_sub ul li a.active {
+    background-color: #712621;
+    display: block;
+    color: #CCB38D;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 8px;
+    font-size: 15px;
+  }
