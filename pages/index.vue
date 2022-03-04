@@ -160,9 +160,227 @@
 
 
 
+<div class="container primary" style="padding-bottom:0px;">
+<section class="wrapper clearfix">
+
+<div class="col_40">
+<h2 id="homeGallery" class="h1">Bedford Fine Art<span class="hr"></span><span class="headingSub">gallery</span></h2>
+
+<div class="artwork leadPhoto"><a href="Artists--Bios.html"><nuxt-img class="art_detail" src="gallery_logo.jpg" width="798" height="515" alt="19th Centruy Art from Bedford Fine Art Gallery
+"/></a>
+
+
+</div>
+<div class="scroll_container scroller_show" style="margin-top:46px;">
+
+<ul id="scroller" style="clear:both;">
+	<li><a href="benjamin_f_hawley_fall.html"><nuxt-img src="scroll_large_1.jpg" width="400" height="500" /></a></li>
+<li><a href="frank_bromley_niagra.html"><nuxt-img src="scroll_large_3.jpg" width="400" height="500" /></a></li>
+<li><a href="william_henry_ahrendt_canyon.html"><nuxt-img src="scroll_large_6.jpg" width="400" height="500" /></a></li>
+<li><a href="albert_francis_king_art_creek.html"><nuxt-img src="scroll_large_7.jpg" width="400" height="500" /></a></li>
+<li><a href="john_henry_dolph_duo.html"><nuxt-img src="scroll_large_8.jpg" width="400" height="500" /></a></li>
+
+<li><a href="harry_herman_roseland_magic.html"><nuxt-img src="scroll_large_9.jpg" width="400" height="500" /></a></li>
+<li><a href="penrhyn_stanlaws_lincoln.html"><nuxt-img src="scroll_large11.jpg" width="400" height="500" /></a></li>
+<li><a href="c_myron_clark_art.html"><nuxt-img src="scroll_large12.jpg" width="400" height="500" /></a></li>
+
+
+<li><a href="barton_stone_hays_peaches.html"><nuxt-img src="scroll_large13.jpg" width="400" height="500" /></a></li>
+<li><a href="james_l_adams_boulders.html"><nuxt-img src="scroll_large14.jpg" width="400" height="500" /></a></li>
 
 
 
+
+
+</ul>
+</div>
+</div>
+<div class="col_60"><h2 style="clear:both; font-size:22px; color: #732824; border-bottom:1px solid #DDDDB5; margin-bottom:12px;">Bedford Fine Art Gallery is the ultimate destination for fine art.</h2>
+
+
+<div class="p_list_hide">
+<ul class="p_list" style="background:none; padding-top: 0px; padding-bottom:0px;">
+<li><span style="font-weight:bold;">ART IS SMART:</span>  Your home is typically your biggest investment, so it makes sense to enrich your beautiful home with the perfect complement – fine art.
+</li>
+<li><span style="font-weight:bold;">BEST OF THE BEST:</span>  We specialize in the sale of unique original 19th century paintings by well-listed 19th century artists at the pinnacle of their prestigious careers.</li>
+</ul>
+<ul class="p_list hide " style="background:none; padding-top: 0px; padding-bottom:0px;">
+<li><span style="font-weight:bold;">OLD IS THE NEW NEW!:</span>  Like the beautiful architecture of an older building or the sleek lines of a classic automobile, good art is timeless.</li>
+<li><span style="font-weight:bold;">EXPERIENCE COUNTS:</span>  With over 30 years of experience collecting fine art, we exceed expectations for both the new buyer and the seasoned fine art collector.</li>
+<li><span style="font-weight:bold;">IMPECCABLE ETHICS:</span>  You can trust our reputation by viewing the paintings we have sold, throughout the years, to many happy customers.
+</li>
+<li><span style="font-weight:bold;">OUTSTANDING SELECTION:</span>  Over 200 paintings for you to fall in love with.
+</li>
+<li><span style="font-weight:bold;">YOUR LEGACY:</span>  You acquire a piece of history that preserves your legacy and lives on forever.
+</li>
+<li><span style="font-weight:bold;">PAINTING QUALITY</span>:  Unlike most galleries and auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang on your wall from day-one, for many years of enjoyment.
+</li>
+
+
+<li><span style="font-weight:bold;">PAINTING IMAGE:</span>  Our in-house photo studio ensures you get representative images.</li>
+
+<li><span style="font-weight:bold;">UP-TO-DATE WEBSITE:</span>  We pride ourselves with bringing you a user-friendly website that is always up-to-date with artwork currently available as well as listing sold items.</li>
+<li><span style="font-weight:bold;">ZOOM / SUPER ZOOM:</span>  We have a feature on our website that allows you to view a painting up close in great detail, perhaps as well or better than in person.
+</li>
+<li><span style="font-weight:bold;">CUSTOM APP:</span>  Our App allows you to see how a painting will look on YOUR wall.</li>
+<li><span style="font-weight:bold;">AUTHENTICITY GUARANTEE:</span>  You get a guarantee of authenticity.
+</li>
+<li><span style="font-weight:bold;">TRADE-IN GUARANTEE:</span>  You get a trade-in guarantee, so the value of your artwork never decreases.
+</li>
+<li><span style="font-weight:bold;">PRIVATE VIEWING:</span>  We can bring art to you, within a set distance, to preview in private.
+</li>
+<li><span style="font-weight:bold;">PREMIUM SHIPPING:</span>  We take the painting you purchase to a local business and the owner properly packages your artwork, ensuring the best possible protection.
+</li>
+<li><span style="font-weight:bold;">BIG CITY ART AT SMALL TOWN PRICES:</span>  Unlike big city galleries in New York, Washington DC or large auction houses, we do not have overhead costs (building rental, consignment mark-ups, staff salaries/benefits, buyer’s premium, etc.) and we pass these savings onto you to ensure you get the best painting at the best value.
+</li>
+</ul>
+<button class="rd_more">Read More</button>
+</div>
+
+
+<div class="p_list_show">
+<ul class="p_list" style="background:none; padding-top: 0px; padding-bottom:0px;">
+<li><span style="font-weight:bold;">ART IS SMART:</span>  Your home is typically your biggest investment, so it makes sense to enrich your beautiful home with the perfect complement – fine art.
+</li>
+<li><span style="font-weight:bold;">BEST OF THE BEST:</span>  We specialize in the sale of unique original 19th century paintings by well-listed 19th century artists at the pinnacle of their prestigious careers.</li>
+<li><span style="font-weight:bold;">OLD IS THE NEW NEW!:</span>  Like the beautiful architecture of an older building or the sleek lines of a classic automobile, good art is timeless.</li>
+<li><span style="font-weight:bold;">EXPERIENCE COUNTS:</span>  With over 30 years of experience collecting fine art, we exceed expectations for both the new buyer and the seasoned fine art collector.</li>
+<li><span style="font-weight:bold;">IMPECCABLE ETHICS:</span>  You can trust our reputation by viewing the paintings we have sold, throughout the years, to many happy customers.
+</li>
+<li><span style="font-weight:bold;">OUTSTANDING SELECTION:</span>  Over 200 paintings for you to fall in love with.
+</li>
+<li><span style="font-weight:bold;">YOUR LEGACY:</span>  You acquire a piece of history that preserves your legacy and lives on forever.
+</li>
+<li><span style="font-weight:bold;">PAINTING QUALITY</span>:  Unlike most galleries and auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang on your wall from day-one, for many years of enjoyment.
+</li>
+</ul>
+<ul class="p_list hide " style="background:none; padding-top: 0px; padding-bottom:0px;">
+<li><span style="font-weight:bold;">PAINTING IMAGE:</span>  Our in-house photo studio ensures you get representative images.</li>
+
+<li><span style="font-weight:bold;">UP-TO-DATE WEBSITE:</span>  We pride ourselves with bringing you a user-friendly website that is always up-to-date with artwork currently available as well as listing sold items.</li>
+<li><span style="font-weight:bold;">ZOOM / SUPER ZOOM:</span>  We have a feature on our website that allows you to view a painting up close in great detail, perhaps as well or better than in person.
+</li>
+<li><span style="font-weight:bold;">CUSTOM APP:</span>  Our App allows you to see how a painting will look on YOUR wall.</li>
+<li><span style="font-weight:bold;">AUTHENTICITY GUARANTEE:</span>  You get a guarantee of authenticity.
+</li>
+<li><span style="font-weight:bold;">TRADE-IN GUARANTEE:</span>  You get a trade-in guarantee, so the value of your artwork never decreases.
+</li>
+<li><span style="font-weight:bold;">PRIVATE VIEWING:</span>  We can bring art to you, within a set distance, to preview in private.
+</li>
+<li><span style="font-weight:bold;">PREMIUM SHIPPING:</span>  We take the painting you purchase to a local business and the owner properly packages your artwork, ensuring the best possible protection.
+</li>
+<li><span style="font-weight:bold;">BIG CITY ART AT SMALL TOWN PRICES:</span>  Unlike big city galleries in New York, Washington DC or large auction houses, we do not have overhead costs (building rental, consignment mark-ups, staff salaries/benefits, buyer’s premium, etc.) and we pass these savings onto you to ensure you get the best painting at the best value.
+</li>
+</ul>
+<button class="rd_more">Read More</button>
+</div>
+
+</div>
+
+
+</section>
+</div>
+
+
+
+<div class="container primary" style="padding: 0px; padding-bottom:24px;">
+<section class="wrapper clearfix">
+<ul class="callout_nav">
+
+<li style="font-weight:bold;">View Categories:</li>
+<li><a href="landscape_artwork.html">Landscape</a></li>
+<li class="divider">/</li>
+<li><a href="marine_artwork.html">Marine</a></li>
+<li class="divider">/</li>
+<li><a href="still_life_artwork.html">Still Life</a></li>
+<li class="divider">/</li>
+<li><a href="genre_artwork.html">Genre</a></li>
+<li class="divider">/</li>
+<li><a href="historical_and_political_artwork.html">American Historical / Political</a></li>
+<li class="divider">/</li>
+<li><a href="sporting_art.html">Sporting Art</a></li>
+<li class="divider">/</li>
+<li><a href="animal_artwork.html">Animal Theme</a></li>
+<li class="divider">/</li>
+<li><a href="sculpture.html">Sculptures</a></li>
+<li class="divider">/</li>
+<li><a href="Artists--Bios.html">All 19th Century Paintings</a></li>
+</ul>
+
+</section>
+</div>
+
+
+
+<div class="container secondary">
+<section class="wrapper clearfix">
+<div class="col_40">
+<h1 class="reverse" id="homeArt">19th Century<span class="hr_reverse"></span><span class="headingSub">paintings</span></h1></div>
+<div class="col_60">
+  <p class="reverse">Welcome to Bedford Fine Art Gallery.  Located in historic Bedford, Pennsylvania, the gallery offers a wide variety of works from some of the greatest and most well-known 19th century artists, early 20th century artists, and contemporary realism artists. You can see all of our available 19th century artwork on our <a class="internalLinkReverse" href="Artists--Bios.html">Gallery page</a>. Our current
+
+inventory boasts a wide diversity of subject matter from <a class="internalLinkReverse" href="landscape_artwork.html">landscape</a>,<a class="internalLinkReverse" href="marine_artwork.html"> marine</a>, <a class="internalLinkReverse" href="still_life_artwork.html">still life</a>, <a class="internalLinkReverse" href="genre_artwork.html">genre</a>,
+
+<a class="internalLinkReverse" href="historical_and_political_artwork.html">American historical/political</a>, <a class="internalLinkReverse" href="sporting_art.html">sporting art</a>, and <a class="internalLinkReverse" href="animal_artwork.html">animal</a> themes. Our gallery features both American and European 19th century painters such as <a class="internalLinkReverse" href="john_henry_dolph_duo.html">John Henry Dolph</a>, <a class="internalLinkReverse" href="george_hetzel.html">George Hetzel</a>, <a href="william_bromley_III.html" class="internalLinkReverse">William Bromley
+
+III</a>, and <a class="internalLinkReverse" href="barton_stone_hays_apple.html">Barton Stone Hays</a>, to name a few. To see more of our 19th century artists, please visit
+
+our <a class="internalLinkReverse" href="Artists.html">Artists page</a>. Good art is timeless and only you know what &quot;wows&quot; you. You know it when
+
+you see it and we hope you make that connection with a stunning painting from Bedford Fine Art
+
+Gallery. Thank you. </p></div>
+
+<ul id="scroller3">
+	<li><a href="jules_frederic_ballavoine_art_flowers.html"><nuxt-img src="scroll_10.jpg" width="290" height="200" /></a></li>
+	<li><a href="abbot_fuller_graves_fishing.html"><nuxt-img src="scroll_11.jpg" width="290" height="200" /></a></li>
+	<li><a href="barton_stone_hays_tabletop.html"><nuxt-img src="scroll_12.jpg" width="290" height="200" /></a></li>
+    <li><a href="barton_stone_hays_moment.html"><nuxt-img src="scroll_13.jpg" width="290" height="200" /></a></li>
+    <li><a href="auguste_toulmouche_memories.html"><nuxt-img src="scroll_14.jpg" width="290" height="200" /></a></li>
+    <li><a href="earl_lincoln_poole_titmouse.html"><nuxt-img src="scroll_18.jpg" width="290" height="200" /></a></li>
+    <li><a href="george_goodwin_kilburne_trysting.html"><nuxt-img src="scroll_15.jpg" width="290" height="200" /></a></li>
+        <li><a href="william_de_la_montagne_cary_felines.html"><nuxt-img src="scroll_19.jpg" width="290" height="200" /></a></li>
+    <li><a href="clarence_drew_bartlett_franklin.html"><nuxt-img src="scroll_16.jpg" width="290" height="200" /></a></li>
+
+
+    <li><a href="william_keith_forest.html"><nuxt-img src="scroll_17.jpg" width="290" height="200" /></a></li>
+
+</ul>
+
+
+  <div class="breadcrumb"><a href="Artists--Bios.html">click to view over 250 unique paintings</a></div>
+
+
+
+
+
+</section>
+</div>
+
+
+
+
+ <div style="text-align:center; background-color:#EFEFDE; padding: 24px 12px;">
+
+<div class="flex_2" style="max-width: 1060px; margin:auto;">
+<div>
+<h2 style="color: #742924; text-transform:capitalize; text-align:center; padding: 10px; font-size: 20px; font-weight: bold;">Downtown Bedford, Inc. - Initial interview</h2>
+<div class="video-container" style="clear:both; width: 100%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDowntownBedford%2Fvideos%2F516727528841595%2F&show_text=0&width=560&mute=0" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div></div>
+
+
+<div><h2 style="color: #742924; text-transform:capitalize; text-align:center; padding: 10px; font-size: 20px; font-weight: bold;">Charles Augustus (Shorty) Lasar Artist Quotes</h2>
+<div class="video-container" style="width: 100%; padding-top: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
+
+</div>
+
+<div style="max-width:1200px; margin:0px auto 0px auto; border-top: 1px solid #dddd85; padding-top: 15px;">
+<div class="flex_wrap" style="align-content:flex-start;">
+<div class="flex_3">  <p style="color:#742924; font-weight:bold;"><span>First time buying fine art?</span><a style="display:block; max-width:300px; background:#222222; color:#f2f2f2; text-decoration:none; padding: 12px; margin: auto; margin-top: 12px;" href="how_to_buy_fine_art.html">READ HOW-TOs</a></p></div>
+<div class="flex_3">  <p style="color:#742924; font-weight:bold;"><span>Want to see a painting on <u>your</u> wall?</span><a style="display:block; max-width:300px; background:#222222; color:#f2f2f2; text-decoration:none; padding: 12px; margin: auto;
+margin-top: 12px;" href="how_to_view_a_painting_on_your_wall.htm">LEARN HOW</a></p></div>
+<div class="flex_3">  <p style="color:#742924; font-weight:bold;"><span>Want to learn about our gallery?</span><a style="display:block; max-width:300px; background:#222222; color:#f2f2f2; text-decoration:none; padding: 12px; margin: auto; margin-top: 12px;" href="faq.html">GALLERY FAQs</a></p></div>
+</div>
+</div></div>
 </div>
 </template>
 
