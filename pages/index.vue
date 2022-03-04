@@ -381,8 +381,106 @@ margin-top: 12px;" href="how_to_view_a_painting_on_your_wall.htm">LEARN HOW</a><
 <div class="flex_3">  <p style="color:#742924; font-weight:bold;"><span>Want to learn about our gallery?</span><a style="display:block; max-width:300px; background:#222222; color:#f2f2f2; text-decoration:none; padding: 12px; margin: auto; margin-top: 12px;" href="faq.html">GALLERY FAQs</a></p></div>
 </div>
 </div></div>
+
+
+ <SplitCarousel v-bind="option">
+      <SplitCarouselItem v-for="item in itemAmount" :key="item">
+        <div class="box">{{ item }}</div>
+      </SplitCarouselItem>
+    </SplitCarousel>
 </div>
 </template>
 
 
-
+<script>
+const defaultConfig = {
+  displayAmount: 4,
+  autoplay: true,
+  speed: 500,
+  interval: 3000,
+  loop: true,
+  height: 80,
+  itemWidth: 120,
+  pauseOnHover: true,
+  timingFunction: "ease",
+  arrowVisible: "default",
+};
+const kebabize = (str) => {
+  return str
+    .split("")
+    .map((letter, idx) => {
+      return letter.toUpperCase() === letter
+        ? `${idx !== 0 ? "-" : ""}${letter.toLowerCase()}`
+        : letter;
+    })
+    .join("");
+};
+export default {
+  name: "App",
+  data() {
+    return {
+      itemAmount: 6,
+      option: { ...defaultConfig },
+      timingFuntionOptions: [
+        {
+          value: "ease",
+          label: "ease",
+        },
+        {
+          value: "ease-in",
+          label: "ease-in",
+        },
+        {
+          value: "ease-out",
+          label: "ease-out",
+        },
+        {
+          value: "ease-in-out",
+          label: "ease-in-out",
+        },
+        {
+          value: "linear",
+          label: "linear",
+        },
+        {
+          value: "steps(2, start)",
+          label: "steps(2, start)",
+        },
+        {
+          value: "cubic-bezier(0.06, 0.29, 0.19, 1.4)",
+          label: "cubic-bezier(0.06, 0.29, 0.19, 1.4)",
+        },
+      ],
+    };
+  },
+  computed: {
+    diffConfig() {
+      const keys = Object.keys(defaultConfig);
+      const result = {};
+      keys.forEach((key) => {
+        if (this.option[key] !== defaultConfig[key]) {
+          result[key] = this.option[key];
+        }
+      });
+      return result;
+    },
+    componentCode() {
+      const optionString = Object.entries(this.diffConfig)
+        .map(([key, value]) => {
+          const stringKey = ["timingFunction", "arrowVisible"];
+          return `${stringKey.includes(key) ? "" : ":"}${kebabize(
+            key
+          )}="${value}"`;
+        })
+        .join(" ");
+      return `
+<SplitCarousel ${optionString}>
+  <SplitCarouselItem v-for="item in ${this.itemAmount}" :key="item">
+    {{ item }}
+  </SplitCarouselItem>
+</SplitCarousel>
+`;
+    },
+  },
+};
+</script>
