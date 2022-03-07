@@ -34,6 +34,7 @@
 
 <TestimonialsScroll />
 </div>
+<a href="testimonials.html" class="rd_more rd_more_blue " style="text-decoration:none; background: #742924; max-width:200px; text-align:center; margin-bottom:0px;">See More Reviews</a>
 </section>
 </div>
 
@@ -52,6 +53,55 @@
 
    <div style=" border-bottom: 1px solid #dddd85; padding-bottom:20px; margin-bottom:20px;">
 <ul class="productGrid2" style="max-width:1260px; margin:0px auto 0px auto; padding-top: 10px;">
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
+
+<li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
+"/>
+<p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+
+
+</a></div></li>
 
 <li><div class="sold"><span class="soldTag">sold</span><a href="octavius_white_niagra.html"><nuxt-img src="IMG_4142_grid.jpg" alt="Octavius White (19th Century Canadian School)
 "/>
@@ -238,42 +288,7 @@
 </div>
 
 
-<div class="p_list_show">
-<ul class="p_list" style="background:none; padding-top: 0px; padding-bottom:0px;">
-<li><span style="font-weight:bold;">ART IS SMART:</span>  Your home is typically your biggest investment, so it makes sense to enrich your beautiful home with the perfect complement – fine art.
-</li>
-<li><span style="font-weight:bold;">BEST OF THE BEST:</span>  We specialize in the sale of unique original 19th century paintings by well-listed 19th century artists at the pinnacle of their prestigious careers.</li>
-<li><span style="font-weight:bold;">OLD IS THE NEW NEW!:</span>  Like the beautiful architecture of an older building or the sleek lines of a classic automobile, good art is timeless.</li>
-<li><span style="font-weight:bold;">EXPERIENCE COUNTS:</span>  With over 30 years of experience collecting fine art, we exceed expectations for both the new buyer and the seasoned fine art collector.</li>
-<li><span style="font-weight:bold;">IMPECCABLE ETHICS:</span>  You can trust our reputation by viewing the paintings we have sold, throughout the years, to many happy customers.
-</li>
-<li><span style="font-weight:bold;">OUTSTANDING SELECTION:</span>  Over 200 paintings for you to fall in love with.
-</li>
-<li><span style="font-weight:bold;">YOUR LEGACY:</span>  You acquire a piece of history that preserves your legacy and lives on forever.
-</li>
-<li><span style="font-weight:bold;">PAINTING QUALITY</span>:  Unlike most galleries and auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang on your wall from day-one, for many years of enjoyment.
-</li>
-</ul>
-<ul class="p_list hide " style="background:none; padding-top: 0px; padding-bottom:0px;">
-<li><span style="font-weight:bold;">PAINTING IMAGE:</span>  Our in-house photo studio ensures you get representative images.</li>
 
-<li><span style="font-weight:bold;">UP-TO-DATE WEBSITE:</span>  We pride ourselves with bringing you a user-friendly website that is always up-to-date with artwork currently available as well as listing sold items.</li>
-<li><span style="font-weight:bold;">ZOOM / SUPER ZOOM:</span>  We have a feature on our website that allows you to view a painting up close in great detail, perhaps as well or better than in person.
-</li>
-<li><span style="font-weight:bold;">CUSTOM APP:</span>  Our App allows you to see how a painting will look on YOUR wall.</li>
-<li><span style="font-weight:bold;">AUTHENTICITY GUARANTEE:</span>  You get a guarantee of authenticity.
-</li>
-<li><span style="font-weight:bold;">TRADE-IN GUARANTEE:</span>  You get a trade-in guarantee, so the value of your artwork never decreases.
-</li>
-<li><span style="font-weight:bold;">PRIVATE VIEWING:</span>  We can bring art to you, within a set distance, to preview in private.
-</li>
-<li><span style="font-weight:bold;">PREMIUM SHIPPING:</span>  We take the painting you purchase to a local business and the owner properly packages your artwork, ensuring the best possible protection.
-</li>
-<li><span style="font-weight:bold;">BIG CITY ART AT SMALL TOWN PRICES:</span>  Unlike big city galleries in New York, Washington DC or large auction houses, we do not have overhead costs (building rental, consignment mark-ups, staff salaries/benefits, buyer’s premium, etc.) and we pass these savings onto you to ensure you get the best painting at the best value.
-</li>
-</ul>
-<button class="rd_more">Read More</button>
-</div>
 
 </div>
 
