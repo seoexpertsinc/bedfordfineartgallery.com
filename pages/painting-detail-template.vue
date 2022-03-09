@@ -79,7 +79,7 @@ Jerry Hawk,  Bedford Fine Art Gallery</span><span style="display:block; padding-
             <div class="breadcrumb"><a href="Artists--Bios.html">Back to Gallery</a></div>
         </section>
     </div>
-
+<Example />
     </div>
 </template>
 

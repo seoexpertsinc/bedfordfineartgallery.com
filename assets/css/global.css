@@ -1757,7 +1757,8 @@ ul.checkmark li {
 }
 
 .slick-slide img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 
 
@@ -1948,4 +1949,8 @@ align-items:center;
     padding: 16px;
     width: 50%;
     border-left: 1px solid #B8AC8F;
+  }
+
+  .clear {
+      clear: both;
   }

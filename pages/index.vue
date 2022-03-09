@@ -112,7 +112,7 @@
 
 </ul>
    </div>
-
+<CustomerSlidingImages />
   <div class="breadcrumb"><a href="Artists--Bios.html">click to view over 250 unique paintings for sale now</a></div>
 </section>
 </div>
@@ -223,26 +223,7 @@
 </div>
 <div class="scroll_container scroller_show" style="margin-top:46px;">
 
-<ul id="scroller" style="clear:both;">
-	<li><a href="benjamin_f_hawley_fall.html"><nuxt-img src="scroll_large_1.jpg" width="400" height="500" /></a></li>
-<li><a href="frank_bromley_niagra.html"><nuxt-img src="scroll_large_3.jpg" width="400" height="500" /></a></li>
-<li><a href="william_henry_ahrendt_canyon.html"><nuxt-img src="scroll_large_6.jpg" width="400" height="500" /></a></li>
-<li><a href="albert_francis_king_art_creek.html"><nuxt-img src="scroll_large_7.jpg" width="400" height="500" /></a></li>
-<li><a href="john_henry_dolph_duo.html"><nuxt-img src="scroll_large_8.jpg" width="400" height="500" /></a></li>
-
-<li><a href="harry_herman_roseland_magic.html"><nuxt-img src="scroll_large_9.jpg" width="400" height="500" /></a></li>
-<li><a href="penrhyn_stanlaws_lincoln.html"><nuxt-img src="scroll_large11.jpg" width="400" height="500" /></a></li>
-<li><a href="c_myron_clark_art.html"><nuxt-img src="scroll_large12.jpg" width="400" height="500" /></a></li>
-
-
-<li><a href="barton_stone_hays_peaches.html"><nuxt-img src="scroll_large13.jpg" width="400" height="500" /></a></li>
-<li><a href="james_l_adams_boulders.html"><nuxt-img src="scroll_large14.jpg" width="400" height="500" /></a></li>
-
-
-
-
-
-</ul>
+<ArtworkSlidingImages />
 </div>
 </div>
 <div class="col_60"><h2 style="clear:both; font-size:22px; color: #732824; border-bottom:1px solid #DDDDB5; margin-bottom:12px;">Bedford Fine Art Gallery is the ultimate destination for fine art.</h2>
@@ -345,24 +326,10 @@ our <a class="internalLinkReverse" href="Artists.html">Artists page</a>. Good ar
 you see it and we hope you make that connection with a stunning painting from Bedford Fine Art
 
 Gallery. Thank you. </p></div>
+<div class="clear">
+<ArtworkSlidingImagesSmall />
 
-<ul id="scroller3">
-	<li><a href="jules_frederic_ballavoine_art_flowers.html"><nuxt-img src="scroll_10.jpg" width="290" height="200" /></a></li>
-	<li><a href="abbot_fuller_graves_fishing.html"><nuxt-img src="scroll_11.jpg" width="290" height="200" /></a></li>
-	<li><a href="barton_stone_hays_tabletop.html"><nuxt-img src="scroll_12.jpg" width="290" height="200" /></a></li>
-    <li><a href="barton_stone_hays_moment.html"><nuxt-img src="scroll_13.jpg" width="290" height="200" /></a></li>
-    <li><a href="auguste_toulmouche_memories.html"><nuxt-img src="scroll_14.jpg" width="290" height="200" /></a></li>
-    <li><a href="earl_lincoln_poole_titmouse.html"><nuxt-img src="scroll_18.jpg" width="290" height="200" /></a></li>
-    <li><a href="george_goodwin_kilburne_trysting.html"><nuxt-img src="scroll_15.jpg" width="290" height="200" /></a></li>
-        <li><a href="william_de_la_montagne_cary_felines.html"><nuxt-img src="scroll_19.jpg" width="290" height="200" /></a></li>
-    <li><a href="clarence_drew_bartlett_franklin.html"><nuxt-img src="scroll_16.jpg" width="290" height="200" /></a></li>
-
-
-    <li><a href="william_keith_forest.html"><nuxt-img src="scroll_17.jpg" width="290" height="200" /></a></li>
-
-</ul>
-
-
+</div>
   <div class="breadcrumb"><a href="Artists--Bios.html">click to view over 250 unique paintings</a></div>
 
 
