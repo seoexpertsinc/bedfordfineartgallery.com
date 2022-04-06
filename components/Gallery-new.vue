@@ -1,4 +1,5 @@
 <template>
+
     <div style="display: inline">
         <li>
             <a href="charles_henry_eaton_apple.html"
@@ -8,7 +9,7 @@
 "
                 />
                 <p class="artist_gallery_title">
-                    <span class="gallery_new_label label">NEW</span>Charles Henry Eaton (American 1850 – 1901)
+                    <span class="gallery_new_label label">NEW</span> (American 1850 – 1901)
                 </p>
             </a>
         </li>
@@ -69,3 +70,4 @@
     font-weight: normal;
 }
 </style>
+

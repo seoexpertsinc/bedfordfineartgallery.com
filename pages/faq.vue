@@ -22,10 +22,15 @@
                     <p class="more2">
                         Bedford Fine Art Gallery is located at 230 South Juliana Street in historic Bedford, a small,
                         but vibrant town in south-central Pennsylvania. Bedford is conveniently located midway between
-                        Harrisburg and Pittsburgh, off Exit 146 of the Pennsylvania Turnpike. Easy to find, it is housed
+                        Harrisburg and Pittsburgh, off Exit 146 of the Pennsylvania Turnpike. <span v-if="readMore"></span>
+    <span v-else></span><span v-show="readMore">Easy to find, it is housed
                         within the Bedford Mansion, in Bedford’s historic district. It is listed on the Register of
-                        Historic Places, the perfect venue for you to view important 19th century art.
+                        Historic Places, the perfect venue for you to view important 19th century art.</span><button class="btn btn-success" @click="readMore =! readMore">
+    <span v-if="readMore">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
+
                 </div>
 
                 <span
@@ -36,9 +41,7 @@
                         clear: both;
                         background: #c3c4a2;
                         margin-bottom: 1em;
-                        margin-top: 1.5em;
-                    "
-                ></span>
+                        margin-top: 1.5em;"></span>
 
                 <div class="highlights_thumbnail">
                     <nuxt-img
@@ -55,22 +58,23 @@
                     <p class="more2">
                         We have been passionate collectors of fine art for over 30 years, developing relationships with
                         art galleries, museums, auctioneer houses, conservators and knowledgeable collectors. We decided
-                        to open our gallery about 10 years ago. We offer only the finest 19th century carefully selected
-                        artworks by well-listed artists.
+                        to open our gallery about 10 years ago. <span v-if="readMore2"></span>
+    <span v-else></span><span v-show="readMore2">We offer only the finest 19th century carefully selected
+                        artworks by well-listed artists.</span><button class="btn btn-success" @click="readMore2 =! readMore2">
+    <span v-if="readMore2">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
+
                 </div>
 
-                <span
-                    style="
-                        height: 1px;
+                <span style="height: 1px;
                         width: 100%;
                         display: block;
                         clear: both;
                         background: #c3c4a2;
                         margin-bottom: 1em;
-                        margin-top: 1.5em;
-                    "
-                ></span>
+                        margin-top: 1.5em;"></span>
 
                 <div class="highlights_thumbnail">
                     <nuxt-img
@@ -88,9 +92,13 @@
                         We have been passionate collectors of fine 19th century art for over 25 years, developing
                         relationships with art galleries, museums, auctioneer houses, conservators and knowledgeable
                         collectors. As collectors ourselves, we do our due diligence in researching each artist and
-                        examples of their work. Some of our paintings have been requested for museum art exhibitions and
+                        examples of their work. <span v-if="readMore3"></span>
+    <span v-else></span><span v-show="readMore3"> Some of our paintings have been requested for museum art exhibitions and
                         some have appeared in magazines and books. We are on the board of Southern Alleghenies Museum of
-                        Art and guide the selection of new art acquisitions.
+                        Art and guide the selection of new art acquisitions.</span><button class="btn btn-success" @click="readMore3 =! readMore3">
+    <span v-if="readMore3">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
                 </div>
 
@@ -123,7 +131,8 @@
                         will likely be drawn to a specific type of painting (e.g., landscape, marine, still-life, genre,
                         American historic/political, sporting art, or animal theme). You do not need to visit in person
                         (but it is recommended). We have a user-friendly website that allows you to view each of our
-                        paintings, complete with a biography of the artist. With our zoom and super-zoom feature, you
+                        paintings, complete with a biography of the artist. <span v-if="readMore4"></span>
+    <span v-else></span><span v-show="readMore4"> With our zoom and super-zoom feature, you
                         can “put your nose right on the painting”. We also have articles on our website that provide you
                         with an introduction to art, plus we welcome your phone calls and emails to answer questions
                         about 19th century art and our artists. Our diverse inventory boasts some of the best examples
@@ -131,7 +140,10 @@
                         highest level of quality. We believe we are safeguarding you, our customers, purchase by
                         providing the best quality works available. If you decide to visit us in person, we can offer
                         you “concierge-style service”—taking time to introduce to us, our gallery and our paintings, a
-                        “grand tour” so to speak.
+                        “grand tour” so to speak.</span><button class="btn btn-success" @click="readMore4 =! readMore4">
+    <span v-if="readMore4">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
                 </div>
 
@@ -163,13 +175,17 @@
                         We are not looking for just any 19th century paintings but the best quality works available. We
                         are on a continual quest to find quintessential works representative of 19th century artists. We
                         spend two to three hours every single evening in our search to find the best quality paintings.
-                        Paintings don’t just come to us--although sometimes they do! People have found our website and
+                        Paintings don’t just come to us--although sometimes they do! <span v-if="readMore5"></span>
+    <span v-else></span><span v-show="readMore5"> People have found our website and
                         contact us regarding artwork they would like to sell. If we are interested and it meets our
                         standards, we may purchase it. Auction houses are another source; however, we are very selective
                         in which ones we deal with and we perform up front “due-diligence” to ensure that the painting
                         offered is not misrepresented. Sometimes an institution goes through deaccession, which also
                         provides opportunities to purchase fine art. We extensively research every painting and only the
-                        absolute best paintings meet our standards.
+                        absolute best paintings meet our standards.</span><button class="btn btn-success" @click="readMore5 =! readMore5">
+    <span v-if="readMore5">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
                 </div>
 
@@ -201,9 +217,13 @@
                         No. Nor do we have paintings by contemporary artists or artists who painted after the 1920s. We
                         do offer a selection of paintings by 19th century Scalp Level School artists, a group of
                         Pittsburgh artists who painted at Scalp Level, Paint Creek and Shade Creek about 30 miles from
-                        our gallery. We also have paintings by artists who painted at many of the popular 19th century
+                        our gallery. <span v-if="readMore6"></span>
+    <span v-else></span><span v-show="readMore6"> We also have paintings by artists who painted at many of the popular 19th century
                         art colonies in the United States, France and Great Britain. Other selections include fine
-                        examples of British and French academic art.
+                        examples of British and French academic art.</span><button class="btn btn-success" @click="readMore6 =! readMore6">
+    <span v-if="readMore6">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                     </p>
                 </div>
 
@@ -233,9 +253,15 @@
                     <h2>Do you sell prints?</h2>
                     <p class="more2">
                         No. Bedford Fine Art Gallery sells only original 19th to early 20th century paintings, unlike
-                        most present day galleries that offer mostly modern art and decorative prints. It is our belief
+                        most present day galleries that offer mostly modern art and decorative prints. <span v-if="readMore7"></span>
+    <span v-else></span><span v-show="readMore7">It is our belief
                         that nothing captures the essence better than the original, whose hand the artist has personally
                         touched. The talent of our artists is intuitively obvious to even the most casual observer.
+</span><button class="btn btn-success" @click="readMore7 =! readMore7">
+    <span v-if="readMore7">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -296,10 +322,16 @@
                     <p class="more2">
                         With few exceptions, the paintings offered by Bedford Fine Art Gallery were painted between
                         circa 1860s through the 1920s. Unless the artist added the date when he or she painted it, it is
-                        difficult to state unequivocally when a particular piece was painted by an artist. There are
+                        difficult to state unequivocally when a particular piece was painted by an artist.  <span v-if="readMore8"></span>
+    <span v-else></span><span v-show="readMore8">There are
                         some clues that we use to bracket the timeframe a bit. Most artists begin their career with one
                         style or genre and as they mature and widen their spheres of artistic influence, settle into a
                         particular subject for which they become well-known.
+</span><button class="btn btn-success" @click="readMore8 =! readMore8">
+    <span v-if="readMore8">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -334,12 +366,17 @@
                         founder of an art school, the leader of an art movement, did he accompany the important
                         government and railroad surveys of the 1800s, or did they fight in the Civil War—which side? We
                         have paintings by many artists who not only led interesting lives, but were also influential
-                        figures in the world of 19th century art. The “who” also tells you something about the
+                        figures in the world of 19th century art. <span v-if="readMore9"></span>
+    <span v-else></span><span v-show="readMore9">The “who” also tells you something about the
                         “what”—the subject that is usually associated with that artist. If the painting you are looking
                         at is a still-life, but the signature is of an artist that is better known for landscapes, then
                         it is likely that you are looking at either an earlier or later work by this artist. Often the
                         artist can be identified merely by looking at the subject and composition, which by itself can
-                        be a “signature”.
+                        be a “signature”.</span><button class="btn btn-success" @click="readMore9 =! readMore9">
+    <span v-if="readMore9">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -371,12 +408,18 @@
                         The known history or “provenance” of a painting is often unknown regarding the identity of the
                         original owner or subsequent owners, prior to its arrival at our gallery. We do, however, have
                         some paintings that we purchased from descendants of the original owner, who had bought them
-                        directly from the artist. The artists carried by Bedford Fine Art Gallery exhibited their
+                        directly from the artist. <span v-if="readMore10"></span>
+    <span v-else></span><span v-show="readMore10">The artists carried by Bedford Fine Art Gallery exhibited their
                         paintings and sometimes an exhibition catalog is discovered that mentions the painting and the
                         year it was exhibited. Other paintings have as their only documentation historic auction house
                         records. Our research sometimes provides clues regarding where and at what point in their career
                         it was painted, and possibly former owners. Buying a painting from Bedford Fine Art Gallery
                         ensures that you are getting an original painting from a well-recognized artist.
+</span><button class="btn btn-success" @click="readMore10 =! readMore10">
+    <span v-if="readMore10">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -408,11 +451,17 @@
                         No. Bedford Fine Art Gallery has sold paintings all over the United States, for example, without
                         the buyers stepping foot in our gallery. We have a user-friendly website that allows you to look
                         at each of our paintings, with zoom and super-zoom, so that you can “put your nose right on the
-                        painting” for close examination. In addition, we have an app on our website that allows you
+                        painting” for close examination. <span v-if="readMore11"></span>
+    <span v-else></span><span v-show="readMore11">In addition, we have an app on our website that allows you
                         place one of our paintings directly on your wall, to scale, so that you can see how it would
                         look in YOUR personal space. We welcome your phone calls and emails to answer questions about
                         19th century art and our artists. If you do decide to visit us, the added bonus is that we will
                         give you the “grand gallery tour”, so that you can view paintings and ask questions in person.
+</span><button class="btn btn-success" @click="readMore11 =! readMore11">
+    <span v-if="readMore11">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -443,8 +492,14 @@
                     <p class="more2">
                         We accept checks (via mail or in person) and major credit cards (in person or over the phone).
                         We also offer a lay-away-plan. We ask that you put down a portion of the painting’s purchase
-                        price to hold it and then make regular payments. You will not be able to take receipt of the
+                        price to hold it and then make regular payments. <span v-if="readMore12"></span>
+    <span v-else></span><span v-show="readMore12">You will not be able to take receipt of the
                         painting until the final payment has been made.
+</span><button class="btn btn-success" @click="readMore12 =! readMore12">
+    <span v-if="readMore12">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -477,11 +532,17 @@
                         customers can rely on a local Bedford specialized packaging and shipping associate. Our
                         customers are serviced exclusively by the owner. Her packaging and shipping services are
                         outstanding. Packaging is customized according to the specific fine art painting, with
-                        specialized wrapping, boxing and cushioning materials being used. If requested, MasterPak®
+                        specialized wrapping, boxing and cushioning materials being used. <span v-if="readMore13"></span>
+    <span v-else></span><span v-show="readMore13">If requested, MasterPak®
                         shipping boxes for framed artwork can be utilized. These provide three layers of foam protection
                         that snugly encases the artwork, all within a strong corrugated container that offers plywood
                         strength without the weight, cost, and shipping expense. The cost of shipping is the
                         responsibility of the buyer.
+</span><button class="btn btn-success" @click="readMore13 =! readMore13">
+    <span v-if="readMore13">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
 
@@ -516,7 +577,8 @@
                         viewing modern abstract art, you typically just see colors and shapes. These so-called works of
                         art are built more upon the contemporary artist’s brand and less upon their talent as an artist.
                         We have all seen the articles where these so-called pieces of modern art have sold for millions
-                        of dollars. Unlike modern art, when a quality 19th century fine art painting is hanging on your
+                        of dollars. <span v-if="readMore14"></span>
+    <span v-else></span><span v-show="readMore14">Unlike modern art, when a quality 19th century fine art painting is hanging on your
                         wall, you do not need to try to explain what it is you are seeing. People intuitively know that
                         the work of a very talented 19th century artist captured true beauty and the painting is not
                         some modern fad hung for shock value or another emotional response, not aligned with beauty.<br /><br />
@@ -573,6 +635,11 @@
                         although we have no control over the overall fine art market, we give all our customers a
                         trade-in promise that guarantees the value of the original fine art they purchase from Bedford
                         Fine Art Gallery will never decrease in value.
+</span><button class="btn btn-success" @click="readMore14 =! readMore14">
+    <span v-if="readMore14">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                     <!--<p class="more">Because we sell only original 19th century artwork, it is one of a kind—there will be no other like it.  It is therefore rare.  That is one aspect of “value”.  The cost for us to acquire the painting is only a portion of the value we are asking for it.  Paintings do not simply come to us; we have to do extensive searches to find paintings that meet our high standards.  Further, our paintings are over 100 years old and usually will require some work to meet our quality standards.  If we believe a painting to be too damaged to be able to provide it at a good value to you, we pass.  We at Bedford Fine Art Gallery are “minimalists” with respect to what it takes to make a painting ready to hang on the walls of your home, unlike a painting you may acquire through an auction house or some galleries.  A painting may need cleaned or re-varnished to bring it back to the way the artist originally intended it to look.  Original frames seem to suffer the most damage, often to the extent that it is more economical to replace them rather than to restore them.  We use only qualified conservationists to fully assess a painting and its frame to determine what level of conservation work is needed to make it “wall-ready” for you…and at the best value.  Lastly, unlike many other galleries—we do not have high overhead costs and this has a positive impact--we pass this savings onto you.
 </p>-->
@@ -605,13 +672,47 @@
                     <p class="more2">
                         When you purchase a painting from us, you get our guarantee that it is an authentic 19th century
                         painting by the artist whose signature appears on the canvas. We also offer a trade-in guarantee
-                        on the painting you purchase. If, after having enjoyed the painting for a time, you decide you
+                        on the painting you purchase. <span v-if="readMore15"></span>
+    <span v-else></span><span v-show="readMore15">If, after having enjoyed the painting for a time, you decide you
                         would like something else instead, simply return the painting to us. If the painting has not
                         been damaged while in your care, we will apply its original purchase price toward the purchase
                         price of another painting of higher value.
+</span><button class="btn btn-success" @click="readMore15 =! readMore15">
+    <span v-if="readMore15">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
+
                     </p>
                 </div>
             </section>
         </div>
     </div>
 </template>
+
+<script>
+
+export default {
+data() {
+
+        return {
+             readMore: false,
+             readMore2: false,
+             readMore3: false,
+             readMore4: false,
+             readMore5: false,
+             readMore6: false,
+              readMore7: false,
+              readMore8: false,
+              readMore9: false,
+              readMore10: false,
+              readMore11: false,
+              readMore12: false,
+              readMore13: false,
+              readMore14: false,
+              readMore15: false,
+              readMore16: false,
+        }
+}
+};
+</script>
+

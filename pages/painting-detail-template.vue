@@ -20,17 +20,14 @@
                             >724-459-0612</a
                         >
                     </p>
-                    <a id="btn" href="#"
-                        ><nuxt-img
-                            class="art_detail"
-                            alt="Ernest Fredericks (1877 - 1959)
-"
-                            height="842"
-                            src="/fredericks_winter_small.jpg"
-                            width="1015"
-                        />
-                        <p class="zoom">Click image to zoom</p></a
-                    >
+                    <div class="zoom_desktop">
+                      <ZoomTest />
+                    </div>
+                    <div class="zoom_mobile">
+                      <ZoomTestMobile />
+                    </div>
+                        <p class="zoom">Click image to zoom</p>
+                    
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
                             <a
@@ -167,6 +164,6 @@
                 <div class="breadcrumb"><a href="Artists--Bios.html">Back to Gallery</a></div>
             </section>
         </div>
-        <Example />
+
     </div>
 </template>

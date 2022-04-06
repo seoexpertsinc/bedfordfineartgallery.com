@@ -583,8 +583,13 @@
                                 <span style="font-weight: bold">PAINTING QUALITY</span>: Unlike most galleries and
                                 auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang
                                 on your wall from day-one, for many years of enjoyment.
+                                <span v-if="readMore"></span>
+    <span v-else>...</span>
                             </li>
+                        </ul>
 
+
+<ul v-show="readMore" class="p_list">
                             <li>
                                 <span style="font-weight: bold">PAINTING IMAGE:</span> Our in-house photo studio ensures
                                 you get representative images.
@@ -629,6 +634,13 @@
                                 the best value.
                             </li>
                         </ul>
+
+
+
+  <button class="btn btn-success" @click="readMore =! readMore">
+    <span v-if="readMore">Read Less</span>
+    <span v-else>Read More</span>
+  </button>
                         <button class="rd_more">Read More</button>
                     </div>
                 </div>
@@ -855,7 +867,9 @@ const kebabize = (str) => {
 export default {
     name: 'App',
     data() {
+
         return {
+             readMore: false,
             itemAmount: 6,
             option: { ...defaultConfig },
             timingFuntionOptions: [

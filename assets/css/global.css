@@ -1922,3 +1922,24 @@ ul.productGrid2 li {
 .clear {
     clear: both;
 }
+
+.zoom_desktop {
+    display: none;
+}
+
+@media screen and (min-width: 860px) {
+.zoom_desktop {display: block;}
+.zoom_mobile {display: none;}
+}
+
+.p_list {
+    background:none;
+}
+.btn-success {
+    border: none;
+    background: none;
+    color: #732824;
+    cursor: pointer;
+    font-size: inherit;
+    text-decoration: underline;
+}
