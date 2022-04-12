@@ -223,6 +223,121 @@
                             </div>
                         </li>
                     </ul>
+
+                     <ul v-if="showMessage" class="productGrid2" style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px">
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+                    </ul>
+                     <button v-on:click="showMessage = !showMessage">toggle messaggio 1</button>
                 </div>
                 <CustomerSlidingImages />
                 <div class="breadcrumb">
@@ -835,6 +950,10 @@
             </div>
         </div>
 
+
+
+
+
         <SplitCarousel v-bind="option">
             <SplitCarouselItem v-for="item in itemAmount" :key="item">
                 <div class="box">{{ item }}</div>
@@ -868,7 +987,10 @@ export default {
     name: 'App',
     data() {
 
+
+
         return {
+            showMessage: false,
              readMore: false,
             itemAmount: 6,
             option: { ...defaultConfig },
@@ -903,6 +1025,7 @@ export default {
                 },
             ],
         }
+
     },
     computed: {
         diffConfig() {
@@ -933,3 +1056,28 @@ export default {
     },
 }
 </script>
+
+<style scoped>
+ul.productGrid2 li {
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    transition: all 0.8s ease;
+    font-size: 16px;
+    width: 10%;
+    vertical-align: top;
+}
+
+.artist_gallery_title {
+  display: none;
+}
+
+.soldTag {
+    position: absolute;
+    background-color: #f2f2f2;
+    color: #AB1719;
+    padding: 4px;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+</style>
