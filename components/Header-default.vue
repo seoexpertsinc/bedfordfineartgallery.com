@@ -3,9 +3,8 @@
         <section class="wrapper clearfix">
             <header>
                 <div class="logo">
-                    <a href="index.html"
-                        ><nuxt-img src="/logo.png" width="123" height="124" alt="American Sporting Art"
-                    /></a>
+                    <nuxt-link to="/"><nuxt-img src="/logo.png" width="123" height="124" alt="American Sporting Art"
+                    /></nuxt-link>
                 </div>
 
                 <div class="headerTagline">
@@ -15,16 +14,14 @@
 
             <nav id="menu">
                 <ul id="menu-closed">
-                    <li><a href="index.html">home</a></li>
-                    <li><a href="Artists--Bios.html">gallery</a></li>
-                    <li><a href="Artists.html">artists</a></li>
+                    <li><nuxt-link to="/">home</nuxt-link></li>
+                    <li><nuxt-link to="/artists-bios/">gallery</nuxt-link></li>
+                    <li><nuxt-link to="/artists/">artists</nuxt-link></li>
+                    <li><nuxt-link to="/gallery-value/">about</nuxt-link></li>
+                    <li><nuxt-link to="/highlights/">articles</nuxt-link></li>
+                    <li><nuxt-link to="/faq/">faqs</nuxt-link></li>
 
-                    <li><a href="landscape_artwork.html">categories</a></li>
-                    <li><a href="Gallery-Value.html">about</a></li>
-                    <li><a href="highlights.html">articles</a></li>
-                    <li><a href="faq.html">faqs</a></li>
-
-                    <li><a href="Directions.html">visit</a></li>
+                    <li><nuxt-link to="/">visit</nuxt-link></li>
                     <li><a href="#menu-closed">&#215; Close</a></li>
                     <li><a href="#menu">&#9776; More</a></li>
                 </ul>

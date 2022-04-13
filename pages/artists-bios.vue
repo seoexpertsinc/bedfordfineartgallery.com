@@ -16,7 +16,7 @@
                         <li><a href="notable_sales.html">Recently Sold</a></li>
                     </ul>
                 </div>
-
+   <input type="text" class="form-control " placeholder="Search" v-model="search_filter">
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <GalleryNew />
                     <GalleryReg />
@@ -25,6 +25,13 @@
         </div>
     </div>
 </template>
+
+<script>
+export default {
+    
+}
+</script>
+
 
 <style scoped>
 .secondary {

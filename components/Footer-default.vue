@@ -2,16 +2,14 @@
     <div class="container compliment">
         <section class="wrapper clearfix">
             <ul class="footerNav">
-                <li><a href="index.html">home</a></li>
-                <li><a href="Artists--Bios.html">gallery</a></li>
-                <li><a href="Artists.html">artists</a></li>
+                 <li><nuxt-link to="/">home</nuxt-link></li>
+                    <li><nuxt-link to="/artists-bios/">gallery</nuxt-link></li>
+                    <li><nuxt-link to="/artists/">artists</nuxt-link></li>
+                    <li><nuxt-link to="/gallery-value/">about</nuxt-link></li>
+                    <li><nuxt-link to="/highlights/">articles</nuxt-link></li>
+                    <li><nuxt-link to="/faq/">faqs</nuxt-link></li>
 
-                <li><a href="landscape_artwork.html">categories</a></li>
-                <li><a href="Gallery-Value.html">about</a></li>
-                <li><a href="highlights.html">articles</a></li>
-                <li><a href="faq.html">faqs</a></li>
-
-                <li><a href="Directions.html">visit</a></li>
+                    <li><nuxt-link to="/">visit</nuxt-link></li>
             </ul>
 
             <div class="flex_wrap footer">

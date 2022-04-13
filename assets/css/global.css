@@ -1485,7 +1485,7 @@ ul.productGrid {
 
 nav#menu ul li:nth-child(4),
 ul.footerNav li:nth-child(4) {
-    display: none;
+  
 }
 
 .artist_wrap {
@@ -1889,15 +1889,7 @@ ul.checkmark li:after {
     margin: 10px auto 30px auto;
 }
 
-ul.productGrid2 li {
-    display: inline-block;
-    text-align: center;
-    margin: 0;
-    transition: all 0.8s ease;
-    font-size: 16px;
-    width: 10%;
-    vertical-align: top;
-}
+
 
 .highlights_prev p {
     font-size: 1.1em;
@@ -1943,3 +1935,20 @@ ul.productGrid2 li {
     font-size: inherit;
     text-decoration: underline;
 }
+
+.home_test p span {
+    color: #f2f2f2;
+}
+
+.rd_more_blue {
+    border: none;
+    background: rgba(16,88,185,1.00);
+    color: #f2f2f2;
+    font-size: 14px;
+    padding: 10px;
+    cursor: pointer;
+    display: block;
+    max-width: 100px;
+    margin: 10px auto 30px auto;
+      margin-bottom: 30px;
+  }

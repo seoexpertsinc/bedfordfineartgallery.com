@@ -21,22 +21,19 @@
                         </div>
                         <div style="display: block; width: 100%; padding-top: 10px">
                             <div class="breadcrumb" style="margin-top: 10px">
-                                <a
+                                <nuxt-link to="/artists-bios/"
                                     style="display: block; width: 100%"
-                                    href="Artists--Bios.html"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">click now to find a painting</span>
-                                    <span class="btn_text_break">that "speaks to you"</span></a
+                                    <span class="btn_text_break">that "speaks to you"</span></nuxt-link
                                 >
                             </div>
                             <div class="breadcrumb" style="margin-top: 10px">
-                                <a
+                                <nuxt-link to="/art-lovers-niche/"
                                     style="display: block; width: 100%"
-                                    href="art_lovers_niche.htm"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">Join us at </span> Art Lovers' Niche.
-                                    <span class="btn_text_break">Don't miss out!</span></a
-                                >
+                                    <span class="btn_text_break">Don't miss out!</span></nuxt-link>
                             </div>
                             <div class="breadcrumb" style="margin-top: 10px">
                                 <a
@@ -75,8 +72,7 @@
                 <div class="home_test">
                     <TestimonialsScroll />
                 </div>
-                <a
-                    href="testimonials.html"
+                <nuxt-link to="/testimonials/"
                     class="rd_more rd_more_blue"
                     style="
                         text-decoration: none;
@@ -85,8 +81,7 @@
                         text-align: center;
                         margin-bottom: 0px;
                     "
-                    >See More Reviews</a
-                >
+                    >See More Reviews</nuxt-link>
             </section>
         </div>
 
@@ -111,6 +106,34 @@
 
                 <div style="border-bottom: 1px solid #dddd85; padding-bottom: 20px; margin-bottom: 20px">
                     <ul class="productGrid2" style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px">
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
                         <li>
                             <div class="sold">
                                 <span class="soldTag">sold</span
@@ -336,12 +359,40 @@
                                 </a>
                             </div>
                         </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="sold">
+                                <span class="soldTag">sold</span
+                                ><a href="octavius_white_niagra.html"
+                                    ><nuxt-img
+                                        src="IMG_4142_grid.jpg"
+                                        alt="Octavius White (19th Century Canadian School)
+"
+                                    />
+                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
+                                </a>
+                            </div>
+                        </li>
                     </ul>
-                     <button v-on:click="showMessage = !showMessage">toggle messaggio 1</button>
+                     <button v-on:click="showMessage = !showMessage" class="rd_more rd_more_blue" style="text-decoration:none; background: #742924; max-width:200px; text-align:center; margin-bottom:0px;">See More Notable Sales</button>
                 </div>
                 <CustomerSlidingImages />
                 <div class="breadcrumb">
-                    <a href="Artists--Bios.html">click to view over 250 unique paintings for sale now</a>
+                    <nuxt-link to="/artists-bios/">click to view over 250 unique paintings for sale now</nuxt-link>
                 </div>
             </section>
         </div>
@@ -526,7 +577,7 @@
                 </div>
 
                 <div class="breadcrumb">
-                    <a href="Artists--Bios.html" class="content_btn">show me a painting i will love</a>
+                  <nuxt-link to="/artists-bios/" class="content_btn">show me a painting i will love</nuxt-link>
                 </div>
 
                 <h2
@@ -557,7 +608,7 @@
                 </div>
                 <p style="color: #742924; font-weight: bold; text-align: center; margin-top: 20px">
                     <span>Want to read our story?</span
-                    ><a
+                    ><nuxt-link to="/gallery-value/"
                         style="
                             display: block;
                             max-width: 300px;
@@ -569,9 +620,8 @@
                             margin-top: 12px;
                             text-align: center;
                         "
-                        href="Gallery-Value.html"
-                        >ABOUT THE GALLERY</a
-                    >
+
+                        >ABOUT THE GALLERY</nuxt-link>
                 </p>
             </section>
         </div>
@@ -618,7 +668,7 @@
                 </div>
 
                 <div class="breadcrumb">
-                    <a href="Artists.html" class="content_btn">view over 250 well listed artists</a>
+                    <nuxt-link to="/artists/" class="content_btn">view over 250 well listed artists</nuxt-link>
                 </div>
             </section>
         </div>
@@ -699,7 +749,7 @@
                                 auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang
                                 on your wall from day-one, for many years of enjoyment.
                                 <span v-if="readMore"></span>
-    <span v-else>...</span>
+    <span v-else></span>
                             </li>
                         </ul>
 
@@ -752,11 +802,11 @@
 
 
 
-  <button class="btn btn-success" @click="readMore =! readMore">
+  <button class="rd_more" @click="readMore =! readMore">
     <span v-if="readMore">Read Less</span>
     <span v-else>Read More</span>
   </button>
-                        <button class="rd_more">Read More</button>
+
                     </div>
                 </div>
             </section>
@@ -766,23 +816,23 @@
             <section class="wrapper clearfix">
                 <ul class="callout_nav">
                     <li style="font-weight: bold">View Categories:</li>
-                    <li><a href="landscape_artwork.html">Landscape</a></li>
+                    <li><nuxt-link to="landscape_artwork.html">Landscape</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="marine_artwork.html">Marine</a></li>
+                    <li><nuxt-link to="marine_artwork.html">Marine</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="still_life_artwork.html">Still Life</a></li>
+                    <li><nuxt-link to="still_life_artwork.html">Still Life</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="genre_artwork.html">Genre</a></li>
+                    <li><nuxt-link to="genre_artwork.html">Genre</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="historical_and_political_artwork.html">American Historical / Political</a></li>
+                    <li><nuxt-link to="historical_and_political_artwork.html">American Historical / Political</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="sporting_art.html">Sporting Art</a></li>
+                    <li><nuxt-link to="sporting_art.html">Sporting Art</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="animal_artwork.html">Animal Theme</a></li>
+                    <li><nuxt-link to="animal_artwork.html">Animal Theme</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="sculpture.html">Sculptures</a></li>
+                    <li><nuxt-link to="sculpture.html">Sculptures</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><a href="Artists--Bios.html">All 19th Century Paintings</a></li>
+                    <li><nuxt-link to="Artists--Bios.html">All 19th Century Paintings</nuxt-link></li>
                 </ul>
             </section>
         </div>
@@ -828,7 +878,7 @@
                 <div class="clear">
                     <ArtworkSlidingImagesSmall />
                 </div>
-                <div class="breadcrumb"><a href="Artists--Bios.html">click to view over 250 unique paintings</a></div>
+                <div class="breadcrumb"><nuxt-link to="Artists--Bios.html">click to view over 250 unique paintings</nuxt-link></div>
             </section>
         </div>
 
@@ -892,7 +942,7 @@
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>First time buying fine art?</span
-                            ><a
+                            ><nuxt-link to="/how-to-buy-fine-art/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -903,15 +953,13 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                href="how_to_buy_fine_art.html"
-                                >READ HOW-TOs</a
-                            >
+                                >READ HOW-TOs</nuxt-link>
                         </p>
                     </div>
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to see a painting on <u>your</u> wall?</span
-                            ><a
+                            ><nuxt-link to="/how-to-view-a-painting-on-your-wall/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -922,15 +970,13 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                href="how_to_view_a_painting_on_your_wall.htm"
-                                >LEARN HOW</a
-                            >
+                                >LEARN HOW</nuxt-link>
                         </p>
                     </div>
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to learn about our gallery?</span
-                            ><a
+                            ><nuxt-link to="/faq/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -941,9 +987,7 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                href="faq.html"
-                                >GALLERY FAQs</a
-                            >
+                                >GALLERY FAQs</nuxt-link>
                         </p>
                     </div>
                 </div>
