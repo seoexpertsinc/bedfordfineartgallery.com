@@ -4,7 +4,7 @@
             <section class="wrapper clearfix">
                 <div class="pagination_sub">
                     <ul>
-                         <li><nuxt-link to="/aristist-bios/" class="active">All</nuxt-link></li>
+                        <li><nuxt-link to="/aristist-bios/">All</nuxt-link></li>
                         <li><nuxt-link to="/landscape-artwork/">Landscape</nuxt-link></li>
                         <li><nuxt-link to="/marine-artwork.html/">Marine</nuxt-link></li>
                         <li><nuxt-link to="/still-life_artwork/">Still Life</nuxt-link></li>
@@ -13,20 +13,24 @@
                         <li><nuxt-link to="/sporting-art/">Sporting Art</nuxt-link></li>
                         <li><nuxt-link to="/animal-artwork/">Animal</nuxt-link></li>
                         <li><nuxt-link to="/sculpture/">Sculpture</nuxt-link></li>
-                        <li><nuxt-link to="/notable-sales/">Recently Sold</nuxt-link></li>
+                        <li><nuxt-link to="/notable-sales/" class="active">Recently Sold</nuxt-link></li>
                     </ul>
                 </div>
    <input type="text" class="form-control " placeholder="Search" v-model="search_filter">
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <GalleryNew />
-                    <GalleryReg />
+
                 </ul>
             </section>
         </div>
     </div>
 </template>
 
+<script>
+export default {
 
+}
+</script>
 
 
 <style scoped>

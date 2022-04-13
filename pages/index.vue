@@ -850,15 +850,14 @@
                         offers a wide variety of works from some of the greatest and most well-known 19th century
                         artists, early 20th century artists, and contemporary realism artists. You can see all of our
                         available 19th century artwork on our
-                        <a class="internalLinkReverse" href="Artists--Bios.html">Gallery page</a>. Our current inventory
+                        <nuxt-link to="/artists-bios/" class="internalLinkReverse">Gallery page</nuxt-link>. Our current inventory
                         boasts a wide diversity of subject matter from
-                        <a class="internalLinkReverse" href="landscape_artwork.html">landscape</a>,<a
+                        <nuxt-link to="/landscape-artwork/" class="internalLinkReverse">landscape</nuxt-link>,<nuxt-link
                             class="internalLinkReverse"
-                            href="marine_artwork.html"
+                            to="/marine-artwork/"
                         >
-                            marine</a
-                        >, <a class="internalLinkReverse" href="still_life_artwork.html">still life</a>,
-                        <a class="internalLinkReverse" href="genre_artwork.html">genre</a>,
+                            marine</nuxt-link>, <nuxt-link class="internalLinkReverse" to="/still-life-artwork/">still life</nuxt-link>,
+                        <nuxt-link class="internalLinkReverse" to="/genre-artwork/">genre</nuxt-link>,
 
                         <a class="internalLinkReverse" href="historical_and_political_artwork.html"
                             >American historical/political</a
@@ -868,7 +867,7 @@
                         <a class="internalLinkReverse" href="john_henry_dolph_duo.html">John Henry Dolph</a>,
                         <a class="internalLinkReverse" href="george_hetzel.html">George Hetzel</a>,
                         <a href="william_bromley_III.html" class="internalLinkReverse">William Bromley III</a>, and
-                        <a class="internalLinkReverse" href="barton_stone_hays_apple.html">Barton Stone Hays</a>, to
+                        <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html">Barton Stone Hays</nuxt-link>, to
                         name a few. To see more of our 19th century artists, please visit our
                         <a class="internalLinkReverse" href="Artists.html">Artists page</a>. Good art is timeless and
                         only you know what &quot;wows&quot; you. You know it when you see it and we hope you make that
@@ -1123,5 +1122,8 @@ ul.productGrid2 li {
     padding: 4px;
     font-size: 10px;
     text-transform: uppercase;
+}
+.home_test span {
+    color: #f2f2f2;
 }
 </style>
