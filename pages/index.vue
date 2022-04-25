@@ -997,11 +997,7 @@
 
 
 
-        <SplitCarousel v-bind="option">
-            <SplitCarouselItem v-for="item in itemAmount" :key="item">
-                <div class="box">{{ item }}</div>
-            </SplitCarouselItem>
-        </SplitCarousel>
+
     </div>
 </template>
 
@@ -1009,7 +1005,7 @@
 const defaultConfig = {
     displayAmount: 4,
     autoplay: true,
-    speed: 500,
+    speed: 1500,
     interval: 3000,
     loop: true,
     height: 80,
@@ -1124,6 +1120,6 @@ ul.productGrid2 li {
     text-transform: uppercase;
 }
 .home_test span {
-    color: #f2f2f2;
+    color: #f2f2f2 !important;
 }
 </style>

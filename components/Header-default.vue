@@ -21,7 +21,7 @@
                     <li><nuxt-link to="/highlights/">articles</nuxt-link></li>
                     <li><nuxt-link to="/faq/">faqs</nuxt-link></li>
 
-                    <li><nuxt-link to="/">visit</nuxt-link></li>
+                    <li><nuxt-link to="/directions/">visit</nuxt-link></li>
                     <li><a href="#menu-closed">&#215; Close</a></li>
                     <li><a href="#menu">&#9776; More</a></li>
                 </ul>

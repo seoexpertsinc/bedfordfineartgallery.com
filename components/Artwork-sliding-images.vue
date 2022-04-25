@@ -47,7 +47,7 @@ export default {
                 slidesToShow: 2,
                 slidesToScroll: 1,
                 autoplay: true,
-                speed: 2000,
+                speed: 9000,
                 autoplaySpeed: 2000,
                 cssEase: 'linear',
             },

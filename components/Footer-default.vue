@@ -9,7 +9,7 @@
                     <li><nuxt-link to="/highlights/">articles</nuxt-link></li>
                     <li><nuxt-link to="/faq/">faqs</nuxt-link></li>
 
-                    <li><nuxt-link to="/">visit</nuxt-link></li>
+                    <li><nuxt-link to="/directions/">visit</nuxt-link></li>
             </ul>
 
             <div class="flex_wrap footer">
@@ -27,8 +27,8 @@
                         dealer, Bedford PA and can not be reproduced or copied without consent.
                     </p>
                     <p>
-                        <a style="color: #ccb38d" href="remove.htm">Unsubscribe from our mailing list</a>
-                        <a style="color: #ccb38d; margin-left: 10px" href="privacy.htm">Privacy</a>
+                        <nuxt-link to="/remove/" style="color: #ccb38d">Unsubscribe from our mailing list</nuxt-link>
+                        <nuxt-link to="/privacy" style="color: #ccb38d; margin-left: 10px">Privacy</nuxt-link>
                     </p>
                 </div>
             </div>

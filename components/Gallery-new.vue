@@ -2,7 +2,7 @@
 
     <div style="display: inline">
         <li>
-            <a href="charles_henry_eaton_apple.html"
+            <a href="/painting-detail-template/"
                 ><nuxt-img
                     src="eaton_apple_orchard_grid.jpg"
                     alt="Charles Henry Eaton (American 1850 – 1901)

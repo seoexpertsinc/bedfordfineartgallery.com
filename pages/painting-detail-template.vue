@@ -1,5 +1,6 @@
 <template>
     <div>
+        <Modal />
         <div class="container primary">
             <section class="wrapper clearfix">
                 <div class="artwork_header">
@@ -27,7 +28,7 @@
                       <ZoomTestMobile />
                     </div>
                         <p class="zoom">Click image to zoom</p>
-                    
+
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
                             <a
@@ -167,3 +168,10 @@
 
     </div>
 </template>
+
+<style scoped>
+.artwork img {
+  width: 90% !important;
+  height: auto;
+}
+</style>
