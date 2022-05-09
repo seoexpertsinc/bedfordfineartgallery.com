@@ -716,3 +716,8 @@ data() {
 };
 </script>
 
+<router>
+  {
+    path: '/faq.html'
+  }
+</router>

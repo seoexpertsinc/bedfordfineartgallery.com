@@ -230,3 +230,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 </style>
+
+<router>
+  {
+    path: '/Gallery-Value.html',
+  }
+</router>

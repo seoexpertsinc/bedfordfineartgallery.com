@@ -3,13 +3,12 @@
         <section class="wrapper clearfix">
             <ul class="footerNav">
                  <li><nuxt-link to="/">home</nuxt-link></li>
-                    <li><nuxt-link to="/artists-bios/">gallery</nuxt-link></li>
-                    <li><nuxt-link to="/artists/">artists</nuxt-link></li>
-                    <li><nuxt-link to="/gallery-value/">about</nuxt-link></li>
-                    <li><nuxt-link to="/highlights/">articles</nuxt-link></li>
-                    <li><nuxt-link to="/faq/">faqs</nuxt-link></li>
-
-                    <li><nuxt-link to="/directions/">visit</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'artists-bios' }">gallery</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'artists' }">artists</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'gallery-value' }">about</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'highlights' }">articles</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'faq' }">faqs</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'directions' }">visit</nuxt-link></li>
             </ul>
 
             <div class="flex_wrap footer">

@@ -44,3 +44,9 @@
         </div>
     </div>
 </template>
+
+<router>
+  {
+    path: '/highlights.html'
+  }
+</router>

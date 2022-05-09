@@ -321,3 +321,9 @@
   height: auto;
 }
 </style>
+
+<router>
+  {
+    path: '/Directions.html'
+  }
+</router>

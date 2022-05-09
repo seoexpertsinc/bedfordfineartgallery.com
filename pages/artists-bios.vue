@@ -37,4 +37,8 @@
 }
 </style>
 
-
+<router>
+  {
+    path: '/Artists--Bios.html'
+  }
+</router>
