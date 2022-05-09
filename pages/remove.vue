@@ -112,3 +112,10 @@
         </div>
     </div>
 </template>
+
+<router>
+  {
+    path: '/remove.htm',
+    caseSensitive: true,
+  }
+</router>

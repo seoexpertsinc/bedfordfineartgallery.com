@@ -634,7 +634,7 @@
                 <p style="color: #742924; font-weight: bold; text-align: center; margin-top: 20px">
                     <span>Want to read our story?</span
                     ><nuxt-link
-                        to="/gallery-value/"
+                        :to="{ name: 'gallery-value' }"
                         style="
                             display: block;
                             max-width: 300px;
@@ -694,7 +694,9 @@
                 </div>
 
                 <div class="breadcrumb">
-                    <nuxt-link to="/artists/" class="content_btn">view over 250 well listed artists</nuxt-link>
+                    <nuxt-link :to="{ name: 'artists' }" class="content_btn"
+                        >view over 250 well listed artists</nuxt-link
+                    >
                 </div>
             </section>
         </div>
@@ -1010,7 +1012,7 @@
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to learn about our gallery?</span
                             ><nuxt-link
-                                to="/faq/"
+                                :to="{ name: 'faq' }"
                                 style="
                                     display: block;
                                     max-width: 300px;

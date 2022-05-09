@@ -90,3 +90,10 @@
         </div>
     </div>
 </template>
+
+<router>
+  {
+    path: '/privacy.htm',
+    caseSensitive: true,
+  }
+</router>

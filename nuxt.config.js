@@ -50,4 +50,7 @@ export default {
     build: {
         transpile: ['vue-picture-swipe'],
     },
+    router: {
+        trailingSlash: false,
+    },
 }

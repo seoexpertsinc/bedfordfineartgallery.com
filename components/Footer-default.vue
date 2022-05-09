@@ -26,8 +26,12 @@
                         dealer, Bedford PA and can not be reproduced or copied without consent.
                     </p>
                     <p>
-                        <nuxt-link to="/remove/" style="color: #ccb38d">Unsubscribe from our mailing list</nuxt-link>
-                        <nuxt-link to="/privacy" style="color: #ccb38d; margin-left: 10px">Privacy</nuxt-link>
+                        <nuxt-link :to="{ name: 'remove' }" style="color: #ccb38d"
+                            >Unsubscribe from our mailing list</nuxt-link
+                        >
+                        <nuxt-link :to="{ name: 'privacy' }" style="color: #ccb38d; margin-left: 10px"
+                            >Privacy</nuxt-link
+                        >
                     </p>
                 </div>
             </div>
