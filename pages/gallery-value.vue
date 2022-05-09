@@ -103,8 +103,6 @@
                     </p>
                     <div class="home_test" style="width: 80%; margin: 20px auto 0px auto">
                         <AboutSlidingImages />
-
-
                     </div>
                 </div>
                 <div class="col_60 artwork_details">
@@ -218,16 +216,15 @@
 </template>
 
 <style>
-
-
-.slick-prev::before, .slick-next::before {
-  font-family: 'slick';
-  font-size: 20px;
-  line-height: 1;
-  opacity: .75;
-  color: black;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.slick-prev::before,
+.slick-next::before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: 0.75;
+    color: black;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 </style>
 

@@ -3,7 +3,8 @@
         <section class="wrapper clearfix">
             <header>
                 <div class="logo">
-                    <nuxt-link to="/"><nuxt-img src="/logo.png" width="123" height="124" alt="American Sporting Art"
+                    <nuxt-link to="/"
+                        ><nuxt-img src="/logo.png" width="123" height="124" alt="American Sporting Art"
                     /></nuxt-link>
                 </div>
 

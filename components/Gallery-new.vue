@@ -1,5 +1,4 @@
 <template>
-
     <div style="display: inline">
         <li>
             <a href="/painting-detail-template/"
@@ -70,4 +69,3 @@
     font-weight: normal;
 }
 </style>
-

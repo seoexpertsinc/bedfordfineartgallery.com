@@ -1485,7 +1485,6 @@ ul.productGrid {
 
 nav#menu ul li:nth-child(4),
 ul.footerNav li:nth-child(4) {
-  
 }
 
 .artist_wrap {
@@ -1889,8 +1888,6 @@ ul.checkmark li:after {
     margin: 10px auto 30px auto;
 }
 
-
-
 .highlights_prev p {
     font-size: 1.1em;
     line-height: 1.8em;
@@ -1920,12 +1917,16 @@ ul.checkmark li:after {
 }
 
 @media screen and (min-width: 860px) {
-.zoom_desktop {display: block;}
-.zoom_mobile {display: none;}
+    .zoom_desktop {
+        display: block;
+    }
+    .zoom_mobile {
+        display: none;
+    }
 }
 
 .p_list {
-    background:none;
+    background: none;
 }
 .btn-success {
     border: none;
@@ -1942,7 +1943,7 @@ ul.checkmark li:after {
 
 .rd_more_blue {
     border: none;
-    background: rgba(16,88,185,1.00);
+    background: rgba(16, 88, 185, 1);
     color: #f2f2f2;
     font-size: 14px;
     padding: 10px;
@@ -1950,5 +1951,5 @@ ul.checkmark li:after {
     display: block;
     max-width: 100px;
     margin: 10px auto 30px auto;
-      margin-bottom: 30px;
-  }
+    margin-bottom: 30px;
+}

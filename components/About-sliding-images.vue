@@ -11,7 +11,7 @@
             <div><nuxt-img src="/mural_8.jpg" /></div>
             <div><nuxt-img src="/mural_9.jpg" /></div>
             <div><nuxt-img src="/mural_10.jpg" /></div>
-              <div><nuxt-img src="/mural_11.jpg" /></div>
+            <div><nuxt-img src="/mural_11.jpg" /></div>
         </VueSlickCarousel>
     </div>
 </template>

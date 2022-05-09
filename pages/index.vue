@@ -21,7 +21,8 @@
                         </div>
                         <div style="display: block; width: 100%; padding-top: 10px">
                             <div class="breadcrumb" style="margin-top: 10px">
-                                <nuxt-link to="/artists-bios/"
+                                <nuxt-link
+                                    to="/artists-bios/"
                                     style="display: block; width: 100%"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">click now to find a painting</span>
@@ -29,11 +30,13 @@
                                 >
                             </div>
                             <div class="breadcrumb" style="margin-top: 10px">
-                                <nuxt-link to="/art-lovers-niche/"
+                                <nuxt-link
+                                    to="/art-lovers-niche/"
                                     style="display: block; width: 100%"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">Join us at </span> Art Lovers' Niche.
-                                    <span class="btn_text_break">Don't miss out!</span></nuxt-link>
+                                    <span class="btn_text_break">Don't miss out!</span></nuxt-link
+                                >
                             </div>
                             <div class="breadcrumb" style="margin-top: 10px">
                                 <a
@@ -72,7 +75,8 @@
                 <div class="home_test">
                     <TestimonialsScroll />
                 </div>
-                <nuxt-link to="/testimonials/"
+                <nuxt-link
+                    to="/testimonials/"
                     class="rd_more rd_more_blue"
                     style="
                         text-decoration: none;
@@ -81,7 +85,8 @@
                         text-align: center;
                         margin-bottom: 0px;
                     "
-                    >See More Reviews</nuxt-link>
+                    >See More Reviews</nuxt-link
+                >
             </section>
         </div>
 
@@ -247,7 +252,11 @@
                         </li>
                     </ul>
 
-                     <ul v-if="showMessage" class="productGrid2" style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px">
+                    <ul
+                        v-if="showMessage"
+                        class="productGrid2"
+                        style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px"
+                    >
                         <li>
                             <div class="sold">
                                 <span class="soldTag">sold</span
@@ -388,7 +397,19 @@
                             </div>
                         </li>
                     </ul>
-                     <button v-on:click="showMessage = !showMessage" class="rd_more rd_more_blue" style="text-decoration:none; background: #742924; max-width:200px; text-align:center; margin-bottom:0px;">See More Notable Sales</button>
+                    <button
+                        class="rd_more rd_more_blue"
+                        style="
+                            text-decoration: none;
+                            background: #742924;
+                            max-width: 200px;
+                            text-align: center;
+                            margin-bottom: 0px;
+                        "
+                        @click="showMessage = !showMessage"
+                    >
+                        See More Notable Sales
+                    </button>
                 </div>
                 <CustomerSlidingImages />
                 <div class="breadcrumb">
@@ -577,7 +598,7 @@
                 </div>
 
                 <div class="breadcrumb">
-                  <nuxt-link to="/artists-bios/" class="content_btn">show me a painting i will love</nuxt-link>
+                    <nuxt-link to="/artists-bios/" class="content_btn">show me a painting i will love</nuxt-link>
                 </div>
 
                 <h2
@@ -608,7 +629,8 @@
                 </div>
                 <p style="color: #742924; font-weight: bold; text-align: center; margin-top: 20px">
                     <span>Want to read our story?</span
-                    ><nuxt-link to="/gallery-value/"
+                    ><nuxt-link
+                        to="/gallery-value/"
                         style="
                             display: block;
                             max-width: 300px;
@@ -620,8 +642,8 @@
                             margin-top: 12px;
                             text-align: center;
                         "
-
-                        >ABOUT THE GALLERY</nuxt-link>
+                        >ABOUT THE GALLERY</nuxt-link
+                    >
                 </p>
             </section>
         </div>
@@ -749,12 +771,11 @@
                                 auction houses, the painting you purchase from Bedford Fine Art Gallery is ready to hang
                                 on your wall from day-one, for many years of enjoyment.
                                 <span v-if="readMore"></span>
-    <span v-else></span>
+                                <span v-else></span>
                             </li>
                         </ul>
 
-
-<ul v-show="readMore" class="p_list">
+                        <ul v-show="readMore" class="p_list">
                             <li>
                                 <span style="font-weight: bold">PAINTING IMAGE:</span> Our in-house photo studio ensures
                                 you get representative images.
@@ -800,13 +821,10 @@
                             </li>
                         </ul>
 
-
-
-  <button class="rd_more" @click="readMore =! readMore">
-    <span v-if="readMore">Read Less</span>
-    <span v-else>Read More</span>
-  </button>
-
+                        <button class="rd_more" @click="readMore = !readMore">
+                            <span v-if="readMore">Read Less</span>
+                            <span v-else>Read More</span>
+                        </button>
                     </div>
                 </div>
             </section>
@@ -824,7 +842,11 @@
                     <li class="divider">/</li>
                     <li><nuxt-link to="genre_artwork.html">Genre</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="historical_and_political_artwork.html">American Historical / Political</nuxt-link></li>
+                    <li>
+                        <nuxt-link to="historical_and_political_artwork.html"
+                            >American Historical / Political</nuxt-link
+                        >
+                    </li>
                     <li class="divider">/</li>
                     <li><nuxt-link to="sporting_art.html">Sporting Art</nuxt-link></li>
                     <li class="divider">/</li>
@@ -850,13 +872,14 @@
                         offers a wide variety of works from some of the greatest and most well-known 19th century
                         artists, early 20th century artists, and contemporary realism artists. You can see all of our
                         available 19th century artwork on our
-                        <nuxt-link to="/artists-bios/" class="internalLinkReverse">Gallery page</nuxt-link>. Our current inventory
-                        boasts a wide diversity of subject matter from
+                        <nuxt-link to="/artists-bios/" class="internalLinkReverse">Gallery page</nuxt-link>. Our current
+                        inventory boasts a wide diversity of subject matter from
                         <nuxt-link to="/landscape-artwork/" class="internalLinkReverse">landscape</nuxt-link>,<nuxt-link
                             class="internalLinkReverse"
                             to="/marine-artwork/"
                         >
-                            marine</nuxt-link>, <nuxt-link class="internalLinkReverse" to="/still-life-artwork/">still life</nuxt-link>,
+                            marine</nuxt-link
+                        >, <nuxt-link class="internalLinkReverse" to="/still-life-artwork/">still life</nuxt-link>,
                         <nuxt-link class="internalLinkReverse" to="/genre-artwork/">genre</nuxt-link>,
 
                         <a class="internalLinkReverse" href="historical_and_political_artwork.html"
@@ -867,8 +890,9 @@
                         <a class="internalLinkReverse" href="john_henry_dolph_duo.html">John Henry Dolph</a>,
                         <a class="internalLinkReverse" href="george_hetzel.html">George Hetzel</a>,
                         <a href="william_bromley_III.html" class="internalLinkReverse">William Bromley III</a>, and
-                        <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html">Barton Stone Hays</nuxt-link>, to
-                        name a few. To see more of our 19th century artists, please visit our
+                        <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html"
+                            >Barton Stone Hays</nuxt-link
+                        >, to name a few. To see more of our 19th century artists, please visit our
                         <a class="internalLinkReverse" href="Artists.html">Artists page</a>. Good art is timeless and
                         only you know what &quot;wows&quot; you. You know it when you see it and we hope you make that
                         connection with a stunning painting from Bedford Fine Art Gallery. Thank you.
@@ -877,7 +901,9 @@
                 <div class="clear">
                     <ArtworkSlidingImagesSmall />
                 </div>
-                <div class="breadcrumb"><nuxt-link to="Artists--Bios.html">click to view over 250 unique paintings</nuxt-link></div>
+                <div class="breadcrumb">
+                    <nuxt-link to="Artists--Bios.html">click to view over 250 unique paintings</nuxt-link>
+                </div>
             </section>
         </div>
 
@@ -941,7 +967,8 @@
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>First time buying fine art?</span
-                            ><nuxt-link to="/how-to-buy-fine-art/"
+                            ><nuxt-link
+                                to="/how-to-buy-fine-art/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -952,13 +979,15 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                >READ HOW-TOs</nuxt-link>
+                                >READ HOW-TOs</nuxt-link
+                            >
                         </p>
                     </div>
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to see a painting on <u>your</u> wall?</span
-                            ><nuxt-link to="/how-to-view-a-painting-on-your-wall/"
+                            ><nuxt-link
+                                to="/how-to-view-a-painting-on-your-wall/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -969,13 +998,15 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                >LEARN HOW</nuxt-link>
+                                >LEARN HOW</nuxt-link
+                            >
                         </p>
                     </div>
                     <div class="flex_3">
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to learn about our gallery?</span
-                            ><nuxt-link to="/faq/"
+                            ><nuxt-link
+                                to="/faq/"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -986,18 +1017,13 @@
                                     margin: auto;
                                     margin-top: 12px;
                                 "
-                                >GALLERY FAQs</nuxt-link>
+                                >GALLERY FAQs</nuxt-link
+                            >
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-
-
-
-
-
-
     </div>
 </template>
 
@@ -1025,12 +1051,9 @@ const kebabize = (str) => {
 export default {
     name: 'App',
     data() {
-
-
-
         return {
             showMessage: false,
-             readMore: false,
+            readMore: false,
             itemAmount: 6,
             option: { ...defaultConfig },
             timingFuntionOptions: [
@@ -1064,7 +1087,6 @@ export default {
                 },
             ],
         }
-
     },
     computed: {
         diffConfig() {
@@ -1108,13 +1130,13 @@ ul.productGrid2 li {
 }
 
 .artist_gallery_title {
-  display: none;
+    display: none;
 }
 
 .soldTag {
     position: absolute;
     background-color: #f2f2f2;
-    color: #AB1719;
+    color: #ab1719;
     padding: 4px;
     font-size: 10px;
     text-transform: uppercase;
