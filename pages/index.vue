@@ -22,7 +22,7 @@
                         <div style="display: block; width: 100%; padding-top: 10px">
                             <div class="breadcrumb" style="margin-top: 10px">
                                 <nuxt-link
-                                    to="/artists-bios/"
+                                    :to="{ name: 'artists-bios' }"
                                     style="display: block; width: 100%"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">click now to find a painting</span>
@@ -413,7 +413,9 @@
                 </div>
                 <CustomerSlidingImages />
                 <div class="breadcrumb">
-                    <nuxt-link to="/artists-bios/">click to view over 250 unique paintings for sale now</nuxt-link>
+                    <nuxt-link :to="{ name: 'artists-bios' }"
+                        >click to view over 250 unique paintings for sale now</nuxt-link
+                    >
                 </div>
             </section>
         </div>
@@ -598,7 +600,9 @@
                 </div>
 
                 <div class="breadcrumb">
-                    <nuxt-link to="/artists-bios/" class="content_btn">show me a painting i will love</nuxt-link>
+                    <nuxt-link :to="{ name: 'artists-bios' }" class="content_btn"
+                        >show me a painting i will love</nuxt-link
+                    >
                 </div>
 
                 <h2
@@ -872,8 +876,8 @@
                         offers a wide variety of works from some of the greatest and most well-known 19th century
                         artists, early 20th century artists, and contemporary realism artists. You can see all of our
                         available 19th century artwork on our
-                        <nuxt-link to="/artists-bios/" class="internalLinkReverse">Gallery page</nuxt-link>. Our current
-                        inventory boasts a wide diversity of subject matter from
+                        <nuxt-link :to="{ name: 'artists-bios' }" class="internalLinkReverse">Gallery page</nuxt-link>.
+                        Our current inventory boasts a wide diversity of subject matter from
                         <nuxt-link to="/landscape-artwork/" class="internalLinkReverse">landscape</nuxt-link>,<nuxt-link
                             class="internalLinkReverse"
                             to="/marine-artwork/"
