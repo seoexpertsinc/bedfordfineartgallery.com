@@ -17,6 +17,10 @@
                     </ul>
                 </div>
    <input type="text" class="form-control " placeholder="Filter by Artist Name" v-model="search_filter">
+   <label>
+    Filter:
+    <input type="text" v-model="search"/>
+  </label>
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <GalleryNew />
                     <GalleryReg />
