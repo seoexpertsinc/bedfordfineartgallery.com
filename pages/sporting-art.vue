@@ -9,17 +9,19 @@
                         <li><nuxt-link to="/marine-artwork.html/">Marine</nuxt-link></li>
                         <li><nuxt-link to="/still-life_artwork/">Still Life</nuxt-link></li>
                         <li><nuxt-link to="/genre-artwork/">Genre</nuxt-link></li>
-                        <li><nuxt-link to="/historical-and_political-artwork/">American Historic / Political</nuxt-link>/li>
+                        <li>
+                            <nuxt-link to="/historical-and_political-artwork/">American Historic / Political</nuxt-link
+                            >/li>
+                        </li>
                         <li><nuxt-link to="/sporting-art/" class="active">Sporting Art</nuxt-link></li>
                         <li><nuxt-link to="/animal-artwork/">Animal</nuxt-link></li>
                         <li><nuxt-link to="/sculpture/">Sculpture</nuxt-link></li>
                         <li><nuxt-link to="/notable-sales/">Recently Sold</nuxt-link></li>
                     </ul>
                 </div>
-   <input type="text" class="form-control " placeholder="Search" v-model="search_filter">
+                <input v-model="search_filter" type="text" class="form-control" placeholder="Search" />
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <GalleryNew />
-
                 </ul>
             </section>
         </div>
@@ -27,11 +29,8 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {}
 </script>
-
 
 <style scoped>
 .secondary {
@@ -40,5 +39,3 @@ export default {
     background: #222;
 }
 </style>
-
-

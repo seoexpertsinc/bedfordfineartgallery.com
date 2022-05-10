@@ -33,3 +33,9 @@
         </div>
     </div>
 </template>
+
+<router>
+  {
+    path: '/Artists.html'
+  }
+</router>

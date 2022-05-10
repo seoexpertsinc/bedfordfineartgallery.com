@@ -317,7 +317,13 @@
 </template>
 <style scoped>
 .artwork img {
-  width: 90%;
-  height: auto;
+    width: 90%;
+    height: auto;
 }
 </style>
+
+<router>
+  {
+    path: '/Directions.html'
+  }
+</router>

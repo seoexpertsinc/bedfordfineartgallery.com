@@ -1,5 +1,5 @@
 <template>
-    <vue-picture-swipe :items="items" :options="{shareEl: false}"></vue-picture-swipe>
+    <vue-picture-swipe :items="items" :options="{ shareEl: false }"></vue-picture-swipe>
 </template>
 
 <script>
@@ -10,7 +10,7 @@ export default {
     data() {
         return {
             items: [
-            {
+                {
                     src: '/fredericks_winter_small.jpg',
                     thumbnail: '/fredericks_winter_small.jpg',
                     w: 1015,

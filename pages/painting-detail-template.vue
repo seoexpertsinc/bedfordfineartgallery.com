@@ -22,12 +22,12 @@
                         >
                     </p>
                     <div class="zoom_desktop">
-                      <ZoomTest />
+                        <ZoomTest />
                     </div>
                     <div class="zoom_mobile">
-                      <ZoomTestMobile />
+                        <ZoomTestMobile />
                     </div>
-                        <p class="zoom">Click image to zoom</p>
+                    <p class="zoom">Click image to zoom</p>
 
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
@@ -165,13 +165,12 @@
                 <div class="breadcrumb"><a href="Artists--Bios.html">Back to Gallery</a></div>
             </section>
         </div>
-
     </div>
 </template>
 
 <style scoped>
 .artwork img {
-  width: 90% !important;
-  height: auto;
+    width: 90% !important;
+    height: auto;
 }
 </style>
