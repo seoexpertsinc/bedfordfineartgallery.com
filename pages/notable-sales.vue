@@ -3,20 +3,20 @@
         <div class="container secondary">
             <section class="wrapper clearfix">
                 <div class="pagination_sub">
-                    <ul>
-                        <li><nuxt-link to="/aristist-bios/">All</nuxt-link></li>
-                        <li><nuxt-link to="/landscape-artwork/">Landscape</nuxt-link></li>
-                        <li><nuxt-link to="/marine-artwork.html/">Marine</nuxt-link></li>
-                        <li><nuxt-link to="/still-life_artwork/">Still Life</nuxt-link></li>
-                        <li><nuxt-link to="/genre-artwork/">Genre</nuxt-link></li>
+                  <ul>
+                        <li><nuxt-link :to="{ name: 'aristist-bios' }">All</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'landscape-artwork' }">Landscape</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'marine-artwork.html' }">Marine</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'still-life_artwork' }">Still Life</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'genre-artwork' }">Genre</nuxt-link></li>
                         <li>
-                            <nuxt-link to="/historical-and_political-artwork/">American Historic / Political</nuxt-link
+                            <nuxt-link :to="{ name: 'historical-and_political-artwork' }">American Historic / Political</nuxt-link
                             >/li>
                         </li>
-                        <li><nuxt-link to="/sporting-art/">Sporting Art</nuxt-link></li>
-                        <li><nuxt-link to="/animal-artwork/">Animal</nuxt-link></li>
-                        <li><nuxt-link to="/sculpture/">Sculpture</nuxt-link></li>
-                        <li><nuxt-link to="/notable-sales/" class="active">Recently Sold</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'sporting-art' }">Sporting Art</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'animal-artwork' }">Animal</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'sculpture' }">Sculpture</nuxt-link></li>
+                        <li><nuxt-link :to="{ name: 'notable-sales' }" class="active">Recently Sold</nuxt-link></li>
                     </ul>
                 </div>
                 <input v-model="search_filter" type="text" class="form-control" placeholder="Search" />
