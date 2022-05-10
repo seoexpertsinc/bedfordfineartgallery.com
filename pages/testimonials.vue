@@ -1115,3 +1115,9 @@ strong {
     font-weight: bold;
 }
 </style>
+
+<router>
+  {
+    path: '/testimonials.htm',
+  }
+</router>

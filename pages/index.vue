@@ -31,7 +31,7 @@
                             </div>
                             <div class="breadcrumb" style="margin-top: 10px">
                                 <nuxt-link
-                                    to="/art-lovers-niche/"
+                                    :to="{ name: 'art-lovers-niche'}"
                                     style="display: block; width: 100%"
                                     class="content_btn home_btn_small"
                                     ><span class="btn_text_break">Join us at </span> Art Lovers' Niche.
@@ -76,7 +76,7 @@
                     <TestimonialsScroll />
                 </div>
                 <nuxt-link
-                    to="/testimonials/"
+                    :to="{ name: 'testimonials' }"
                     class="rd_more rd_more_blue"
                     style="
                         text-decoration: none;
@@ -840,27 +840,27 @@
             <section class="wrapper clearfix">
                 <ul class="callout_nav">
                     <li style="font-weight: bold">View Categories:</li>
-                    <li><nuxt-link to="landscape_artwork.html">Landscape</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'landscape-artwork' }">Landscape</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="marine_artwork.html">Marine</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'marine-artwork' }">Marine</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="still_life_artwork.html">Still Life</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'still-life-artwork' }">Still Life</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="genre_artwork.html">Genre</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'genre-artwork.html' }">Genre</nuxt-link></li>
                     <li class="divider">/</li>
                     <li>
-                        <nuxt-link to="historical_and_political_artwork.html"
+                        <nuxt-link :to="{ name: 'historical-and-political-artwork.html' }"
                             >American Historical / Political</nuxt-link
                         >
                     </li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="sporting_art.html">Sporting Art</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'sporting-art' }">Sporting Art</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="animal_artwork.html">Animal Theme</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'animal-artwork' }">Animal Theme</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="sculpture.html">Sculptures</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'sculpture' }">Sculptures</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link to="Artists--Bios.html">All 19th Century Paintings</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'artists-bios' }">All 19th Century Paintings</nuxt-link></li>
                 </ul>
             </section>
         </div>
@@ -880,18 +880,18 @@
                         available 19th century artwork on our
                         <nuxt-link :to="{ name: 'artists-bios' }" class="internalLinkReverse">Gallery page</nuxt-link>.
                         Our current inventory boasts a wide diversity of subject matter from
-                        <nuxt-link to="/landscape-artwork/" class="internalLinkReverse">landscape</nuxt-link>,<nuxt-link
+                        <nuxt-link :to="{ name: 'landscape-artwork' }"> class="internalLinkReverse">landscape</nuxt-link>,<nuxt-link
                             class="internalLinkReverse"
                             to="/marine-artwork/"
                         >
                             marine</nuxt-link
-                        >, <nuxt-link class="internalLinkReverse" to="/still-life-artwork/">still life</nuxt-link>,
-                        <nuxt-link class="internalLinkReverse" to="/genre-artwork/">genre</nuxt-link>,
+                        >, <nuxt-link class="internalLinkReverse" :to="{name: 'still-life-artwork' }">still life</nuxt-link>,
+                        <nuxt-link class="internalLinkReverse" :to="{ name: 'genre-artwork' }">genre</nuxt-link>,
 
-                        <a class="internalLinkReverse" href="historical_and_political_artwork.html"
-                            >American historical/political</a
-                        >, <a class="internalLinkReverse" href="sporting_art.html">sporting art</a>, and
-                        <a class="internalLinkReverse" href="animal_artwork.html">animal</a> themes. Our gallery
+                         <nuxt-link :to="{ name: 'historical-and-political-artwork.html' }"
+                             class="internalLinkReverse">American historical/political</nuxt-link>
+                        >, <nuxt-link :to="{ name: 'sporting-art' }" class="internalLinkReverse">sporting art</nuxt-link>, and
+                    <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link> themes. Our gallery
                         features both American and European 19th century painters such as
                         <a class="internalLinkReverse" href="john_henry_dolph_duo.html">John Henry Dolph</a>,
                         <a class="internalLinkReverse" href="george_hetzel.html">George Hetzel</a>,
@@ -899,7 +899,7 @@
                         <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html"
                             >Barton Stone Hays</nuxt-link
                         >, to name a few. To see more of our 19th century artists, please visit our
-                        <a class="internalLinkReverse" href="Artists.html">Artists page</a>. Good art is timeless and
+                        <nuxt-link :to="{ name: 'artists' }" class="internalLinkReverse">Artists page</nuxt-link>. Good art is timeless and
                         only you know what &quot;wows&quot; you. You know it when you see it and we hope you make that
                         connection with a stunning painting from Bedford Fine Art Gallery. Thank you.
                     </p>
@@ -908,7 +908,7 @@
                     <ArtworkSlidingImagesSmall />
                 </div>
                 <div class="breadcrumb">
-                    <nuxt-link to="Artists--Bios.html">click to view over 250 unique paintings</nuxt-link>
+                    <nuxt-link :to="{ name: 'artists-bios' }">click to view over 250 unique paintings</nuxt-link>
                 </div>
             </section>
         </div>
@@ -974,7 +974,7 @@
                         <p style="color: #742924; font-weight: bold">
                             <span>First time buying fine art?</span
                             ><nuxt-link
-                                to="/how-to-buy-fine-art/"
+                                :to="{ name: 'how-to-buy-fine-art'}"
                                 style="
                                     display: block;
                                     max-width: 300px;
@@ -993,7 +993,7 @@
                         <p style="color: #742924; font-weight: bold">
                             <span>Want to see a painting on <u>your</u> wall?</span
                             ><nuxt-link
-                                to="/how-to-view-a-painting-on-your-wall/"
+                                :to="{ name: 'how-to-view-a-painting-on-your-wall' }"
                                 style="
                                     display: block;
                                     max-width: 300px;

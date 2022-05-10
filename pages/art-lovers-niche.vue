@@ -108,3 +108,9 @@
     }
 }
 </style>
+
+<router>
+  {
+    path: '/art_lovers_niche.htm',
+  }
+</router>
