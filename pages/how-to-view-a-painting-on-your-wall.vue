@@ -307,3 +307,10 @@ ul.checkmark li::after {
     height: 100%;
 }
 </style>
+
+<router>
+  {
+    path: '/how_to_view_a_painting_on_your_wall.htm',
+    caseSensitive: true,
+  }
+</router>

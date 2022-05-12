@@ -157,3 +157,9 @@
         </div>
     </div>
 </template>
+
+<router>
+  {
+    path: '/how_to_buy_fine_art.html'
+  }
+</router>

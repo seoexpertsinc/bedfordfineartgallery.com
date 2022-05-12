@@ -8,15 +8,14 @@
                 </div>
 
                 <div class="highlights_thumbnail">
-                    <a href="highlights-article/"
-                        ><nuxt-img
+                  <nuxt-link :to="{ name: 'highlights-article' }"><nuxt-img
                             src="/highlights_thumb.jpg"
                             width="412"
                             height="216"
                             alt="19th Century Fine Art Legacy
 "
                             style="width: 100%; height: auto; border: 1px solid #222222"
-                    /></a>
+                    /></nuxt-link>
                 </div>
                 <div class="highlights_prev">
                     <h2>19th Century Fine Art Legacy</h2>
@@ -27,7 +26,7 @@
                         prominence in Bedford in the century following the war.
                     </p>
 
-                    <p><a class="readmore" href="/highlights-article/">Read More</a></p>
+                    <p><nuxt-link :to="{ name: 'highlights-article' }" class="readmore">Read More</nuxt-link></p>
                 </div>
 
                 <span

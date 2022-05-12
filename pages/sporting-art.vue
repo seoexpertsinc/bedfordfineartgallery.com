@@ -39,3 +39,9 @@ export default {}
     background: #222;
 }
 </style>
+
+<router>
+  {
+    path: '/sporting_art.html'
+  }
+</router>

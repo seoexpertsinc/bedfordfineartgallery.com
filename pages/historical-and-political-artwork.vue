@@ -39,3 +39,9 @@ export default {}
     background: #222;
 }
 </style>
+
+<router>
+  {
+    path: '/historical_and_political_artwork.html'
+  }
+</router>

@@ -91,7 +91,7 @@
                         Jessie Barclay and now the Bedford Fine Art Gallery.
                     </p>
 
-                    <p><a class="readmore" href="/highlights/">Back to Highlights</a></p>
+                    <p><nuxt-link :to="{ name: 'highlights' }" class="readmore">Back to Highlights</nuxt-link></p>
                 </div>
             </section>
         </div>

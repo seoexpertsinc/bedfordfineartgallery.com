@@ -39,3 +39,9 @@ export default {}
     background: #222;
 }
 </style>
+
+<router>
+  {
+    path: '/animal_artwork.html'
+  }
+</router>
