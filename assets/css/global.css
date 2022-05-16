@@ -1953,3 +1953,35 @@ ul.checkmark li:after {
     margin: 10px auto 30px auto;
     margin-bottom: 30px;
 }
+
+.home_test p {
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px;
+  }
+  .reverse {
+    color: #EDEBDB;
+    text-align: center;
+
+padding: 10px;
+  }
+
+  .home_test .reverse, .footer_test .reverse {
+      text-align: left;
+  }
+  .footer_test .slick-prev::before, .slick-next::before, .home_test .slick-prev::before, .slick-next::before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: white !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .footer_test span, .home_test span {
+    display: block;
+    font-weight: bold;
+    color: #EDEBDB;
+    padding-left: 10px;
+
+  }

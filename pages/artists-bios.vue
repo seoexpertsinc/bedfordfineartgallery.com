@@ -10,8 +10,7 @@
                         <li><nuxt-link :to="{ name: 'still-life_artwork' }">Still Life</nuxt-link></li>
                         <li><nuxt-link :to="{ name: 'genre-artwork' }">Genre</nuxt-link></li>
                         <li>
-                            <nuxt-link :to="{ name: 'historical-and_political-artwork' }">American Historic / Political</nuxt-link
-                            >/li>
+                            <nuxt-link :to="{ name: 'historical-and_political-artwork' }">American Historic / Political</nuxt-link></li>
                         </li>
                         <li><nuxt-link :to="{ name: 'sporting-art' }">Sporting Art</nuxt-link></li>
                         <li><nuxt-link :to="{ name: 'animal-artwork' }">Animal</nuxt-link></li>

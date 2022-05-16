@@ -11,7 +11,7 @@
                         <li><nuxt-link :to="{ name: 'genre-artwork' }">Genre</nuxt-link></li>
                         <li>
                             <nuxt-link :to="{ name: 'historical-and_political-artwork' }" class="active">American Historic / Political</nuxt-link
-                            >/li>
+                            ></li>
                         </li>
                         <li><nuxt-link :to="{ name: 'sporting-art' }">Sporting Art</nuxt-link></li>
                         <li><nuxt-link :to="{ name: 'animal-artwork' }">Animal</nuxt-link></li>
@@ -25,6 +25,13 @@
                 </ul>
             </section>
         </div>
+                <div class="container footer_test" style="padding-top: 24px; width: 100%; margin:0px auto; background-color: rgba(16,88,185,1.00);">
+<section class="wrapper" style="max-width: 860px; margin:auto;">
+
+<TestimonialsScroll />
+
+</section>
+</div>
     </div>
 </template>
 
