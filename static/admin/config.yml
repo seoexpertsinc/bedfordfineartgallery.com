@@ -18,7 +18,7 @@ collections:
       format: 'json'
       folder: 'cms/artists'
       create: true
-      slug: '{{slug}}'
+      slug: '{{fields.slug}}'
       fields:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'Tiny Description (shows next to name)', name: 'tinyDescription', widget: 'string' }
@@ -34,6 +34,7 @@ collections:
                 display_fields: ['name', 'tinyDescription'],
                 value_field: 'name'
             }
+          - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
                 name: 'metaTitle',
