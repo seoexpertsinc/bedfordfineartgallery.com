@@ -97,7 +97,7 @@ collections:
       slug: '{{slug}}'
       fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'date', required: false }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false, date_format: 'DD.MM.YYYY', time_format: false }
           - {
                 label: 'Image',
                 name: 'image',
