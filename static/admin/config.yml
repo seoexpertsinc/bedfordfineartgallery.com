@@ -1,6 +1,6 @@
 backend:
     name: git-gateway
-    branch: main
+    branch: master
 
 site_url: https://www.bedfordfineartgallery.com
 logo_url: https://www.bedfordfineartgallery.com/logo.png
