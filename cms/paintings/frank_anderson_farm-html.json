@@ -4,6 +4,9 @@
   "name": "Corner of the Farm",
   "slug": "frank_anderson_farm.html",
   "mediumResImage": "/cms-uploads/frank_anderson_medium_res.jpg",
+  "genres": [
+    "Landcape"
+  ],
   "status": "Sold",
   "metaTitle": "Frank Anderson Painting - Corner of the Farm - 19th Century American Fine Art",
   "gridImage": "/cms-uploads/frank_anderson_grid.jpg",
