@@ -8,7 +8,6 @@ media_folder: 'static/cms-uploads'
 public_folder: '/cms-uploads'
 show_preview_links: false
 
-# status, new, hold, sold for paintings
 collections:
     - name: 'artists'
       label: 'Artists'
@@ -57,7 +56,7 @@ collections:
       format: 'json'
       folder: 'cms/paintings'
       create: true
-      slug: '{{slug}}'
+      slug: '{{fields.slug}}'
       fields:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'Tiny Description (shows beneath name)', name: 'tinyDescription', widget: 'string' }
@@ -73,6 +72,14 @@ collections:
                 display_fields: ['name', 'tinyDescription'],
                 value_field: 'name'
             }
+          - {
+                label: 'Status',
+                name: 'status',
+                widget: 'select',
+                default: 'None',
+                options: ['None', 'New', 'Sold', 'Hold']
+            }
+          - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
                 name: 'metaTitle',
@@ -95,7 +102,7 @@ collections:
       format: 'json'
       folder: 'cms/articles'
       create: true
-      slug: '{{slug}}'
+      slug: '{{fields.slug}}'
       fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false, date_format: 'DD.MM.YYYY', time_format: false }
@@ -108,6 +115,7 @@ collections:
                 hint: 'This will be the image for the post',
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
                 name: 'metaTitle',
