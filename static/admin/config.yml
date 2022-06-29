@@ -1,0 +1,122 @@
+backend:
+    name: git-gateway
+
+site_url: https://www.bedfordfineartgallery.com
+logo_url: https://www.bedfordfineartgallery.com/logo.png
+media_folder: 'static/cms-uploads'
+public_folder: '/cms-uploads'
+show_preview_links: false
+
+# status, new, hold, sold for paintings
+collections:
+    - name: 'artists'
+      label: 'Artists'
+      label_singular: Artist
+      editor:
+          preview: true
+      format: 'json'
+      folder: 'cms/artists'
+      create: true
+      slug: '{{slug}}'
+      fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Tiny Description (shows next to name)', name: 'tinyDescription', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {
+                label: 'Paintings',
+                name: 'paintings',
+                widget: 'relation',
+                required: false,
+                multiple: true,
+                collection: 'paintings',
+                search_fields: ['name', 'tinyDescription'],
+                display_fields: ['name', 'tinyDescription'],
+                value_field: 'name'
+            }
+          - {
+                label: 'Meta Title',
+                name: 'metaTitle',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to the name of the artist',
+            }
+          - {
+                label: 'Meta Description',
+                name: 'metaDescription',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to a preview from the body (about the first 250 characters)',
+            }
+    - name: 'paintings'
+      label: 'Paintings'
+      label_singular: Painting
+      editor:
+          preview: true
+      format: 'json'
+      folder: 'cms/paintings'
+      create: true
+      slug: '{{slug}}'
+      fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Tiny Description (shows beneath name)', name: 'tinyDescription', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {
+                label: 'Artist',
+                name: 'artist',
+                widget: 'relation',
+                required: false,
+                multiple: false,
+                collection: 'artists',
+                search_fields: ['name', 'tinyDescription'],
+                display_fields: ['name', 'tinyDescription'],
+                value_field: 'name'
+            }
+          - {
+                label: 'Meta Title',
+                name: 'metaTitle',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to the name of the painting',
+            }
+          - {
+                label: 'Meta Description',
+                name: 'metaDescription',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to a preview from the body (about the first 250 characters)',
+            }
+    - name: 'articles'
+      label: 'Articles'
+      label_singular: Article
+      editor:
+          preview: true
+      format: 'json'
+      folder: 'cms/articles'
+      create: true
+      slug: '{{slug}}'
+      fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'date', required: false }
+          - {
+                label: 'Image',
+                name: 'image',
+                widget: 'image',
+                allow_multiple: false,
+                required: false,
+                hint: 'This will be the image for the post',
+            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {
+                label: 'Meta Title',
+                name: 'metaTitle',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to the title of the post',
+            }
+          - {
+                label: 'Meta Description',
+                name: 'metaDescription',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to a preview from the post (about the first 250 characters)',
+            }
