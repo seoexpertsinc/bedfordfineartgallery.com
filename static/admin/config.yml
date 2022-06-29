@@ -1,5 +1,6 @@
 backend:
     name: git-gateway
+    branch: main
 
 site_url: https://www.bedfordfineartgallery.com
 logo_url: https://www.bedfordfineartgallery.com/logo.png
@@ -21,7 +22,7 @@ collections:
       fields:
           - { label: 'Name', name: 'name', widget: 'string' }
           - { label: 'Tiny Description (shows next to name)', name: 'tinyDescription', widget: 'string' }
-          - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'Body', name: 'body', widget: 'markdown', required: false }
           - {
                 label: 'Paintings',
                 name: 'paintings',
