@@ -3,6 +3,7 @@
   "artist": "Frank Anderson",
   "name": "Corner of the Farm",
   "slug": "frank_anderson_farm.html",
+  "metaKeywords": "test1, test2, test3",
   "mediumResImage": "/cms-uploads/frank_anderson_medium_res.jpg",
   "genres": [
     "Landcape"
