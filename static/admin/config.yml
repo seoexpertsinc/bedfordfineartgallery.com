@@ -31,7 +31,7 @@ collections:
                 collection: 'paintings',
                 search_fields: ['name', 'tinyDescription'],
                 display_fields: ['name', 'tinyDescription'],
-                value_field: 'name'
+                value_field: 'name',
             }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
@@ -70,14 +70,14 @@ collections:
                 collection: 'artists',
                 search_fields: ['name', 'tinyDescription'],
                 display_fields: ['name', 'tinyDescription'],
-                value_field: 'name'
+                value_field: 'name',
             }
           - {
                 label: 'Status',
                 name: 'status',
                 widget: 'select',
                 default: 'None',
-                options: ['None', 'New', 'Sold', 'Hold']
+                options: ['None', 'New', 'Sold', 'Hold'],
             }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
@@ -105,7 +105,14 @@ collections:
       slug: '{{fields.slug}}'
       fields:
           - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime', required: false, date_format: 'DD.MM.YYYY', time_format: false }
+          - {
+                label: 'Publish Date',
+                name: 'date',
+                widget: 'datetime',
+                required: false,
+                date_format: 'DD.MM.YYYY',
+                time_format: false,
+            }
           - {
                 label: 'Image',
                 name: 'image',

@@ -8,7 +8,8 @@
                 </div>
 
                 <div class="highlights_thumbnail">
-                  <nuxt-link :to="{ name: 'highlights-article' }"><nuxt-img
+                    <nuxt-link :to="{ name: 'highlights-article' }"
+                        ><nuxt-img
                             src="/highlights_thumb.jpg"
                             width="412"
                             height="216"
@@ -41,13 +42,14 @@
                 ></span>
             </section>
         </div>
-                <div class="container footer_test" style="padding-top: 24px; width: 100%; margin:0px auto; background-color: rgba(16,88,185,1.00);">
-<section class="wrapper" style="max-width: 860px; margin:auto;">
-
-<TestimonialsScroll />
-
-</section>
-</div>
+        <div
+            class="container footer_test"
+            style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
+        >
+            <section class="wrapper" style="max-width: 860px; margin: auto">
+                <TestimonialsScroll />
+            </section>
+        </div>
     </div>
 </template>
 
