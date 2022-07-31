@@ -31,8 +31,8 @@ collections:
                 required: false,
                 multiple: true,
                 collection: 'paintings',
-                search_fields: ['name', 'tinyDescription'],
-                display_fields: ['name', 'tinyDescription'],
+                search_fields: ['title', 'tinyDescription'],
+                display_fields: ['title', 'tinyDescription'],
                 value_field: 'slug',
             }
           - { label: 'Slug', name: 'slug', widget: 'string' }
