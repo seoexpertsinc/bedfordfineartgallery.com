@@ -51,15 +51,8 @@
                     <div class="flex_6">
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
-                                <iframe
-                                    width="560"
-                                    height="315"
-                                    src="https://www.youtube.com/embed/9-yObV8vpLc?rel=0"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen
-                                ></iframe>
-                            </div>
+                        <YouTubeVideo link="https://www.youtube.com/embed/9-yObV8vpLc?rel=0"/>
+                        </div>
                         </div>
                     </div>
                 </div>
@@ -561,15 +554,7 @@
                             Dr. Terri Nicole Sawyer
                         </h2>
                         <div class="video-container" style="margin: 0px auto 30px auto; width: 90%">
-                            <iframe
-                                width="560"
-                                height="315"
-                                src="https://www.youtube.com/embed/cFAempT0P1Y?rel=0"
-                                title="YouTube video player"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen
-                            ></iframe>
+                            <YouTubeVideo link="https://www.youtube.com/embed/cFAempT0P1Y?rel=0"/>
                         </div>
                     </div>
 
@@ -587,14 +572,7 @@
                             Virtual Tour
                         </h2>
                         <div id="video_anchor" class="video-container" style="margin: 0px auto 30px auto; width: 90%">
-                            <iframe
-                                width="560"
-                                height="315"
-                                src="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen
-                            ></iframe>
+                            <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0"/>
                         </div>
                     </div>
                 </div>
@@ -621,14 +599,7 @@
                 </h2>
                 <div style="max-width: 660px; margin: auto">
                     <div class="video-container2" style="clear: both">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"/>
                     </div>
                 </div>
                 <p style="color: #742924; font-weight: bold; text-align: center; margin-top: 20px">
@@ -657,38 +628,17 @@
                 <div class="flex_wrap">
                     <div class="flex_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/5I8BEyiGICs?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
+                            <YouTubeVideo link="https://www.youtube.com/embed/5I8BEyiGICs?rel=0"/>
                         </div>
                     </div>
                     <div class="flex_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
+                            <YouTubeVideo link="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"/>
                         </div>
                     </div>
                     <div class="flex_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/o6PhOHhaA5M?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
+                            <YouTubeVideo link="https://www.youtube.com/embed/o6PhOHhaA5M?rel=0"/>
                         </div>
                     </div>
                 </div>
@@ -957,14 +907,7 @@
                         Charles Augustus (Shorty) Lasar Artist Quotes
                     </h2>
                     <div class="video-container" style="width: 100%; padding-top: 0">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0"
-                            frameborder="0"
-                            allow="autoplay; encrypted-media"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0"/>
                     </div>
                 </div>
             </div>
@@ -1035,6 +978,8 @@
 </template>
 
 <script>
+import YouTubeVideo from '~/components/YouTubeVideo'
+
 const defaultConfig = {
     displayAmount: 4,
     autoplay: true,
@@ -1057,6 +1002,7 @@ const kebabize = (str) => {
 }
 export default {
     name: 'App',
+    components: { YouTubeVideo },
     data() {
         return {
             showMessage: false,

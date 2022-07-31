@@ -20,25 +20,11 @@
                         Take a virtual tour of our gallery
                     </p>
                     <div id="video_anchor" class="video-container" style="margin: 0px auto 30px auto; width: 90%">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0"/>
                     </div>
 
                     <div class="video-container" style="width: 90%; margin: auto">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0"
-                            frameborder="0"
-                            allow="autoplay; encrypted-media"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0"/>
                     </div>
 
                     <!--<div class="video-container" style="clear:both;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>-->
@@ -222,14 +208,7 @@
                         Matt Otis and the Sound - Home (Bedford, PA)
                     </h4>
                     <div class="video-container" style="clear: both">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/2NL4upjtDFs?rel=0"
-                            frameborder="0"
-                            allow="autoplay; encrypted-media"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/2NL4upjtDFs?rel=0"/>
                     </div>
 
                     <h4
@@ -245,14 +224,7 @@
                         Bedford County, Pennsylvania
                     </h4>
                     <div class="video-container" style="clear: both">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/2bkeSQvpgzk?rel=0"
-                            frameborder="0"
-                            allow="autoplay; encrypted-media"
-                            allowfullscreen
-                        ></iframe>
+                        <YouTubeVideo link="https://www.youtube.com/embed/2bkeSQvpgzk?rel=0"/>
                     </div>
 
                     <div
@@ -323,6 +295,15 @@
         </div>
     </div>
 </template>
+
+<script>
+import YouTubeVideo from '~/components/YouTubeVideo'
+
+export default {
+    components: { YouTubeVideo },
+}
+</script>
+
 <style scoped>
 .artwork img {
     width: 90%;
