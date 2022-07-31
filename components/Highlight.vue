@@ -16,7 +16,13 @@
                     />
                 </div>
                 <div class="highlights_prev">
+					<YouTubeVideo v-if="highlight.youtubeEmbedLink" :link="highlight.youtubeEmbedLink" />
+					<br v-if="highlight.youtubeEmbedLink" />
+
 					<div v-interpolation v-html="$md.render(highlight.body)" />
+                    <p v-if="highlight.additionalLink">
+						<nuxt-link :to="highlight.additionalLink.link" class="readmore">{{ highlight.additionalLink.text }}</nuxt-link>
+					</p>
                     <p><nuxt-link :to="{ name: 'highlights' }" class="readmore">Back to Highlights</nuxt-link></p>
                 </div>
             </section>
@@ -33,12 +39,15 @@
 </template>
 
 <script>
+import YouTubeVideo from '~/components/YouTubeVideo'
+
 export default {
+	components: { YouTubeVideo },
 	props: {
 		highlight: {
 			type: Object,
 			required: true,
 		}
-	}
+	},
 }
 </script>
