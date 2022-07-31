@@ -20,7 +20,9 @@ collections:
       slug: '{{fields.slug}}'
       fields:
           - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Alias', name: 'alias', widget: 'string', required: false }
           - { label: 'Tiny Description (shows next to name)', name: 'tinyDescription', widget: 'string' }
+          - { label: 'Has Landing Page?', name: 'hasLandingPage', widget: 'boolean', default: false }
           - { label: 'Body', name: 'body', widget: 'markdown', required: false }
           - {
                 label: 'Paintings',
@@ -31,7 +33,7 @@ collections:
                 collection: 'paintings',
                 search_fields: ['name', 'tinyDescription'],
                 display_fields: ['name', 'tinyDescription'],
-                value_field: 'name',
+                value_field: 'slug',
             }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
@@ -48,6 +50,13 @@ collections:
                 required: false,
                 hint: 'This will default to a preview from the body (about the first 250 characters)',
             }
+          - {
+                label: 'Meta Keywords',
+                name: 'metaKeywords',
+                widget: 'text',
+                required: false,
+                hint: 'Keywords for the artist separated by commas',
+            }
     - name: 'paintings'
       label: 'Paintings'
       label_singular: Painting
@@ -58,8 +67,38 @@ collections:
       create: true
       slug: '{{fields.slug}}'
       fields:
-          - { label: 'Name', name: 'name', widget: 'string' }
-          - { label: 'Tiny Description (shows beneath name)', name: 'tinyDescription', widget: 'string' }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Tiny Description (shows beneath name)', name: 'tinyDescription', widget: 'string', required: false }
+          - { label: 'Dimensions', name: 'dimensions', widget: 'string', required: false }
+          - {
+                label: 'Grid Image',
+                name: 'gridImage',
+                widget: 'image',
+                allow_multiple: false,
+                required: false,
+                hint: 'This will show on pages that list multiple paintings.'
+            }
+          - {
+                label: 'Medium Res Image',
+                name: 'mediumResImage',
+                widget: 'image',
+                allow_multiple: false,
+                required: false,
+            }
+          - {
+                label: 'High Res Image',
+                name: 'highResImage',
+                widget: 'image',
+                allow_multiple: false,
+                required: false,
+                hint: 'This will show on the painting detail pages.'
+            }
+          - label: Highlights
+            name: "highlights"
+            widget: "list"
+            summary: '{{fields.highlight}}'
+            fields:
+                - {label: Text, name: highlight, widget: string }
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {
                 label: 'Artist',
@@ -70,7 +109,7 @@ collections:
                 collection: 'artists',
                 search_fields: ['name', 'tinyDescription'],
                 display_fields: ['name', 'tinyDescription'],
-                value_field: 'name',
+                value_field: 'slug',
             }
           - {
                 label: 'Status',
@@ -79,6 +118,7 @@ collections:
                 default: 'None',
                 options: ['None', 'New', 'Sold', 'Hold'],
             }
+          - { label: 'YouTube Link', name: 'youtubeEmbedLink', widget: 'string', required: false, pattern: ["^((?:https?:)?\\/\\/)?((?:www|m)\\.)?((?:youtube\\.com|youtu.be))(\\/(?:[\\w\\-]+\\?v=|embed\\/|v\\/)?)([\\w\\-]+)(\\S+)?$", "Enter a valid YouTube URL"] }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
@@ -93,6 +133,13 @@ collections:
                 widget: 'text',
                 required: false,
                 hint: 'This will default to a preview from the body (about the first 250 characters)',
+            }
+          - {
+                label: 'Meta Keywords',
+                name: 'metaKeywords',
+                widget: 'text',
+                required: false,
+                hint: 'The keywords for this painting separated by commas',
             }
     - name: 'articles'
       label: 'Articles'
@@ -110,8 +157,17 @@ collections:
                 name: 'date',
                 widget: 'datetime',
                 required: false,
-                date_format: 'DD.MM.YYYY',
+                date_format: 'MM/DD/YYYY',
                 time_format: false,
+            }
+          - { label: 'Show Publish Date', name: 'showPublishDate', widget: 'boolean' }
+          - {
+                label: 'Grid Image',
+                name: 'gridImage',
+                widget: 'image',
+                allow_multiple: false,
+                required: false,
+                hint: 'This will be the grid image for the post on the highlights page',
             }
           - {
                 label: 'Image',
@@ -122,6 +178,14 @@ collections:
                 hint: 'This will be the image for the post',
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - { label: 'YouTube Link', name: 'youtubeEmbedLink', widget: 'string', required: false, pattern: ["^((?:https?:)?\\/\\/)?((?:www|m)\\.)?((?:youtube\\.com|youtu.be))(\\/(?:[\\w\\-]+\\?v=|embed\\/|v\\/)?)([\\w\\-]+)(\\S+)?$", "Enter a valid YouTube URL"] }
+          - label: "Additonal Link"
+            name: "additionalLink"
+            widget: "object"
+            summary: '{{fields.text}} -> {{fields.link}}'
+            fields:
+                - { label: 'Text', name: 'text', widget: 'string' }
+                - { label: 'Link', name: 'link', widget: 'string' }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
@@ -136,4 +200,11 @@ collections:
                 widget: 'text',
                 required: false,
                 hint: 'This will default to a preview from the post (about the first 250 characters)',
+            }
+          - {
+                label: 'Meta Keywords',
+                name: 'metaKeywords',
+                widget: 'text',
+                required: false,
+                hint: 'The keywords for this painting separated by commas',
             }
