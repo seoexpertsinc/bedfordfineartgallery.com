@@ -7,39 +7,7 @@
                     <span class="hr"></span>
                 </div>
 
-                <div class="highlights_thumbnail">
-                    <nuxt-link :to="{ name: 'highlights-article' }"
-                        ><nuxt-img
-                            src="/highlights_thumb.jpg"
-                            width="412"
-                            height="216"
-                            alt="19th Century Fine Art Legacy
-"
-                            style="width: 100%; height: auto; border: 1px solid #222222"
-                    /></nuxt-link>
-                </div>
-                <div class="highlights_prev">
-                    <h2>19th Century Fine Art Legacy</h2>
-                    <p>
-                        The land upon which the Barclay house is built was part of a larger land grant given to Colonel
-                        Hugh Barclay by William Penn. Hugh Barclay, who served during the Revolutionary War, was
-                        Bedford’s first Post Master and patriarch of the Barclay family. The Barclay family rose to
-                        prominence in Bedford in the century following the war.
-                    </p>
-
-                    <p><nuxt-link :to="{ name: 'highlights-article' }" class="readmore">Read More</nuxt-link></p>
-                </div>
-
-                <span
-                    style="
-                        height: 1px;
-                        width: 100%;
-                        display: block;
-                        clear: both;
-                        background: #c3c4a2;
-                        margin-bottom: 1.5em;
-                    "
-                ></span>
+                <HighlightPreview v-for="(highlight, index) in highlights" :key="index" :highlight="highlight"/>
             </section>
         </div>
         <div
@@ -52,6 +20,19 @@
         </div>
     </div>
 </template>
+
+<script>
+import HighlightPreview from '~/components/HighlightPreview.vue'
+
+export default {
+    components: { HighlightPreview },
+    async asyncData({ $content }) {
+        return {
+            highlights: await $content("articles").sortBy("date", "desc").fetch()
+        };
+    },
+}
+</script>
 
 <router>
   {
