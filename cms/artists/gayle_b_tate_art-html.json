@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Contemporary artist Gayle Tate was born in Abilene, Texas and is known as a trompe l'oeil oil painter. He studied at the Loch Haven Art Center in Orlando, Florida and with artists in Orlando and Tampa Florida, as well as in Asheville, North Carolina and Laramie, Wyoming. Tate states that \"American painters have always depicted real places and real things in real terms. They have always worked with a vigorous energy that matches the splendor of the land. We have been given a responsibility as creative artists to bring this fresh viewpoint to an often drab and uninspired world. I, as any artist with such roots, am dedicated to developing a reflection this character, our uniquely American roots.\" His signature works are wonderful images of paper currency as well as paintings with ironic observations and themes. Tate is a charter member of the Trompe L'Oeil Society.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "Gayle B. Tate",
-    "paintings": ["gayle_b_tate_lincoln.html", "gayle_b_tate_washington.html"],
-    "slug": "gayle_b_tate_art-html",
-    "tinyDescription": "American 1944 -    "
+   "alias" : "",
+   "body" : "Contemporary artist Gayle Tate was born in Abilene, Texas and is known as a trompe l'oeil oil painter. He studied at the Loch Haven Art Center in Orlando, Florida and with artists in Orlando and Tampa Florida, as well as in Asheville, North Carolina and Laramie, Wyoming. Tate states that \"American painters have always depicted real places and real things in real terms. They have always worked with a vigorous energy that matches the splendor of the land. We have been given a responsibility as creative artists to bring this fresh viewpoint to an often drab and uninspired world. I, as any artist with such roots, am dedicated to developing a reflection this character, our uniquely American roots.\" His signature works are wonderful images of paper currency as well as paintings with ironic observations and themes. Tate is a charter member of the Trompe L'Oeil Society.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "Gayle B. Tate",
+   "paintings" : [
+      "gayle_b_tate_lincoln-html",
+      "gayle_b_tate_washington-html"
+   ],
+   "slug" : "gayle_b_tate_art-html",
+   "tinyDescription" : "American 1944 -    "
 }

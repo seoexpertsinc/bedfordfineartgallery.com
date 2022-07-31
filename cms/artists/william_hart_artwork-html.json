@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Hart",
-    "paintings": ["william_hart_cattle.html"],
-    "slug": "william_hart_artwork-html",
-    "tinyDescription": "American 1823 – 1894"
+   "hasLandingPage" : false,
+   "name" : "William Hart",
+   "paintings" : [
+      "william_hart_cattle-html"
+   ],
+   "slug" : "william_hart_artwork-html",
+   "tinyDescription" : "American 1823 – 1894"
 }

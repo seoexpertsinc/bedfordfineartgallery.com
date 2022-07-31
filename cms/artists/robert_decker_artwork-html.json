@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Robert Decker",
-    "paintings": ["robert_decker_fall.html"],
-    "slug": "robert_decker_artwork-html",
-    "tinyDescription": "American 1847 - 1921"
+   "hasLandingPage" : false,
+   "name" : "Robert Decker",
+   "paintings" : [
+      "robert_decker_fall-html"
+   ],
+   "slug" : "robert_decker_artwork-html",
+   "tinyDescription" : "American 1847 - 1921"
 }

@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "W.J. Schaldach",
-    "paintings": ["wj_schaldach_trout.html"],
-    "slug": "wj_schaldach_artwork-html",
-    "tinyDescription": "American 1896 - 1982"
+   "hasLandingPage" : false,
+   "name" : "W.J. Schaldach",
+   "paintings" : [
+      "wj_schaldach_trout-html"
+   ],
+   "slug" : "wj_schaldach_artwork-html",
+   "tinyDescription" : "American 1896 - 1982"
 }

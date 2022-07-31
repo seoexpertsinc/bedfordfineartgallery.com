@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Ellen Malvino Pomeroy",
-    "paintings": ["ellen_malvino_pomeroy_valley.html"],
-    "slug": "ellen_malvino_pomeroy_artwork-html",
-    "tinyDescription": "American 1841 – 1903"
+   "hasLandingPage" : false,
+   "name" : "Ellen Malvino Pomeroy",
+   "paintings" : [
+      "ellen_malvino_pomeroy_valley-html"
+   ],
+   "slug" : "ellen_malvino_pomeroy_artwork-html",
+   "tinyDescription" : "American 1841 – 1903"
 }

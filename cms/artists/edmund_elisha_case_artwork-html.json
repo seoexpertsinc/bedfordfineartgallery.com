@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Edmund Elisha Case",
-    "paintings": ["edmund_elisha_case_beeches.html"],
-    "slug": "edmund_elisha_case_artwork-html",
-    "tinyDescription": "American 1844 - 1919"
+   "hasLandingPage" : false,
+   "name" : "Edmund Elisha Case",
+   "paintings" : [
+      "edmund_elisha_case_beeches-html"
+   ],
+   "slug" : "edmund_elisha_case_artwork-html",
+   "tinyDescription" : "American 1844 - 1919"
 }

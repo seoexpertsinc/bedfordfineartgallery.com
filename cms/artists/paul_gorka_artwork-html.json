@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Paul Gorka",
-    "paintings": ["paul_gorka_contemplation.html"],
-    "slug": "paul_gorka_artwork-html",
-    "tinyDescription": "American, born 1931"
+   "hasLandingPage" : false,
+   "name" : "Paul Gorka",
+   "paintings" : [
+      "paul_gorka_contemplation-html"
+   ],
+   "slug" : "paul_gorka_artwork-html",
+   "tinyDescription" : "American, born 1931"
 }

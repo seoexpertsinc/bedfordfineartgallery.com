@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Charles Alfred Meurer",
-    "paintings": ["charles_alfred_meurer_rooster.html"],
-    "slug": "charles_alfred_meurer_artwork-html",
-    "tinyDescription": "American 1865 - 1955"
+   "hasLandingPage" : false,
+   "name" : "Charles Alfred Meurer",
+   "paintings" : [
+      "charles_alfred_meurer_rooster-html"
+   ],
+   "slug" : "charles_alfred_meurer_artwork-html",
+   "tinyDescription" : "American 1865 - 1955"
 }

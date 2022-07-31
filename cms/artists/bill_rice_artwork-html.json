@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Bill Rice",
-    "paintings": ["bill_rice_pheasant.html"],
-    "slug": "bill_rice_artwork-html",
-    "tinyDescription": "American, b. 1952"
+   "hasLandingPage" : false,
+   "name" : "Bill Rice",
+   "paintings" : [
+      "bill_rice_pheasant-html"
+   ],
+   "slug" : "bill_rice_artwork-html",
+   "tinyDescription" : "American, b. 1952"
 }

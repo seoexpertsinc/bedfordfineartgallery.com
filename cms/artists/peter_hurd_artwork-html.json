@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Peter Hurd",
-    "paintings": ["peter_hurd_mountain.html"],
-    "slug": "peter_hurd_artwork-html",
-    "tinyDescription": "American 1904 - 1984"
+   "hasLandingPage" : false,
+   "name" : "Peter Hurd",
+   "paintings" : [
+      "peter_hurd_mountain-html"
+   ],
+   "slug" : "peter_hurd_artwork-html",
+   "tinyDescription" : "American 1904 - 1984"
 }

@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Hendrik-Dirk Kruseman Van Elten",
-    "paintings": ["hendrik_dirk_kruseman_van_elten_stream.html"],
-    "slug": "hendrik_dirk_kruseman_van_elten_artwork-html",
-    "tinyDescription": "Dutch-American 1829 - 1904"
+   "hasLandingPage" : false,
+   "name" : "Hendrik-Dirk Kruseman Van Elten",
+   "paintings" : [
+      "hendrik_dirk_kruseman_van_elten_stream-html"
+   ],
+   "slug" : "hendrik_dirk_kruseman_van_elten_artwork-html",
+   "tinyDescription" : "Dutch-American 1829 - 1904"
 }

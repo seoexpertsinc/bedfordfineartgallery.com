@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Exene Reed Meyersham",
-    "paintings": ["exene_reed_meyersham_roses.html"],
-    "slug": "exene_reed_meyersham_artwork-html",
-    "tinyDescription": "American 1886-1978"
+   "hasLandingPage" : false,
+   "name" : "Exene Reed Meyersham",
+   "paintings" : [
+      "exene_reed_meyersham_roses-html"
+   ],
+   "slug" : "exene_reed_meyersham_artwork-html",
+   "tinyDescription" : "American 1886-1978"
 }

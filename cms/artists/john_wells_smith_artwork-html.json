@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "John Wells Smith",
-    "paintings": ["john_wells_smith_anticipations.html"],
-    "slug": "john_wells_smith_artwork-html",
-    "tinyDescription": "British, fl. 1870 – 1875"
+   "hasLandingPage" : false,
+   "name" : "John Wells Smith",
+   "paintings" : [
+      "john_wells_smith_anticipations-html"
+   ],
+   "slug" : "john_wells_smith_artwork-html",
+   "tinyDescription" : "British, fl. 1870 – 1875"
 }

@@ -1,12 +1,15 @@
 {
-    "alias": "Ed Vebell",
-    "body": "Edward Vebell grew up in Chicago during the depression and spent hours copying cartoons from the Chicago Tribune. While attending a private Catholic school, the nuns spotted his artistic talent and began relying on him to draw biblical scenes on the blackboard. Vebell began his career as a catalog illustrator for Montgomery Ward and Sears & Roebuck; however, his art career was put on hold when he was drafted into the Army. His artistic skills saved him from combat—he was sent to Casa Blanca as a staff artist. Vebell spent his time on the front lines capturing battle scenes all over Europe. His last assignment for Stars & Stripes was covering the Nuremberg war trials.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "Edward T. Vebell, Ed Vebell, , ,(American, born 1921), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "Edward T. Vebell (aka Ed Vebell) Artist / Painter - Painting / Fine Art Work",
-    "name": "Edward T. Vebell",
-    "paintings": ["edward_t_vebell_gettysburg.html", "edward_t_vebell_eisenhower.html"],
-    "slug": "edward_t_vebell-html",
-    "tinyDescription": "American, born 1921"
+   "alias" : "Ed Vebell",
+   "body" : "Edward Vebell grew up in Chicago during the depression and spent hours copying cartoons from the Chicago Tribune. While attending a private Catholic school, the nuns spotted his artistic talent and began relying on him to draw biblical scenes on the blackboard. Vebell began his career as a catalog illustrator for Montgomery Ward and Sears & Roebuck; however, his art career was put on hold when he was drafted into the Army. His artistic skills saved him from combat—he was sent to Casa Blanca as a staff artist. Vebell spent his time on the front lines capturing battle scenes all over Europe. His last assignment for Stars & Stripes was covering the Nuremberg war trials.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "Edward T. Vebell, Ed Vebell, , ,(American, born 1921), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "Edward T. Vebell (aka Ed Vebell) Artist / Painter - Painting / Fine Art Work",
+   "name" : "Edward T. Vebell",
+   "paintings" : [
+      "edward_t_vebell_gettysburg-html",
+      "edward_t_vebell_eisenhower-html"
+   ],
+   "slug" : "edward_t_vebell-html",
+   "tinyDescription" : "American, born 1921"
 }

@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Keith",
-    "paintings": ["william_keith_forest.html"],
-    "slug": "william_keith_artwork-html",
-    "tinyDescription": "American 1838 – 1911"
+   "hasLandingPage" : false,
+   "name" : "William Keith",
+   "paintings" : [
+      "william_keith_forest-html"
+   ],
+   "slug" : "william_keith_artwork-html",
+   "tinyDescription" : "American 1838 – 1911"
 }

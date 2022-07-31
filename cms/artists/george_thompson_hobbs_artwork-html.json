@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "George Thompson Hobbs",
-    "paintings": ["george_hobbs_stream.html"],
-    "slug": "george_thompson_hobbs_artwork-html",
-    "tinyDescription": "American 1849 – 1929"
+   "hasLandingPage" : false,
+   "name" : "George Thompson Hobbs",
+   "paintings" : [
+      "george_hobbs_stream-html"
+   ],
+   "slug" : "george_thompson_hobbs_artwork-html",
+   "tinyDescription" : "American 1849 – 1929"
 }

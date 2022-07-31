@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "A.T. Smith",
-    "paintings": ["a_t_smith_flowers.html"],
-    "slug": "at_smith_artwork-html",
-    "tinyDescription": null
+   "hasLandingPage" : false,
+   "name" : "A.T. Smith",
+   "paintings" : [
+      "a_t_smith_flowers-html"
+   ],
+   "slug" : "at_smith_artwork-html",
+   "tinyDescription" : null
 }

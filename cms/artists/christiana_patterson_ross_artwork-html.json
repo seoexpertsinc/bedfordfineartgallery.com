@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Christiana Patterson Ross",
-    "paintings": ["christiana_patterson_ross_peddlers.html"],
-    "slug": "christiana_patterson_ross_artwork-html",
-    "tinyDescription": "British, 1843 – 1906"
+   "hasLandingPage" : false,
+   "name" : "Christiana Patterson Ross",
+   "paintings" : [
+      "christiana_patterson_ross_peddlers-html"
+   ],
+   "slug" : "christiana_patterson_ross_artwork-html",
+   "tinyDescription" : "British, 1843 – 1906"
 }

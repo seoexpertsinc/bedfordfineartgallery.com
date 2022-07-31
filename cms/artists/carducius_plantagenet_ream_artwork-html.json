@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Carducius Plantagenet Ream",
-    "paintings": ["carducius_plantagenet_ream_fruit.html"],
-    "slug": "carducius_plantagenet_ream_artwork-html",
-    "tinyDescription": "1837 – 1917"
+   "hasLandingPage" : false,
+   "name" : "Carducius Plantagenet Ream",
+   "paintings" : [
+      "carducius_plantagenet_ream_fruit-html"
+   ],
+   "slug" : "carducius_plantagenet_ream_artwork-html",
+   "tinyDescription" : "1837 – 1917"
 }

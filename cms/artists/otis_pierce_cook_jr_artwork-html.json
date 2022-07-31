@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Otis Pierce Cook, Jr.",
-    "paintings": ["otis_pierce_cook_jr_rockport.html"],
-    "slug": "otis_pierce_cook_jr_artwork-html",
-    "tinyDescription": "American 1900 - 1980"
+   "hasLandingPage" : false,
+   "name" : "Otis Pierce Cook, Jr.",
+   "paintings" : [
+      "otis_pierce_cook_jr_rockport-html"
+   ],
+   "slug" : "otis_pierce_cook_jr_artwork-html",
+   "tinyDescription" : "American 1900 - 1980"
 }

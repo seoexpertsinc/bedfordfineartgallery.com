@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "George W. Drew",
-    "paintings": ["george_w_drew_fruit.html"],
-    "slug": "george_w_drew_artwork-html",
-    "tinyDescription": "American, born 1833"
+   "hasLandingPage" : false,
+   "name" : "George W. Drew",
+   "paintings" : [
+      "george_w_drew_fruit-html"
+   ],
+   "slug" : "george_w_drew_artwork-html",
+   "tinyDescription" : "American, born 1833"
 }

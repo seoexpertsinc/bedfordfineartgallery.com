@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Christopher Pearse Cranch",
-    "paintings": ["christopher_pearse_cranch_sunset.html"],
-    "slug": "christopher_pearse_cranch_artwork-html",
-    "tinyDescription": "American, 1813 – 1892"
+   "hasLandingPage" : false,
+   "name" : "Christopher Pearse Cranch",
+   "paintings" : [
+      "christopher_pearse_cranch_sunset-html"
+   ],
+   "slug" : "christopher_pearse_cranch_artwork-html",
+   "tinyDescription" : "American, 1813 – 1892"
 }

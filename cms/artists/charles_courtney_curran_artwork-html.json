@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Charles Courtney Curran",
-    "paintings": ["charles_courtney_curran_art_cloud.html"],
-    "slug": "charles_courtney_curran_artwork-html",
-    "tinyDescription": "American 1861 - 1942"
+   "hasLandingPage" : false,
+   "name" : "Charles Courtney Curran",
+   "paintings" : [
+      "charles_courtney_curran_art_cloud-html"
+   ],
+   "slug" : "charles_courtney_curran_artwork-html",
+   "tinyDescription" : "American 1861 - 1942"
 }

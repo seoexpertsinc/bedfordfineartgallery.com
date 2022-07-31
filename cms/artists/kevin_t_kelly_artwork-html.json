@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Kevin T. Kelly",
-    "paintings": ["kevin_kelly_liberty.html"],
-    "slug": "kevin_t_kelly_artwork-html",
-    "tinyDescription": "American, born 1960"
+   "hasLandingPage" : false,
+   "name" : "Kevin T. Kelly",
+   "paintings" : [
+      "kevin_kelly_liberty-html"
+   ],
+   "slug" : "kevin_t_kelly_artwork-html",
+   "tinyDescription" : "American, born 1960"
 }

@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William McKendree Snyder",
-    "paintings": ["william_mcKendree_snyder_beech.html"],
-    "slug": "william_mckendree_snyder_artwork-html",
-    "tinyDescription": "American 1848 - 1930"
+   "hasLandingPage" : false,
+   "name" : "William McKendree Snyder",
+   "paintings" : [
+      "william_mcKendree_snyder_beech-html"
+   ],
+   "slug" : "william_mckendree_snyder_artwork-html",
+   "tinyDescription" : "American 1848 - 1930"
 }

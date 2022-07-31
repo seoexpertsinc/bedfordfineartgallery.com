@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Alfred S. Wall",
-    "paintings": ["alfred_s_wall_woods.html"],
-    "slug": "alfred_s_wall_artwork-html",
-    "tinyDescription": "American 1825 – 1896"
+   "hasLandingPage" : false,
+   "name" : "Alfred S. Wall",
+   "paintings" : [
+      "alfred_s_wall_woods-html"
+   ],
+   "slug" : "alfred_s_wall_artwork-html",
+   "tinyDescription" : "American 1825 – 1896"
 }

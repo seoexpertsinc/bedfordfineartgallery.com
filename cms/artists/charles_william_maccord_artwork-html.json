@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Charles William MacCord",
-    "paintings": ["charles_william_maccord_waters_edge.html"],
-    "slug": "charles_william_maccord_artwork-html",
-    "tinyDescription": "American 1852 – 1923"
+   "hasLandingPage" : false,
+   "name" : "Charles William MacCord",
+   "paintings" : [
+      "charles_william_maccord_waters_edge-html"
+   ],
+   "slug" : "charles_william_maccord_artwork-html",
+   "tinyDescription" : "American 1852 – 1923"
 }

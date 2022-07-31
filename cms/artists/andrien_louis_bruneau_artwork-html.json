@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Andrien-Louis Bruneau",
-    "paintings": ["andrien_louis_bruneau_mice.html"],
-    "slug": "andrien_louis_bruneau_artwork-html",
-    "tinyDescription": "French, born 1831"
+   "hasLandingPage" : false,
+   "name" : "Andrien-Louis Bruneau",
+   "paintings" : [
+      "andrien_louis_bruneau_mice-html"
+   ],
+   "slug" : "andrien_louis_bruneau_artwork-html",
+   "tinyDescription" : "French, born 1831"
 }

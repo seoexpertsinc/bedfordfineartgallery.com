@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Robert Ward Van Boskerck",
-    "paintings": ["robert_ward_van_boskerck_stream.html"],
-    "slug": "robert_ward_van_boskerck_artwork-html",
-    "tinyDescription": "American 1855 - 1932\r\n)"
+   "hasLandingPage" : false,
+   "name" : "Robert Ward Van Boskerck",
+   "paintings" : [
+      "robert_ward_van_boskerck_stream-html"
+   ],
+   "slug" : "robert_ward_van_boskerck_artwork-html",
+   "tinyDescription" : "American 1855 - 1932\r\n)"
 }

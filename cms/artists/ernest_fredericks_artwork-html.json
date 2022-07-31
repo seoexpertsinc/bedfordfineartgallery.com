@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Ernest Fredericks",
-    "paintings": ["ernest_fredericks_fall.html"],
-    "slug": "ernest_fredericks_artwork-html",
-    "tinyDescription": "1877 - 1959"
+   "hasLandingPage" : false,
+   "name" : "Ernest Fredericks",
+   "paintings" : [
+      "ernest_fredericks_fall-html"
+   ],
+   "slug" : "ernest_fredericks_artwork-html",
+   "tinyDescription" : "1877 - 1959"
 }

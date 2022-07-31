@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Leigh",
-    "paintings": ["william_leigh_rocks.html"],
-    "slug": "william_leigh_artwork-html",
-    "tinyDescription": "American 1866 - 1955"
+   "hasLandingPage" : false,
+   "name" : "William Leigh",
+   "paintings" : [
+      "william_leigh_rocks-html"
+   ],
+   "slug" : "william_leigh_artwork-html",
+   "tinyDescription" : "American 1866 - 1955"
 }

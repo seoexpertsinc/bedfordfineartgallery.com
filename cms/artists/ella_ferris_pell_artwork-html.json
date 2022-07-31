@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Ella Ferris Pell",
-    "paintings": ["ella_ferris_pell_home.html"],
-    "slug": "ella_ferris_pell_artwork-html",
-    "tinyDescription": "American, 1846 – 1922"
+   "hasLandingPage" : false,
+   "name" : "Ella Ferris Pell",
+   "paintings" : [
+      "ella_ferris_pell_home-html"
+   ],
+   "slug" : "ella_ferris_pell_artwork-html",
+   "tinyDescription" : "American, 1846 – 1922"
 }

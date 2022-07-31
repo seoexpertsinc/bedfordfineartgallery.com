@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Max Friedrich Ferdinand Rabes",
-    "paintings": ["max_friedrich_ferdinand_rabes_woman_on_bench.html"],
-    "slug": "max_friedrich_ferdinand_rabes_artwork-html",
-    "tinyDescription": "German 1868 - 1944"
+   "hasLandingPage" : false,
+   "name" : "Max Friedrich Ferdinand Rabes",
+   "paintings" : [
+      "max_friedrich_ferdinand_rabes_woman_on_bench-html"
+   ],
+   "slug" : "max_friedrich_ferdinand_rabes_artwork-html",
+   "tinyDescription" : "German 1868 - 1944"
 }

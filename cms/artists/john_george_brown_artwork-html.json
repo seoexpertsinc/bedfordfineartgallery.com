@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "John George Brown",
-    "paintings": ["john_george_brown_vendor.html"],
-    "slug": "john_george_brown_artwork-html",
-    "tinyDescription": "American 1831-1913"
+   "hasLandingPage" : false,
+   "name" : "John George Brown",
+   "paintings" : [
+      "john_george_brown_vendor-html"
+   ],
+   "slug" : "john_george_brown_artwork-html",
+   "tinyDescription" : "American 1831-1913"
 }

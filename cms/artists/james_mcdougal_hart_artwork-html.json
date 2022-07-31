@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "James McDougal Hart",
-    "paintings": ["james_mcdougal_hart_landscape.html"],
-    "slug": "james_mcdougal_hart_artwork-html",
-    "tinyDescription": "American 1828 – 1901"
+   "hasLandingPage" : false,
+   "name" : "James McDougal Hart",
+   "paintings" : [
+      "james_mcdougal_hart_landscape-html"
+   ],
+   "slug" : "james_mcdougal_hart_artwork-html",
+   "tinyDescription" : "American 1828 – 1901"
 }

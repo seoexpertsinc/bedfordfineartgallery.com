@@ -1,12 +1,15 @@
 {
-    "alias": "T.C. Lindsay,��Thomas C. Lindsay",
-    "body": "Lindsay was born in Cincinnati, OH, the son of Pennsylvania–born parents, his father from Newville and his mother from Philadelphia. While still young and without benefit of formal art training, he opened a studio in Cincinnati, where he came to the attention of the public. He later displayed his works in Cincinnati's beloved H & S Pogue's Department Store. Lindsay remained in Cincinnati; however, he made painting forays into Pennsylvania, West Virginia, up-state New York, and the White Mountains of New Hampshire, where he painted most of his landscapes. Beginning in the autumn of 1858, Lindsay made many sketching trips to eastern Pennsylvania. In 1862 he was in the White Mountains of New Hampshire. In 1865, Lindsay sold some of his paintings, which included scenes along the Tennessee, Connecticut, and Kanawha Rivers, to finance his trip to Europe. He remained in Europe until 1869 where he studied at Germany's Dusseldorf Academy and at the Paris academies. Lindsay is best known for his landscapes, especially of eastern Pennsylvania, up-state New York, and the White Mountains. He concentrated on painting farm and domestic livestock scenes in his later years. Lindsay exhibited at the Ohio Mechanics' Institute annual (1859); Cincinnati Industrial Exposition (from 1870 to 1883); Art Institute of Chicago (1896); and the Cincinnati Art Club (founding member, later the Men's Art Club).",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "Thomas Corwin Lindsay, T.C. Lindsay, Thomas C. Lindsay, ,(American 1838 ? 1907), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "Thomas Corwin Lindsay (aka T.C. Lindsay, Thomas C. Lindsay) Artist / Painter - Painting / Fine Art Work",
-    "name": "Thomas Corwin Lindsay",
-    "paintings": ["thomas_corwin_lindsay_pond.html", "thomas_corwin_lindsay_vigil.html"],
-    "slug": "thomas_corwin_lindsay-html",
-    "tinyDescription": "American 1838 – 1907"
+   "alias" : "T.C. Lindsay,��Thomas C. Lindsay",
+   "body" : "Lindsay was born in Cincinnati, OH, the son of Pennsylvania–born parents, his father from Newville and his mother from Philadelphia. While still young and without benefit of formal art training, he opened a studio in Cincinnati, where he came to the attention of the public. He later displayed his works in Cincinnati's beloved H & S Pogue's Department Store. Lindsay remained in Cincinnati; however, he made painting forays into Pennsylvania, West Virginia, up-state New York, and the White Mountains of New Hampshire, where he painted most of his landscapes. Beginning in the autumn of 1858, Lindsay made many sketching trips to eastern Pennsylvania. In 1862 he was in the White Mountains of New Hampshire. In 1865, Lindsay sold some of his paintings, which included scenes along the Tennessee, Connecticut, and Kanawha Rivers, to finance his trip to Europe. He remained in Europe until 1869 where he studied at Germany's Dusseldorf Academy and at the Paris academies. Lindsay is best known for his landscapes, especially of eastern Pennsylvania, up-state New York, and the White Mountains. He concentrated on painting farm and domestic livestock scenes in his later years. Lindsay exhibited at the Ohio Mechanics' Institute annual (1859); Cincinnati Industrial Exposition (from 1870 to 1883); Art Institute of Chicago (1896); and the Cincinnati Art Club (founding member, later the Men's Art Club).",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "Thomas Corwin Lindsay, T.C. Lindsay, Thomas C. Lindsay, ,(American 1838 ? 1907), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "Thomas Corwin Lindsay (aka T.C. Lindsay, Thomas C. Lindsay) Artist / Painter - Painting / Fine Art Work",
+   "name" : "Thomas Corwin Lindsay",
+   "paintings" : [
+      "thomas_corwin_lindsay_pond-html",
+      "thomas_corwin_lindsay_vigil-html"
+   ],
+   "slug" : "thomas_corwin_lindsay-html",
+   "tinyDescription" : "American 1838 – 1907"
 }

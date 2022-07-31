@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Wayne Beam Morrell",
-    "paintings": ["wayne_beam_morrell_boats.html"],
-    "slug": "wayne_beam_morrell_artwork-html",
-    "tinyDescription": "American 1923 - 2013"
+   "hasLandingPage" : false,
+   "name" : "Wayne Beam Morrell",
+   "paintings" : [
+      "wayne_beam_morrell_boats-html"
+   ],
+   "slug" : "wayne_beam_morrell_artwork-html",
+   "tinyDescription" : "American 1923 - 2013"
 }

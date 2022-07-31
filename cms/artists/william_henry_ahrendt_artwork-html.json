@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Henry Ahrendt",
-    "paintings": ["william_henry_ahrendt_canyon.html"],
-    "slug": "william_henry_ahrendt_artwork-html",
-    "tinyDescription": "American, born 1933"
+   "hasLandingPage" : false,
+   "name" : "William Henry Ahrendt",
+   "paintings" : [
+      "william_henry_ahrendt_canyon-html"
+   ],
+   "slug" : "william_henry_ahrendt_artwork-html",
+   "tinyDescription" : "American, born 1933"
 }

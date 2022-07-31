@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "James Fairman",
-    "paintings": ["james_fairman_benevolent_guardian.html"],
-    "slug": "james_fairman_artwork-html",
-    "tinyDescription": "American 1826 – 1904"
+   "hasLandingPage" : false,
+   "name" : "James Fairman",
+   "paintings" : [
+      "james_fairman_benevolent_guardian-html"
+   ],
+   "slug" : "james_fairman_artwork-html",
+   "tinyDescription" : "American 1826 – 1904"
 }

@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm. However, after moving to Brooklyn circa 1883, he eventually abandoned landscapes for still-lifes and it these for which he is best known. There are significant gaps in his biography and it is not known whether he associated with, or knew, fellow Brooklynite, noted still-life painter, Joseph Decker. It is known, however, that his resume during his time in Brooklyn included carpentry, frame-making, and teaching art. Prentice's still-life compositions illustrate his remarkable skill at rendering color, form, and texture, with dramatic contrasts between the background and foreground subject. He did not totally abandon landscape painting, as many of his still-life compositions are depicted within a landscape setting, instead of the usual table top setting. His works exhibit a 3-D quality (trompe l'oeil) as if you could pluck the fruit right from the canvas. His sketchy biography also reveals that throughout his career, in addition to the Adirondack Mountains and Lake George, Prentice either lived or worked in New York's Hudson River Valley and Niagara Falls areas, and Arizona's Grand Canyon area. Prentice was a member of the Brooklyn Art Association where he often exhibited his paintings.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "Levi Wells Prentice",
-    "paintings": ["levi_wells_prentice_blossoms.html", "levi_wells_prentice_mountains.html"],
-    "slug": "levi_wells_prentice_art-html",
-    "tinyDescription": "American 1851 – 1935"
+   "alias" : "",
+   "body" : "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm. However, after moving to Brooklyn circa 1883, he eventually abandoned landscapes for still-lifes and it these for which he is best known. There are significant gaps in his biography and it is not known whether he associated with, or knew, fellow Brooklynite, noted still-life painter, Joseph Decker. It is known, however, that his resume during his time in Brooklyn included carpentry, frame-making, and teaching art. Prentice's still-life compositions illustrate his remarkable skill at rendering color, form, and texture, with dramatic contrasts between the background and foreground subject. He did not totally abandon landscape painting, as many of his still-life compositions are depicted within a landscape setting, instead of the usual table top setting. His works exhibit a 3-D quality (trompe l'oeil) as if you could pluck the fruit right from the canvas. His sketchy biography also reveals that throughout his career, in addition to the Adirondack Mountains and Lake George, Prentice either lived or worked in New York's Hudson River Valley and Niagara Falls areas, and Arizona's Grand Canyon area. Prentice was a member of the Brooklyn Art Association where he often exhibited his paintings.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "Levi Wells Prentice",
+   "paintings" : [
+      "levi_wells_prentice_blossoms-html",
+      "levi_wells_prentice_mountains-html"
+   ],
+   "slug" : "levi_wells_prentice_art-html",
+   "tinyDescription" : "American 1851 – 1935"
 }

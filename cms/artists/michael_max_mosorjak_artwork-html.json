@@ -1,12 +1,16 @@
 {
-    "alias": "",
-    "body": "Michael Mosorjak is a contemporary artist practicing in oil and gouache painting techniques. His skillful, realistic renderings have not only gained him a following among art collectors, but as an instructor of art history and basic drawing (Mount Aloysius College, Cresson, PA, painting technique and materials, Montserrat College of Art, Beverly, MA,); and lecturer on painting conservation (Indiana University of Pennsylvania, Indiana, PA and Boston University, Boston, MA). In addition to his painting and teaching, Michael is a skilled art conservationist for both private collectors and public museums (The Western Center for Art Conservation, Denver, CO; Art Conservation Laboratory, Raymond, NH; and Westmoreland Museum of American Art, Greensburg, PA). Michael received a Bachelor of Fine Arts in Painting and Printmaking (Boston University, Boston, MA), and a Master of Fine Arts in Painting Conservation – Dominican University, River Forest. IL and Villa Schifanoia Graduate School of Fine Arts (Florence, Italy). His thesis was The Practice of Picture Cleaning in Oil and Tempera Mediums. He has authored two books, Why Do?... A Book of Answers, and an autobiography, Fifty Years a Conservator of Paintings. Michael's paintings almost always contain an anomaly or a little mystery. This painting represents an old church cemetery along the Forbes Road near Laughlintown, in Westmoreland County, Pennsylvania, which has been witness to a prodigal woman in white.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "Michael Mosorjak",
-    "paintings": ["michael_mosorjak_street.html", "michael_max_mosorjak_lady.html", "michael_max_mosorjak_glade.html"],
-    "slug": "michael_max_mosorjak_artwork-html",
-    "tinyDescription": "American 20th and 21st century"
+   "alias" : "",
+   "body" : "Michael Mosorjak is a contemporary artist practicing in oil and gouache painting techniques. His skillful, realistic renderings have not only gained him a following among art collectors, but as an instructor of art history and basic drawing (Mount Aloysius College, Cresson, PA, painting technique and materials, Montserrat College of Art, Beverly, MA,); and lecturer on painting conservation (Indiana University of Pennsylvania, Indiana, PA and Boston University, Boston, MA). In addition to his painting and teaching, Michael is a skilled art conservationist for both private collectors and public museums (The Western Center for Art Conservation, Denver, CO; Art Conservation Laboratory, Raymond, NH; and Westmoreland Museum of American Art, Greensburg, PA). Michael received a Bachelor of Fine Arts in Painting and Printmaking (Boston University, Boston, MA), and a Master of Fine Arts in Painting Conservation – Dominican University, River Forest. IL and Villa Schifanoia Graduate School of Fine Arts (Florence, Italy). His thesis was The Practice of Picture Cleaning in Oil and Tempera Mediums. He has authored two books, Why Do?... A Book of Answers, and an autobiography, Fifty Years a Conservator of Paintings. Michael's paintings almost always contain an anomaly or a little mystery. This painting represents an old church cemetery along the Forbes Road near Laughlintown, in Westmoreland County, Pennsylvania, which has been witness to a prodigal woman in white.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "Michael Mosorjak",
+   "paintings" : [
+      "michael_mosorjak_street-html",
+      "michael_max_mosorjak_lady-html",
+      "michael_max_mosorjak_glade-html"
+   ],
+   "slug" : "michael_max_mosorjak_artwork-html",
+   "tinyDescription" : "American 20th and 21st century"
 }

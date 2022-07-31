@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Hess was born in Philadelphia, PA, and as a child, he contracted Typhoid fever, which left him crippled. Hess must have expressed an early interest in art and shown some talent, as his study of art at The Pennsylvania Academy of the Arts was financed by a Philadelphia benefactor. Hess was an influence on well-known African-American artist, Henry Ossawa Tanner (1859 – 1937) from Philadelphia. It was a young Hess who advised the then 13-year-old Tanner (Hess was about Tanner's age at the time), who so wanted to be a marine painter, to consider becoming an animal painter, like himself, or landscape painter instead -- advise that Tanner followed. Did Hess's frail health confine him to Philadelphia? Geoffrey Fleming, Executive Director of the Huntington Museum of Art (Huntington, WV) has found some information that suggests that Hess may be the same James Hess that traveled to Lawrence, Kansas in the mid-1870s to study painting with the somewhat notorious Mrs. James H. (Flavia) Canfield. While there this James Hess created a painting of the University of Kansas, titled \"View of Old North College\" for his landlord in exchange for rent. Records show that Hess did paint western scenes and there is also photograph by a James Hess titled \"View of Old North College\", dated 1870s in the archives of Kansas University (Lawrence, Kansas). Further, Hess worked with Philadelphia photographer, Charles Crowthers; therefore, one could surmise that Hess was familiar with photography.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "James N.",
-    "paintings": ["james_n_hess_sheep.html", "james_n_hess_boys_at_creek.html"],
-    "slug": "james_n_hess_artwork-html",
-    "tinyDescription": "J.N. Hess"
+   "alias" : "",
+   "body" : "Hess was born in Philadelphia, PA, and as a child, he contracted Typhoid fever, which left him crippled. Hess must have expressed an early interest in art and shown some talent, as his study of art at The Pennsylvania Academy of the Arts was financed by a Philadelphia benefactor. Hess was an influence on well-known African-American artist, Henry Ossawa Tanner (1859 – 1937) from Philadelphia. It was a young Hess who advised the then 13-year-old Tanner (Hess was about Tanner's age at the time), who so wanted to be a marine painter, to consider becoming an animal painter, like himself, or landscape painter instead -- advise that Tanner followed. Did Hess's frail health confine him to Philadelphia? Geoffrey Fleming, Executive Director of the Huntington Museum of Art (Huntington, WV) has found some information that suggests that Hess may be the same James Hess that traveled to Lawrence, Kansas in the mid-1870s to study painting with the somewhat notorious Mrs. James H. (Flavia) Canfield. While there this James Hess created a painting of the University of Kansas, titled \"View of Old North College\" for his landlord in exchange for rent. Records show that Hess did paint western scenes and there is also photograph by a James Hess titled \"View of Old North College\", dated 1870s in the archives of Kansas University (Lawrence, Kansas). Further, Hess worked with Philadelphia photographer, Charles Crowthers; therefore, one could surmise that Hess was familiar with photography.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "James N.",
+   "paintings" : [
+      "james_n_hess_sheep-html",
+      "james_n_hess_boys_at_creek-html"
+   ],
+   "slug" : "james_n_hess_artwork-html",
+   "tinyDescription" : "J.N. Hess"
 }

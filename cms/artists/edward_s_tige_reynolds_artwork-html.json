@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Edward S. \"Tige\" Reynolds",
-    "paintings": ["edward_s_reynolds_uncle_sam.html"],
-    "slug": "edward_s_tige_reynolds_artwork-html",
-    "tinyDescription": "American, 1877 – 1931"
+   "hasLandingPage" : false,
+   "name" : "Edward S. \"Tige\" Reynolds",
+   "paintings" : [
+      "edward_s_reynolds_uncle_sam-html"
+   ],
+   "slug" : "edward_s_tige_reynolds_artwork-html",
+   "tinyDescription" : "American, 1877 – 1931"
 }

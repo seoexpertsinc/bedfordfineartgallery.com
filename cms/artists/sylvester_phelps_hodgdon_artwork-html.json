@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Sylvester Phelps Hodgdon",
-    "paintings": ["sylvester_phelps_hodgdon_river.html"],
-    "slug": "sylvester_phelps_hodgdon_artwork-html",
-    "tinyDescription": "American 1830 - 1906"
+   "hasLandingPage" : false,
+   "name" : "Sylvester Phelps Hodgdon",
+   "paintings" : [
+      "sylvester_phelps_hodgdon_river-html"
+   ],
+   "slug" : "sylvester_phelps_hodgdon_artwork-html",
+   "tinyDescription" : "American 1830 - 1906"
 }

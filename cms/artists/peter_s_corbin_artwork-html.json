@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Peter S. Corbin",
-    "paintings": ["peter_s_corbin_geese.html"],
-    "slug": "peter_s_corbin_artwork-html",
-    "tinyDescription": "American, b. 1945"
+   "hasLandingPage" : false,
+   "name" : "Peter S. Corbin",
+   "paintings" : [
+      "peter_s_corbin_geese-html"
+   ],
+   "slug" : "peter_s_corbin_artwork-html",
+   "tinyDescription" : "American, b. 1945"
 }

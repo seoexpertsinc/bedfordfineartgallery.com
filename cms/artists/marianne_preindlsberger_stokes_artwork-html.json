@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Marianne Preindlsberger Stokes",
-    "paintings": ["marianne_preindlsberger_stokes_cows.html"],
-    "slug": "marianne_preindlsberger_stokes_artwork-html",
-    "tinyDescription": "Austrian-English 1855 - 1927"
+   "hasLandingPage" : false,
+   "name" : "Marianne Preindlsberger Stokes",
+   "paintings" : [
+      "marianne_preindlsberger_stokes_cows-html"
+   ],
+   "slug" : "marianne_preindlsberger_stokes_artwork-html",
+   "tinyDescription" : "Austrian-English 1855 - 1927"
 }

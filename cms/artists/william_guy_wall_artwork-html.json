@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Guy Wall",
-    "paintings": ["william_guy_wall_sojourn.html"],
-    "slug": "william_guy_wall_artwork-html",
-    "tinyDescription": "American, 1792 – 1864"
+   "hasLandingPage" : false,
+   "name" : "William Guy Wall",
+   "paintings" : [
+      "william_guy_wall_sojourn-html"
+   ],
+   "slug" : "william_guy_wall_artwork-html",
+   "tinyDescription" : "American, 1792 – 1864"
 }

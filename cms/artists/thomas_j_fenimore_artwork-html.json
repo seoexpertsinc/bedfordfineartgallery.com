@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Thomas J. Fenimore",
-    "paintings": ["thomas_fenimore_river.html"],
-    "slug": "thomas_j_fenimore_artwork-html",
-    "tinyDescription": "1842 - 1873"
+   "hasLandingPage" : false,
+   "name" : "Thomas J. Fenimore",
+   "paintings" : [
+      "thomas_fenimore_river-html"
+   ],
+   "slug" : "thomas_j_fenimore_artwork-html",
+   "tinyDescription" : "1842 - 1873"
 }

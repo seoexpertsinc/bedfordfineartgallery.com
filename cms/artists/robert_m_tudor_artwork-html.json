@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Robert M. Tudor",
-    "paintings": ["robert_m_tudor_catskills.html"],
-    "slug": "robert_m_tudor_artwork-html",
-    "tinyDescription": "American 19th Century"
+   "hasLandingPage" : false,
+   "name" : "Robert M. Tudor",
+   "paintings" : [
+      "robert_m_tudor_catskills-html"
+   ],
+   "slug" : "robert_m_tudor_artwork-html",
+   "tinyDescription" : "American 19th Century"
 }

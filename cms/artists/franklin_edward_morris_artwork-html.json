@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Franklin Edward Morris",
-    "paintings": ["franklin_morris_beach.html"],
-    "slug": "franklin_edward_morris_artwork-html",
-    "tinyDescription": "American 1938 - 2009"
+   "hasLandingPage" : false,
+   "name" : "Franklin Edward Morris",
+   "paintings" : [
+      "franklin_morris_beach-html"
+   ],
+   "slug" : "franklin_edward_morris_artwork-html",
+   "tinyDescription" : "American 1938 - 2009"
 }

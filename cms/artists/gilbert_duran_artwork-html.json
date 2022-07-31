@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Gilbert Duran",
-    "paintings": ["gilbert_duran_hummingbird.html"],
-    "slug": "gilbert_duran_artwork-html",
-    "tinyDescription": "American 1936 -     "
+   "hasLandingPage" : false,
+   "name" : "Gilbert Duran",
+   "paintings" : [
+      "gilbert_duran_hummingbird-html"
+   ],
+   "slug" : "gilbert_duran_artwork-html",
+   "tinyDescription" : "American 1936 -     "
 }

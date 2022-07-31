@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Blendon Reed Campbell",
-    "paintings": ["blendon_reed_campbell_hillside.html"],
-    "slug": "blendon_reed_campbell_artwork-html",
-    "tinyDescription": "American 1872 - 1969"
+   "hasLandingPage" : false,
+   "name" : "Blendon Reed Campbell",
+   "paintings" : [
+      "blendon_reed_campbell_hillside-html"
+   ],
+   "slug" : "blendon_reed_campbell_artwork-html",
+   "tinyDescription" : "American 1872 - 1969"
 }

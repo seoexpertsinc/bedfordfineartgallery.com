@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Hugh Bolton Jones",
-    "paintings": ["hugh_bolton_jones_ergomont.html"],
-    "slug": "hugh_bolton_jones_artwork-html",
-    "tinyDescription": "American 1848 - 1927"
+   "hasLandingPage" : false,
+   "name" : "Hugh Bolton Jones",
+   "paintings" : [
+      "hugh_bolton_jones_ergomont-html"
+   ],
+   "slug" : "hugh_bolton_jones_artwork-html",
+   "tinyDescription" : "American 1848 - 1927"
 }

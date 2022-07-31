@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Milne Ramsey",
-    "paintings": ["milne_ramsey_path.html"],
-    "slug": "milne_ramsey_artwork-html",
-    "tinyDescription": "American 1847 - 1915"
+   "hasLandingPage" : false,
+   "name" : "Milne Ramsey",
+   "paintings" : [
+      "milne_ramsey_path-html"
+   ],
+   "slug" : "milne_ramsey_artwork-html",
+   "tinyDescription" : "American 1847 - 1915"
 }

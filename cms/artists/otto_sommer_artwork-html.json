@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Otto Sommer",
-    "paintings": ["otto_sommer_deer.html"],
-    "slug": "otto_sommer_artwork-html",
-    "tinyDescription": "1811 – 1911"
+   "hasLandingPage" : false,
+   "name" : "Otto Sommer",
+   "paintings" : [
+      "otto_sommer_deer-html"
+   ],
+   "slug" : "otto_sommer_artwork-html",
+   "tinyDescription" : "1811 – 1911"
 }

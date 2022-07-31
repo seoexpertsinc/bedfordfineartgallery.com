@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Andrew Thomas Schwartz",
-    "paintings": ["andrew_thomas_schwartz_flowers.html"],
-    "slug": "andrew_thomas_schwartz_artwork-html",
-    "tinyDescription": "1867 - 1942"
+   "hasLandingPage" : false,
+   "name" : "Andrew Thomas Schwartz",
+   "paintings" : [
+      "andrew_thomas_schwartz_flowers-html"
+   ],
+   "slug" : "andrew_thomas_schwartz_artwork-html",
+   "tinyDescription" : "1867 - 1942"
 }

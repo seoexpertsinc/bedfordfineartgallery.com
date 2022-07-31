@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Jessica Tcherepnine",
-    "paintings": ["jessica_tcherepnine_roses.html"],
-    "slug": "jessica_tcherepnine_artwork-html",
-    "tinyDescription": "British-American 1938-2018"
+   "hasLandingPage" : false,
+   "name" : "Jessica Tcherepnine",
+   "paintings" : [
+      "jessica_tcherepnine_roses-html"
+   ],
+   "slug" : "jessica_tcherepnine_artwork-html",
+   "tinyDescription" : "British-American 1938-2018"
 }

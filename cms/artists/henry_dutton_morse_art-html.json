@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Born in Boston, Massachusetts, Morse can be considered an American sporting artist, known for his exquisite renderings of dogs and wildlife. He learned engraving from his father; however, he turned to jewelry making and later to diamond cutting. He is the first known American to have practiced this art and he further introduced revolutionary new cutting practices. A natural artist, his earlier training for which a good eye is required, prepared him for his later career as a painter. His finely executed paintings have been exhibited at the Boston Art Club and the National Academy of Design. He is listed in \"Davenport's Art Reference\" (Davenport, 2005), \"The Artists Bluebook\" (Dunbier, 2005), \"Mantle Field's Dictionary of American Painters, Sculptors and Engravers\" (Opitz, 1986), and the \"New York Historical Society's Dictionary of Artists in America\" (Grace and Wallace, 1957).",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "Henry Dutton Morse",
-    "paintings": ["henry_dutton_morse_horse.html", "henry_dutton_morse_dog_day.html"],
-    "slug": "henry_dutton_morse_art-html",
-    "tinyDescription": "American, 1826 – 1888"
+   "alias" : "",
+   "body" : "Born in Boston, Massachusetts, Morse can be considered an American sporting artist, known for his exquisite renderings of dogs and wildlife. He learned engraving from his father; however, he turned to jewelry making and later to diamond cutting. He is the first known American to have practiced this art and he further introduced revolutionary new cutting practices. A natural artist, his earlier training for which a good eye is required, prepared him for his later career as a painter. His finely executed paintings have been exhibited at the Boston Art Club and the National Academy of Design. He is listed in \"Davenport's Art Reference\" (Davenport, 2005), \"The Artists Bluebook\" (Dunbier, 2005), \"Mantle Field's Dictionary of American Painters, Sculptors and Engravers\" (Opitz, 1986), and the \"New York Historical Society's Dictionary of Artists in America\" (Grace and Wallace, 1957).",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "Henry Dutton Morse",
+   "paintings" : [
+      "henry_dutton_morse_horse-html",
+      "henry_dutton_morse_dog_day-html"
+   ],
+   "slug" : "henry_dutton_morse_art-html",
+   "tinyDescription" : "American, 1826 – 1888"
 }

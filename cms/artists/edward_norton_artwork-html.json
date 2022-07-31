@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Edward Norton",
-    "paintings": ["edward_norton_griffith_presidents.html"],
-    "slug": "edward_norton_artwork-html",
-    "tinyDescription": "E.N. Griffith"
+   "hasLandingPage" : false,
+   "name" : "Edward Norton",
+   "paintings" : [
+      "edward_norton_griffith_presidents-html"
+   ],
+   "slug" : "edward_norton_artwork-html",
+   "tinyDescription" : "E.N. Griffith"
 }

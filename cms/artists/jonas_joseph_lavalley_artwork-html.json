@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Jonas Joseph LaValley",
-    "paintings": ["jonas_joseph_lavalley_roses.html"],
-    "slug": "jonas_joseph_lavalley_artwork-html",
-    "tinyDescription": "American, 1858 - 1930"
+   "hasLandingPage" : false,
+   "name" : "Jonas Joseph LaValley",
+   "paintings" : [
+      "jonas_joseph_lavalley_roses-html"
+   ],
+   "slug" : "jonas_joseph_lavalley_artwork-html",
+   "tinyDescription" : "American, 1858 - 1930"
 }

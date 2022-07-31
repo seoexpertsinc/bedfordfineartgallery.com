@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Charles Harold Davis",
-    "paintings": ["charles_harold_davis_autumn.html"],
-    "slug": "charles_harold_davis_artwork-html",
-    "tinyDescription": "American 1856 - 1933"
+   "hasLandingPage" : false,
+   "name" : "Charles Harold Davis",
+   "paintings" : [
+      "charles_harold_davis_autumn-html"
+   ],
+   "slug" : "charles_harold_davis_artwork-html",
+   "tinyDescription" : "American 1856 - 1933"
 }

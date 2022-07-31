@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Allen Dean Cochran",
-    "paintings": ["allen_dean_chochran_winter.html"],
-    "slug": "allen_dean_cochran_artwork-html",
-    "tinyDescription": "American 1888 - 1935"
+   "hasLandingPage" : false,
+   "name" : "Allen Dean Cochran",
+   "paintings" : [
+      "allen_dean_chochran_winter-html"
+   ],
+   "slug" : "allen_dean_cochran_artwork-html",
+   "tinyDescription" : "American 1888 - 1935"
 }

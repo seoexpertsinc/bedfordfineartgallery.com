@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Benjamin Cohen",
-    "paintings": ["benjamin_cohen_path.html"],
-    "slug": "benjamin_cohen_artwork-html",
-    "tinyDescription": "American born 1869"
+   "hasLandingPage" : false,
+   "name" : "Benjamin Cohen",
+   "paintings" : [
+      "benjamin_cohen_path-html"
+   ],
+   "slug" : "benjamin_cohen_artwork-html",
+   "tinyDescription" : "American born 1869"
 }

@@ -1,17 +1,17 @@
 {
-    "alias": "",
-    "body": "Parker was born in New York City and had initially studied at the City University of New York for a career in business. Apparently, the siren song of art won him over and Parker abandoned his business track for that of painting in 1857. His first exhibit was a year later at the National Academy of Design (New York City) and he was elected an associate member in 1864, where he exhibited regularly. Active in the City's art community, he was a founder of the Brooklyn Art Association in 1861. Parker is known mostly for his picturesque scenes of Long Island, the Adirondack and Catskill mountains of New York State and the White Mountains of New Hampshire. He first visited Keene (NY) in Adirondacks in 1866 and would later make it his summer home. He was preceded there by Hudson River School artists Asher B. Durand Arthur Parton and John Casilear, in addition to a number of other notable artists such as John Kensett, Sanford Gifford, Frederick Perkins, and Alexander Helwig Wyant. In addition to the National Academy of Design, Parker also exhibited regularly at the Brooklyn Art Association and the Brooklyn Art Club.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "John Adams Parker",
-    "paintings": [
-        "john_adams_parker_adirondacks.html",
-        "john_adams_parker_mill.html",
-        "john_adams_parker_autumn.html",
-        "john_adams_parker_winter.html"
-    ],
-    "slug": "john_adams_parker-html",
-    "tinyDescription": "American 1829-1905"
+   "alias" : "",
+   "body" : "Parker was born in New York City and had initially studied at the City University of New York for a career in business. Apparently, the siren song of art won him over and Parker abandoned his business track for that of painting in 1857. His first exhibit was a year later at the National Academy of Design (New York City) and he was elected an associate member in 1864, where he exhibited regularly. Active in the City's art community, he was a founder of the Brooklyn Art Association in 1861. Parker is known mostly for his picturesque scenes of Long Island, the Adirondack and Catskill mountains of New York State and the White Mountains of New Hampshire. He first visited Keene (NY) in Adirondacks in 1866 and would later make it his summer home. He was preceded there by Hudson River School artists Asher B. Durand Arthur Parton and John Casilear, in addition to a number of other notable artists such as John Kensett, Sanford Gifford, Frederick Perkins, and Alexander Helwig Wyant. In addition to the National Academy of Design, Parker also exhibited regularly at the Brooklyn Art Association and the Brooklyn Art Club.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "John Adams Parker",
+   "paintings" : [
+      "john_adams_parker_adirondacks-html",
+      "john_adams_parker_mill-html",
+      "john_adams_parker_autumn-html",
+      "john_adams_parker_winter-html"
+   ],
+   "slug" : "john_adams_parker-html",
+   "tinyDescription" : "American 1829-1905"
 }

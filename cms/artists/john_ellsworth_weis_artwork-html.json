@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "John Ellsworth Weis",
-    "paintings": ["john_ellsworth_weis_easter.html"],
-    "slug": "john_ellsworth_weis_artwork-html",
-    "tinyDescription": "American 1892 - 1962"
+   "hasLandingPage" : false,
+   "name" : "John Ellsworth Weis",
+   "paintings" : [
+      "john_ellsworth_weis_easter-html"
+   ],
+   "slug" : "john_ellsworth_weis_artwork-html",
+   "tinyDescription" : "American 1892 - 1962"
 }

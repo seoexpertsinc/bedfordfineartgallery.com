@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Born in Cleves, OH, Myers first studied with Frank Duveneck and John Weiss at the Cincinnati Art Academy and later at the Pennsylvania Academy of the Fine Arts Summer Academy under Pennsylvania landscape painters Daniel Garber and Joseph Thurman Pearson, Jr. and early abstract painter Hugh \"Brecky\" Breckenridge. In 1923, Myers studied at the L'Académie Americaine des Beaux-Arts under the guidance of historical/allegorical painter Auguste François-Marie Gorguet and Neoclassic painter Jean Despujols, at Fontainebleau, France; a school established with the aid of the United States after World War I. In 1925 Myers returned to Europe on his honeymoon, traveling in France and Spain. In 1926 the couple traveled to the American west and met Joseph Henry Sharp, the \"father of the Taos Art Colony\" and visited the Monterey Peninsula. He taught at the Cincinnati Art Academy for 23 years made visits to Cape Ann and Rockport where he painted harbor scenes, and Taos, New Mexico. Meyers permanently moved to Pacific Grove, near Monterey in 1940, where he built a studio and focused on painting seascapes. Meyers was a prominent member of the Monterey art scene, along with other Armin C. Hansen and Donald Teague, and was president of the Carmel Art Association. Meyers was a member of the Cincinnati Art Club; MacDowell Society; Carmel Art Association; Southwest Art and Society of Independent Artists. He exhibited at the Cincinnati Museum (1917-40); Pennsylvania Academy of the Fine Arts (1920, 1st prize); Ohio State Fair (1923, 1st prize); Maxwell Gallery (San Francisco, CA, 1937); De Young Museum (San Francisco, CA, 1945); California State Fair (1952, 1st prize); Lodi Art Annual (1952, 1st prize); Oakland Art Gallery (1953, silver medal); and Society of Independent Artists.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "",
-    "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-    "name": "Frank Harmon Myers",
-    "paintings": ["frank_harmon_myers_market.html", "frank_harmon_myers_stream.html"],
-    "slug": "frank_harmon_myers_art-html",
-    "tinyDescription": "American 1899 – 1956"
+   "alias" : "",
+   "body" : "Born in Cleves, OH, Myers first studied with Frank Duveneck and John Weiss at the Cincinnati Art Academy and later at the Pennsylvania Academy of the Fine Arts Summer Academy under Pennsylvania landscape painters Daniel Garber and Joseph Thurman Pearson, Jr. and early abstract painter Hugh \"Brecky\" Breckenridge. In 1923, Myers studied at the L'Académie Americaine des Beaux-Arts under the guidance of historical/allegorical painter Auguste François-Marie Gorguet and Neoclassic painter Jean Despujols, at Fontainebleau, France; a school established with the aid of the United States after World War I. In 1925 Myers returned to Europe on his honeymoon, traveling in France and Spain. In 1926 the couple traveled to the American west and met Joseph Henry Sharp, the \"father of the Taos Art Colony\" and visited the Monterey Peninsula. He taught at the Cincinnati Art Academy for 23 years made visits to Cape Ann and Rockport where he painted harbor scenes, and Taos, New Mexico. Meyers permanently moved to Pacific Grove, near Monterey in 1940, where he built a studio and focused on painting seascapes. Meyers was a prominent member of the Monterey art scene, along with other Armin C. Hansen and Donald Teague, and was president of the Carmel Art Association. Meyers was a member of the Cincinnati Art Club; MacDowell Society; Carmel Art Association; Southwest Art and Society of Independent Artists. He exhibited at the Cincinnati Museum (1917-40); Pennsylvania Academy of the Fine Arts (1920, 1st prize); Ohio State Fair (1923, 1st prize); Maxwell Gallery (San Francisco, CA, 1937); De Young Museum (San Francisco, CA, 1945); California State Fair (1952, 1st prize); Lodi Art Annual (1952, 1st prize); Oakland Art Gallery (1953, silver medal); and Society of Independent Artists.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "name" : "Frank Harmon Myers",
+   "paintings" : [
+      "frank_harmon_myers_market-html",
+      "frank_harmon_myers_stream-html"
+   ],
+   "slug" : "frank_harmon_myers_art-html",
+   "tinyDescription" : "American 1899 – 1956"
 }

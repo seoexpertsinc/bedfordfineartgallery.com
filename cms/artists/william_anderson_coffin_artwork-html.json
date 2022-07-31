@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Anderson Coffin",
-    "paintings": ["william_anderson_coffin_moonrise.html"],
-    "slug": "william_anderson_coffin_artwork-html",
-    "tinyDescription": "American, 1855 - 1925"
+   "hasLandingPage" : false,
+   "name" : "William Anderson Coffin",
+   "paintings" : [
+      "william_anderson_coffin_moonrise-html"
+   ],
+   "slug" : "william_anderson_coffin_artwork-html",
+   "tinyDescription" : "American, 1855 - 1925"
 }

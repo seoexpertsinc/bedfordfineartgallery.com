@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "William Holbrook Beard",
-    "paintings": ["william_holbrook_beard_squirrel.html"],
-    "slug": "william_holbrook_beard_artwork-html",
-    "tinyDescription": "American, 1825 - 1900"
+   "hasLandingPage" : false,
+   "name" : "William Holbrook Beard",
+   "paintings" : [
+      "william_holbrook_beard_squirrel-html"
+   ],
+   "slug" : "william_holbrook_beard_artwork-html",
+   "tinyDescription" : "American, 1825 - 1900"
 }

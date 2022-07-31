@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Max H. Antlers",
-    "paintings": ["max_antlers_forest.html"],
-    "slug": "max_h_antlers_artwork-html",
-    "tinyDescription": "German-American 1873-1952"
+   "hasLandingPage" : false,
+   "name" : "Max H. Antlers",
+   "paintings" : [
+      "max_antlers_forest-html"
+   ],
+   "slug" : "max_h_antlers_artwork-html",
+   "tinyDescription" : "German-American 1873-1952"
 }

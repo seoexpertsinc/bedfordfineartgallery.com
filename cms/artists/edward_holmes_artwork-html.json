@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Edward Holmes",
-    "paintings": ["edward_holmes_leading.html"],
-    "slug": "edward_holmes_artwork-html",
-    "tinyDescription": "British, died 1893"
+   "hasLandingPage" : false,
+   "name" : "Edward Holmes",
+   "paintings" : [
+      "edward_holmes_leading-html"
+   ],
+   "slug" : "edward_holmes_artwork-html",
+   "tinyDescription" : "British, died 1893"
 }

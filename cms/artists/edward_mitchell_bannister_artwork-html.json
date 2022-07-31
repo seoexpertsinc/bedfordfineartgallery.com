@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Edward Mitchell Bannister",
-    "paintings": ["edward_mitchell_bannister_river.html"],
-    "slug": "edward_mitchell_bannister_artwork-html",
-    "tinyDescription": "American 1828 - 1901"
+   "hasLandingPage" : false,
+   "name" : "Edward Mitchell Bannister",
+   "paintings" : [
+      "edward_mitchell_bannister_river-html"
+   ],
+   "slug" : "edward_mitchell_bannister_artwork-html",
+   "tinyDescription" : "American 1828 - 1901"
 }

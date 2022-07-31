@@ -1,23 +1,23 @@
 {
-    "alias": "E.A. Poole,��Eugene A. Poole",
-    "body": "Eugene Poole was southwestern Pennsylvania landscape painter—one of the Scalp Level artists who painted alongside George Hetzel, founder of the Scalp Level Movement. Poole was born in Pooleville, Maryland and studied at the Pennsylvania Academy of Fine Arts. Poole later traveled to Paris where he attended the Ecole de Beaux Arts and studied with French portrait painter, Leon Bonnat. After returning to the United States, he gained recognitions for his sculpted busts of Robert E. Lee, General Stonewall Jackson, and General Joseph E. Johnson. Given his Paris training, Poole also painted numerous portraits, some of which hung in the Corcoran Gallery in Washington, D.C.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "Eugene Alonzo Poole , E.A. Poole, Eugene A. Poole , ,(American, 1841 ? 1912), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "Eugene Alonzo Poole (aka E.A. Poole, Eugene A. Poole) Artist / Painter - Painting / Fine Art Work",
-    "name": "Eugene Alonzo Poole",
-    "paintings": [
-        "eugene_alonzo_poole_path.html",
-        "eugene_alonzo_poole_sunset.html",
-        "eugene_alonzo_poole_waterfall.html",
-        "eugene_alonzo_poole_sheep.html",
-        "eugene_alonzo_poole_cows.html",
-        "eugene_alonzo_poole_skiff.html",
-        "eugene_alonzo_poole_fishing.html",
-        "eugene_alonzo_poole_footbridge.html",
-        "eugene_alonzo_poole_stream.html",
-        "eugene_alonzo_poole_coast.html"
-    ],
-    "slug": "eugene_alonzo_poole-html",
-    "tinyDescription": "American, 1841 – 1912"
+   "alias" : "E.A. Poole,��Eugene A. Poole",
+   "body" : "Eugene Poole was southwestern Pennsylvania landscape painter—one of the Scalp Level artists who painted alongside George Hetzel, founder of the Scalp Level Movement. Poole was born in Pooleville, Maryland and studied at the Pennsylvania Academy of Fine Arts. Poole later traveled to Paris where he attended the Ecole de Beaux Arts and studied with French portrait painter, Leon Bonnat. After returning to the United States, he gained recognitions for his sculpted busts of Robert E. Lee, General Stonewall Jackson, and General Joseph E. Johnson. Given his Paris training, Poole also painted numerous portraits, some of which hung in the Corcoran Gallery in Washington, D.C.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "Eugene Alonzo Poole , E.A. Poole, Eugene A. Poole , ,(American, 1841 ? 1912), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "Eugene Alonzo Poole (aka E.A. Poole, Eugene A. Poole) Artist / Painter - Painting / Fine Art Work",
+   "name" : "Eugene Alonzo Poole",
+   "paintings" : [
+      "eugene_alonzo_poole_path-html",
+      "eugene_alonzo_poole_sunset-html",
+      "eugene_alonzo_poole_waterfall-html",
+      "eugene_alonzo_poole_sheep-html",
+      "eugene_alonzo_poole_cows-html",
+      "eugene_alonzo_poole_skiff-html",
+      "eugene_alonzo_poole_fishing-html",
+      "eugene_alonzo_poole_footbridge-html",
+      "eugene_alonzo_poole_stream-html",
+      "eugene_alonzo_poole_coast-html"
+   ],
+   "slug" : "eugene_alonzo_poole-html",
+   "tinyDescription" : "American, 1841 – 1912"
 }

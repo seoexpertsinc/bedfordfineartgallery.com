@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Gustave Adolph Wiegand",
-    "paintings": ["gustave_adolph_wiegand_house_with_pond.html"],
-    "slug": "gustave_adolph_wiegand_artwork-html",
-    "tinyDescription": "German-American 1870 – 1957"
+   "hasLandingPage" : false,
+   "name" : "Gustave Adolph Wiegand",
+   "paintings" : [
+      "gustave_adolph_wiegand_house_with_pond-html"
+   ],
+   "slug" : "gustave_adolph_wiegand_artwork-html",
+   "tinyDescription" : "German-American 1870 – 1957"
 }

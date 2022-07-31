@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Carl Sommer",
-    "paintings": ["charles_august_sommer_traveler.html"],
-    "slug": "carl_sommer_artwork-html",
-    "tinyDescription": "1829 – 1894"
+   "hasLandingPage" : false,
+   "name" : "Carl Sommer",
+   "paintings" : [
+      "charles_august_sommer_traveler-html"
+   ],
+   "slug" : "carl_sommer_artwork-html",
+   "tinyDescription" : "1829 – 1894"
 }

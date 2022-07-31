@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Frederic Rondel, Sr",
-    "paintings": ["frederic_rondel_sr_boating.html"],
-    "slug": "frederic_rondel_sr_artwork-html",
-    "tinyDescription": "American 1826 - 1892"
+   "hasLandingPage" : false,
+   "name" : "Frederic Rondel, Sr",
+   "paintings" : [
+      "frederic_rondel_sr_boating-html"
+   ],
+   "slug" : "frederic_rondel_sr_artwork-html",
+   "tinyDescription" : "American 1826 - 1892"
 }

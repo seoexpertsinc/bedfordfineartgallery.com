@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "James Lobley",
-    "paintings": ["james_lobley_poor.html"],
-    "slug": "james_lobley_artwork-html",
-    "tinyDescription": "British, 1829 – 1888"
+   "hasLandingPage" : false,
+   "name" : "James Lobley",
+   "paintings" : [
+      "james_lobley_poor-html"
+   ],
+   "slug" : "james_lobley_artwork-html",
+   "tinyDescription" : "British, 1829 – 1888"
 }

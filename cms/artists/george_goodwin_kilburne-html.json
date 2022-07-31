@@ -1,12 +1,15 @@
 {
-    "alias": "G. G. Kilburne",
-    "body": "George Goodwin Kilburne was one of the most sought after artists in England. His early training as an engraver provided him with an eye for exacting detail, which served him later as a painter. He is best known as a genre painter and watercolourist. His paintings were often of the British upper classes and beautiful ultra-fashionable women. He executed his paintings with exquisite detail to not only the subject, but to their mode of dress and to their surroundings. After the death of Emperor Napoleon III in France, Kilburne was commissioned by Empress Eugenie to paint several pictures for her. Kilburne had accumulated a collection of arms and armour, which often appeared in his paintings.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "George Goodwin Kilburne , G. G. Kilburne, , ,(British, 1839 ? 1924), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "George Goodwin Kilburne (aka G. G. Kilburne) Artist / Painter - Painting / Fine Art Work",
-    "name": "George Goodwin Kilburne",
-    "paintings": ["george_goodwin_kilburne_offering.html", "george_goodwin_kilburne_trysting.html"],
-    "slug": "george_goodwin_kilburne-html",
-    "tinyDescription": "British, 1839 – 1924"
+   "alias" : "G. G. Kilburne",
+   "body" : "George Goodwin Kilburne was one of the most sought after artists in England. His early training as an engraver provided him with an eye for exacting detail, which served him later as a painter. He is best known as a genre painter and watercolourist. His paintings were often of the British upper classes and beautiful ultra-fashionable women. He executed his paintings with exquisite detail to not only the subject, but to their mode of dress and to their surroundings. After the death of Emperor Napoleon III in France, Kilburne was commissioned by Empress Eugenie to paint several pictures for her. Kilburne had accumulated a collection of arms and armour, which often appeared in his paintings.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "George Goodwin Kilburne , G. G. Kilburne, , ,(British, 1839 ? 1924), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "George Goodwin Kilburne (aka G. G. Kilburne) Artist / Painter - Painting / Fine Art Work",
+   "name" : "George Goodwin Kilburne",
+   "paintings" : [
+      "george_goodwin_kilburne_offering-html",
+      "george_goodwin_kilburne_trysting-html"
+   ],
+   "slug" : "george_goodwin_kilburne-html",
+   "tinyDescription" : "British, 1839 – 1924"
 }

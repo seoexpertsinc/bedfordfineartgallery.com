@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Benjamin F. Hawley",
-    "paintings": ["benjamin_f_hawley_fall.html"],
-    "slug": "benjamin_f_hawley_artwork-html",
-    "tinyDescription": "American, early 20th century"
+   "hasLandingPage" : false,
+   "name" : "Benjamin F. Hawley",
+   "paintings" : [
+      "benjamin_f_hawley_fall-html"
+   ],
+   "slug" : "benjamin_f_hawley_artwork-html",
+   "tinyDescription" : "American, early 20th century"
 }

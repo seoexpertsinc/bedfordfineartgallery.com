@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Ferdinand Alexander Wust",
-    "paintings": ["ferdinand_wust_storm.html"],
-    "slug": "ferdinand_alexander_wust_artwork-html",
-    "tinyDescription": "Dutch-American,"
+   "hasLandingPage" : false,
+   "name" : "Ferdinand Alexander Wust",
+   "paintings" : [
+      "ferdinand_wust_storm-html"
+   ],
+   "slug" : "ferdinand_alexander_wust_artwork-html",
+   "tinyDescription" : "Dutch-American,"
 }

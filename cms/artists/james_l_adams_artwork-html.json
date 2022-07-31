@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "James L Adams",
-    "paintings": ["james_l_adams_boulders.html"],
-    "slug": "james_l_adams_artwork-html",
-    "tinyDescription": "British 1847-1901"
+   "hasLandingPage" : false,
+   "name" : "James L Adams",
+   "paintings" : [
+      "james_l_adams_boulders-html"
+   ],
+   "slug" : "james_l_adams_artwork-html",
+   "tinyDescription" : "British 1847-1901"
 }

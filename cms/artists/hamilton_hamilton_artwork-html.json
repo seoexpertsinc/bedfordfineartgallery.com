@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Hamilton Hamilton",
-    "paintings": ["hamilton_hamilton_girl.html"],
-    "slug": "hamilton_hamilton_artwork-html",
-    "tinyDescription": "American 1847 – 1928"
+   "hasLandingPage" : false,
+   "name" : "Hamilton Hamilton",
+   "paintings" : [
+      "hamilton_hamilton_girl-html"
+   ],
+   "slug" : "hamilton_hamilton_artwork-html",
+   "tinyDescription" : "American 1847 – 1928"
 }

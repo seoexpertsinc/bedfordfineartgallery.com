@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Charles Kaelin",
-    "paintings": ["charles_kaelin_rockport.html"],
-    "slug": "charles_kaelin_artwork-html",
-    "tinyDescription": "American 1858 - 1929"
+   "hasLandingPage" : false,
+   "name" : "Charles Kaelin",
+   "paintings" : [
+      "charles_kaelin_rockport-html"
+   ],
+   "slug" : "charles_kaelin_artwork-html",
+   "tinyDescription" : "American 1858 - 1929"
 }

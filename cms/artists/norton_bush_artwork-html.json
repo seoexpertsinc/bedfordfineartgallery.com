@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Norton Bush",
-    "paintings": ["norton_bush_autumn.html"],
-    "slug": "norton_bush_artwork-html",
-    "tinyDescription": "American, 1834 - 1894"
+   "hasLandingPage" : false,
+   "name" : "Norton Bush",
+   "paintings" : [
+      "norton_bush_autumn-html"
+   ],
+   "slug" : "norton_bush_artwork-html",
+   "tinyDescription" : "American, 1834 - 1894"
 }

@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Frederick Debourg Richards",
-    "paintings": ["frederick_debourg_richards_brook.html"],
-    "slug": "frederick_debourg_richards_artwork-html",
-    "tinyDescription": "American 1822 – 1903"
+   "hasLandingPage" : false,
+   "name" : "Frederick Debourg Richards",
+   "paintings" : [
+      "frederick_debourg_richards_brook-html"
+   ],
+   "slug" : "frederick_debourg_richards_artwork-html",
+   "tinyDescription" : "American 1822 – 1903"
 }

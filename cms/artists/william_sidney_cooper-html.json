@@ -1,20 +1,20 @@
 {
-    "alias": "",
-    "body": "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle, Thomas Sidney Cooper, one of England's most prominent mid-19th century painters. As with his great-uncle, the younger Cooper's forte was cattle and sheep, which are featured prominently in his watercolour and oil paintings. Cooper became a successful artist and exhibited at the Royal Academy, the Royal Society of British Artists, and the Royal Watercolour Society.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "William Sidney Cooper , , , ,(British, 1854 ? 1927), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "William Sidney Cooper Artist / Painter - Painting / Fine Art Work",
-    "name": "William Sidney Cooper",
-    "paintings": [
-        "william_sidney_cooper_sheep_in_field.html",
-        "william_sidney_cooper_grazing_sheep.html",
-        "william_sidney_cooper_sheep.html",
-        "william_sidney_cooper_coast.html",
-        "william_sidney_cooper_sheep_on_bridge.html",
-        "william_sidney_cooper_landscape.html",
-        "william_sidney_cooper_boat.html"
-    ],
-    "slug": "william_sidney_cooper-html",
-    "tinyDescription": "British, 1854 – 1927"
+   "alias" : "",
+   "body" : "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle, Thomas Sidney Cooper, one of England's most prominent mid-19th century painters. As with his great-uncle, the younger Cooper's forte was cattle and sheep, which are featured prominently in his watercolour and oil paintings. Cooper became a successful artist and exhibited at the Royal Academy, the Royal Society of British Artists, and the Royal Watercolour Society.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "William Sidney Cooper , , , ,(British, 1854 ? 1927), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "William Sidney Cooper Artist / Painter - Painting / Fine Art Work",
+   "name" : "William Sidney Cooper",
+   "paintings" : [
+      "william_sidney_cooper_sheep_in_field-html",
+      "william_sidney_cooper_grazing_sheep-html",
+      "william_sidney_cooper_sheep-html",
+      "william_sidney_cooper_coast-html",
+      "william_sidney_cooper_sheep_on_bridge-html",
+      "william_sidney_cooper_landscape-html",
+      "william_sidney_cooper_boat-html"
+   ],
+   "slug" : "william_sidney_cooper-html",
+   "tinyDescription" : "British, 1854 – 1927"
 }

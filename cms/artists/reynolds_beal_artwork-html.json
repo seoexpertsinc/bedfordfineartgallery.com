@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Reynolds Beal",
-    "paintings": ["reynolds_beale_railroad.html"],
-    "slug": "reynolds_beal_artwork-html",
-    "tinyDescription": "American 1866/67 - 1951"
+   "hasLandingPage" : false,
+   "name" : "Reynolds Beal",
+   "paintings" : [
+      "reynolds_beale_railroad-html"
+   ],
+   "slug" : "reynolds_beal_artwork-html",
+   "tinyDescription" : "American 1866/67 - 1951"
 }

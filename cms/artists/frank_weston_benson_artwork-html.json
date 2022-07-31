@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Frank Weston Benson",
-    "paintings": ["frank_weston_benson_mallards_art.html"],
-    "slug": "frank_weston_benson_artwork-html",
-    "tinyDescription": "American 1862 - 1951"
+   "hasLandingPage" : false,
+   "name" : "Frank Weston Benson",
+   "paintings" : [
+      "frank_weston_benson_mallards_art-html"
+   ],
+   "slug" : "frank_weston_benson_artwork-html",
+   "tinyDescription" : "American 1862 - 1951"
 }

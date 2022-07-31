@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Alexander Helwig Wyant",
-    "paintings": ["alexander_helwig_wyant_pond.html"],
-    "slug": "alexander_helwig_wyant_artwork-html",
-    "tinyDescription": "American 1836 - 1892"
+   "hasLandingPage" : false,
+   "name" : "Alexander Helwig Wyant",
+   "paintings" : [
+      "alexander_helwig_wyant_pond-html"
+   ],
+   "slug" : "alexander_helwig_wyant_artwork-html",
+   "tinyDescription" : "American 1836 - 1892"
 }

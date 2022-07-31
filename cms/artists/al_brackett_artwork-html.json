@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "A.L. Brackett",
-    "paintings": ["arthur_loring_brackett_woodcock.html"],
-    "slug": "al_brackett_artwork-html",
-    "tinyDescription": "American, 1855 – 1934"
+   "hasLandingPage" : false,
+   "name" : "A.L. Brackett",
+   "paintings" : [
+      "arthur_loring_brackett_woodcock-html"
+   ],
+   "slug" : "al_brackett_artwork-html",
+   "tinyDescription" : "American, 1855 – 1934"
 }

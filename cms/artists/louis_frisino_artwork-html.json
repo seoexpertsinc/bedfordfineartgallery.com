@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Louis Frisino",
-    "paintings": ["louis_frisino_cocker_spaniel.html"],
-    "slug": "louis_frisino_artwork-html",
-    "tinyDescription": "American 1934 - 2020"
+   "hasLandingPage" : false,
+   "name" : "Louis Frisino",
+   "paintings" : [
+      "louis_frisino_cocker_spaniel-html"
+   ],
+   "slug" : "louis_frisino_artwork-html",
+   "tinyDescription" : "American 1934 - 2020"
 }

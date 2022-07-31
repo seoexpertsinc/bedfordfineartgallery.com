@@ -1,7 +1,9 @@
 {
-    "hasLandingPage": false,
-    "name": "Frank Dvorak",
-    "paintings": ["frank_dvorak_girls.html"],
-    "slug": "frank_dvorak_artwork-html",
-    "tinyDescription": "Czech Republic – United States, 1862 – 1927"
+   "hasLandingPage" : false,
+   "name" : "Frank Dvorak",
+   "paintings" : [
+      "frank_dvorak_girls-html"
+   ],
+   "slug" : "frank_dvorak_artwork-html",
+   "tinyDescription" : "Czech Republic – United States, 1862 – 1927"
 }

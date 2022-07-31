@@ -1,12 +1,15 @@
 {
-    "alias": "",
-    "body": "Charles H. Clair is a well-known French artist and engraver who is best known for his paintings of charming bucolic pastoral compositions featuring sheep, cows, horses, and chickens. His work includes rustic landscapes and harvest scenes, and compositions featuring women washing laundry and shepardesses. He also produced landscapes and still-life paintings. His work was regularly exhibited at the Salon d'Artiste Francais, where he became a member in 1913.",
-    "hasLandingPage": true,
-    "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-    "metaKeywords": "Charles H Clair , Charles Clair, , ,(French 1860 ? 1930), aritst, paintings, artwork, art work, painting, art",
-    "metaTitle": "Charles H Clair (aka Charles Clair) Artist / Painter - Painting / Fine Art Work",
-    "name": "Charles H Clair",
-    "paintings": ["charles_h_clair_sheep.html", "charles_h_clair_creek.html"],
-    "slug": "charles_h_clair_art-html",
-    "tinyDescription": "French 1860 – 1930"
+   "alias" : "",
+   "body" : "Charles H. Clair is a well-known French artist and engraver who is best known for his paintings of charming bucolic pastoral compositions featuring sheep, cows, horses, and chickens. His work includes rustic landscapes and harvest scenes, and compositions featuring women washing laundry and shepardesses. He also produced landscapes and still-life paintings. His work was regularly exhibited at the Salon d'Artiste Francais, where he became a member in 1913.",
+   "hasLandingPage" : true,
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaKeywords" : "Charles H Clair , Charles Clair, , ,(French 1860 ? 1930), aritst, paintings, artwork, art work, painting, art",
+   "metaTitle" : "Charles H Clair (aka Charles Clair) Artist / Painter - Painting / Fine Art Work",
+   "name" : "Charles H Clair",
+   "paintings" : [
+      "charles_h_clair_sheep-html",
+      "charles_h_clair_creek-html"
+   ],
+   "slug" : "charles_h_clair_art-html",
+   "tinyDescription" : "French 1860 – 1930"
 }
