@@ -1,12 +1,14 @@
 <template>
     <div>
-        <Modal />
+        <!-- <Modal /> -->
         <div class="container primary">
             <section class="wrapper clearfix">
                 <div class="artwork_header">
-                    <h1><span class="artistTitle">Ernest Fredericks (1877 - 1959)</span> Midwest Winter</h1>
+                    <h1><span class="artistTitle">{{ artistNameWithTinyDescription }}</span>
+					 <span v-if="painting.artist.alias" class="alias">(&nbsp;&nbsp;aka&nbsp;&nbsp;{{ painting.artist.alias }}&nbsp;&nbsp;)</span>
+					{{ painting.title }}</h1>
 
-                    <p class="dimensions">Oil on canvas, 11 x 14 inches/Signed lower left</p>
+                    <p v-if="painting.dimensions" class="dimensions">{{ painting.dimensions }}</p>
 
                     <span class="hr"></span>
                 </div>
@@ -31,18 +33,15 @@
 
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
-                            <a
+                            <a v-if="painting.status !== 'Sold'"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 class="mobile_buy_cta"
                                 >Buy Painting / Contact Us</a
                             >
                         </div>
-                        <ul class="checkmark" style="width: 100%; max-width: 350px; margin: auto">
-                            <li>Available for purchase</li>
-                            <li>Professionally conserved and framed</li>
-                            <li>Competitively priced</li>
-                            <li>Custom framing available</li>
+                        <ul v-if="painting.highlights.length > 0 && painting.status !== 'Sold'" class="checkmark" style="width: 100%; max-width: 350px; margin: auto">
+                            <li v-for="(highlight, index) in painting.highlights" :key="index">{{ highlight.text }}</li>
                         </ul>
                     </div>
                     <div class="breadcrumb view_on_wall" style="margin-top: 10px">
@@ -81,9 +80,9 @@
                             >
                         </p>
                     </div>
-                    <div class="breadcrumb">
-                        <a href="ernest_fredericks_art.html" style="width: 90%; margin: 0 auto 24px auto"
-                            >View all Paintings from this Artist</a
+                    <div v-if="painting.artist.hasLandingPage" class="breadcrumb">
+                        <nuxt-link :to="`/${painting.artist.slug.replace('-html', '.html')}`" style="width: 90%; margin: 0 auto 24px auto"
+                            >View all Paintings from this Artist</nuxt-link
                         >
                     </div>
                     <!-- testimonials desktop -->
@@ -103,35 +102,18 @@
 
                 <div class="col_60 artwork_details">
                     <div class="desktop_cta">
-                        <ul class="checkmark">
-                            <li>Available for purchase</li>
-                            <li>Professionally conserved and framed</li>
-                            <li>Competitively priced</li>
-                            <li>Custom framing available</li>
+                        <ul v-if="painting.highlights.length > 0 && painting.status !== 'Sold'" class="checkmark">
+                            <li v-for="(highlight, index) in painting.highlights" :key="index">{{ highlight.text }}</li>
                         </ul>
                         <div class="breadcrumb" style="margin-top: 16px; text-align: left">
-                            <a
+                            <a v-if="painting.status !== 'Sold'"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 >Buy Painting / Contact Us</a
                             >
                         </div>
                     </div>
-                    <p>
-                        Landscape painter Ernest Fredericks, whose given name was Frederick Ernest Swedlun was born in
-                        McPherson, Kansas. It has been said that Frederick was influenced by Swedish artist and fellow
-                        Kansan Birger Sandzen, who was teaching at Bethany College in Lindsborg, KS, roughly 30 miles
-                        north of McPherson. Fredericks studied at the Chicago Academy of Fine Art and it was during
-                        period he took the name Ernest Fredericks due to prejudice against Swedes that existed at the
-                        time. Fredericks, familiar with the Ozark Mountains, described them as an “artist’s gold mine of
-                        color and composition.” He moved to Eureka Springs, AK in the Ozarks in 1950 where he painted
-                        the seasonal splendor of his favorite mountains. He also resumed using his given name Ernest
-                        Swedlun. He and his son, Glenn Swedlun, an artist in his own right, taught art classes in the
-                        Ozarks up until Ernest’s death in 1959. Fredericks was a member of the Chicago Society of
-                        Artists. He exhibited at the Art Institute of Chicago. Swedlun’s paintings are in the
-                        collections of the Ogden Museum of Southern Art (New Orleans, LA), the State of Illinois
-                        permanent art collection, and the Eureka Springs Historical Museum.
-                    </p>
+                    <div v-interpolation v-html="$md.render(painting.body)" />
 
                     <div id="contact_anchor" class="more_info">
                         <h3 style="text-transform: none; color: #841012; font-size: 1.1em; line-height: 1.3em">
@@ -162,11 +144,32 @@
                         <!-- </form> -->
                     </div>
                 </div>
-                <div class="breadcrumb"><a href="Artists--Bios.html">Back to Gallery</a></div>
+                <div class="breadcrumb"><nuxt-link :to="{ name: 'artist-bios' }">Back to Gallery</nuxt-link></div>
             </section>
         </div>
     </div>
 </template>
+
+<script>
+export default {
+	props: {
+		painting: {
+			type: Object,
+			required: true,
+		}
+	},
+	computed: {
+		artistNameWithTinyDescription() {
+            let nameWithTinyDescription = this.painting.artist.name
+            if (this.painting.artist.tinyDescription) {
+                nameWithTinyDescription += ` (${this.painting.artist.tinyDescription})`
+            }
+
+            return nameWithTinyDescription
+        },
+	},
+}
+</script>
 
 <style scoped>
 .artwork img {
