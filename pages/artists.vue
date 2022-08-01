@@ -9,25 +9,12 @@
                 </div>
 
                 <div class="col_100">
-                    <div class="artist_wrap">
-                        <div class="artist_col_img">
-                            <a href="elias_abberley_delightful.html"
-                                ><nuxt-img
-                                    src="/ea_grid.jpg"
-                                    alt="Elias Abberley (19th - 20th Century)
-"
-                            /></a>
-                        </div>
-                        <div class="artist_col_links">
-                            <div class="artist_container">
-                                <p>Elias Abberley (19th - 20th Century)</p>
-                                <ul>
-                                    <li class="artistheader">Painting:</li>
-                                    <li><a href="elias_abberley_delightful.html">1</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                    <ArtistPreview
+                        v-for="(artist, index) in artists"
+                        :key="index"
+                        :artist="artist"
+                        :painting-to-grid-image="paintingToGridImage"
+                    />
                 </div>
             </section>
         </div>
@@ -42,6 +29,24 @@
         </div>
     </div>
 </template>
+
+<script>
+import { loadPaintingToGridImage } from '~/libs/painting-images'
+import ArtistPreview from '~/components/ArtistPreview'
+
+export default {
+    components: { ArtistPreview },
+    async asyncData({ $content }) {
+        const artists = await $content('artists').sortBy('name', 'asc').fetch()
+        const paintingSlugs = artists.map((artist) => artist.paintings[0])
+
+        return {
+            artists,
+            paintingToGridImage: await loadPaintingToGridImage({ $content, paintingSlugs }),
+        }
+    },
+}
+</script>
 
 <router>
   {

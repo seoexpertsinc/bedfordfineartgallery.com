@@ -12,7 +12,6 @@ export default {
         let object, type
         try {
             try {
-				console.log(`Let's load ${urlSlugToSlug(params.slug)}`)
                 object = await $content('articles', urlSlugToSlug(params.slug)).fetch()
 				type = 'highlight'
             } catch (e) {
