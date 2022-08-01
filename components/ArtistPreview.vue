@@ -46,7 +46,7 @@ export default {
 			return nameWithTinyDescription
 		},
         gridImage() {
-			return this.paintingToGridImage[this.artist.paintings[0]]
+			return this.paintingToGridImage[this.artist.paintings[0]].gridImage
 		}
 	},
 }

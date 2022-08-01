@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import { loadPaintingToGridImage } from '~/libs/painting-images'
+import { loadPaintings } from '~/libs/paintings'
 import ArtistPreview from '~/components/ArtistPreview'
 
 export default {
@@ -42,7 +42,7 @@ export default {
 
         return {
             artists,
-            paintingToGridImage: await loadPaintingToGridImage({ $content, paintingSlugs }),
+            paintingToGridImage: await loadPaintings({ $content, paintingSlugs }),
         }
     },
 }

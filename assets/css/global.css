@@ -1989,3 +1989,12 @@ ul.checkmark li:after {
     color: #edebdb;
     padding-left: 10px;
 }
+
+span.alias {
+	text-transform:none;
+	font-size:14px;
+	display: block;
+	color: #888888;
+	margin-bottom:12px;
+	text-align:center;
+}
