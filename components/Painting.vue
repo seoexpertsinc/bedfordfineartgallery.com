@@ -4,9 +4,13 @@
         <div class="container primary">
             <section class="wrapper clearfix">
                 <div class="artwork_header">
-                    <h1><span class="artistTitle">{{ artistNameWithTinyDescription }}</span>
-					 <span v-if="painting.artist.alias" class="alias">(&nbsp;&nbsp;aka&nbsp;&nbsp;{{ painting.artist.alias }}&nbsp;&nbsp;)</span>
-					{{ painting.title }}</h1>
+                    <h1>
+                        <span class="artistTitle">{{ artistNameWithTinyDescription }}</span>
+                        <span v-if="painting.artist.alias" class="alias"
+                            >(&nbsp;&nbsp;aka&nbsp;&nbsp;{{ painting.artist.alias }}&nbsp;&nbsp;)</span
+                        >
+                        {{ painting.title }}
+                    </h1>
 
                     <p v-if="painting.dimensions" class="dimensions">{{ painting.dimensions }}</p>
 
@@ -23,25 +27,44 @@
                             >724-459-0612</a
                         >
                     </p>
-                    <div class="zoom_desktop">
-                        <ZoomTest />
-                    </div>
-                    <div class="zoom_mobile">
-                        <ZoomTestMobile />
-                    </div>
-                    <p class="zoom">Click image to zoom</p>
+                    <template v-if="sold">
+                        <div class="sold">
+                            <span class="soldTag">sold</span>
+                            <img
+                                class="art_detail"
+                                :alt="artistNameWithTinyDescription"
+                                :src="painting.mediumResImage"
+                            />
+                        </div>
+                    </template>
+                    <template v-else>
+                        <div class="zoom_desktop">
+                            <Zoom :mobile="false" :painting="painting" />
+                        </div>
+                        <div class="zoom_mobile">
+                            <Zoom :mobile="true" :painting="painting" />
+                        </div>
+                    </template>
+                    <p v-if="!sold" class="zoom">Click image to zoom</p>
 
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
-                            <a v-if="painting.status !== 'Sold'"
+                            <a
+                                v-if="!sold"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 class="mobile_buy_cta"
                                 >Buy Painting / Contact Us</a
                             >
                         </div>
-                        <ul v-if="painting.highlights.length > 0 && painting.status !== 'Sold'" class="checkmark" style="width: 100%; max-width: 350px; margin: auto">
-                            <li v-for="(highlight, index) in painting.highlights" :key="index">{{ highlight.text }}</li>
+                        <ul
+                            v-if="painting.highlights.length > 0 && !sold"
+                            class="checkmark"
+                            style="width: 100%; max-width: 350px; margin: auto"
+                        >
+                            <li v-for="(highlight, index) in painting.highlights" :key="index">
+                                {{ highlight.highlight }}
+                            </li>
                         </ul>
                     </div>
                     <div class="breadcrumb view_on_wall" style="margin-top: 10px">
@@ -58,7 +81,7 @@
                         ></artplacer>
                     </div>
 
-                    <div style="width: 100%; max-width: 340px; margin: auto">
+                    <div v-if="!sold" style="width: 100%; max-width: 340px; margin: auto">
                         <p style="text-align: left; padding-bottom: 10px; padding-top: 20px; font-weight: bold">
                             Click the button above, then 3 easy steps:
                         </p>
@@ -81,10 +104,13 @@
                         </p>
                     </div>
                     <div v-if="painting.artist.hasLandingPage" class="breadcrumb">
-                        <nuxt-link :to="`/${painting.artist.slug.replace('-html', '.html')}`" style="width: 90%; margin: 0 auto 24px auto"
+                        <nuxt-link
+                            :to="`/${painting.artist.slug.replace('-html', '.html')}`"
+                            style="width: 90%; margin: 0 auto 24px auto"
                             >View all Paintings from this Artist</nuxt-link
                         >
                     </div>
+                    <YouTubeVideo v-if="painting.youtubeEmbedLink" :link="painting.youtubeEmbedLink" />
                     <!-- testimonials desktop -->
                     <div
                         class="container test_int_desktop"
@@ -102,11 +128,14 @@
 
                 <div class="col_60 artwork_details">
                     <div class="desktop_cta">
-                        <ul v-if="painting.highlights.length > 0 && painting.status !== 'Sold'" class="checkmark">
-                            <li v-for="(highlight, index) in painting.highlights" :key="index">{{ highlight.text }}</li>
+                        <ul v-if="painting.highlights.length > 0 && !sold" class="checkmark">
+                            <li v-for="(highlight, index) in painting.highlights" :key="index">
+                                {{ highlight.highlight }}
+                            </li>
                         </ul>
                         <div class="breadcrumb" style="margin-top: 16px; text-align: left">
-                            <a v-if="painting.status !== 'Sold'"
+                            <a
+                                v-if="!sold"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 >Buy Painting / Contact Us</a
@@ -151,15 +180,18 @@
 </template>
 
 <script>
+import YouTubeVideo from '~/componets/YouTubeVideo'
+
 export default {
-	props: {
-		painting: {
-			type: Object,
-			required: true,
-		}
-	},
-	computed: {
-		artistNameWithTinyDescription() {
+    components: { YouTubeVideo },
+    props: {
+        painting: {
+            type: Object,
+            required: true,
+        },
+    },
+    computed: {
+        artistNameWithTinyDescription() {
             let nameWithTinyDescription = this.painting.artist.name
             if (this.painting.artist.tinyDescription) {
                 nameWithTinyDescription += ` (${this.painting.artist.tinyDescription})`
@@ -167,7 +199,10 @@ export default {
 
             return nameWithTinyDescription
         },
-	},
+		sold() {
+			return this.painting.status === 'Sold'
+		}
+    },
 }
 </script>
 
