@@ -180,7 +180,7 @@
 </template>
 
 <script>
-import YouTubeVideo from '~/componets/YouTubeVideo'
+import YouTubeVideo from '~/components/YouTubeVideo'
 
 export default {
     components: { YouTubeVideo },
