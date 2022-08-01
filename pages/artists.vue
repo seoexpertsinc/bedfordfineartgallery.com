@@ -37,7 +37,10 @@ import ArtistPreview from '~/components/ArtistPreview'
 export default {
     components: { ArtistPreview },
     async asyncData({ $content }) {
-        const artists = await $content('artists').sortBy('name', 'asc').fetch()
+        const artists = await $content('artists').fetch()
+        artists.sort((a, b) => {
+            return a.name.split(' ').pop().toLowerCase().localeCompare(b.name.split(' ').pop().toLowerCase())
+        })
         const paintingSlugs = artists.map((artist) => artist.paintings[0])
 
         return {
