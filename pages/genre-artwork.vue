@@ -50,6 +50,6 @@ export default {}
 
 <router>
   {
-    path: '/genre_artwork'
+    path: '/genre_artwork.html'
   }
 </router>

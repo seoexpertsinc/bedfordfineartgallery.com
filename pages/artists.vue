@@ -53,6 +53,6 @@ export default {
 
 <router>
   {
-    path: '/Artists'
+    path: '/Artists.html'
   }
 </router>

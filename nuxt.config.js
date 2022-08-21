@@ -60,6 +60,17 @@ export default {
         trailingSlash: false,
     },
     generate: {
-        subFolders: false
+        subFolders: false,
+        crawler: true,
+        // don't know why crawler doesn't work anymore
+        async routes() {
+            const { $content } = require('@nuxt/content')
+
+            const paintings = await $content('paintings').only(['slug']).fetch()
+            const artists = await $content('artists').where({ hasLandingPage: true }).only(['slug']).fetch()
+            const articles = await $content('articles').only(['slug']).fetch()
+
+            return [...paintings, ...artists, ...articles].map((painting) => painting.slug.replace('-html', '.html'))
+        },
     },
 }

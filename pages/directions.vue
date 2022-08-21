@@ -313,6 +313,6 @@ export default {
 
 <router>
   {
-    path: '/Directions'
+    path: '/Directions.html'
   }
 </router>

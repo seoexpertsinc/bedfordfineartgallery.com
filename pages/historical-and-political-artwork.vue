@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/historical_and_political_artwork'
+    path: '/historical_and_political_artwork.html'
   }
 </router>

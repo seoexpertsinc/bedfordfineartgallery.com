@@ -747,6 +747,6 @@ export default {
 
 <router>
   {
-    path: '/faq'
+    path: '/faq.html'
   }
 </router>

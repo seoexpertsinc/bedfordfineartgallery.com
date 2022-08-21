@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/landscape_artwork',
+    path: '/landscape_artwork.html',
   }
 </router>

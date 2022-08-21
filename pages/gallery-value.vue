@@ -239,6 +239,6 @@
 
 <router>
   {
-    path: '/Gallery-Value',
+    path: '/Gallery-Value.html',
   }
 </router>

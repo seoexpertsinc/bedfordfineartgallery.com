@@ -168,6 +168,6 @@
 
 <router>
   {
-    path: '/how_to_buy_fine_art'
+    path: '/how_to_buy_fine_art.html'
   }
 </router>
