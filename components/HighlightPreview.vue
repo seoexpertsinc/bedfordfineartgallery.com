@@ -3,6 +3,7 @@
         <div class="highlights_thumbnail">
             <nuxt-link :to="highlight.slug.replace('-html', '.html')"
                 ><nuxt-img
+                    loading="lazy"
                     :src="highlight.gridImage"
                     alt="19th Century Fine Art Legacy"
                     style="width: 100%; height: auto; border: 1px solid #222222"
