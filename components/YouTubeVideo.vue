@@ -1,5 +1,5 @@
 <template>
-	<LazyYoutubeVideo :src="link" :iframe-attributes="iframeAttributes" />
+	<LazyYoutubeVideo :src="link" :iframe-attributes="iframeAttributes" :previewImageSize="previewImageSize" />
 </template>
 
 <script>
@@ -12,7 +12,12 @@ export default {
 		link: {
 			type: String,
 			required: true,
-		}
+		},
+        previewImageSize: {
+            type: String,
+            required: false,
+            default: 'hqdefault',
+        },
 	},
 	data() {
         return {
