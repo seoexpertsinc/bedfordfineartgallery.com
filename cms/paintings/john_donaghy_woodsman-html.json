@@ -1,7 +1,9 @@
 {
    "artist" : "john_donaghy-html",
    "body" : "John Donaghy was born in Hollidaysburg, Pennsylvania and was exhibiting paintings while in his early 20s.  Donaghy volunteered for service during the Civil War and was stationed at Fort Scott near Harrisburg.  During his time at Fort Scott, Donaghy met Pittsburgh artist David Gilmour Blythe, who in addition to instructing him, provided him with encouragement.  During the war, Donaghy would become a captain and sketched wars scenes that would become the basis of his later illustration work.  He had the misfortune to be captured by the Confederacy and incarcerated at the infamous Andersonville Prison.  The plucky artist escaped and later wrote a book detailing his Army experiences.  Following the war, Donaghy settled in Pittsburgh and studied with George Hetzel, founder of the Scalp Level Movement, at the Pittsburgh School of Design and later at the National Academy of Design in New York City.  He pursued genre painting, primarily depicting children, for which he became very skilled.\r\n\r\n\r\n\r\n\r\n\r\n",
-   "categories" : [],
+   "categories" : [
+      "Landscape"
+   ],
    "dimensions" : "Oil on canvas, 17.5” x 13.5”/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/donaghy_woodsman_grid.jpg",

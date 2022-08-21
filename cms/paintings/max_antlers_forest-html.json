@@ -1,7 +1,9 @@
 {
    "artist" : "max_h_antlers_artwork-html",
    "body" : "There is very little biographical information currently available for Max Antlers.  It is known that he was born in Berlin, Germany.  There is some uncertainty when he arrived in the United States, or how long he stayed initially; however, a 1907 article in the New York Times mentions that Antlers had returned to New York City from Paris, where he had been studying with Jules Joseph Lefebvre at the Académie Julian.  He also studied at the atelier of Tony Robert-Fleury. After his return to New York City, he set up a studio on Washington Square South.  In 1913 Antlers exhibited his paintings in Berlin, which were viewed favorably by art critics. At that time, he was reported as living in Munich and was going to return there after the Berlin exhibition.  It was not until the 1920s that Antlers was to make the United States his permanent home, settling in San Francisco, California, where he was to remain for the rest of his life.  He painted scenes of Crater Lake and Yosemite, which were exhibited in 1947 when was 75.  Antlers was a member of the Salmagundi Club and exhibited at the Boston Art Club (1907 – 1908) and the Corcoran Gallery (1907).\r\n",
-   "categories" : [],
+   "categories" : [
+      "Landscape"
+   ],
    "dimensions" : "Oil on canvas, 24.5 x 16.5 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/antlers_forest_grid.jpg",

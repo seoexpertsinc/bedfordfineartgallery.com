@@ -1,7 +1,9 @@
 {
    "artist" : "henry_collins_bispham_artwork-html",
    "body" : "Bispham was a Philadelphia, Pennsylvania artist known for hunting and fishing genre and wildlife paintings. He studied under noted Philadelphia landscape and marine artist, William Trost Richards and later in Paris under genre and landscape painter, Otto Weber. Nineteenth- century New York art critic Theodore Tuckerman said of his work, “his excellent pictures of animals in landscapes are delineated with great authenticity and feeling”. Bispham exhibited at the Boston Art Club, National Academy of Design, Brooklyn Art Association, Philadelphia Sketch Club, and the Pennsylvania Academy of the Fine Arts.\n\nHigh auction record for this artist is $16,500.",
-   "categories" : [],
+   "categories" : [
+      "Landscape"
+   ],
    "dimensions" : "Oil on canvas, 23 x 17.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/4_grid.jpg",
