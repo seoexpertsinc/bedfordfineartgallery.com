@@ -118,6 +118,12 @@ collections:
                 default: 'None',
                 options: ['None', 'New', 'Sold', 'Hold'],
             }
+          - {
+                label: 'Featured?',
+                name: 'featured',
+                widget: boolean,
+                default: false,
+            }
           - { label: 'YouTube Link', name: 'youtubeEmbedLink', widget: 'string', required: false, pattern: ["^((?:https?:)?\\/\\/)?((?:www|m)\\.)?((?:youtube\\.com|youtu.be))(\\/(?:[\\w\\-]+\\?v=|embed\\/|v\\/)?)([\\w\\-]+)(\\S+)?$", "Enter a valid YouTube URL"] }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
