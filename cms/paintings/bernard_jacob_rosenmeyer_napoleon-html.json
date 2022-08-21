@@ -1,7 +1,9 @@
 {
    "artist" : "bernard_jacob_rosenmeyer_artwork-html",
    "body" : "Bernard Jacob Rosenmeyer was a talented artist who worked in gouache, ink, water-color, and mixed-media.  Rosenmeyer was a student at the Academie Julian, Paris, where he studied under Benjamin Jean-Joseph Contant.  In New York City, he was a student at the Art Student League.  Rosenmeyer specialized in genre, but also painted historical figures and places.  He exhibited his works at the Louisiana Purchase Expo, St. Louis World's Fair 1904 and the National Academy of Design.",
+   "categories" : [],
    "dimensions" : "Gouache and watercolor on paper, 19 x 14.75 inches / Signed lower left",
+   "featured" : false,
    "gridImage" : "/cms-uploads/rosenmayer_grid.jpg",
    "highResImage" : "",
    "highlights" : [],

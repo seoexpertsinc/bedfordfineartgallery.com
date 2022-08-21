@@ -1,7 +1,9 @@
 {
    "artist" : "andrien_louis_bruneau_artwork-html",
-   "body" : "This listed French artist is known for his soft realistic watercolors. Bruneauâs work has been sold at such venues as Sloans & Kenyon and Sothebyâs",
+   "body" : "This listed French artist is known for his soft realistic watercolors. Bruneau’s work has been sold at such venues as Sloans & Kenyon and Sotheby’s",
+   "categories" : [],
    "dimensions" : "Watercolor, 8 x 11 inches / Signed lower right",
+   "featured" : false,
    "gridImage" : "/cms-uploads/img_4074_grid.jpg",
    "highResImage" : "/cms-uploads/img_4074_original.jpg",
    "highlights" : [

@@ -1,7 +1,9 @@
 {
    "artist" : "at_smith_artwork-html",
    "body" : "Older stylized decorative watercolor painting of flowers.",
+   "categories" : [],
    "dimensions" : "Watercolor / Signed lower right",
+   "featured" : false,
    "gridImage" : "/cms-uploads/img_4476_grid.jpg",
    "highResImage" : "",
    "highlights" : [],

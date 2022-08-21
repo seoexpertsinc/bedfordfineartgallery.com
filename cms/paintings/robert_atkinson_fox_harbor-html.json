@@ -1,7 +1,9 @@
 {
    "artist" : "robert_atkinson_fox_artwork-html",
-   "body" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman.  He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada).  Fox traveled to Europe to gain further artistic enlightenment.  In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia.  Fox became a successful commercial illustratorâcommissioned by major calendar companies and art print publishers.  His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers.  His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets.  He also painted Indians and Indian maidens and the âWild Westâ, although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt.\r\n\r\n",
+   "body" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman.  He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada).  Fox traveled to Europe to gain further artistic enlightenment.  In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia.  Fox became a successful commercial illustrator—commissioned by major calendar companies and art print publishers.  His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers.  His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets.  He also painted Indians and Indian maidens and the “Wild West”, although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt.\r\n\r\n",
+   "categories" : [],
    "dimensions" : "Oil on canvas, 26 x 18 inches/Signed lower left",
+   "featured" : false,
    "gridImage" : "/cms-uploads/fox_harbor_grid.jpg",
    "highResImage" : "/cms-uploads/fox_harbor_full.jpg",
    "highlights" : [
@@ -12,7 +14,7 @@
          "highlight" : "Professionally conserved and framed"
       },
       {
-         "highlight" : "Competitively priced $6,200"
+         "highlight" : "Competitively priced��$6,200"
       },
       {
          "highlight" : "Custom framing available"

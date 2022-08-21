@@ -1,7 +1,9 @@
 {
    "artist" : "edward_holmes_artwork-html",
-   "body" : "Edward Holmes was a Victorian genre and landscape painter. This painting is framed in a period gilded Victorian frame. His works have been sold at such fine venues as Sothebyâs London, Bonhams Chester and Christieâs South Kensington. The saturation of colors in this rustic genre scene are wonderful.",
+   "body" : "Edward Holmes was a Victorian genre and landscape painter. This painting is framed in a period gilded Victorian frame. His works have been sold at such fine venues as Sotheby’s London, Bonhams Chester and Christie’s South Kensington. The saturation of colors in this rustic genre scene are wonderful.",
+   "categories" : [],
    "dimensions" : "Oil on canvas, 17 x 21 inches / Signed lower left",
+   "featured" : false,
    "gridImage" : "/cms-uploads/img_4001_grid.jpg",
    "highResImage" : "",
    "highlights" : [],

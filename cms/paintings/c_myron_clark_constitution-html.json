@@ -1,7 +1,9 @@
 {
    "artist" : "c_myron_clark_art-html",
    "body" : "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution.  He worked in both oil and watercolor, painting mostly Massachusetts scenes; however, he made forays into Canada as recorded through his oil landscape of Mounts Skihist and Lilovet, which was painted north of Vancouver, British Columbia.  Many of his works are in the collection of the Peabody Museum in Salem, Massachusetts.\r\n\r\n",
+   "categories" : [],
    "dimensions" : "Oil on canvas, 33 x 26.25 inches/Signed lower right",
+   "featured" : false,
    "gridImage" : "/cms-uploads/c_myron_clark_grid.jpg",
    "highResImage" : "/cms-uploads/c_myron_clark_original.jpg",
    "highlights" : [
