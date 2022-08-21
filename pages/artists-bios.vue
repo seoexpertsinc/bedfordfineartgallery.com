@@ -23,10 +23,21 @@
                     <GalleryNew />
                     <GalleryReg />
                 </ul>
+
+                <h2 style="clear:both; font-size:22px; color: #EDEBDB; border-bottom:1px solid #444444; margin-bottom:12px; margin-top: 24px;">About the Gallery</h2>
+                <YouTubeVideo link="https://www.youtube.com/embed/5I8BEyiGICs" previewImageSize="maxresdefault"/>
             </section>
         </div>
     </div>
 </template>
+
+<script>
+import YouTubeVideo from "~/components/YouTubeVideo";
+
+export default {
+    components: { YouTubeVideo }
+}
+</script>
 
 <style scoped>
 .secondary {
