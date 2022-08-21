@@ -1,7 +1,9 @@
 {
    "artist" : "frederick_mortimer_lamb_artwork-html",
    "body" : "Born in Middleboro, MA, Lamb, at age 17, attended the Massachusetts Normal Art School in Boston, followed by study at the Académie Julian in Paris, France. A versatile artist, Lamb is known for landscape, portrait, genre still-life and sporting art paintings.  Whether in oil, water color or pastel, or executed in a tonalist or luminist manner, he painted his subjects equally well, with a high level of skill and mastery of color and light.  He believed that the work of an artist was never completed-- a subject offered new study and achievement through a lifetime.  Lamb was a member of the New York Water Color Club (absorbed by the American Water Color Society in 1941); ).; American Water Color Society; Washington Water Color Club; New Haven Paint and Clay Club; and the Boston Art Club.  He exhibited at the Boston Art Club (1889– 1905); Art Institute of Chicago;20th Century Expo (Boston, 1900, gold); Pennsylvania Academy of the Fine Arts (Philadelphia, 1913 – 1918); ); Panama-Pacific International Exposition (San Francisco, 1915, medal); Society of Independent Artists (1917, 1920, 1925-26. 1930); and Salons of America (1923, 1925, 1934).\r\n\r\n",
-   "categories" : [],
+   "categories" : [
+      "Genre"
+   ],
    "dimensions" : "Oil on canvas, 21.5 x 29.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/lamb_grid.jpg",

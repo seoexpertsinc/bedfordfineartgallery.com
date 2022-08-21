@@ -1,7 +1,9 @@
 {
    "artist" : "louis_robert_de_cuvillon_artwork-html",
    "body" : "Listed French artist Louis-Robert de Cuvillon’s watercolors are very subtle and delicate.  Many of his passionate works such as “Woman with a Tambourine”, “Woman in Exotic Dress”, and “Girl with a Fan” have been sold through such venues as Sotheby’s New York and Bonhams Los Angeles.  This watercolor titled “Reclining Woman with Bouquet” is framed in a period Art Nouveau silver scrolled frame.",
-   "categories" : [],
+   "categories" : [
+      "Genre"
+   ],
    "dimensions" : "Watercolor and gouache, 5.5 x 8 inches fan-shaped / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/img_4395_grid.jpg",

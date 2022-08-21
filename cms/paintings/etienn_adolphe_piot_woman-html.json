@@ -1,7 +1,9 @@
 {
    "artist" : "etienne_adolphe_piot_art-html",
    "body" : "Piot studied under Parisian artist Leon Cogniet, who instilled in the young man a love for the human form.  As a painter, or perhaps more appropriately, a painter of the female face, Piot was unrivaled.  His subjects were painted against a dark background which emphasized the mood created by the subject’s facial expressions.  Not merely portraits, his paintings were homages to feminine beauty.  Piot also painted children--this at a time when childhood imagery was becoming very popular.  During the early part of his career Piot exhibited primarily the female portraits of his patrons, only later exhibiting works outside of portraiture, which have been highly praised.  He was a member of the Société des Artistes Francais.  His work is part of the collections at the Brooklyn Museum, in New York, and at the Rouen Museum, in France.\n\nHigh auction record for this artist is $66,000.",
-   "categories" : [],
+   "categories" : [
+      "Genre"
+   ],
    "dimensions" : "Oil on canvas, 31.75 x 25 inches/Signed middle left",
    "featured" : false,
    "gridImage" : "/cms-uploads/piot_woman_grid.jpg",
