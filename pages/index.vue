@@ -6,6 +6,7 @@
                     <div class="flex_4 flex_sub">
                         <div class="flex_3 flex_3_no_100">
                             <nuxt-img
+                                loading="lazy"
                                 class="home_logo"
                                 src="/logo.png"
                                 width="123"
@@ -109,6 +110,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -123,6 +125,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -137,6 +140,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -151,6 +155,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -165,6 +170,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -179,6 +185,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -193,6 +200,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -207,6 +215,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -221,6 +230,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -235,6 +245,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -255,6 +266,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -269,6 +281,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -283,6 +296,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -297,6 +311,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -311,6 +326,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -325,6 +341,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -339,6 +356,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -353,6 +371,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -367,6 +386,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -381,6 +401,7 @@
                                 <span class="soldTag">sold</span
                                 ><a href="octavius_white_niagra.html"
                                     ><nuxt-img
+                                        loading="lazy"
                                         src="IMG_4142_grid.jpg"
                                         alt="Octavius White (19th Century Canadian School)
 "
@@ -421,6 +442,7 @@
                 </h2>
 
                 <nuxt-img
+                    loading="lazy"
                     style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
@@ -442,6 +464,7 @@
                 </div>
 
                 <nuxt-img
+                    loading="lazy"
                     style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
@@ -467,6 +490,7 @@
                 </div>
 
                 <nuxt-img
+                    loading="lazy"
                     style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
@@ -491,6 +515,7 @@
                 </div>
 
                 <nuxt-img
+                    loading="lazy"
                     style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
@@ -517,6 +542,7 @@
         <div class="container primary" style="padding-bottom: 24px">
             <section class="wrapper clearfix as_seen_in_container">
                 <nuxt-img
+                    loading="lazy"
                     class="home_logo"
                     src="logo.png"
                     width="123"
@@ -661,6 +687,7 @@
                     <div class="artwork leadPhoto">
                         <a href="Artists--Bios.html"
                             ><nuxt-img
+                                loading="lazy"
                                 class="art_detail"
                                 src="gallery_logo.jpg"
                                 width="798"

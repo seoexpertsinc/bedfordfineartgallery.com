@@ -9,6 +9,7 @@
                 </div>
                 <div class="col_40 artwork">
                     <nuxt-img
+                        loading="lazy"
                         class="art_detail"
                         src="bedford_art_gallery_int.jpg"
                         width="550"
@@ -34,6 +35,7 @@
                             See our ads at the nearby Bedford Springs Resort.
                         </p>
                         <nuxt-img
+                            loading="lazy"
                             src="bsr.jpg"
                             width="749"
                             height="423"
@@ -46,6 +48,7 @@
                             See our display at the nearby Chanceller's House Bed and Breakfast.
                         </p>
                         <nuxt-img
+                            loading="lazy"
                             src="chancellorshouse.jpg"
                             width="304"
                             height="224"
@@ -58,6 +61,7 @@
                     <h2 style="margin-top: 24px">
                         <a href="https://www.instagram.com/bedfordfineartgallery/" target="_blank" rel="nofollow"
                             ><nuxt-img
+                                loading="lazy"
                                 class="social"
                                 style="max-width: 78px"
                                 src="instagram2.png"
@@ -71,6 +75,7 @@
                             target="_blank"
                             rel="nofollow"
                             ><nuxt-img
+                                loading="lazy"
                                 class="social"
                                 style="max-width: 77px"
                                 src="facebook.png"
@@ -84,6 +89,7 @@
                             target="_blank"
                             rel="nofollow"
                             ><nuxt-img
+                                loading="lazy"
                                 class="social"
                                 style="max-width: 77px"
                                 src="youtube.png"
@@ -95,6 +101,7 @@
 
                         <a href="https://www.pinterest.com/bedfordfineart/" target="_blank" rel="nofollow"
                             ><nuxt-img
+                                loading="lazy"
                                 class="social"
                                 style="max-width: 77px"
                                 src="pinterest.png"
@@ -117,7 +124,7 @@
                     </h2>
 
                     <p style="margin-top: 24px">
-                        <nuxt-img style="max-width: 300px" src="dunkles_gulf.jpg" width="572" height="372" alt="" />
+                        <nuxt-img loading="lazy" style="max-width: 300px" src="dunkles_gulf.jpg" width="572" height="372" alt="" />
                     </p>
                     <p style="text-align: left; margin-bottom: 24px; padding-right: 24px">
                         <span style="text-align: center; display: block; font-weight: bold; padding-top: 10px"
@@ -166,6 +173,7 @@
                     <h4>We accept:</h4>
 
                     <nuxt-img
+                        loading="lazy"
                         style="margin-bottom: 12px"
                         src="cc.png"
                         width="286"

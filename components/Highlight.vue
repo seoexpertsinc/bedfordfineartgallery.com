@@ -9,6 +9,7 @@
                 </div>
                 <div class="highlights_thumbnail">
                     <nuxt-img
+                        loading="lazy"
                         class="art_detail"
                         :src="highlight.image"
                         alt="19th Century Fine Art Legacy"

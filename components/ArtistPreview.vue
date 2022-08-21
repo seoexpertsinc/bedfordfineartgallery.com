@@ -3,6 +3,7 @@
         <div class="artist_col_img">
             <nuxt-link :to="artistLink"
                 ><nuxt-img
+					loading="lazy"
                     :src="gridImage"
                     :alt="nameWithTinyDescription"
             /></nuxt-link>

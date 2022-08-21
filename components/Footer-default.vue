@@ -13,7 +13,7 @@
 
             <div class="flex_wrap footer">
                 <div class="flex_5">
-                    We accept: <nuxt-img class="cc" src="/cc.png" width="286" height="44" alt="" />
+                    We accept: <nuxt-img loading="lazy" class="cc" src="/cc.png" width="286" height="44" alt="" />
                     <p>
                         230 South Juliana St.<br />
                         Bedford PA 15522

@@ -173,7 +173,7 @@
                         <!-- </form> -->
                     </div>
                 </div>
-                <div class="breadcrumb"><nuxt-link :to="{ name: 'artist-bios' }">Back to Gallery</nuxt-link></div>
+                <div class="breadcrumb"><nuxt-link :to="{ name: 'artists-bios' }">Back to Gallery</nuxt-link></div>
             </section>
         </div>
     </div>

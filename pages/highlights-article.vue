@@ -9,6 +9,7 @@
                 </div>
                 <div class="highlights_thumbnail">
                     <nuxt-img
+                        loading="lazy"
                         class="art_detail"
                         src="highlights1.jpg"
                         width="847"
