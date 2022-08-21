@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/marine_artwork.html',
+    path: '/marine_artwork',
   }
 </router>

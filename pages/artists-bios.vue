@@ -38,7 +38,7 @@
 
 <router>
   {
-    path: '/Artists--Bios.html',
+    path: '/Artists--Bios',
     caseSensitive: true,
   }
 </router>

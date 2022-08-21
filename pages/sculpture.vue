@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/sculpture.html'
+    path: '/sculpture'
   }
 </router>

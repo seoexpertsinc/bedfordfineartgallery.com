@@ -6,7 +6,7 @@
         "dev": "nuxt",
         "build": "nuxt build",
         "start": "nuxt start",
-        "generate": "nuxt generate"
+        "generate": "nuxt generate && for f in dist/*.htm.html; do mv -- \"$f\" \"${f%.htm.html}.htm\"; done"
     },
     "lint-staged": {
         "*.{js,vue}": "eslint --cache",

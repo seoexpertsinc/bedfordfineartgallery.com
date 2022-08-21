@@ -831,7 +831,7 @@
                         <nuxt-link :to="{ name: 'artists-bios' }" class="internalLinkReverse">Gallery page</nuxt-link>.
                         Our current inventory boasts a wide diversity of subject matter from
                         <nuxt-link :to="{ name: 'landscape-artwork' }"> class="internalLinkReverse">landscape</nuxt-link
-                        >,<nuxt-link class="internalLinkReverse" to="/marine-artwork/"> marine</nuxt-link>,
+                        >,<nuxt-link class="internalLinkReverse" to="/"> marine</nuxt-link>,
                         <nuxt-link class="internalLinkReverse" :to="{ name: 'still-life-artwork' }"
                             >still life</nuxt-link
                         >, <nuxt-link class="internalLinkReverse" :to="{ name: 'genre-artwork' }">genre</nuxt-link>,

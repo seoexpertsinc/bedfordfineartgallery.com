@@ -51,6 +51,6 @@ export default {}
 
 <router>
   {
-    path: '/animal_artwork.html'
+    path: '/animal_artwork'
   }
 </router>

@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/still_life_artwork.html'
+    path: '/still_life_artwork'
   }
 </router>

@@ -49,6 +49,6 @@ export default {}
 
 <router>
   {
-    path: '/notable_sales.html'
+    path: '/notable_sales'
   }
 </router>

@@ -1,7 +1,7 @@
 <template>
     <div style="display: inline">
         <li>
-            <a href="/painting-detail-template/"
+            <a href="/"
                 ><nuxt-img
                     src="eaton_apple_orchard_grid.jpg"
                     alt="Charles Henry Eaton (American 1850 – 1901)

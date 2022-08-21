@@ -36,6 +36,6 @@ export default {
 
 <router>
   {
-    path: '/highlights.html'
+    path: '/highlights'
   }
 </router>
