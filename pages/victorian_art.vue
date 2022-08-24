@@ -292,30 +292,26 @@ life, sporting art, and American historic theme compositions to choose from.  We
        </template>
 
        <style scoped>
-       .flex_3_3 {
-
+.flex_3_3 {
     flex-basis: 100%;
-
 }
 
 @media screen and (min-width: 600px) {
-.flex_3_3 {
-
-    flex-basis: 32%;
-
-}
+    .flex_3_3 {
+        flex-basis: 32%;
+    }
 }
 
 .home_tagline_2 {
-  border-top: none;
-  padding-top: 0px;
-  max-width: 560px;
-  margin: 0px auto 10px auto;
-  text-align: center;
-  font-size: 18px;
+    border-top: none;
+    padding-top: 0px;
+    max-width: 560px;
+    margin: 0px auto 10px auto;
+    text-align: center;
+    font-size: 18px;
 }
 .btn_text_break {
-  display: inline-block;
+    display: inline-block;
 }
 .slick-prev::before,
 .slick-next::before {
@@ -327,7 +323,7 @@ life, sporting art, and American historic theme compositions to choose from.  We
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-       </style>
+</style>
 
  <router>
   {

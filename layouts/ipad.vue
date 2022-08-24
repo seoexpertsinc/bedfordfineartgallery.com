@@ -1,3 +1,3 @@
 <template>
-    <IpadLayout />
+  <nuxt />
 </template>

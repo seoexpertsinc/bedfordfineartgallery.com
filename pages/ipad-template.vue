@@ -31,9 +31,16 @@
     </div>
 </template>
 
-
+<script>
+export default {
+  layout: "ipad"
+};
+</script>
 
 <style scoped>
+body {
+background-color: #F9F9F2;
+}
 .compliment {
 
   display: none;
