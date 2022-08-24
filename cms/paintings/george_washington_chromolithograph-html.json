@@ -1,28 +1,28 @@
 {
-  "body": "This stunning portrait of George Washington may have been printed as part of the 1876 Centennial. The print has minor paper loss on top left and bottom corners, but still retains its beautiful colors. This portrait print of Washington is flanked by patriotic symbols, including Washington’s tomb at Mount Vernon. Overall this is a wonderful example of one of the best chromolithographs of the Father of our Republic.",
-  "slug": "george_washington_chromolithograph-html",
-  "dimensions": "Chromolithograph, 30 x 22 inches",
-  "featured": false,
-  "mediumResImage": "/cms-uploads/img_4109_small.jpg",
-  "status": "None",
-  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-  "gridImage": "/cms-uploads/img_4109_grid.jpg",
-  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-  "title": "George Washington chromolithograph, American 19th century",
-  "galleryCropImage": "/cms-uploads/img_4109_grid_gallery_crop_img.jpg",
-  "highResImage": "/cms-uploads/img_4109_original.jpg",
-  "highlights": [
-    {
-      "highlight": "Available for purchase"
-    },
-    {
-      "highlight": "Professionally conserved and framed"
-    },
-    {
-      "highlight": "Competitively priced"
-    },
-    {
-      "highlight": "Custom framing available"
-    }
-  ]
+   "body" : "This stunning portrait of George Washington may have been printed as part of the 1876 Centennial. The print has minor paper loss on top left and bottom corners, but still retains its beautiful colors. This portrait print of Washington is flanked by patriotic symbols, including Washington’s tomb at Mount Vernon. Overall this is a wonderful example of one of the best chromolithographs of the Father of our Republic.",
+   "dimensions" : "Chromolithograph, 30 x 22 inches",
+   "featured" : false,
+   "galleryCropImage" : "/cms-uploads/img_4109_grid_gallery_crop.jpg",
+   "gridImage" : "/cms-uploads/img_4109_grid.jpg",
+   "highResImage" : "/cms-uploads/img_4109_original.jpg",
+   "highlights" : [
+      {
+         "highlight" : "Available for purchase"
+      },
+      {
+         "highlight" : "Professionally conserved and framed"
+      },
+      {
+         "highlight" : "Competitively priced"
+      },
+      {
+         "highlight" : "Custom framing available"
+      }
+   ],
+   "mediumResImage" : "/cms-uploads/img_4109_small.jpg",
+   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+   "slug" : "george_washington_chromolithograph-html",
+   "status" : "None",
+   "title" : "George Washington chromolithograph, American 19th century"
 }
