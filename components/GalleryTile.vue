@@ -5,6 +5,7 @@
 
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
                 <nuxt-img
+                    loading="lazy"
                     :src="painting.gridImage"
                     :alt="artistNameWithTinyDescription"
                 />
