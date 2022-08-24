@@ -317,6 +317,16 @@ life, sporting art, and American historic theme compositions to choose from.  We
 .btn_text_break {
   display: inline-block;
 }
+.slick-prev::before,
+.slick-next::before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: 0.75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
        </style>
 
  <router>
