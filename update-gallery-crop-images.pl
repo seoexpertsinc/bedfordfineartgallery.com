@@ -21,7 +21,7 @@ sub main($url) {
     $result->dom->find('ul.productGrid2 li')->each(sub ($li, $) {
         my $href = $li->at('a')->attr('href');
         $href =~ s/.html/-html/;
-        #return if $href eq 'abbey_altson_forest-html';
+        return if $href eq 'arthur_fitzwilliam_tait_grouse-html';
 
 
         my $img_src = $li->at('img')->attr('data-src') || $li->at('img')->attr('src');
