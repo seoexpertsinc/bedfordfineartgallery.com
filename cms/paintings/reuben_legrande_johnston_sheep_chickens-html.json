@@ -6,6 +6,7 @@
    ],
    "dimensions" : "",
    "featured" : false,
+   "galleryCropImage" : "/cms-uploads/johnston_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/johnston_grid.jpg",
    "highResImage" : "/cms-uploads/johnston_full.jpg",
    "highlights" : [

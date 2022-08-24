@@ -6,7 +6,7 @@
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
                 <nuxt-img
                     loading="lazy"
-                    :src="painting.gridImage"
+                    :src="painting.galleryCropImage"
                     :alt="artistNameWithTinyDescription"
                 />
                 <p class="artist_gallery_title">

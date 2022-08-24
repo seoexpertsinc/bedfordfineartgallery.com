@@ -71,6 +71,14 @@ collections:
           - { label: 'Tiny Description (shows beneath name)', name: 'tinyDescription', widget: 'string', required: false }
           - { label: 'Dimensions', name: 'dimensions', widget: 'string', required: false }
           - {
+                label: 'Gallery Crop Image',
+                name: 'galleryCropImage',
+                widget: 'image',
+                allow_multiple: false,
+                required: true,
+                hint: 'This will show on the gallery pages.'
+            }
+          - {
                 label: 'Grid Image',
                 name: 'gridImage',
                 widget: 'image',
