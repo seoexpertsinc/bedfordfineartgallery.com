@@ -30,22 +30,10 @@
 
 <div class="container secondary">
 <section class="wrapper">
+    <VictorianSlidingImages />
 
-<div class="cycle-slideshow" id="slideshow">
-<nuxt-img class="art_detail" src="vict_large_5_550.jpg" alt="victorian art
-"/>
-<nuxt-img class="art_detail" src="vict_large_1_550.jpg" alt="victorian paintings
-"/>
-    <nuxt-img class="art_detail" src="vict_large_2_550.jpg" alt="victorian home decorating
-"/>
-    <nuxt-img class="art_detail" src="vict_large_3_550.jpg" alt="victorian artists
-"/>
-    <nuxt-img class="art_detail" src="vict_large_4_550.jpg" alt="victorian house restoration
-"/>
 
-</div>
-
-<div class="flex_wrap">
+<div class="flex_wrap" style="margin-top: 1em;">
 <div class="flex_3_3"><div class="video-container"><iframe width="660" height="415" src="https://www.youtube.com/embed/p3p_rUFCeic?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 <div class="flex_3_3"><div class="video-container"><iframe width="660" height="415" src="https://www.youtube.com/embed/zc_ayyc2NsI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
 <div class="flex_3_3"><div class="video-container"><iframe width="660" height="415" src="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div>
@@ -286,6 +274,12 @@ life, sporting art, and American historic theme compositions to choose from.  We
 </section>
 </div>
 
+  <div style="text-align:center; background-color:#EFEFDE; padding: 12px;">
+
+   <h2 class="reverse_header" style="margin-top: 0px; color: #732824; padding-bottom:10px;">We have the absolute best customers!</h2>
+    <nuxt-img style="width: 100%; height:auto; max-width: 1260px; margin-top: 16px;" src="bfa_customers_map.png" width="2092" height="994" alt="Bedford Fine Art satisfied art customers in the USA, Canada and UK
+"/> </div>
+
         </div>
        </template>
 
@@ -302,6 +296,18 @@ life, sporting art, and American historic theme compositions to choose from.  We
     flex-basis: 32%;
 
 }
+}
+
+.home_tagline_2 {
+  border-top: none;
+  padding-top: 0px;
+  max-width: 560px;
+  margin: 0px auto 10px auto;
+  text-align: center;
+  font-size: 18px;
+}
+.btn_text_break {
+  display: inline-block;
 }
        </style>
 
