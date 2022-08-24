@@ -317,6 +317,13 @@ export default {
     width: 90%;
     height: auto;
 }
+.video-container {
+  position: relative;
+  padding-bottom: 0;
+  padding-top: 0;
+  height: auto;
+  overflow: visible;
+}
 </style>
 
 <router>

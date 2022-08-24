@@ -17,20 +17,26 @@
                     </div>
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <img
-                                class="img1x"
-                                src="images/artplacer_1.jpg"
-                                width="570"
-                                height="559"
-                                alt="Upload a photo of your room"
-                            />
-                            <img
-                                class="img2x"
-                                src="images/artplacer_23.jpg"
-                                width="570"
-                                height="559"
-                                alt="Upload a photo of your room"
-                            />
+                            <nuxt-img
+                            class="img1x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_1.jpg"
+                        width="570"
+                        height="559"
+                        alt="Upload a photo of your room"
+                    />
+                    <nuxt-img
+                            class="img2x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_23.jpg"
+                        width="570"
+                        height="559"
+                        alt="Upload a photo of your room"
+                    />
+
+
                         </div>
 
                         <div class="step_flex_content">
@@ -49,20 +55,25 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <img
-                                src="images/artplacer_30.jpg"
-                                width="1091"
-                                height="896"
-                                alt="Define the area on which you want the painting to be placed
-"
-                            />
-                            <img class="img2x" src="images/artplacer_25.jpg" width="1091" height="896" alt="" /><img
-                                class="img2x"
-                                src="images/artplacer_26.jpg"
-                                width="1091"
-                                height="896"
-                                alt=""
-                            />
+                            <nuxt-img
+                            class="img1x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_30.jpg"
+                        width="1091"
+                        height="896"
+                        alt="Define the area on which you want the painting to be placed"
+                    />
+                            <nuxt-img
+                            class="img2x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_25.jpg"
+                        width="1091"
+                        height="896"
+                        alt="Define the area on which you want the painting to be placed"
+                    />
+
                         </div>
 
                         <div class="step_flex_content">
@@ -103,13 +114,25 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <img src="images/artplacer_27.jpg" width="1091" height="896" alt="" /><img
-                                class="img2x"
-                                src="images/artplacer_28.jpg"
-                                width="1091"
-                                height="896"
-                                alt=""
-                            />
+                            <nuxt-img
+                            class="img1x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_27.jpg"
+                        width="1091"
+                        height="896"
+                        alt="preview artwork on the wall"
+                    />
+                     <nuxt-img
+                            class="img2x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_28.jpg"
+                        width="1091"
+                        height="896"
+                        alt="preview artwork on the wall"
+                    />
+
                         </div>
                         <div class="step_flex_content">
                             <ul class="checkmark">
@@ -136,7 +159,16 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <img class="img1x" src="images/artplacer_29.jpg" width="1091" height="896" alt="" />
+                             <nuxt-img
+                            class="img1x"
+                        loading="lazy"
+                        style="margin-bottom: 12px"
+                        src="artplacer_29.jpg"
+                        width="1091"
+                        height="896"
+                        alt="preview artwork on the wall"
+                    />
+                            
                         </div>
 
                         <div class="step_flex_content">

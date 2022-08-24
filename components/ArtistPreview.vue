@@ -6,11 +6,13 @@
 					loading="lazy"
                     :src="gridImage"
                     :alt="nameWithTinyDescription"
+					width="392"
+                    height="261"
             /></nuxt-link>
         </div>
         <div class="artist_col_links">
             <div class="artist_container">
-                <p>{{ nameWithTinyDescription }}</p>
+                <p><nuxt-link :to="artistLink">{{ nameWithTinyDescription }}</nuxt-link></p>
                 <ul>
                     <li class="artistheader">Painting:</li>
                     <li v-for="(painting, index) in artist.paintings" :key="index">
