@@ -32,6 +32,9 @@ export const loadGalleryPaintings = async ({ $content, category, sold = false, a
 
 	paintings.forEach((painting) => { painting.artist = artistSlugToArtist[painting.artist] })
 	paintings.sort((a, b) => {
+		a.artist.name ||= ''
+		b.artist.name ||= ''
+
 		return a.artist.name.split(' ').pop().toLowerCase().localeCompare(b.artist.name.split(' ').pop().toLowerCase())
 	})
 
