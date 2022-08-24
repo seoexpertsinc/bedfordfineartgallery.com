@@ -22,17 +22,7 @@
 
 
 
-               <div class="more_info">
-                    <h3 style="text-transform:none; color: #841012;">Call now to discuss: 724-459-0612 (no texting)<span style="display:block; padding-top:8px;">
-Jerry Hawk,  Bedford Fine Art Gallery</span><span style="display:block; padding-top:16px; padding-bottom:16px;">OR</span><span style="display:block; color:#841012;">Email us now using the form below:</span></h3>
 
-                       <!--#include virtual="contact_form.htm"-->
-
-                        <div class="buttons">
-                            <button class="submit">Send</button>
-                        </div>
-                    </form>
-                </div>
             </div><div class="breadcrumb"><a href="javascript:window.history.back();">Back to Gallery</a></div>
         </section>
     </div>
@@ -41,11 +31,7 @@ Jerry Hawk,  Bedford Fine Art Gallery</span><span style="display:block; padding-
     </div>
 </template>
 
-<script>
-  export default {
-    name: 'ipad'     // you can enter any name (optional)
-  }
-</script>
+
 
 <style scoped>
 .compliment {
