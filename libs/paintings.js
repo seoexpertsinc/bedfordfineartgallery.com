@@ -15,7 +15,7 @@ async function loadArtists ({ $content, artistSlugs }) {
 }
 
 export const loadGalleryPaintings = async ({ $content, category, sold = false, additionalColumns = [] }) => {
-	let query = $content('paintings').only(['title', 'slug', 'gridImage', 'artist', 'status', ...additionalColumns])
+	let query = $content('paintings').only(['title', 'slug', 'galleryCropImage', 'artist', 'status', ...additionalColumns])
 
 	if (sold) {
 		query = query.where({ status: { $eq: 'Sold' } })
@@ -30,11 +30,8 @@ export const loadGalleryPaintings = async ({ $content, category, sold = false, a
 	const artistSlugs = paintings.map((painting) => painting.artist)
 	const artistSlugToArtist = await loadArtists({ $content, artistSlugs })
 
-	paintings.forEach((painting) => { painting.artist = artistSlugToArtist[painting.artist] })
+	paintings.forEach((painting) => { painting.artist = artistSlugToArtist[painting.artist] || { name: '' } })
 	paintings.sort((a, b) => {
-		a.artist.name ||= ''
-		b.artist.name ||= ''
-
 		return a.artist.name.split(' ').pop().toLowerCase().localeCompare(b.artist.name.split(' ').pop().toLowerCase())
 	})
 
