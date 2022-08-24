@@ -279,6 +279,14 @@ life, sporting art, and American historic theme compositions to choose from.  We
    <h2 class="reverse_header" style="margin-top: 0px; color: #732824; padding-bottom:10px;">We have the absolute best customers!</h2>
     <nuxt-img style="width: 100%; height:auto; max-width: 1260px; margin-top: 16px;" src="bfa_customers_map.png" width="2092" height="994" alt="Bedford Fine Art satisfied art customers in the USA, Canada and UK
 "/> </div>
+     <div
+            class="container footer_test"
+            style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
+        >
+            <section class="wrapper" style="max-width: 860px; margin: auto">
+                <TestimonialsScroll />
+            </section>
+        </div>
 
         </div>
        </template>
