@@ -6,7 +6,7 @@
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
                 <nuxt-img
                     loading="lazy"
-                    :src="painting.galleryCropImage"
+                    :src="galleryImage"
                     :alt="artistNameWithTinyDescription"
                     width="392"
                     height="261"
@@ -43,7 +43,10 @@ export default {
 		},
         isSold() {
 			return this.painting.status === 'Sold'
-		}
+		},
+        galleryImage() {
+            return this.painting.galleryCropImage || this.painting.gridImage || this.painting.mediumResImage
+        }
 	}
 }
 </script>
