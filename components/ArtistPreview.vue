@@ -6,6 +6,8 @@
 					loading="lazy"
                     :src="gridImage"
                     :alt="nameWithTinyDescription"
+					width="392"
+                    height="261"
             /></nuxt-link>
         </div>
         <div class="artist_col_links">

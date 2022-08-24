@@ -7,6 +7,8 @@
                 <nuxt-img
                     :src="painting.gridImage"
                     :alt="artistNameWithTinyDescription"
+                    width="392"
+                    height="261"
                 />
                 <p class="artist_gallery_title">
                     <span v-if="isNew" class="gallery_new_label label">NEW</span>

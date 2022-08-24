@@ -164,11 +164,14 @@ q {
     padding-top: 20px;
 }
 
-a p.artist_gallery_title {
+a p.artist_gallery_title, a p.artist_gallery_artwork {
     color: #edebdb;
     text-decoration: none;
     font-size: 14px;
     padding-top: 8px;
+    padding-bottom: 0px;
+}
+a p.artist_gallery_artwork {
     padding-bottom: 16px;
 }
 ul.productGrid2 a {
@@ -649,6 +652,7 @@ p.content_btn a {
 .artist_container ul li {
     display: inline-block;
     margin-bottom: 8px;
+    margin-right: 5px;
 }
 
 .artist_container ul li.artistheader {
@@ -1997,4 +2001,17 @@ span.alias {
 	color: #888888;
 	margin-bottom:12px;
 	text-align:center;
+}
+
+.y-video__media--type--img {
+width: 100% !important;
+height: 100% !important;
+}
+
+.flex_2 div#start_vid, .flex_2 div.y-video, .flex_2 div.y-video__inner {
+width: 100%;
+}
+.artwork .y-video {
+    width: 90%;
+    margin: auto;
 }
