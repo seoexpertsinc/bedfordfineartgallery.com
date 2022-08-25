@@ -23,9 +23,9 @@
                     <div class="flex_6">
                         <p class="home_tagline_2">HISTORIC PAINTINGS FOR HISTORIC HOMES</p>
                         <div class="breadcrumb" style="margin-top: 0px">
-                            <a href="Artists--Bios.html" class="content_btn home_btn_small"
+                            <nuxt-link to="Artists--Bios.html" class="content_btn home_btn_small"
                                 ><span class="btn_text_break">view over 150 unique</span>
-                                <span class="btn_text_break">original 19TH century paintings for sale</span></a
+                                <span class="btn_text_break">original 19TH century paintings for sale</span></nuxt-link
                             >
                         </div>
                     </div>
@@ -40,39 +40,18 @@
                 <div class="flex_wrap" style="margin-top: 1em">
                     <div class="flex_3_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/p3p_rUFCeic?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
-                        </div>
+                        <YouTubeVideo link="https://www.youtube.com/embed/p3p_rUFCeic?rel=0"/>
+                    </div>
                     </div>
                     <div class="flex_3_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/zc_ayyc2NsI?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
-                        </div>
+                        <YouTubeVideo link="https://www.youtube.com/embed/zc_ayyc2NsI?rel=0"/>
+                      </div>
                     </div>
                     <div class="flex_3_3">
                         <div class="video-container">
-                            <iframe
-                                width="660"
-                                height="415"
-                                src="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"
-                                frameborder="0"
-                                allow="autoplay; encrypted-media"
-                                allowfullscreen
-                            ></iframe>
-                        </div>
+                        <YouTubeVideo link="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"/>
+                       </div>
                     </div>
                 </div>
             </section>
@@ -88,63 +67,63 @@
                 </div>
                 <ul class="productGrid2">
                     <li>
-                        <a href="eugene_alonzo_poole_skiff.html"
+                        <nuxt-link to="eugene_alonzo_poole_skiff.html"
                             ><nuxt-img
                                 src="e_a_poole_grid3.jpg"
                                 alt="Eugene Alonzo Poole (E.A. Poole,  Eugene A. Poole) Painting
 
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="penrhyn_stanlaws_lincoln.html"
+                        <nuxt-link to="penrhyn_stanlaws_lincoln.html"
                             ><nuxt-img
                                 src="stanlaws_grid.jpg"
                                 alt="Penrhyn Stanlaws Painting
 
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="eugene_alonzo_poole_sheep.html"
+                        <nuxt-link to="eugene_alonzo_poole_sheep.html"
                             ><nuxt-img
                                 src="e_a_poole_grid.jpg"
                                 alt="Eugene Alonzo Poole (E.A. Poole,  Eugene A. Poole) Painting
 
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="william_bromley_III_liesure.html"
+                        <nuxt-link to="william_bromley_III_liesure.html"
                             ><nuxt-img
                                 src="bromley_grid.jpg"
                                 alt="William Bromley III Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="barton_stone_hays_tabletop.html"
+                        <nuxt-link to="barton_stone_hays_tabletop.html"
                             ><nuxt-img
                                 src="barton_stone_hays_artwork_grid.jpg"
                                 alt="Barton Stone Hays (B.S. Hays) Painting
 "
-                        /></a>
+                        /></nuxt-link>
                     </li>
                     <li>
-                        <a href="edward_moran_breakers.html"
+                        <nuxt-link to="edward_moran_breakers.html"
                             ><nuxt-img
                                 src="edward_moran_grid.jpg"
                                 alt="Edward Moran Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                 </ul>
-                <div class="breadcrumb"><a href="Artists--Bios.html" class="content_btn">view full gallery</a></div>
+                <div class="breadcrumb"><nuxt-link to="Artists--Bios.html" class="content_btn">view full gallery</nuxt-link></div>
             </section>
         </div>
 
@@ -168,112 +147,112 @@
 
                 <ul class="productGrid">
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb9.jpg"
                                 alt="victorian art
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb7.jpg"
                                 alt="victorian paintings
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb14.jpg"
                                 alt="victorian home decorating
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb15.jpg"
                                 alt="victorian artists
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb16.jpg"
                                 alt="victorian house restoration
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb17.jpg"
                                 alt="historic home decor
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb23.jpg"
                                 alt="historic home restoration
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb24.jpg"
                                 alt="victorian house interior design
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb25.jpg"
                                 alt="victorian home restoration
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb26.jpg"
                                 alt="victorian art
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb27.jpg"
                                 alt="victorian paintings
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 src="thumb28.jpg"
                                 alt="victorian home decorating
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                 </ul>
             </section>
@@ -305,62 +284,62 @@
 
                 <ul class="productGrid2">
                     <li>
-                        <a href="auguste_toulmouche_memories.html"
+                        <nuxt-link to="auguste_toulmouche_memories.html"
                             ><nuxt-img
                                 src="auguste_toulmouche_grid.jpg"
                                 alt="Auguste Toulmouche Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="morston_constantine_ream_fruit.html"
+                        <nuxt-link to="morston_constantine_ream_fruit.html"
                             ><nuxt-img
                                 src="morston_grid.jpg"
                                 alt="Morston Constantine Ream (Morston Ream) Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="frank_bromley_niagra.html"
+                        <nuxt-link to="frank_bromley_niagra.html"
                             ><nuxt-img
                                 src="frank_bromley_grid.jpg"
                                 alt="Frank Bromley (Frank Clark Bromley,  Frank C Bromley) Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="felix_octavious_carr_darley_washington.html"
+                        <nuxt-link to="felix_octavious_carr_darley_washington.html"
                             ><nuxt-img
                                 src="darley_grid.jpg"
                                 alt="Felix Octavius Carr Darley (F. O. C. Darley) Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="c_myron_clark_art.html"
+                        <nuxt-link to="c_myron_clark_art.html"
                             ><nuxt-img
                                 src="c_myron_clark_grid.jpg"
                                 alt="C. Myron Clark Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                     <li>
-                        <a href="jules_frederic_ballavoine_art_flowers.html"
+                        <nuxt-link to="jules_frederic_ballavoine_art_flowers.html"
                             ><nuxt-img
                                 src="ballvoine_grid.jpg"
                                 alt="Jules Frederic Ballavoine Painting
 "
                             />
-                        </a>
+                        </nuxt-link>
                     </li>
                 </ul>
 
-                <div class="breadcrumb"><a href="Artists--Bios.html">View full Gallery</a></div>
+                <div class="breadcrumb"><nuxt-link to="Artists--Bios.html">View full Gallery</nuxt-link></div>
             </section>
         </div>
 

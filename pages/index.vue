@@ -537,6 +537,7 @@
                     >
                 </div>
             </section>
+
         </div>
 
         <div class="container primary" style="padding-bottom: 24px">
@@ -685,7 +686,7 @@
                     </h2>
 
                     <div class="artwork leadPhoto">
-                        <a href="Artists--Bios.html"
+                        <nuxt-link to="Artists--Bios.html"
                             ><nuxt-img
                                 loading="lazy"
                                 class="art_detail"
@@ -694,7 +695,7 @@
                                 height="515"
                                 alt="19th Centruy Art from Bedford Fine Art Gallery
 "
-                        /></a>
+                        /></nuxt-link>
                     </div>
                     <div class="scroll_container scroller_show" style="margin-top: 46px">
                         <ArtworkSlidingImages />
@@ -871,9 +872,9 @@
                         and
                         <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link>
                         themes. Our gallery features both American and European 19th century painters such as
-                        <a class="internalLinkReverse" href="john_henry_dolph_duo.html">John Henry Dolph</a>,
-                        <a class="internalLinkReverse" href="george_hetzel.html">George Hetzel</a>,
-                        <a href="william_bromley_III.html" class="internalLinkReverse">William Bromley III</a>, and
+                        <nuxt-link to="john_henry_dolph_duo.html" class="internalLinkReverse">John Henry Dolph</nuxt-link>,
+                        <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
+                        <nuxt-link to="william_bromley_III.html" class="internalLinkReverse">William Bromley III</nuxt-link>, and
                         <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html"
                             >Barton Stone Hays</nuxt-link
                         >, to name a few. To see more of our 19th century artists, please visit our
