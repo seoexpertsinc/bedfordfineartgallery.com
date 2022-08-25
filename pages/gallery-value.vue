@@ -1,3 +1,4 @@
+
 <template>
     <div>
         <div class="container primary">
@@ -52,6 +53,7 @@
                         customers to fall in love with a painting they will treasure forever. We are honored to have a
                         great many very smart customers (IT specialists, financial advisors, chocolatiers, doctors,
                         lawyers, dentists, fortune 500 CEO’s, market securities experts, college professors, home
+
                         improvement consultants, engineers, small business owners, etc.). We are also humbled that our
                         customers trust us as their guide in purchasing unique fine art that they love. Maybe we are
                         old-school, but we truly believe in being honest, fair, and reasonable and that only our
@@ -62,25 +64,13 @@
 
                 <div class="col_40 artwork">
                     <div class="video-container2" style="clear: both; margin-bottom: 1.5em">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/AJdfGyGnrAw?rel=0"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen
-                        ></iframe>
+                    <YouTubeVideo link="https://www.youtube.com/embed/AJdfGyGnrAw?rel=0"/>
+
                     </div>
 
                     <div class="video-container2" style="clear: both">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen
-                        ></iframe>
+                    <YouTubeVideo link="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"/>
+
                     </div>
                     <!--<img class="art_detail" src="images/gallery_logo.jpg" width="798" height="515" alt="Bedford Fine Art Gallery
 "/>-->
@@ -89,20 +79,14 @@
                         Take a virtual tour of our gallery
                     </p>
                     <div class="video-container2" style="clear: both">
-                        <iframe
-                            width="560"
-                            height="315"
-                            src="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"
-                            frameborder="0"
-                            allow="autoplay; encrypted-media"
-                            allowfullscreen
-                        ></iframe>
+                     <YouTubeVideo link="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"/>
+
                     </div>
 
                     <p class="oblique" style="margin-bottom: 1em; margin-top: 1em">
                         Bedford Fine Art Gallery Slideshow
                     </p>
-                    <div class="home_test" style="width: 80%; margin: 20px auto 0px auto">
+                    <div class="home_test about_slideshow" style="width: 80%; margin: 20px auto 0px auto">
                         <AboutSlidingImages />
                     </div>
                 </div>
@@ -226,15 +210,35 @@
 </template>
 
 <style>
-.slick-prev::before,
-.slick-next::before {
+.about_slideshow .slick-prev::before,
+.about_slideshow .slick-next::before {
     font-family: 'slick';
     font-size: 20px;
     line-height: 1;
     opacity: 0.75;
-    color: black;
+    color: black !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+.about_slideshow .footer_test .slick-prev::before, .about_slideshow .slick-next::before, .about_slideshow .slick-prev::before, .about_slideshow .slick-next::before {
+  font-family: 'slick';
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: black !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.about_slideshow .artwork img {
+  width: 100%;
+  height: auto;
+}
+.video-container2 {
+
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 0;
+
 }
 </style>
 
