@@ -56,6 +56,9 @@ export default {
     build: {
         transpile: ['vue-picture-swipe'],
     },
+    loading: {
+        color: '#CCB38D',
+    },
     router: {
         trailingSlash: false,
     },
