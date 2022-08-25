@@ -45,7 +45,7 @@ export default {
 			return this.painting.status === 'Sold'
 		},
         galleryImage() {
-            return this.painting.galleryCropImage || this.painting.gridImage || this.painting.mediumResImage
+            return this.painting.galleryCropImage || this.painting.gridImage || this.painting.mediumResImage || ''
         }
 	}
 }
