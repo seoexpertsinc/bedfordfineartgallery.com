@@ -63,7 +63,7 @@
                     About the Gallery
                 </p>
                 <div class="breadcrumb" style="margin-top: 0px">
-                    <a href="Gallery-Value.html" class="content_btn">Read our story</a>
+                    <nuxt-link to="Gallery-Value.html" class="content_btn">Read our story</nuxt-link>
                 </div>
                 <ul class="productGrid2">
                     <li>

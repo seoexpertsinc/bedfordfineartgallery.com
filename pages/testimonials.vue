@@ -1100,8 +1100,8 @@
                     </div>
 
                     <div class="breadcrumb">
-                        <a href="index.html" style="width: 90%; margin: 0 auto 24px auto; max-width: 320px"
-                            >Back to Home</a
+                        <nuxt-link to="index.html" style="width: 90%; margin: 0 auto 24px auto; max-width: 320px"
+                            >Back to Home</nuxt-link
                         >
                     </div>
                 </div>
