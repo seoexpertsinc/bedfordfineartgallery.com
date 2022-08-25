@@ -103,328 +103,8 @@
                     </h2>
                 </div>
 
-                <div style="border-bottom: 1px solid #dddd85; padding-bottom: 20px; margin-bottom: 20px">
-                    <ul class="productGrid2" style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px">
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
+                <NotableSales :sold-paintings="soldPaintings" />
 
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-                    </ul>
-
-                    <ul
-                        v-if="showMessage"
-                        class="productGrid2"
-                        style="max-width: 1260px; margin: 0px auto 0px auto; padding-top: 10px"
-                    >
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-
-                        <li>
-                            <div class="sold">
-                                <span class="soldTag">sold</span
-                                ><a href="octavius_white_niagra.html"
-                                    ><nuxt-img
-                                        loading="lazy"
-                                        src="IMG_4142_grid.jpg"
-                                        alt="Octavius White (19th Century Canadian School)
-"
-                                    />
-                                    <p class="artist_gallery_title">Octavius White (19th Century Canadian School)</p>
-                                </a>
-                            </div>
-                        </li>
-                    </ul>
-                    <button
-                        class="rd_more rd_more_blue"
-                        style="
-                            text-decoration: none;
-                            background: #742924;
-                            max-width: 200px;
-                            text-align: center;
-                            margin-bottom: 0px;
-                        "
-                        @click="showMessage = !showMessage"
-                    >
-                        See More Notable Sales
-                    </button>
-                </div>
                 <CustomerSlidingImages />
                 <div class="breadcrumb">
                     <nuxt-link :to="{ name: 'artists-bios' }"
@@ -1006,7 +686,9 @@
 </template>
 
 <script>
+import NotableSales from '~/components/NotableSales'
 import YouTubeVideo from '~/components/YouTubeVideo'
+import { loadGalleryPaintings } from '~/libs/paintings'
 
 const defaultConfig = {
     displayAmount: 4,
@@ -1030,10 +712,14 @@ const kebabize = (str) => {
 }
 export default {
     name: 'App',
-    components: { YouTubeVideo },
+    components: { NotableSales, YouTubeVideo },
+    async asyncData({ $content }) {
+        return {
+            soldPaintings: await loadGalleryPaintings({ $content, sold: true, columns: ['title', 'slug', 'gridImage', 'mediumResImage', 'artist'] }),
+        }
+    },
     data() {
         return {
-            showMessage: false,
             readMore: false,
             itemAmount: 6,
             option: { ...defaultConfig },
@@ -1100,28 +786,6 @@ export default {
 </script>
 
 <style scoped>
-ul.productGrid2 li {
-    display: inline-block;
-    text-align: center;
-    margin: 0;
-    transition: all 0.8s ease;
-    font-size: 16px;
-    width: 10%;
-    vertical-align: top;
-}
-
-.artist_gallery_title {
-    display: none;
-}
-
-.soldTag {
-    position: absolute;
-    background-color: #f2f2f2;
-    color: #ab1719;
-    padding: 4px;
-    font-size: 10px;
-    text-transform: uppercase;
-}
 .home_test span {
     color: #f2f2f2 !important;
 }
