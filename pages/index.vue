@@ -538,16 +538,16 @@
                         available 19th century artwork on our
                         <nuxt-link :to="{ name: 'artists-bios' }" class="internalLinkReverse">Gallery page</nuxt-link>.
                         Our current inventory boasts a wide diversity of subject matter from
-                        <nuxt-link :to="{ name: 'landscape-artwork' }"> class="internalLinkReverse">landscape</nuxt-link
-                        >,<nuxt-link class="internalLinkReverse" to="/"> marine</nuxt-link>,
-                        <nuxt-link class="internalLinkReverse" :to="{ name: 'still-life-artwork' }"
-                            >still life</nuxt-link
-                        >, <nuxt-link class="internalLinkReverse" :to="{ name: 'genre-artwork' }">genre</nuxt-link>,
+                        <nuxt-link :to="{ name: 'landscape-artwork' }" class="internalLinkReverse">landscape</nuxt-link
+                        >, <nuxt-link :to="{ name: 'marine-artwork' }" class="internalLinkReverse">marine</nuxt-link>,
+                        <nuxt-link :to="{ name: 'still-life-artwork' }"
+                             class="internalLinkReverse">still life</nuxt-link
+                        >, <nuxt-link :to="{ name: 'genre-artwork' }" class="internalLinkReverse">genre</nuxt-link>,
 
-                        <nuxt-link :to="{ name: 'historical-and-political-artwork.html' }" class="internalLinkReverse"
-                            >American historical/political</nuxt-link
+                        <nuxt-link :to="{ name: 'historical-and-political-artwork' }"
+                             class="internalLinkReverse">American historical/political</nuxt-link
                         >
-                        >,
+                        ,
                         <nuxt-link :to="{ name: 'sporting-art' }" class="internalLinkReverse">sporting art</nuxt-link>,
                         and
                         <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link>
@@ -555,8 +555,8 @@
                         <nuxt-link to="john_henry_dolph_duo.html" class="internalLinkReverse">John Henry Dolph</nuxt-link>,
                         <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
                         <nuxt-link to="william_bromley_III.html" class="internalLinkReverse">William Bromley III</nuxt-link>, and
-                        <nuxt-link class="internalLinkReverse" to="barton_stone_hays_apple.html"
-                            >Barton Stone Hays</nuxt-link
+                        <nuxt-link to="barton_stone_hays_apple.html"
+                             class="internalLinkReverse">Barton Stone Hays</nuxt-link
                         >, to name a few. To see more of our 19th century artists, please visit our
                         <nuxt-link :to="{ name: 'artists' }" class="internalLinkReverse">Artists page</nuxt-link>. Good
                         art is timeless and only you know what &quot;wows&quot; you. You know it when you see it and we
