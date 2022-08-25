@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 17.75 x 29.29.75 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/bannister_river_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/bannister_river_full.jpg",
+   "highResImageHeight" : 2869,
+   "highResImageWidth" : 4213,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/bannister_river_small.jpg",
+   "mediumResImageHeight" : 797,
+   "mediumResImageWidth" : 1171,
    "metaDescription" : "Bannister born in St. Andrews, New Brunswick, Canada is best known today for his tonalist landscapes and coastal scenes of Rhode Island and southeastern Massachusett",
    "metaKeywords" : "",
    "metaTitle" : "Edward Mitchell Bannister Painting - River at Dusk - 19th Century American Fine Art",

@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/riab_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/riab_grid2.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/riab_full2.jpg",
+   "highResImageHeight" : 2650,
+   "highResImageWidth" : 3599,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/riab_small2.jpg",
+   "mediumResImageHeight" : 1252,
+   "mediumResImageWidth" : 1700,
    "metaDescription" : "Riab was to become one of France's most accomplished painters of sporting dogs, waterfowl and gamebirds. Born Boris Riabouchinsky into a prosperous Moscow family,",
    "metaKeywords" : "",
    "metaTitle" : "Boris Riab Painting - Pheasants in Flight - 19th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/darley_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/darley_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/darley.jpg",
+   "highResImageHeight" : 2304,
+   "highResImageWidth" : 2841,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/darley_small.jpg",
+   "mediumResImageHeight" : 1115,
+   "mediumResImageWidth" : 1375,
    "metaDescription" : "Felix Octavius Carr Darley was a self-taught artist, who had a meteoric rise to become America's first and finest illustrators. Darley was born in Philadelphia, Pe",
    "metaKeywords" : "",
    "metaTitle" : "Felix Octavius Carr Darley Painting - Washington and Companions - 19th Century American Fine Art",

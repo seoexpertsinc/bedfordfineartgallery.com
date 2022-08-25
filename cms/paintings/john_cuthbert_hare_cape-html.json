@@ -8,7 +8,11 @@
    "featured" : true,
    "galleryCropImage" : "/cms-uploads/hare_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hare_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hare_full.jpg",
+   "highResImageHeight" : 2705,
+   "highResImageWidth" : 3061,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hare_small.jpg",
+   "mediumResImageHeight" : 1235,
+   "mediumResImageWidth" : 1511,
    "metaDescription" : "New England painter John Hare was born in Brooklyn, New York and studied commercial art at the Pratt Institute (NYC) and later at the Art Students League (Manhattan,",
    "metaKeywords" : "",
    "metaTitle" : "John Cuthbert Hare Painting - Cape Cod Light - 19th Century American Fine Art",

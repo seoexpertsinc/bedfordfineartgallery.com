@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4186_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4186_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4186_original.jpg",
+   "highResImageHeight" : 1648,
+   "highResImageWidth" : 1940,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4186_small.jpg",
+   "mediumResImageHeight" : 973,
+   "mediumResImageWidth" : 1145,
    "metaDescription" : "George Goodwin Kilburne was one of the most sought after artists in England. His early training as an engraver provided him with an eye for exacting detail, which se",
    "metaKeywords" : "",
    "metaTitle" : "George Goodwin Kilburne Painting - Offering Sandwiches to Traveler - 19th Century British Fine Art",

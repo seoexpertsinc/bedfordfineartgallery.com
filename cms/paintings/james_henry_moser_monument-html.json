@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/moser_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/moser_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/moser_full.jpg",
+   "highResImageHeight" : 2472,
+   "highResImageWidth" : 2846,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/moser_small.jpg",
+   "mediumResImageHeight" : 1329,
+   "mediumResImageWidth" : 1530,
    "metaDescription" : "No other artist so completely identified with the art life of Washington, D.C. than James Henry Moser. Moser was born in Whitby, Ontario. His father was an architect",
    "metaKeywords" : "",
    "metaTitle" : "James Henry Moser Painting - Washington Monument and U.S. Capitol - 1898 -19th Century Canadian Fine Art",

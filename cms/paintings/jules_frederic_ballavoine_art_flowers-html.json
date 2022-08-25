@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/ballvoine_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/ballvoine_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ballvoine_full.jpg",
+   "highResImageHeight" : 2680,
+   "highResImageWidth" : 2092,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ballvoine_small.jpg",
+   "mediumResImageHeight" : 1496,
+   "mediumResImageWidth" : 1168,
    "metaDescription" : "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter. He received some notoriety during the early decades of the Frenc",
    "metaKeywords" : "",
    "metaTitle" : "Jules Frederic Ballavoine Painting - Young Woman with Flowers - 19th Century French Fine Art",

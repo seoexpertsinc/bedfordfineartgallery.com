@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wc2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wc2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/woodcock_hunting_original.jpg",
+   "highResImageHeight" : 1335,
+   "highResImageWidth" : 2073,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/woodcock_hunting_small.jpg",
+   "mediumResImageHeight" : 743,
+   "mediumResImageWidth" : 1154,
    "metaDescription" : "Beard was born in Buffalo, New York. When he was eleven he moved with his family to Painesville, Ohio where his younger brother, painter William Holbrook Beard was b",
    "metaKeywords" : "",
    "metaTitle" : "James Henry Beard Painting - Woodcock Hunting - 19th Century American Fine Art",

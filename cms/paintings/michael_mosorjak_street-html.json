@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/maj_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/maj_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/maj_full.jpg",
+   "highResImageHeight" : 2799,
+   "highResImageWidth" : 3309,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/maj_small.jpg",
+   "mediumResImageHeight" : 1343,
+   "mediumResImageWidth" : 1587,
    "metaDescription" : "Johnstown, Pennsylvania artist Michael Mosorjak is a contemporary artist practicing in oil and gouache painting techniques. His skillful, realistic renderings have n",
    "metaKeywords" : "",
    "metaTitle" : "Michael Mosorjak Painting - Middle Street - 19th Century American Fine Art",

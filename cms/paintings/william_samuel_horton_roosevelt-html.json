@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4341_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4341_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4341_original.jpg",
+   "highResImageHeight" : 2025,
+   "highResImageWidth" : 1764,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4341_small.jpg",
+   "mediumResImageHeight" : 1200,
+   "mediumResImageWidth" : 1046,
    "metaDescription" : "We believe this painting of Teddy Roosevelt was painted by American Impressionist painter William Samuel Horton. We estimate this painting was completed circa 1909 i",
    "metaKeywords" : "",
    "metaTitle" : "William Samuel Horton Painting - Teddy Roosevelt, C. 1909 - 19th Century American Fine Art",

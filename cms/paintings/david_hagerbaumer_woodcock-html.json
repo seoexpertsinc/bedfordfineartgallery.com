@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hagerbaumer_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hagerbaumer_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hagerbaumer_full.jpg",
+   "highResImageHeight" : 2793,
+   "highResImageWidth" : 2390,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hagerbaumer_small.jpg",
+   "mediumResImageHeight" : 1509,
+   "mediumResImageWidth" : 1291,
    "metaDescription" : "Growing up in Quincy, Illinois during the Great Depression and Hagerbaumer hunted, trapped and fished with his father, uncles and grandfather to put food on the fami",
    "metaKeywords" : "",
    "metaTitle" : "David Hagerbaumer Painting - Woodcock - 19th Century American Fine Art",

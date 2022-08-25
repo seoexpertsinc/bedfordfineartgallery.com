@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 13.5 x 22.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/hetzel_lawrence_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hetzel_lawrence_full.jpg",
+   "highResImageHeight" : 2747,
+   "highResImageWidth" : 3949,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hetzel_lawrence_small.jpg",
+   "mediumResImageHeight" : 902,
+   "mediumResImageWidth" : 1296,
    "metaDescription" : "George Hetzel was born in the French province of Alsace, but immigrated with his family to America in 1828, settling in Allegheny City (Pittsburgh's North Side).",
    "metaKeywords" : "",
    "metaTitle" : "George Hetzel Painting - Lawrence County, PA - 19th Century American Fine Art",

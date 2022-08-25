@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/cooper_boat_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/cooper_boat_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/cooper_boat_full.jpg",
+   "highResImageHeight" : 2406,
+   "highResImageWidth" : 3129,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/cooper_boat_small.jpg",
+   "mediumResImageHeight" : 986,
+   "mediumResImageWidth" : 1284,
    "metaDescription" : "William Sidney Cooper studied with his great-uncle Thomas Sidney Cooper at his School of Art in Canterbury (now he University College for the Creative Arts at Canter",
    "metaKeywords" : "",
    "metaTitle" : "William Sidney Cooper - Sheep by a Boat and Stream with Ducks - 19th Century British Fine Art",

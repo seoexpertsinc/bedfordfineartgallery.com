@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/waugh_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/waugh_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/waugh_full.jpg",
+   "highResImageHeight" : 3209,
+   "highResImageWidth" : 2091,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/waugh_small.jpg",
+   "mediumResImageHeight" : 1592,
+   "mediumResImageWidth" : 1037,
    "metaDescription" : "Marine painter Frederick Judd Waugh was born in Bordentown, New Jersey, the son of artists Samuel Bell Waugh and his second wife, Mary Eliza Young, a miniature paint",
    "metaKeywords" : "",
    "metaTitle" : "Frederick Judd Waugh Painting - The Boating Outing - 19th Century American Fine Art",

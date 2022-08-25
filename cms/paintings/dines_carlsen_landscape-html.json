@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/carlsen_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/carlsen_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/carlsen_full.jpg",
+   "highResImageHeight" : 2336,
+   "highResImageWidth" : 2872,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/carlsen_small.jpg",
+   "mediumResImageHeight" : 1239,
+   "mediumResImageWidth" : 1524,
    "metaDescription" : "American Impressionist painter, Dines Carlsen was the son of Soren Emil Carlsen, a noted artist and instructor at the National Academy of Design in New York City. He",
    "metaKeywords" : "",
    "metaTitle" : "Dines Carlsen Painting - CT Landscape - 19th Century American Fine Art",

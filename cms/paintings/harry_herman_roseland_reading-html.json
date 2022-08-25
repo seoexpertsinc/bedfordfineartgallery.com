@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/fc_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/fc_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/tfc_original.jpg",
+   "highResImageHeight" : 2154,
+   "highResImageWidth" : 2514,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/tfc_small.jpg",
+   "mediumResImageHeight" : 1116,
+   "mediumResImageWidth" : 1303,
    "metaDescription" : "Roseland was born in Brooklyn, New York and although largely self-taught he did study with New York artists Carroll Beckwith and J.B. Whittaker. He was to become one",
    "metaKeywords" : "",
    "metaTitle" : "Harry Herman Roseland Painting - Reading her Palm - 19th Century American Fine Art",

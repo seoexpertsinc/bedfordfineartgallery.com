@@ -5,6 +5,8 @@
    "dimensions" : "Watercolor, 5 x 12.25 inches / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/seascape_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -21,6 +23,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/seascape_small.jpg",
+   "mediumResImageHeight" : 1090,
+   "mediumResImageWidth" : 1586,
    "metaDescription" : "Bricher is best known for his maritime water colors and is considered to be one of the 19th century's greatest maritime painters. Employed as a businessman in Bost",
    "metaKeywords" : "",
    "metaTitle" : "Alfred T. Bricher Painting - Seascape - 19th Century American Fine Art",

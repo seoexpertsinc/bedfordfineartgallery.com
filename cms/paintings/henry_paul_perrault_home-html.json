@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4416_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4416_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4416_original.jpg",
+   "highResImageHeight" : 2540,
+   "highResImageWidth" : 2054,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4416_small.jpg",
+   "mediumResImageHeight" : 1475,
+   "mediumResImageWidth" : 1193,
    "metaDescription" : "Henri Paul Perrault was born in Versailles, France, in 1867. He exhibited works in Paris at the Salon of French Artists, becoming a member in 1899. He won a 3rd plac",
    "metaKeywords" : "",
    "metaTitle" : "Henry Paul Perrault Painting - Hurry Home - 19th Century French Fine Art",

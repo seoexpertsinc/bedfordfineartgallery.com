@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/altson_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/altson_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/altson_large.jpg",
+   "highResImageHeight" : 2930,
+   "highResImageWidth" : 2034,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/altson_small.jpg",
+   "mediumResImageHeight" : 1477,
+   "mediumResImageWidth" : 1025,
    "metaDescription" : "Altson was born at Middlesborough-on-Tees, in Yorkshire, England. He moved to Melbourne, Australia circa 1885 and studied drawing at the National Gallery School of D",
    "metaKeywords" : "",
    "metaTitle" : "Abbey Altson Painting - Songs of the Forest - 19th Century British Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_3942_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_3942_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_3942_original.jpg",
+   "highResImageHeight" : 2644,
+   "highResImageWidth" : 2043,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_3942_small.jpg",
+   "mediumResImageHeight" : 1583,
+   "mediumResImageWidth" : 1224,
    "metaDescription" : "This fine watercolor is by a very well listed, sought after British artist, James Lobley. The symbolic composition \"Remember the Poor\" is typical of his religiou",
    "metaKeywords" : "",
    "metaTitle" : "James Lobley Painting - Remember the Poor - 19th Century British Fine Art",

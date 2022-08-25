@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/linford_summer_serenity_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/linford_summer_serenity_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/linford_summer_serenity_full.jpg",
+   "highResImageHeight" : "3133",
+   "highResImageWidth" : "2448",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/linford_summer_serenity_small.jpg",
+   "mediumResImageHeight" : 1254,
+   "mediumResImageWidth" : 980,
    "metaDescription" : "Landscape painter, Charles Linford was born in Pittsburgh, Pennsylvania and was a student of noted Scalp Level founder, George Hetzel. Linford's characteristic sty",
    "metaKeywords" : "",
    "metaTitle" : "Charles Linford Painting - Path to the Creek - 19th Century American Fine Art",

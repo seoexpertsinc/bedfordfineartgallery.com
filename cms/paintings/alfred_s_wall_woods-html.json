@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 9.63 x 6.63 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/wall_woods_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wall_pair_full.jpg",
+   "highResImageHeight" : 1942,
+   "highResImageWidth" : 3173,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wall_pair_small.jpg",
+   "mediumResImageHeight" : 971,
+   "mediumResImageWidth" : 1587,
    "metaDescription" : "Wall was born in Mount Pleasant, PA, the son of a sculptor and younger brother of artist William Coventry Wall. He was a member of the \"Scalp Level School,\" a gr",
    "metaKeywords" : "",
    "metaTitle" : "Alfred S. Wall - The Woods at Dusk / Cows in the Woods - 19th Century American Fine Art",

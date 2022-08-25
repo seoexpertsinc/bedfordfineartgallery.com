@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/sommer_traveler_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/sommer_traveler_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/sommer_traveler_full.jpg",
+   "highResImageHeight" : 1809,
+   "highResImageWidth" : 2902,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/sommer_traveler_small.jpg",
+   "mediumResImageHeight" : 905,
+   "mediumResImageWidth" : 1451,
    "metaDescription" : "Very little biographical information is currently available for Carl Sommer.  That he was a landscape artist in the style of the Hudson River School seems apparent f",
    "metaKeywords" : "",
    "metaTitle" : "Carl Sommer Painting - Lone Traveler - 19th Century American Fine Art",

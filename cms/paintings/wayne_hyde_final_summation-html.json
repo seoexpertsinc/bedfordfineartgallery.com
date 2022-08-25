@@ -8,6 +8,8 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hyde_summation_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hyde_summation_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -18,6 +20,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hyde_summation_small.jpg",
+   "mediumResImageHeight" : 1460,
+   "mediumResImageWidth" : 1126,
    "metaDescription" : "Contemporary sculptor Wayne Hyde was born and raised in the Allegheny Mountains, near Bedford, Pennsylvania. His early experiences in rural Bedford, County, led to h",
    "metaKeywords" : "",
    "metaTitle" : "Wayne Hyde Sculpture - The Final Summation - Contemporary American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wooster_fruit_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4041_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wooster_fruit_full.jpg",
+   "highResImageHeight" : 1562,
+   "highResImageWidth" : 2196,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wooster_fruit_small.jpg",
+   "mediumResImageHeight" : 719,
+   "mediumResImageWidth" : 1011,
    "metaDescription" : "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg). His great-grandfather was a member of the Pennsylvania Militia during the",
    "metaKeywords" : "",
    "metaTitle" : "Austin C. Wooster Painting - Still Life with Fruit, 1893 - 19th Century American Fine Art",

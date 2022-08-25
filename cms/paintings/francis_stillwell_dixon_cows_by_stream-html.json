@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 8 x 10 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/dixon_cows_stream_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0203.jpg",
+   "highResImageHeight" : "2424",
+   "highResImageWidth" : "2832",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/dixon_cows_stream_small.jpg",
+   "mediumResImageHeight" : 836,
+   "mediumResImageWidth" : 982,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

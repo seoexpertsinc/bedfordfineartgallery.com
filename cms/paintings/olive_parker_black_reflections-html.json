@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/8_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/8_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/reflections_origina.jpg",
+   "highResImageHeight" : 1727,
+   "highResImageWidth" : 2306,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/reflections_small.jpg",
+   "mediumResImageHeight" : 945,
+   "mediumResImageWidth" : 1262,
    "metaDescription" : "Black was born in Cambridge, Massachusetts. She enrolled in the School of Painting at the Museum of Fine Arts in Boston, where she studied with Otto Grundmann and Fr",
    "metaKeywords" : "",
    "metaTitle" : "Olive Parker Black Painting - Reflections - 19th Century American Fine Art",

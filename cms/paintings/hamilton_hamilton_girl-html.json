@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hamilton_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hamilton_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hamilton_full.jpg",
+   "highResImageHeight" : "3030",
+   "highResImageWidth" : "2004",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hamilton_full.jpg",
+   "mediumResImageHeight" : 3030,
+   "mediumResImageWidth" : 2004,
    "metaDescription" : "Hamilton was born in Oxford, England, but came to Cowlesville (near Buffalo), New York with his family while young. Although his parents did not fully support his ch",
    "metaKeywords" : "",
    "metaTitle" : "Hamilton Hamilton Painting - Girl in Blossom - 19th Century American Fine Art",

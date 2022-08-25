@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/waltensperger_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/waltensperger_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/waltensperger_full.jpg",
+   "highResImageHeight" : 2902,
+   "highResImageWidth" : 2516,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/waltensperger_small.jpg",
+   "mediumResImageHeight" : 1161,
+   "mediumResImageWidth" : 1007,
    "metaDescription" : "Charles E. Waltensperger was born in Detroit, Michigan.  In Detroit, he opened a studio on Broadway where he painted his genre scenes and landscapes, although his pr",
    "metaKeywords" : "",
    "metaTitle" : "Charles Waltensperger Painting - Girl with Cats - 19th Century American Fine Art",

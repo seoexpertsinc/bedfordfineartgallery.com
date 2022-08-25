@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/smith_street_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/smith_street_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/smith_street_full.jpg",
+   "highResImageHeight" : 2174,
+   "highResImageWidth" : 3130,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/smith_street_small.jpg",
+   "mediumResImageHeight" : 870,
+   "mediumResImageWidth" : 1252,
    "metaDescription" : "Francis Smith, born in Baltimore, Maryland, was the great grandson of Francis Hopkinson, a signer of the Declaration of Independence. Both his great-grandfather and",
    "metaKeywords" : "",
    "metaTitle" : "Francis Hopkinson Smith Painting - Venetian Street - 19th Century American Fine Art",

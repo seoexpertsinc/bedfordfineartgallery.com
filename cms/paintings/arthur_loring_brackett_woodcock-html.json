@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/bracket_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/bracket_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/still_life_with_woodcock_original.jpg",
+   "highResImageHeight" : 2334,
+   "highResImageWidth" : 1955,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/still_life_with_woodcock_small.jpg",
+   "mediumResImageHeight" : 1310,
+   "mediumResImageWidth" : 1097,
    "metaDescription" : "Brackett was a Boston, Massachusetts artist, the son of noted fish and game still life artist Walter L. Brackett and nephew of sculptor Edward A. Brackett. Brackett",
    "metaKeywords" : "",
    "metaTitle" : "A.L. Brackett Painting - Still Life with Woodcock - 19th Century American  Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/strueber_grid3_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/strueber_grid3.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/strueber_full3.jpg",
+   "highResImageHeight" : 2866,
+   "highResImageWidth" : 2823,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/strueber_small3.jpg",
+   "mediumResImageHeight" : 1443,
+   "mediumResImageWidth" : 1422,
    "metaDescription" : "Born in Pittsburgh, Pennsylvania, Strueber is an accomplished watercolorist and plein air painter. Strueber regards his approach to watercolor painting as spirituall",
    "metaKeywords" : "",
    "metaTitle" : "Michael Strueber Painting - Calla Lilies - 19th Century American Fine Art",

@@ -10,7 +10,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/brooks_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/brooks_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/brooks_full2.jpg",
+   "highResImageHeight" : 2264,
+   "highResImageWidth" : 3075,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -26,6 +30,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/brooks_small2.jpg",
+   "mediumResImageHeight" : 1117,
+   "mediumResImageWidth" : 1517,
    "metaDescription" : "Brooks was born in Etawah, India, the son of a civil engineer who was working on construction of the East India Railway. He spent the years 1873 -1881 in England whe",
    "metaKeywords" : "",
    "metaTitle" : "Allan Brooks Painting - Deer in Landscape - 19th Century Canadian Fine Art",

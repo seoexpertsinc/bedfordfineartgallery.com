@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 13.5 x 17.5 inches / signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/bromley_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/bromley_full.jpg",
+   "highResImageHeight" : 2083,
+   "highResImageWidth" : 2524,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/bromley_small.jpg",
+   "mediumResImageHeight" : 1095,
+   "mediumResImageWidth" : 1327,
    "metaDescription" : "William Bromley was the son of an artist and grandson of an engraver. He began his artistic career as an engraver, but forayed into genre painting. He is best known",
    "metaKeywords" : "",
    "metaTitle" : "William Bromley III Painting - Leisure Hours - 19th Century British Fine Art",

@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hays12_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hays12_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hays12_full.jpg",
+   "highResImageHeight" : 1639,
+   "highResImageWidth" : 2897,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hays12_small.jpg",
+   "mediumResImageHeight" : 873,
+   "mediumResImageWidth" : 1543,
    "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
    "metaKeywords" : "",
    "metaTitle" : "Barton Stone Hays Painting - Still Life with Apples and Grapes - 19th Century American Fine Art",

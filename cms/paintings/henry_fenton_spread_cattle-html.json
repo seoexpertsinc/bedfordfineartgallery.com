@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/lwc_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/lwc_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/lwc_original.jpg",
+   "highResImageHeight" : 2182,
+   "highResImageWidth" : 3284,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/lwc_small.jpg",
+   "mediumResImageHeight" : 1015,
+   "mediumResImageWidth" : 1528,
    "metaDescription" : "Spread was born in Kinsale, Ireland and immigrated to the United States in 1870. He studied painting with William Riviere, Henry Warren and Ernest Slingeneyer. In 18",
    "metaKeywords" : "",
    "metaTitle" : "Henry Fenton Spread Painting - Landscape with Cattle - 19th Century American Fine Art",

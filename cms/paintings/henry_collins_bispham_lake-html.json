@@ -10,7 +10,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/4_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/4_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/misty_morning_on_the_lake_original.jpg",
+   "highResImageHeight" : 1659,
+   "highResImageWidth" : 2367,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -26,6 +30,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/misty_morning_on_the_lake_small.jpg",
+   "mediumResImageHeight" : 985,
+   "mediumResImageWidth" : 1406,
    "metaDescription" : "Bispham was a Philadelphia, Pennsylvania artist known for hunting and fishing genre and wildlife paintings. He studied under noted Philadelphia landscape and marine",
    "metaKeywords" : "",
    "metaTitle" : "Henry Collins Bispham Painting - Misty Morning on the Lake - 19th Century American Fine Art",

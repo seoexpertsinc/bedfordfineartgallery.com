@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/roseland_cards_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/roseland_cards_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/roseland_cards_full.jpg",
+   "highResImageHeight" : 2685,
+   "highResImageWidth" : 3722,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/roseland_cards_small.jpg",
+   "mediumResImageHeight" : 1074,
+   "mediumResImageWidth" : 1489,
    "metaDescription" : "Harry Herman Roseland was one America's finest genre painters of the 19th and early 20th centuries.  arly in his career he painted landscapes and still lifes; howe",
    "metaKeywords" : "",
    "metaTitle" : "Harry Herman Roseland Painting - Her Future From the Cards - 19th Century American Fine Art",

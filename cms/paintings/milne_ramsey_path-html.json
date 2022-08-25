@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0301-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0301-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0301.jpg",
+   "highResImageHeight" : 2208,
+   "highResImageWidth" : 2888,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0301-m.jpg",
+   "mediumResImageHeight" : 1038,
+   "mediumResImageWidth" : 1358,
    "metaDescription" : "Born in Philadelphia, Pennsylvania, Ramsey served with the Pennsylvania Militia during the Civil War. His formal art training began in 1863 when he enrolled at the P",
    "metaKeywords" : "",
    "metaTitle" : "Milne Ramsey Painting - Figure on a Path - 19th Century American Fine Art",

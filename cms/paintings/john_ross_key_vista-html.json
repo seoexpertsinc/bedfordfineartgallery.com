@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 12.5” x 23”/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/key_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/key_large.jpg",
+   "highResImageHeight" : 2232,
+   "highResImageWidth" : 3507,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/key_small.jpg",
+   "mediumResImageHeight" : 1042,
+   "mediumResImageWidth" : 1638,
    "metaDescription" : "Key was born in Hagerstown, Maryland, but was raised in Washington, D.C. by his famous grandfather, Francis Scott, who penned the lyrics to our national Anthem. Key",
    "metaKeywords" : "",
    "metaTitle" : "John Ross Key Painting - Lake Vista - 19th Century American Fine Art",

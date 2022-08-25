@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/busch_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/busch_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/busch_full.jpg",
+   "highResImageHeight" : 2325,
+   "highResImageWidth" : 2766,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/busch_small.jpg",
+   "mediumResImageHeight" : 930,
+   "mediumResImageWidth" : 1107,
    "metaDescription" : null,
    "metaKeywords" : "",
    "metaTitle" : "Peter Johan Valdemar Busch Painting - Path through the Beech Trees - 19th Century American Fine Art",

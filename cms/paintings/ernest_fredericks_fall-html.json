@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0171-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0171-sm.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0171.jpg",
+   "highResImageHeight" : 2656,
+   "highResImageWidth" : 3176,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0171-m.jpg",
+   "mediumResImageHeight" : 1182,
+   "mediumResImageWidth" : 1413,
    "metaDescription" : "Landscape painter Ernest Fredericks, whose given name was Frederick Ernest Swedlun was born in McPherson, Kansas. It has been said that Frederick was influenced by S",
    "metaKeywords" : "",
    "metaTitle" : "Ernest Fredericks Painting - Fall Landscape - 19th Century American Fine Art",

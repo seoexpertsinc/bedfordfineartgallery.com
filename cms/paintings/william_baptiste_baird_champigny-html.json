@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/baird_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/baird_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/baird_full.jpg",
+   "highResImageHeight" : 2547,
+   "highResImageWidth" : 3209,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/baird_small.jpg",
+   "mediumResImageHeight" : 836,
+   "mediumResImageWidth" : 1053,
    "metaDescription" : "Baird was born in Chicago, Illinois.  He is known for his paintings of the French country side and farms with their farm animals, notably chickens, cows and sheep, b",
    "metaKeywords" : "",
    "metaTitle" : "William Baptiste Baird Painting - On the Marne at Champigny - 19th Century American Fine Art",

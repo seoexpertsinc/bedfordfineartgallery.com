@@ -5,6 +5,8 @@
    "dimensions" : "Oil on canvas, 27.5 x 43.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/edward_moran_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -21,6 +23,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/edward_moran_small.jpg",
+   "mediumResImageHeight" : 953,
+   "mediumResImageWidth" : 1396,
    "metaDescription" : "Born in Bolton, Lancashire, England, Moran immigrated to the United States (Philadelphia) in 1844 with his parents and settled in Baltimore, Maryland. 1845 found him",
    "metaKeywords" : "",
    "metaTitle" : "Edward Moran Painting - Breakers at Sunset - 19th Century American Fine Art",

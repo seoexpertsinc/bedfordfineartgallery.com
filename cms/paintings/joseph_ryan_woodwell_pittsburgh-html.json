@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 11.63.38 x 19.63 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/woodwell_pittsburgh_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/woodwell_pittsburgh_full.jpg",
+   "highResImageHeight" : 2003,
+   "highResImageWidth" : 2981,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/woodwell_pittsburgh_small.jpg",
+   "mediumResImageHeight" : 822,
+   "mediumResImageWidth" : 1222,
    "metaDescription" : "Joseph Woodwell was born in Pittsburgh, the son of woodcarver and hardware business owner Joseph W. Woodwell [d. 1899]. A rarity for the times, he was encouraged to",
    "metaKeywords" : "",
    "metaTitle" : "Joseph Ryan Woodwell - Pittsburgh Landscape - 19th Century American Fine Art",

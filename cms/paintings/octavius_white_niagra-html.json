@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 21.5 x 35.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/img_4142_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4142_original.jpg",
+   "highResImageHeight" : 1292,
+   "highResImageWidth" : 1969,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4142_small.jpg",
+   "mediumResImageHeight" : 775,
+   "mediumResImageWidth" : 1181,
    "metaDescription" : "Octavius White lived and was active in Canada. He typically painted realistic landscape views of mountain scenes and waterfalls, such as this vibrant composition of",
    "metaKeywords" : "",
    "metaTitle" : "Octavius White Painting - Horse Shoe Falls, Niagra Falls - 19th Century Canadian School Fine Art",

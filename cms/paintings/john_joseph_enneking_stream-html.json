@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 23.5 x 35.5 inches / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/grid_ww.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wws.jpg",
+   "highResImageHeight" : 2212,
+   "highResImageWidth" : 3050,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wws_small.jpg",
+   "mediumResImageHeight" : 1115,
+   "mediumResImageWidth" : 1537,
    "metaDescription" : "Enneking was born in Minster, Ohio, but moved to Cincinnati to live with relatives after the deaths of his parents. His early interest in drawing was fostered by his",
    "metaKeywords" : "",
    "metaTitle" : "John Joseph Enneking Painting - White Water Stream - 19th Century American Fine Art",

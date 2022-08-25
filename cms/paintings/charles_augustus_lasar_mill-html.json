@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4289_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4289_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4289_original.jpg",
+   "highResImageHeight" : 1986,
+   "highResImageWidth" : 1635,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4289_small.jpg",
+   "mediumResImageHeight" : 1144,
+   "mediumResImageWidth" : 941,
    "metaDescription" : "Charles Augustus Lasar, known as \"Shorty\" Lasar was a Johnstown, Pennsylvania-born artist. As did many American artists, he travelled to Paris broaden his art ed",
    "metaKeywords" : "",
    "metaTitle" : "Charles Augustus Painting - The Old Mill at Salleport England - 19th Century American Fine Art",

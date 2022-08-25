@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_3919_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_3919_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_3919.jpg",
+   "highResImageHeight" : "583",
+   "highResImageWidth" : "818",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_3919.jpg",
+   "mediumResImageHeight" : 583,
+   "mediumResImageWidth" : 818,
    "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
    "metaKeywords" : "",
    "metaTitle" : "Barton Stone Hays Painting - Still Life of Apples - 19th Century American Fine Art",

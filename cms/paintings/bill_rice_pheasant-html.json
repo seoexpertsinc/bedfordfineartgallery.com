@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/rice_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/rice_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/rice_full.jpg",
+   "highResImageHeight" : 2604,
+   "highResImageWidth" : 3184,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/rice_small.jpg",
+   "mediumResImageHeight" : 964,
+   "mediumResImageWidth" : 1179,
    "metaDescription" : "Contemporary sculptor Bill Rice has a deep love for America's landscape and its wildlife. Rice keeps an aviary at his home in Connecticut and takes field trips to",
    "metaKeywords" : "",
    "metaTitle" : "Bill Rice Painting - Cock Pheasant - 20th Century American Fine Art",

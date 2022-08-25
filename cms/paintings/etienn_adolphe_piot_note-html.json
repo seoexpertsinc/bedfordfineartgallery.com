@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4382_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4382_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4382_original.jpg",
+   "highResImageHeight" : 2170,
+   "highResImageWidth" : 1954,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4382_small.jpg",
+   "mediumResImageHeight" : 1255,
+   "mediumResImageWidth" : 1130,
    "metaDescription" : "Piot studied under Parisian artist Leon Cogniet, who instilled in the young man a love for the human form. As a painter, or perhaps more appropriately, a painter of",
    "metaKeywords" : "",
    "metaTitle" : "Etienne Adolphe Piot Painting - The Note - 19th Century French Fine Art",

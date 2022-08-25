@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4347_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4347_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4347_original.jpg",
+   "highResImageHeight" : 1643,
+   "highResImageWidth" : 2025,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4347_small.jpg",
+   "mediumResImageHeight" : 973,
+   "mediumResImageWidth" : 1199,
    "metaDescription" : "Edward Vebell grew up in Chicago during the depression and spent hours copying cartoons from the Chicago Tribune. While attending a private Catholic school, the nuns",
    "metaKeywords" : "",
    "metaTitle" : "Edward T. Vebell Painting - Lincoln at Gettysburg - 19th Century American Fine Art",

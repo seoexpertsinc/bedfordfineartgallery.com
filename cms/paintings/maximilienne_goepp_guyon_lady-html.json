@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4324_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4324_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4324_original.jpg",
+   "highResImageHeight" : 2591,
+   "highResImageWidth" : 1865,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4324_small.jpg",
+   "mediumResImageHeight" : 1370,
+   "mediumResImageWidth" : 986,
    "metaDescription" : "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling",
    "metaKeywords" : "",
    "metaTitle" : "Maximilienne Goepp Guyon Painting - Lady in a Hat - 19th Century French Fine Art",

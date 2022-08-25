@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/cons_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/cons_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/us_constitution_original.jpg",
+   "highResImageHeight" : 2376,
+   "highResImageWidth" : 3353,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/us_constitution_small.jpg",
+   "mediumResImageHeight" : 1031,
+   "mediumResImageWidth" : 1454,
    "metaDescription" : "Cahoon, born in Harwich, Massachusetts, as a child copied drawings by his father, a sea captain and amateur artist. Cahoon spent time at sea himself and made sketche",
    "metaKeywords" : "",
    "metaTitle" : "Charles Drew Cahoon Painting - USS Constitution - 19th Century American Fine Art",

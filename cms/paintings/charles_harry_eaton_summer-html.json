@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/eat_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/eat_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/eaton_original.jpg",
+   "highResImageHeight" : 1200,
+   "highResImageWidth" : 1578,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/eaton_small.jpg",
+   "mediumResImageHeight" : 838,
+   "mediumResImageWidth" : 1102,
    "metaDescription" : "Charles Henry Eaton is known primarily for his prize-winning water-colors. He was a self-taught painter, who developed what some describe as a \"sultry, low-toned s",
    "metaKeywords" : "",
    "metaTitle" : "Charles Henry Eaton Painting - Last Days of Summer - 19th Century American Fine Art",

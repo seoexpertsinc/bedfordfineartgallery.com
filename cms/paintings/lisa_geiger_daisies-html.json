@@ -5,7 +5,11 @@
    "dimensions" : "Oil on Board, 15.25 x 19.5 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/geiger_daisies_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/geiger_daisies_full.jpg",
+   "highResImageHeight" : 2841,
+   "highResImageWidth" : 3437,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/geiger_daisies_small.jpg",
+   "mediumResImageHeight" : 1093,
+   "mediumResImageWidth" : 1322,
    "metaDescription" : "Lisa Geiger is a Wisconsin artist who exhibited artistic talent as a youth and always enjoyed working in creative mediums whether graphite, colored pencils, oil pain",
    "metaKeywords" : "",
    "metaTitle" : "Lisa Geiger Painting - Daisies - 19th Century American Fine Art",

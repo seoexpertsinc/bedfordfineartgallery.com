@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 19.5 x 23.5 inches/Signed lower middle",
    "featured" : false,
    "gridImage" : "/cms-uploads/volkert_cows_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/volkert_cows_full.jpg",
+   "highResImageHeight" : 3030,
+   "highResImageWidth" : 3540,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/volkert_cows_small.jpg",
+   "mediumResImageHeight" : 909,
+   "mediumResImageWidth" : 1062,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

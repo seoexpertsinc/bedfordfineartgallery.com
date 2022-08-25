@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/fox_sunset_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/fox_sunset_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/fox_sunset_full.jpg",
+   "highResImageHeight" : 3070,
+   "highResImageWidth" : 2377,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/fox_sunset_small.jpg",
+   "mediumResImageHeight" : 1351,
+   "mediumResImageWidth" : 1046,
    "metaDescription" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman. He began his career painting portraits which included those of Grover Cleveland, (the 22nd",
    "metaKeywords" : "",
    "metaTitle" : "Robert Atkinson Fox Painting - Sunset in the High Mountains - 19th Century American Fine Art",

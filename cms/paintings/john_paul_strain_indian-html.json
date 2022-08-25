@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0286-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0286-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0286.jpg",
+   "highResImageHeight" : 3189,
+   "highResImageWidth" : 2616,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0286-m.jpg",
+   "mediumResImageHeight" : 1368,
+   "mediumResImageWidth" : 1122,
    "metaDescription" : "Contemporary artist John Strain was born in Nashville, Tennessee and currently resides in Benbrook, Texas. Strain specializes in authentic depictions of the American",
    "metaKeywords" : "",
    "metaTitle" : "John Paul Strain Painting - Indian with Fan in Landscape - 19th Century American Fine Art",

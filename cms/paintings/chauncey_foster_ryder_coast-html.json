@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/ryder_coast_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/ryder_coast_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ryder_coast_full.jpg",
+   "highResImageHeight" : 2547,
+   "highResImageWidth" : 3178,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ryder_coast_small.jpg",
+   "mediumResImageHeight" : 816,
+   "mediumResImageWidth" : 1017,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

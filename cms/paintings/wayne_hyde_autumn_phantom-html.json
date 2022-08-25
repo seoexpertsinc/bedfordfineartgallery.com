@@ -5,6 +5,8 @@
    "dimensions" : "",
    "featured" : false,
    "gridImage" : "/cms-uploads/hyde_phantom_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -12,6 +14,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hyde_phantom_small.jpg",
+   "mediumResImageHeight" : 893,
+   "mediumResImageWidth" : 1095,
    "metaDescription" : "Contemporary sculptor Wayne Hyde was born and raised in the Allegheny Mountains, near Bedford, Pennsylvania. His early experiences in rural Bedford, County, led to h",
    "metaKeywords" : "",
    "metaTitle" : "Wayne Hyde Sculpture - Autumn Phantom - Contemporary American Fine Art",

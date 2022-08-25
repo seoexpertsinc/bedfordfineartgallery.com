@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/moran_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/moran_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/moran_original.jpg",
+   "highResImageHeight" : 3571,
+   "highResImageWidth" : 2946,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/moran_small.jpg",
+   "mediumResImageHeight" : 1262,
+   "mediumResImageWidth" : 1041,
    "metaDescription" : "Moran was the son of famous marine painter, Edward Moran, who in turn was the older brother of renowned U.S. Geological Survey western expedition landscape chronicle",
    "metaKeywords" : "",
    "metaTitle" : "Leon Moran Painting - Crossing the Creek - 19th Century American Fine Art",

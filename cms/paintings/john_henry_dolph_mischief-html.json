@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/jhd_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/jhd_grid2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/jhd2_full.jpg",
+   "highResImageHeight" : 2431,
+   "highResImageWidth" : 2998,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/jhd2_small.jpg",
+   "mediumResImageHeight" : 1214,
+   "mediumResImageWidth" : 1497,
    "metaDescription" : "Dolph was a versatile and talented artist who became the foremost \"cat-painter\" in America. He left home (Fort Ann, New York) at a young age, after the death of",
    "metaKeywords" : "",
    "metaTitle" : "John Henry Dolph Painting - Mischief - 19th Century American Fine Art",

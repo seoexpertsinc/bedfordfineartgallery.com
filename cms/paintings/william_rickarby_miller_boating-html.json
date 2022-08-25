@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/william_rickarby_miller_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/william_rickarby_miller_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/william_rickarby_miller_original.jpg",
+   "highResImageHeight" : 3260,
+   "highResImageWidth" : 2823,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/william_rickarby_miller_small.jpg",
+   "mediumResImageHeight" : 1517,
+   "mediumResImageWidth" : 1314,
    "metaDescription" : "Born in Staindrop, County Durham, England, Miller's first art training was from his father, British artist, Joseph Miller. An early patron provided the means for M",
    "metaKeywords" : "",
    "metaTitle" : "William Rickarby Miller Painting - The Boating Party - 19th Century British-American Fine Art",

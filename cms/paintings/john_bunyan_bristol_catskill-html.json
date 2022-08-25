@@ -5,7 +5,11 @@
    "dimensions" : "Oil on Canvas, 9.38 x 19.38 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/bristol_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/bristol_full.jpg",
+   "highResImageHeight" : 2547,
+   "highResImageWidth" : 4182,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/bristol_small.jpg",
+   "mediumResImageHeight" : 765,
+   "mediumResImageWidth" : 1255,
    "metaDescription" : "Born in Hillsdale, Hudson, New York, Bristol was a contemporary of Hudson River School founder, Frederic Church and is considered part of this group of artists. A hi",
    "metaKeywords" : "",
    "metaTitle" : "John Bunyan Bristol Painting - Catskill Landscape - 19th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/max_weyl_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/max_weyl_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/weyl_original2.jpg",
+   "highResImageHeight" : 2197,
+   "highResImageWidth" : 3116,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/weyl_small2.jpg",
+   "mediumResImageHeight" : 1008,
+   "mediumResImageWidth" : 1430,
    "metaDescription" : "Born in Germany, Weyl immigrated to Williamsport, Pennsylvania in 1853 and in 1861 moved to Washington, D.C., where he opened a jewelry store. Not trained as an arti",
    "metaKeywords" : "",
    "metaTitle" : "Max Weyl Painting - Sunset Landscape with Cabin - 19th Century American Fine Art",

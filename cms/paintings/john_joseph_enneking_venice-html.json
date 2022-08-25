@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 4.25 x 5.88 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/enneking_venice_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/enneking_venice_full.jpg",
+   "highResImageHeight" : 2422,
+   "highResImageWidth" : 2768,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/enneking_venice_small.jpg",
+   "mediumResImageHeight" : 969,
+   "mediumResImageWidth" : 1108,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

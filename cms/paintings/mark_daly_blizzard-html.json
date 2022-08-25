@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 20.5 x 16 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/daly_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/daly_full.jpg",
+   "highResImageHeight" : 3026,
+   "highResImageWidth" : 2604,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/daly_small.jpg",
+   "mediumResImageHeight" : 1438,
+   "mediumResImageWidth" : 1238,
    "metaDescription" : "Contemporary Impressionist artist Daly was born on Long Island, New York. As a child his mother taught him drawing and he spent time in the studio of artist Woodhull",
    "metaKeywords" : "",
    "metaTitle" : "Mark Daly Painting - Blizzard on 42nd Street - 19th Century American Fine Art",

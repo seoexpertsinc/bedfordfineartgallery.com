@@ -5,7 +5,11 @@
    "dimensions" : "Watercolor, 14.5 x 21.75 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/benson_mallards_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/benson_mallards_full.jpg",
+   "highResImageHeight" : 2122,
+   "highResImageWidth" : 2726,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/benson_mallards_small.jpg",
+   "mediumResImageHeight" : 849,
+   "mediumResImageWidth" : 1091,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/lwcat_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/lwcat_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ne_landscape_original.jpg",
+   "highResImageHeight" : 2188,
+   "highResImageWidth" : 3274,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ne_landscape_small.jpg",
+   "mediumResImageHeight" : 1002,
+   "mediumResImageWidth" : 1499,
    "metaDescription" : "Samuel Griggs is known for his paintings of the White Mountains of New Hampshire. Griggs started his professional life as an architect in Boston; it is only in 1854",
    "metaKeywords" : "",
    "metaTitle" : "Samuel W. Griggs Painting - New England Landscape with Cattle by Bridge  - 19th Century American Fine Art",

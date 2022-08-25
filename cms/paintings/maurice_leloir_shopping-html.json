@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4199_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4199_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4199_original.jpg",
+   "highResImageHeight" : 2013,
+   "highResImageWidth" : 1631,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4199_small.jpg",
+   "mediumResImageHeight" : 1204,
+   "mediumResImageWidth" : 975,
    "metaDescription" : "Maurice Leloir is considered a historical painter, watercolorist, engraver, illustrator and film producer. As an illustrator, he illustrated works by philosopher Jea",
    "metaKeywords" : "",
    "metaTitle" : "Maurice Leloir Painting - Shopping for Eggs - 19th Century French Fine Art",

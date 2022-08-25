@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/heitmuller_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/heitmuller_grid2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/heitmuller_full.jpg",
+   "highResImageHeight" : 2576,
+   "highResImageWidth" : 3372,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/heitmuller_small2.jpg",
+   "mediumResImageHeight" : 1107,
+   "mediumResImageWidth" : 1449,
    "metaDescription" : "Louis (Ludwig) Heitmuller, a portraitist and landscapist, was born at Klein Palubin in Poland in 1863. He studied at The Royal Academy of Fine Arts in Dusseldorf (Ge",
    "metaKeywords" : "",
    "metaTitle" : "Louis Heitmuller Painting - Guyasuta Run, Aspinwall, PA - 19th Century American Fine Art",

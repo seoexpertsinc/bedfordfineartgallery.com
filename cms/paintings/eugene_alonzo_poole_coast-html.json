@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/poole_coast_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/poole_coast_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/poole_coast_full.jpg",
+   "highResImageHeight" : 2416,
+   "highResImageWidth" : 3035,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/poole_coast_small.jpg",
+   "mediumResImageHeight" : 991,
+   "mediumResImageWidth" : 1244,
    "metaDescription" : "Eugene Poole was southwestern Pennsylvania landscape painter—one of the Scalp Level artists who painted alongside George Hetzel, founder of the Scalp Level School.",
    "metaKeywords" : "",
    "metaTitle" : "Eugene Alonzo Poole - Rocky Coastline - 19th Century American Fine Art",

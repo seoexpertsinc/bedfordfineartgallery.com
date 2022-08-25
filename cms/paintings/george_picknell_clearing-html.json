@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/pinknell_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/pinknell_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/pinknell_full.jpg",
+   "highResImageHeight" : 2548,
+   "highResImageWidth" : 2940,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/pinknell_small.jpg",
+   "mediumResImageHeight" : 1020,
+   "mediumResImageWidth" : 1176,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/16_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/16_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/grouse_hunting_original.jpg",
+   "highResImageHeight" : 1615,
+   "highResImageWidth" : 2129,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/grouse_hunting_small.jpg",
+   "mediumResImageHeight" : 1000,
+   "mediumResImageWidth" : 1318,
    "metaDescription" : "Born in Philadelphia, Pennsylvania, Frost served as an apprentice to local engravers and lithographers as a youth. His formal training consisted of night classes at",
    "metaKeywords" : "",
    "metaTitle" : "Arthur Burdett Painting - Grouse Hunting - 19th Century American Fine Art",

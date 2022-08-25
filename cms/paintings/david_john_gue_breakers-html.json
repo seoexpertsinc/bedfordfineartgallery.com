@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/gue_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/gue_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/gue_large.jpg",
+   "highResImageHeight" : 2250,
+   "highResImageWidth" : 3126,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/gue_small.jpg",
+   "mediumResImageHeight" : 1037,
+   "mediumResImageWidth" : 1441,
    "metaDescription" : "David John Gue was not the typical artist of the 19th Century—although he exhibited a keen artistic sense as a child, he did not become an artist until he was in h",
    "metaKeywords" : "",
    "metaTitle" : "David John Gue Painting - Shoreline Breakers - 19th Century American Fine Art",

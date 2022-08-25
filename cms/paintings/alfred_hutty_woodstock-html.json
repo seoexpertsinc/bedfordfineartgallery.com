@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hutty_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hutty_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hutty_full.jpg",
+   "highResImageHeight" : 2451,
+   "highResImageWidth" : 2867,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hutty_small.jpg",
+   "mediumResImageHeight" : 1116,
+   "mediumResImageWidth" : 1306,
    "metaDescription" : "Hutty was born Grand Haven, Michigan, but spent his youth in Kansas City and Leavenworth, Kansas. At fifteen, he received a scholarship to the St. Louis School of Fi",
    "metaKeywords" : "",
    "metaTitle" : "Alfred Hutty Painting - Through the Wood, Woodstock, New York - 19th Century American Fine Art",

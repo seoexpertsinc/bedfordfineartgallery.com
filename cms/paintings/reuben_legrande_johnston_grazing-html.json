@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_5206_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_5206_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_5206_original.jpg",
+   "highResImageHeight" : 1524,
+   "highResImageWidth" : 1982,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_5206_small.jpg",
+   "mediumResImageHeight" : 851,
+   "mediumResImageWidth" : 1091,
    "metaDescription" : "Reuben LeGrande Johnston was born in Alexandria, Virginia and was a member of Washington Society and world traveler. He was self-taught, but is known to have studied",
    "metaKeywords" : "",
    "metaTitle" : "Reuben LeGrande Johnston Painting - Grazing Sheep - 19th Century American Fine Art",

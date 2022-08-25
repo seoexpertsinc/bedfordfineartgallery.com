@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/briggs_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/briggs_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/briggs_full.jpg",
+   "highResImageHeight" : 2937,
+   "highResImageWidth" : 2517,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/briggs_small.jpg",
+   "mediumResImageHeight" : 1513,
+   "mediumResImageWidth" : 1297,
    "metaDescription" : "Warren C. Briggs was a 19th Century artist noted for his paintings of rustic barnyard scenes with chickens and roosters, and exquisitely detailed landscapes. This pa",
    "metaKeywords" : "",
    "metaTitle" : "Warren C. Briggs Painting - Forest Interior with Birch Tree - 19th Century American Fine Art",

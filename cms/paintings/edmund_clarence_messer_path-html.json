@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 17.5 x 23.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/edmund_messer_artwork_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/edmund_messer_artwork.jpg",
+   "highResImageHeight" : 2221,
+   "highResImageWidth" : 2878,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/edmund_messer_artwork_small.jpg",
+   "mediumResImageHeight" : 908,
+   "mediumResImageWidth" : 1177,
    "metaDescription" : "Messer was born in in Skowhegan, Maine and as a boy moved with his family to Minnesota. During the Civil War he served with the Minnesota First Infantry before being",
    "metaKeywords" : "",
    "metaTitle" : "Edmund Clarence Messer Painting - Path Home - 19th Century American Fine Art",

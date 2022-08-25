@@ -5,7 +5,11 @@
    "dimensions" : "Oil on paper, 5.5 x 8 inches / Signed, inscribed and dated right center",
    "featured" : false,
    "gridImage" : "/cms-uploads/22_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/tbc_original.jpg",
+   "highResImageHeight" : 2005,
+   "highResImageWidth" : 2405,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/tbc_small.jpg",
+   "mediumResImageHeight" : 676,
+   "mediumResImageWidth" : 811,
    "metaDescription" : "Tait was born in Liverpool, England and later moved to Manchester where he trained as a lithographer. He taught himself to paint by copying art works at the Royal Ma",
    "metaKeywords" : "",
    "metaTitle" : "Arthur Fitzwilliam Tait Painting - Two Baby Chicks - 19th Century British-American Fine Art",

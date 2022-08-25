@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 15.5 x 19.5 inches / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/hgs_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hgs_full.jpg",
+   "highResImageHeight" : 2540,
+   "highResImageWidth" : 3076,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hgs_small.jpg",
+   "mediumResImageHeight" : 1295,
+   "mediumResImageWidth" : 1568,
    "metaDescription" : "Simon was born in Schlietz in Saxony and 1848 was bought to Philadelphia by his family who were escaping the impacts of the revolution, which had engulfed Europe at",
    "metaKeywords" : "",
    "metaTitle" : "Hermann Gustave Simon Painting - Glimpse of the Delaware at Dingman's Ferry - 19th Century American Fine Art",

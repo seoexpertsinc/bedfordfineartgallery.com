@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/adams_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/adams_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/adams_full.jpg",
+   "highResImageHeight" : 2131,
+   "highResImageWidth" : 3055,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/adams_small.jpg",
+   "mediumResImageHeight" : 1055,
+   "mediumResImageWidth" : 1512,
    "metaDescription" : "Adams was born in Leeds, West Yorkshire, England to a carver and gilder. This is very little biographical information currently available; however, it is known that",
    "metaKeywords" : "",
    "metaTitle" : "James L. Adams Painting - Boulders Along An English Stream - 19th Century British Fine Art",

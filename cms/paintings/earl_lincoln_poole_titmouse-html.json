@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/earl_lincoln_poole_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/earl_lincoln_poole_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/earl_lincoln_poole_original.jpg",
+   "highResImageHeight" : 3071,
+   "highResImageWidth" : 2515,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/earl_lincoln_poole_small.jpg",
+   "mediumResImageHeight" : 1761,
+   "mediumResImageWidth" : 1442,
    "metaDescription" : "Earl Lincoln Poole was born in 1891 in Haddonfleld, New Jersey and attended Central Catholic High School in Philadelphia, Pennsylvania. Poole remained in Philadelphi",
    "metaKeywords" : "",
    "metaTitle" : "Earl Lincoln Poole Painting - Titmouse - 19th Century American Fine Art",

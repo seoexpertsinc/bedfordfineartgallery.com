@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/pease_grid_1_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/pease_grid_1.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/pease_full.jpg",
+   "highResImageHeight" : 2311,
+   "highResImageWidth" : 3248,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/pease_small.jpg",
+   "mediumResImageHeight" : 1182,
+   "mediumResImageWidth" : 1656,
    "metaDescription" : "Pease was born in Boston, Massachusetts in 1925 and from his childhood he loved being outdoors and observing nature. His knowledge of the animals he paints, his eye",
    "metaKeywords" : "",
    "metaTitle" : "Robert Pease Painting - Wilderness Lord - 19th Century American Fine Art",

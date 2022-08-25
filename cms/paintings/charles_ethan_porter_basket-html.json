@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 21 x 33.5 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/porter_basket_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/porter_basket_full.jpg",
+   "highResImageHeight" : 2177,
+   "highResImageWidth" : 3269,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/porter_basket_small.jpg",
+   "mediumResImageHeight" : 893,
+   "mediumResImageWidth" : 1341,
    "metaDescription" : "From 1869 to 1873 Porter was enrolled at the National Academy of Design, the first African-American admitted to the school.  In 1878 he opened a studio in Hartford,",
    "metaKeywords" : "",
    "metaTitle" : "Charles Ethan Porter Painting - Overturned Basket of Grapes with Peaches - 19th Century American Fine Art",

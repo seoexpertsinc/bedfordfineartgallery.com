@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4021_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4021_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4021_original.jpg",
+   "highResImageHeight" : 2336,
+   "highResImageWidth" : 1980,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4021_small.jpg",
+   "mediumResImageHeight" : 1190,
+   "mediumResImageWidth" : 1009,
    "metaDescription" : "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle",
    "metaKeywords" : "",
    "metaTitle" : "William Sidney Cooper Painting - Sheep in Landscape - 19th Century British Fine Art",

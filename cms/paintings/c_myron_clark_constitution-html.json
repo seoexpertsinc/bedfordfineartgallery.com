@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/c_myron_clark_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/c_myron_clark_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/c_myron_clark_original.jpg",
+   "highResImageHeight" : 3450,
+   "highResImageWidth" : 2865,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/c_myron_clark_small.jpg",
+   "mediumResImageHeight" : 1364,
+   "mediumResImageWidth" : 1133,
    "metaDescription" : "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution. He worked i",
    "metaKeywords" : "",
    "metaTitle" : "C. Myron Clark Painting - USS Constitution - 19th Century American Fine Art",

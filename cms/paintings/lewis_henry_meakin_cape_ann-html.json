@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/meakin_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/meakin_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/meakin_full.jpg",
+   "highResImageHeight" : 2175,
+   "highResImageWidth" : 3114,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/meakin_small.jpg",
+   "mediumResImageHeight" : 870,
+   "mediumResImageWidth" : 1246,
    "metaDescription" : "Born in Newcastle-on-Tyne, Staffordshire, England, Meakin, the son of a pottery maker, immigrated with his family to Montreal, Canada in 1860. In 1863 the family mov",
    "metaKeywords" : "",
    "metaTitle" : "Lewis Henry Meakin Painting - Cape Ann Shore - 19th Century American Fine Art",

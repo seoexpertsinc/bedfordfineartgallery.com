@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 11.75 x 19.75 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/grose_fall_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/grose_fall_full.jpg",
+   "highResImageHeight" : 2950,
+   "highResImageWidth" : 4186,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/grose_fall_small.jpg",
+   "mediumResImageHeight" : 968,
+   "mediumResImageWidth" : 1373,
    "metaDescription" : "There were a number of 19th century notables also named Daniel Grose; however, our Daniel Grose is the notable Washington, D.C. landscapist. While his early history",
    "metaKeywords" : "",
    "metaTitle" : "Daniel Charles Grose Painting - Creek in Fall Landscape - 19th Century American Fine Art",

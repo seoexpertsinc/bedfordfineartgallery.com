@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0330-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0330-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0330.jpg",
+   "highResImageHeight" : 2384,
+   "highResImageWidth" : 2980,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0330-m.jpg",
+   "mediumResImageHeight" : 1271,
+   "mediumResImageWidth" : 1592,
    "metaDescription" : "Born in Cleves, OH, Myers first studied with Frank Duveneck and John Weiss at the Cincinnati Art Academy and later at the Pennsylvania Academy of the Fine Arts Summe",
    "metaKeywords" : "",
    "metaTitle" : "Frank Harmon Myers Painting - Winter Stream - 19th Century American Fine Art",

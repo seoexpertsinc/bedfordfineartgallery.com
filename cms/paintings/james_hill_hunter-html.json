@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 28.5 x 35.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/js_hill_hunter_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/js_hill_hunter_full.jpg",
+   "highResImageHeight" : 2691,
+   "highResImageWidth" : 3262,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/js_hill_hunter_small.jpg",
+   "mediumResImageHeight" : 1077,
+   "mediumResImageWidth" : 1305,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

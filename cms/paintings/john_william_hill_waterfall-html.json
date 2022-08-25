@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hill_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hill_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hill_full.jpg",
+   "highResImageHeight" : 3402,
+   "highResImageWidth" : 1746,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hill_small.jpg",
+   "mediumResImageHeight" : 1361,
+   "mediumResImageWidth" : 699,
    "metaDescription" : "Born in London, England, John William Hill immigrated to America in 1819 with his family at age 7, first living in Philadelphia, then moving to New York City in 1822",
    "metaKeywords" : "",
    "metaTitle" : "John William Hill Painting - Waterfall - 19th Century American Fine Art",

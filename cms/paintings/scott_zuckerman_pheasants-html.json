@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/zuckerman_pheasants_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/zuckerman_pheasants_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/zuckerman_pheasants_full.jpg",
+   "highResImageHeight" : 2683,
+   "highResImageWidth" : 3694,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/zuckerman_pheasants_small.jpg",
+   "mediumResImageHeight" : 704,
+   "mediumResImageWidth" : 970,
    "metaDescription" : "Connecticut artist, Scott Zuckerman studied at the Pratt Institute of Art (Brooklyn, NYC) and the Art Students League (Manhattan, NYC). He believes that \"the zenit",
    "metaKeywords" : "",
    "metaTitle" : "Scott Zuckerman Painting - Pheasant in Flight - 20th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/strueber_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/strueber_grid2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/strueber_full4.jpg",
+   "highResImageHeight" : 2902,
+   "highResImageWidth" : 2895,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/strueber_small4.jpg",
+   "mediumResImageHeight" : 1475,
+   "mediumResImageWidth" : 1471,
    "metaDescription" : "Born in Pittsburgh, Pennsylvania, Strueber is an accomplished watercolorist and plein air painter. Strueber regards his approach to watercolor painting as spirituall",
    "metaKeywords" : "",
    "metaTitle" : "Michael Strueber Painting - Magnolias - 19th Century American Fine Art",

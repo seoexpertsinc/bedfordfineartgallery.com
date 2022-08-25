@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4389_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4389_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4389_original.jpg",
+   "highResImageHeight" : 2111,
+   "highResImageWidth" : 1832,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4389.jpg",
+   "mediumResImageHeight" : 800,
+   "mediumResImageWidth" : 694,
    "metaDescription" : "Tojetti was born in Italy, the son of Italian artist Domenico Tojetti, noted fresco artist. Tojetti studied under his father and later in Paris under Gerome and Boug",
    "metaKeywords" : "",
    "metaTitle" : "Virgilio Tojetti Painting - Two Putti, 1899 - 19th Century American Fine Art",

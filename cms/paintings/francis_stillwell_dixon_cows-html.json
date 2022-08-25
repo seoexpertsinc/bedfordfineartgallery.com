@@ -5,7 +5,11 @@
    "dimensions" : "Oil on board, 8 x 10 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/img_0203-sm.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0203.jpg",
+   "highResImageHeight" : 2424,
+   "highResImageWidth" : 2832,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0203-m.jpg",
+   "mediumResImageHeight" : 1225,
+   "mediumResImageWidth" : 1432,
    "metaDescription" : "Born in Queens, Long Island, NY, Impressionist landscape and seascape painter Francis Dixon studied at the Art Students League in New York City under Impressionists",
    "metaKeywords" : "",
    "metaTitle" : "Francis Stillwell Dixon Painting - Cows in the Field - 19th Century American Fine Art",

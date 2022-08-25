@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/curnock_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/curnock_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/curnock_full.jpg",
+   "highResImageHeight" : 2558,
+   "highResImageWidth" : 3258,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/curnock_small.jpg",
+   "mediumResImageHeight" : 947,
+   "mediumResImageWidth" : 1206,
    "metaDescription" : "Curnock was born in Bristol, on the River Avon in England. He was the son of the genre and portrait painter James Curnock. Curnock is best known for his paintings of",
    "metaKeywords" : "",
    "metaTitle" : "James Jackson Curock Painting - Sunny Day - 19th Century British Fine Art",

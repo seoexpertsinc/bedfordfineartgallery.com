@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/elten_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/elten_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/elten_full.jpg",
+   "highResImageHeight" : 3054,
+   "highResImageWidth" : 2568,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/elten_small.jpg",
+   "mediumResImageHeight" : 1342,
+   "mediumResImageWidth" : 1129,
    "metaDescription" : "Van Elten was born in Alkmaar, Holland and studied painting in Haarlem under landscape painter Cornelis Lieste. During his studies with Lieste, Van Elten with Jan de",
    "metaKeywords" : "",
    "metaTitle" : "Hendrik-Dirk Kruseman Van Elten Painting - Spring Steam - 19th Century Dutch-American Fine Art",

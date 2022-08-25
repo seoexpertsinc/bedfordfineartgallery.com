@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0420-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0420-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0420.jpg",
+   "highResImageHeight" : 2404,
+   "highResImageWidth" : 3552,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0420-m.jpg",
+   "mediumResImageHeight" : 1100,
+   "mediumResImageWidth" : 1625,
    "metaDescription" : "Pleissner was born in Brooklyn, New York and educated at the Brooklyn Friends School; however, he spent his two summers at a boys camp in Dubois, Wyoming and a third",
    "metaKeywords" : "",
    "metaTitle" : "Ogden Minton Pleissner Painting - Coast of Maine Acadia Park - 19th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/rcp_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/rcp_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/rock_creek_park_original.jpg",
+   "highResImageHeight" : "1720",
+   "highResImageWidth" : "2035",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/rock_creek_park_original.jpg",
+   "mediumResImageHeight" : 1720,
+   "mediumResImageWidth" : 2035,
    "metaDescription" : "Born in Germany, Weyl immigrated to Williamsport, Pennsylvania in 1853 and in 1861 moved to Washington, D.C., where he opened a jewelry store. Not trained as an arti",
    "metaKeywords" : "",
    "metaTitle" : "Max Weyl Painting - Rock Creek Park - 19th Century American Fine Art",

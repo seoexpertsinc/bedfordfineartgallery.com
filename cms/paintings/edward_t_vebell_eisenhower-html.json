@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4358_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4358_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4358_original.jpg",
+   "highResImageHeight" : 1625,
+   "highResImageWidth" : 1912,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4358_small.jpg",
+   "mediumResImageHeight" : 970,
+   "mediumResImageWidth" : 1141,
    "metaDescription" : "Edward Vebell grew up in Chicago during the depression and spent hours copying cartoons from the Chicago Tribune. While attending a private Catholic school, the nuns",
    "metaKeywords" : "",
    "metaTitle" : "Edward T. Vebell Painting - Eisenhower - 19th Century American Fine Art",

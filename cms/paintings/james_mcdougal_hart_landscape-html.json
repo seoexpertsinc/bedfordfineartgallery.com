@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hart_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hart_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hart_original.jpg",
+   "highResImageHeight" : 1943,
+   "highResImageWidth" : 1389,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hart_small.jpg",
+   "mediumResImageHeight" : 1212,
+   "mediumResImageWidth" : 866,
    "metaDescription" : "Hart was born in Kilmarnock, East Ayrshire, Scotland, but when he was two, his parents immigrated to Albany, New York. It is possible that his interest in art as a c",
    "metaKeywords" : "",
    "metaTitle" : "James McDougal Hart Painting - Landscape with Rocks and Trees - 19th Century American Fine Art",

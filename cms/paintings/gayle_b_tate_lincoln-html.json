@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/tate_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/tate_grid2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/tate_lincoln_full.jpg",
+   "highResImageHeight" : 2405,
+   "highResImageWidth" : 2960,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/tate_lincoln_small.jpg",
+   "mediumResImageHeight" : 1171,
+   "mediumResImageWidth" : 1441,
    "metaDescription" : "Contemporary artist Gayle Tate was born in Abilene, Texas and is known as a trompe l'oeil oil painter. He studied at the Loch Haven Art Center in Orlando, Florida an",
    "metaKeywords" : "",
    "metaTitle" : "Gayle B. Tate Painting - A Great American President - Lincoln - 19th Century American Fine Art",

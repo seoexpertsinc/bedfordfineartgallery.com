@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/bishop_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/bishop_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/bishop_full.jpg",
+   "highResImageHeight" : 3254,
+   "highResImageWidth" : 2525,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/bishop_small.jpg",
+   "mediumResImageHeight" : 1204,
+   "mediumResImageWidth" : 935,
    "metaDescription" : "Bishop was born in Syracuse, New York and first studied electrical engineering at Cornell University (Ithaca, NY). In 1909 he joined the Cutler-Hammer Manufacturing",
    "metaKeywords" : "",
    "metaTitle" : "Richard Evett Bishop Painting - Pair of Grouse - 19th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wooster_still_life_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wooster_still_life_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wooster_still_life_full.jpg",
+   "highResImageHeight" : 2796,
+   "highResImageWidth" : 3247,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wooster_still_life_small.jpg",
+   "mediumResImageHeight" : 917,
+   "mediumResImageWidth" : 1066,
    "metaDescription" : "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg).  Wooster began his career as a painter of river landscapes, but later foc",
    "metaKeywords" : "",
    "metaTitle" : "Austin C. Wooster - Still-life - Oranges, Grapes, and Goblet - 19th Century American Fine Art",

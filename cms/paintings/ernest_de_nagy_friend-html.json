@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/nagy_friend_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/nagy_friend_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/nagy_friend_full.jpg",
+   "highResImageHeight" : 2924,
+   "highResImageWidth" : 2560,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/nagy_friend_small.jpg",
+   "mediumResImageHeight" : 1170,
+   "mediumResImageWidth" : 1024,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

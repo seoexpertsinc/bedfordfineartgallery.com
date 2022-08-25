@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/antlers_forest_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/antlers_forest_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/antlers_forest_full.jpg",
+   "highResImageHeight" : 2888,
+   "highResImageWidth" : 2176,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/antlers_forest_small.jpg",
+   "mediumResImageHeight" : 1184,
+   "mediumResImageWidth" : 892,
    "metaDescription" : "There is very little biographical information currently available for Max Antlers. It is known that he was born in Berlin, Germany. There is some uncertainty when he",
    "metaKeywords" : "",
    "metaTitle" : "Max H. Antlers Painting - Spirits of the Forest - 20th Century American Fine Art",

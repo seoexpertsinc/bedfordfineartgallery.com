@@ -8,7 +8,11 @@
    "featured" : true,
    "galleryCropImage" : "/cms-uploads/wiegand_house_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wiegand_house_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wiegand_house_full.jpg",
+   "highResImageHeight" : 2399,
+   "highResImageWidth" : 2850,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wiegand_house_small.jpg",
+   "mediumResImageHeight" : 960,
+   "mediumResImageWidth" : 1140,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

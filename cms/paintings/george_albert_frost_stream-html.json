@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 24 x 18 inches/Signed Lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/frost_grid1.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/frost_full.jpg",
+   "highResImageHeight" : 3366,
+   "highResImageWidth" : 2719,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/frost_small.jpg",
+   "mediumResImageHeight" : 1087,
+   "mediumResImageWidth" : 910,
    "metaDescription" : "Frost was born in Boston, Massachusetts, and in the early1850s left school to work on a farm. The Civil War intervened and Frost served two years, and some have said",
    "metaKeywords" : "",
    "metaTitle" : "George Albert Frost Painting - White Mountain Stream - 19th Century American Fine Art",

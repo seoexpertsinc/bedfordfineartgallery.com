@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/turney_grid6_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/turney_grid6.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/turney_full_6.jpg",
+   "highResImageHeight" : 1832,
+   "highResImageWidth" : 2922,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/turney_small_6.jpg",
+   "mediumResImageHeight" : 763,
+   "mediumResImageWidth" : 1224,
    "metaDescription" : "Olive Turney was born in Westmoreland County, Pennsylvania and raised in the Lawrenceville section of Pittsburgh. Her father was a carpenter and served on the Lawren",
    "metaKeywords" : "",
    "metaTitle" : "Olive Turney Painting - Cows in Creek at Lehman Farm, Scalp Level, PA - 19th Century American Fine Art",

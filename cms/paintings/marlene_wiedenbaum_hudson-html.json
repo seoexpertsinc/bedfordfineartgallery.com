@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wiedenbaum_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wiedenbaum_grid2.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wiedenbaum_full2.jpg",
+   "highResImageHeight" : 2463,
+   "highResImageWidth" : 2895,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wiedenbaum_small2.jpg",
+   "mediumResImageHeight" : 1337,
+   "mediumResImageWidth" : 1572,
    "metaDescription" : "Award-winning High Falls, New York, artist Marlene Wiedenbaum lives and works primarily in the Hudson Valley. She graduated graduated from of Queens College, State U",
    "metaKeywords" : "",
    "metaTitle" : "Marlene Wiedenbaum Painting - Hudson River Sunrise IV with Ducks - 19th Century American Fine Art",

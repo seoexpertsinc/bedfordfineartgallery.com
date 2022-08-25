@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/coheleach_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/coheleach_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/coheleach_full.jpg",
+   "highResImageHeight" : 1995,
+   "highResImageWidth" : 3244,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/coheleach_small.jpg",
+   "mediumResImageHeight" : 1040,
+   "mediumResImageWidth" : 1691,
    "metaDescription" : "Coheleach grew up at Baldwin, Long Island and began sketching and drawing as a child. He attended Bishop Loughlin High School (Brooklyn, N.Y) and later won a scholar",
    "metaKeywords" : "",
    "metaTitle" : "Guy Coheleach Painting - Brown Bear Catching Salmon - 19th Century American Fine Art",

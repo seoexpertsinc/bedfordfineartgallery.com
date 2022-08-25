@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0164-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0164-sm.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0164.jpg",
+   "highResImageHeight" : 3222,
+   "highResImageWidth" : 2388,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0164-m.jpg",
+   "mediumResImageHeight" : 1525,
+   "mediumResImageWidth" : 1130,
    "metaDescription" : "Contemporary artist John Strain was born in Nashville, Tennessee and currently resides in Benbrook, Texas. Strain specializes in authentic depictions of the American",
    "metaKeywords" : "",
    "metaTitle" : "John Paul Strain Painting - Flag Day - Central Park South - 19th Century American Fine Art",

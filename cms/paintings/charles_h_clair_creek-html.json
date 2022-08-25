@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/clair_creek_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/clair_creek_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/clair_creek_full.jpg",
+   "highResImageHeight" : 2203,
+   "highResImageWidth" : 2612,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/clair_creek_small.jpg",
+   "mediumResImageHeight" : 838,
+   "mediumResImageWidth" : 993,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

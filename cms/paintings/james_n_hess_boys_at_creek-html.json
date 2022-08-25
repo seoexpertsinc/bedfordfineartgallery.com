@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hess_boy_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hess_boy_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hess_boy_full.jpg",
+   "highResImageHeight" : 2253,
+   "highResImageWidth" : 2810,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hess_boy_small.jpg",
+   "mediumResImageHeight" : 1155,
+   "mediumResImageWidth" : 1440,
    "metaDescription" : "Hess was born in Philadelphia, PA, and as a child, he contracted Typhoid fever, which left him crippled. Hess must have expressed an early interest in art and shown",
    "metaKeywords" : "",
    "metaTitle" : "James N. (J.N.) Hess Painting - Boys at the Creek with Horses - 19th Century American Fine Art",

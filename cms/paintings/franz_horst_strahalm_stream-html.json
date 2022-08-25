@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/strahalm_stream_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/strahalm_stream_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/strahalm_stream_full.jpg",
+   "highResImageHeight" : 1998,
+   "highResImageWidth" : 3312,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/strahalm_stream_small.jpg",
+   "mediumResImageHeight" : 800,
+   "mediumResImageWidth" : 1325,
    "metaDescription" : "Strahalm was born in Vienna, Austria, the son of a Viennese artist. He received his early training from his father and later studied at the Academy of Fine Arts in V",
    "metaKeywords" : "",
    "metaTitle" : "Franz Horst Strahalm Painting - Early Farm with Stream - 19th Century American Fine Art",

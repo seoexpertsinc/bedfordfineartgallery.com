@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 10.5 x 14.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/morston_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/morston.jpg",
+   "highResImageHeight" : 2453,
+   "highResImageWidth" : 2936,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/morston_small.jpg",
+   "mediumResImageHeight" : 1195,
+   "mediumResImageWidth" : 1431,
    "metaDescription" : "Born in Lancaster, Ohio, Ream is the younger brother of noted still-life painter Carducius Plantagenet Ream. As a young man, Morston worked as a daguerreotype photog",
    "metaKeywords" : "",
    "metaTitle" : "Morston Constantine Ream Painting - Still-Life with Fruit and Wine - 19th Century American Fine Art",

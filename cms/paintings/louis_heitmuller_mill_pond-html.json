@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/heitmuller_mill_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/heitmuller_mill_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/heitmuller_mill_full.jpg",
+   "highResImageHeight" : 2211,
+   "highResImageWidth" : 2786,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/heitmuller_mill_small.jpg",
+   "mediumResImageHeight" : 885,
+   "mediumResImageWidth" : 1115,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

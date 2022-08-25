@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4191_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4191_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4191_original.jpg",
+   "highResImageHeight" : 1581,
+   "highResImageWidth" : 2048,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4191_small.jpg",
+   "mediumResImageHeight" : 903,
+   "mediumResImageWidth" : 1170,
    "metaDescription" : "Christiana Ross was a well-known watercolour landscape and figure painter. She was a member of the Royal Scottish Watercolorists. Ross was a prolific exhibitor, exhi",
    "metaKeywords" : "",
    "metaTitle" : "Christiana Patterson Ross Painting - The Peddlers on the Road to Edinburgh - 19th Century British Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/pis_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/pis_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/the_prize_in_sight_original.jpg",
+   "highResImageHeight" : 2524,
+   "highResImageWidth" : 2053,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/the_prize_in_sight_small.jpg",
+   "mediumResImageHeight" : 1470,
+   "mediumResImageWidth" : 1195,
    "metaDescription" : "Ransom was born at Alamo, Michigan, the son of Kalamazoo pioneers. He studied at the School of the Art Institute of Chicago and later at the New York Academy of Art",
    "metaKeywords" : "",
    "metaTitle" : "Fletcher Charles Ransom Painting - The Prize in Sight - 19th Century American Fine Art",

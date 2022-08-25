@@ -8,7 +8,11 @@
    "featured" : true,
    "galleryCropImage" : "/cms-uploads/cameron_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/cameron_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/cameron_full.jpg",
+   "highResImageHeight" : 2193,
+   "highResImageWidth" : 2751,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/cameron_small.jpg",
+   "mediumResImageHeight" : 900,
+   "mediumResImageWidth" : 1128,
    "metaDescription" : "Born in Ottawa, Illinois, his stepmother, a school teacher, encouraged Cameron to take an interest in art and allowed him to use the blackboard to hone his skills; h",
    "metaKeywords" : "",
    "metaTitle" : "Edgar Spier Cameron - Autumnal Gloaming - 19th Century American Fine Art",

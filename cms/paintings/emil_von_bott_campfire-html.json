@@ -8,7 +8,11 @@
    "featured" : true,
    "galleryCropImage" : "/cms-uploads/bott_campfire_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/bott_campfire_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/bott_campfire_full.jpg",
+   "highResImageHeight" : 1984,
+   "highResImageWidth" : 2609,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/bott_campfire_small.jpg",
+   "mediumResImageHeight" : 992,
+   "mediumResImageWidth" : 1305,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

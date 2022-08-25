@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/prentice_mountains_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/prentice_mountains_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/prentice_mountains_full.jpg",
+   "highResImageHeight" : 2481,
+   "highResImageWidth" : 3282,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/prentice_mountains_small.jpg",
+   "mediumResImageHeight" : 993,
+   "mediumResImageWidth" : 1313,
    "metaDescription" : "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm.  Prent",
    "metaKeywords" : "",
    "metaTitle" : "Levi Wells Prentice Painting - Near Lake Placid, Adirondack Mountains, NY - 19th Century American Fine Art",

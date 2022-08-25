@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 23 x 17.5 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/9_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/int_forest_landscape_original.jpg",
+   "highResImageHeight" : 2198,
+   "highResImageWidth" : 1828,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/int_forest_landscape_small.jpg",
+   "mediumResImageHeight" : 1201,
+   "mediumResImageWidth" : 999,
    "metaDescription" : "Powell was born to landed gentry at Levinworth Manor in Upperville, Virginia. During the American Civil War, Powell joined the 11th Virginia Cavalry at the tender ag",
    "metaKeywords" : "",
    "metaTitle" : "Lucien Whiting Powell Painting - Interior Forest Landscape - 19th Century American Fine Art",

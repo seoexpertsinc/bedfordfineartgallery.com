@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4481_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4481_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4481_original.jpg",
+   "highResImageHeight" : 1204,
+   "highResImageWidth" : 1970,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4481_small.jpg",
+   "mediumResImageHeight" : 790,
+   "mediumResImageWidth" : 1292,
    "metaDescription" : "Paul Gorka was born in Nanticoke, Pennsylvania, the heart of the anthracite coal region. Having an artistic bent that deviated from academic pursuits considered \"n",
    "metaKeywords" : "",
    "metaTitle" : "Paul Gorka Painting - Contemplation - 19th Century American Fine Art",

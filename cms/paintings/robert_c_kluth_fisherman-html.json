@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 18.5 x 26.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/kluth_fisherman_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/kluth_fisherman_full.jpg",
+   "highResImageHeight" : 2313,
+   "highResImageWidth" : 3049,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/kluth_fisherman_small.jpg",
+   "mediumResImageHeight" : 926,
+   "mediumResImageWidth" : 1220,
    "metaDescription" : "Kluth, known as a marine and landscape painter, was born in Macklenburg-Schwerin, Germany in 1854. In 1861 he immigrated to America with his parents, where he spent",
    "metaKeywords" : "",
    "metaTitle" : "Robert C. Kluth Painting - Young Fisherman - 19th Century American Fine Art",

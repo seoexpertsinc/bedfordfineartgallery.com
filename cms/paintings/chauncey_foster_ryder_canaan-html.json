@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/ryder_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/ryder_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ryder_full.jpg",
+   "highResImageHeight" : 2102,
+   "highResImageWidth" : 2397,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ryder_small.jpg",
+   "mediumResImageHeight" : 1103,
+   "mediumResImageWidth" : 1258,
    "metaDescription" : "Chauncey Foster Ryder was born in Danbury, Connecticut, but spent his childhood in New Haven, Connecticut. Circa 1890, he moved to Chicago to study at the Art Instit",
    "metaKeywords" : "",
    "metaTitle" : "Chauncey Foster Ryder Painting - Canaan Bowl - 19th Century American Fine Art",

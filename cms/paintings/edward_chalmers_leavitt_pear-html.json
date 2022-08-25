@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas 9.5 x 13.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/leavitt_grid3.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/leavitt_full2.jpg",
+   "highResImageHeight" : 2329,
+   "highResImageWidth" : 2768,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/leavitt_small2.jpg",
+   "mediumResImageHeight" : 862,
+   "mediumResImageWidth" : 1025,
    "metaDescription" : "Born in Providence Rhode Island, Leavitt attended private schools in Rhode Island and the Kimball Union Academy in Meredith, New Hampshire.  Leavitt went on to becom",
    "metaKeywords" : "",
    "metaTitle" : "Edward Chalmers Leavitt Painting - Pear, Apple, Grapes, and Clay Cup - 19th Century American Fine Art",

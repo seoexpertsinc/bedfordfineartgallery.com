@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 11.5 x 17.25 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/snyder_beech_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/snyder_beech_full.jpg",
+   "highResImageHeight" : 2360,
+   "highResImageWidth" : 3092,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/snyder_beech_small.jpg",
+   "mediumResImageHeight" : 944,
+   "mediumResImageWidth" : 1237,
    "metaDescription" : "Snyder was born in Liberty, Indiana, but the family moved to Madison, Indiana when he was five.  One of the first Brown County artists, Snyder was to become known fo",
    "metaKeywords" : "",
    "metaTitle" : "William McKendree Snyder Painting - Indiana Beech Woods - 19th Century American Fine Art",

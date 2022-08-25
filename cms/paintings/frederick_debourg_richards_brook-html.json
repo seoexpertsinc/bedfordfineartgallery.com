@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/richards_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/richards_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/richards_full.jpg",
+   "highResImageHeight" : 3275,
+   "highResImageWidth" : 2627,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/richards_small.jpg",
+   "mediumResImageHeight" : 1728,
+   "mediumResImageWidth" : 1386,
    "metaDescription" : "Richards was born in Wilmington Delaware and received his early education at Westtown Friends School in West Chester, Pennsylvania. In 1840 he moved to New York City",
    "metaKeywords" : "",
    "metaTitle" : "Frederick Debourg Richards Painting - Mountain Brook - 19th Century American Fine Art",

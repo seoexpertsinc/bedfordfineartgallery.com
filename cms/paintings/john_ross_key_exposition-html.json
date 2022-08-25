@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 23 x 39.5 inches / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/grid_ce.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ce.jpg",
+   "highResImageHeight" : 2059,
+   "highResImageWidth" : 3132,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ce_small.jpg",
+   "mediumResImageHeight" : 853,
+   "mediumResImageWidth" : 1300,
    "metaDescription" : "John Ross Key was born in Hagerstown, Maryland, the son of U.S. Attorney for the District of Columbia and grandson of Francis Scott Key, who penned the lyrics to our",
    "metaKeywords" : "",
    "metaTitle" : "John Ross Key Painting - Trans-Mississippi and International Exposition 1898 - On the Plaza - 19th Century American Fine Art",

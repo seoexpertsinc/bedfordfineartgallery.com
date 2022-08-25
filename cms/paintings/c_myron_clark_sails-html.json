@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/clark_sails_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/clark_sails_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/clark_sails_full.jpg",
+   "highResImageHeight" : 3281,
+   "highResImageWidth" : 3420,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/clark_sails_small.jpg",
+   "mediumResImageHeight" : 861,
+   "mediumResImageWidth" : 898,
    "metaDescription" : "C. Myron Clark was a Massachusetts mountain landscapist, who is known for his paintings of sailing ships, the best-known of which is of the USS Constitution. In 1906",
    "metaKeywords" : "",
    "metaTitle" : "C. Myron Clark Painting - Misty Sails - 19th Century American Fine Art",

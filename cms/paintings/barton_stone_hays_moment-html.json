@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/barton_stone_hays_art_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/barton_stone_hays_art_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/barton_stone_hays_full.jpg",
+   "highResImageHeight" : 2295,
+   "highResImageWidth" : 2722,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/barton_stone_hays_mobile.jpg",
+   "mediumResImageHeight" : 1113,
+   "mediumResImageWidth" : 1320,
    "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
    "metaKeywords" : "",
    "metaTitle" : "Barton Stone Hays Painting - Tender Moments - 19th Century American Fine Art",

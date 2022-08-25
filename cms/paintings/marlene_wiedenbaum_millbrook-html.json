@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wiedenbaum_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wiedenbaum_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wiedenbaum_full.jpg",
+   "highResImageHeight" : 1921,
+   "highResImageWidth" : 3210,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wiedenbaum_small.jpg",
+   "mediumResImageHeight" : 1098,
+   "mediumResImageWidth" : 1834,
    "metaDescription" : "Award-winning High Falls, New York, artist Marlene Wiedenbaum lives and works primarily in the Hudson Valley. She graduated graduated from of Queens College, State U",
    "metaKeywords" : "",
    "metaTitle" : "Marlene Wiedenbaum Painting - Millbrook Road - 19th Century American Fine Art",

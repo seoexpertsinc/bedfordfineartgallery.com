@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/frisino_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/frisino_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/frisino_full.jpg",
+   "highResImageHeight" : "2416",
+   "highResImageWidth" : "3018",
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/frisino_full.jpg",
+   "mediumResImageHeight" : 2416,
+   "mediumResImageWidth" : 3018,
    "metaDescription" : "Born in Baltimore, Maryland Frisino graduated from the Maryland School for the Deaf in Frederick Maryland and in 1953 graduated with honors from the Maryland Institu",
    "metaKeywords" : "",
    "metaTitle" : "Louis Frisino Painting - Cocker Spaniel with Pheasant - 20th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/willis_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/willis_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/willis_original.jpg",
+   "highResImageHeight" : 1458,
+   "highResImageWidth" : 1840,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/willis_small.jpg",
+   "mediumResImageHeight" : 886,
+   "mediumResImageWidth" : 1119,
    "metaDescription" : "Willis was born in Bristol, England. His father, John A. Willis, and brother, Henry Willis, were also artists. He had established his reputation as an artist in Engl",
    "metaKeywords" : "",
    "metaTitle" : "Edmund Aylburton Willis Painting - Idyllic Day - 19th Century British-American Fine Art",

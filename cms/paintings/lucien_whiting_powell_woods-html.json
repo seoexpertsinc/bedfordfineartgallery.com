@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 16.75 x 13.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/powell_woods_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/powell_woods_full.jpg",
+   "highResImageHeight" : 2797,
+   "highResImageWidth" : 2476,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/powell_woods_small.jpg",
+   "mediumResImageHeight" : 1119,
+   "mediumResImageWidth" : 991,
    "metaDescription" : "Powell was born to landed gentry at Levinworth Manor in Upperville, Virginia, and studied at the Pennsylvania Academy of the Fine Arts and later with renowned Hudson",
    "metaKeywords" : "",
    "metaTitle" : "Lucien Whiting Powell Painting - Sunlit Creek through the Woods - 19th Century American Fine Art",

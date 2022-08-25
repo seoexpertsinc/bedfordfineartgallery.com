@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/mosorjak_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/mosorjak_grid2.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/mosorjak_full2.jpg",
+   "highResImageHeight" : 2789,
+   "highResImageWidth" : 3386,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/mosorjak_small2.jpg",
+   "mediumResImageHeight" : 916,
+   "mediumResImageWidth" : 1111,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

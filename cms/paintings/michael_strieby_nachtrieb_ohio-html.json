@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/nachtrieb_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/nachtrieb_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/nachtrieb_full.jpg",
+   "highResImageHeight" : 2073,
+   "highResImageWidth" : 3204,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/nachtrieb_small.jpg",
+   "mediumResImageHeight" : 830,
+   "mediumResImageWidth" : 1282,
    "metaDescription" : "Nachtrieb was born in Wooster, Ohio and to his father's dismay opted to forego following in the family hat business to pursue a career in art.  During the Civil Wa",
    "metaKeywords" : "",
    "metaTitle" : "Michael Strieby Nachtrieb Painting - Ohio - 19th Century American Fine Art",

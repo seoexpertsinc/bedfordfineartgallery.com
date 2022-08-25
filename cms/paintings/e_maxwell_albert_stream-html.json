@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/albert_stream_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/albert_stream_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/albert_stream_full.jpg",
+   "highResImageHeight" : 2588,
+   "highResImageWidth" : 3225,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/albert_stream_small.jpg",
+   "mediumResImageHeight" : 1036,
+   "mediumResImageWidth" : 1290,
    "metaDescription" : "Impressionist artist, Ernest Albert was the son of noted theater scene painter Ernest Albert. Born in Chicago, Illinois. Albert, Sr. later moved the family to New Ro",
    "metaKeywords" : "",
    "metaTitle" : "E. \"Bill\" Maxwell Albert Painting - Winter Landscape with Stream - 19th Century American Fine Art",

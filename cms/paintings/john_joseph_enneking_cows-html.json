@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/enneking_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/enneking_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/enneking_full.jpg",
+   "highResImageHeight" : 3090,
+   "highResImageWidth" : 3463,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/enneking_small.jpg",
+   "mediumResImageHeight" : 927,
+   "mediumResImageWidth" : 1039,
    "metaDescription" : "Enneking first studied landscape painting at the Munich Academy with Schleich and Leier, and portraiture with Bonnat at Paris. This was an opportune time for an arti",
    "metaKeywords" : "",
    "metaTitle" : "John Joseph Enneking Painting - Gathering Cows - 19th Century American Fine Art",

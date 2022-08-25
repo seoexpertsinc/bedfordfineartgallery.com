@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 23.75 x 19.25 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/porter_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/porter_full.jpg",
+   "highResImageHeight" : 3307,
+   "highResImageWidth" : 2681,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/porter_small.jpg",
+   "mediumResImageHeight" : 1125,
+   "mediumResImageWidth" : 912,
    "metaDescription" : "From 1869 to 1873 Porter was enrolled at the National Academy of Design, the first African-American admitted to the school.  In 1878 he opened a studio in Hartford,",
    "metaKeywords" : "",
    "metaTitle" : "Charles Ethan Porter Painting - Bouquet of Roses - 19th Century American Fine Art",

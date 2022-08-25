@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/schwartz_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/schwartz_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/schwartz_full.jpg",
+   "highResImageHeight" : 2711,
+   "highResImageWidth" : 3263,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/schwartz_small.jpg",
+   "mediumResImageHeight" : 1085,
+   "mediumResImageWidth" : 1306,
    "metaDescription" : "Schwartz was born in Louisville, Kentucky.  Schwartz painted murals for the Baptist Church in South Londonderry, Vermont, which is his best known, and also the Court",
    "metaKeywords" : "",
    "metaTitle" : "Andrew Thomas Schwartz Painting - Pink Flowers - 19th Century American Fine Art",

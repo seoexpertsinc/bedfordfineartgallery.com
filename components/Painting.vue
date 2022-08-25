@@ -30,10 +30,13 @@
                     <template v-if="sold">
                         <div class="sold">
                             <span class="soldTag">sold</span>
-                            <img
+                            <nuxt-img
+                                loading="lazy"
                                 class="art_detail"
                                 :alt="artistNameWithTinyDescription"
                                 :src="painting.mediumResImage"
+                                :width="painting.mediumResImageWidth"
+                                :height="painting.mediumResImageHeight"
                             />
                         </div>
                     </template>

@@ -8,6 +8,8 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hyde_mid_day_sun_ii_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hyde_mid_day_sun_ii_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -15,6 +17,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hyde_mid_day_ii_small.jpg",
+   "mediumResImageHeight" : 968,
+   "mediumResImageWidth" : 1147,
    "metaDescription" : "Contemporary sculptor Wayne Hyde was born and raised in the Allegheny Mountains, near Bedford, Pennsylvania. His early experiences in rural Bedford, County, led to h",
    "metaKeywords" : "",
    "metaTitle" : "Wayne Hyde Sculpture - Mid Day Sun II - Contemporary American Fine Art",

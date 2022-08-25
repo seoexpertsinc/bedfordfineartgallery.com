@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/weir_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/weir_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/weir_original.jpg",
+   "highResImageHeight" : 2562,
+   "highResImageWidth" : 2210,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/weir_small.jpg",
+   "mediumResImageHeight" : 1471,
+   "mediumResImageWidth" : 1269,
    "metaDescription" : "Weir was born in New York City, and possessed of natural talent, he taught himself to paint by copying pictures of Rembrandt paintings. When only a teenager, his con",
    "metaKeywords" : "",
    "metaTitle" : "Robert Weir Painting - Mother's Love - 19th Century American Fine Art",

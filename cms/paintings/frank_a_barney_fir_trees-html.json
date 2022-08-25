@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/barney_trees_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/barney_trees_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/barney_trees_full.jpg",
+   "highResImageHeight" : 2583,
+   "highResImageWidth" : 3348,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/barney_trees_small.jpg",
+   "mediumResImageHeight" : 848,
+   "mediumResImageWidth" : 1099,
    "metaDescription" : "Barney was known as the",
    "metaKeywords" : "",
    "metaTitle" : "Frank A. Barney Painting - Impression of Fir Trees - 19th Century American Fine Art",

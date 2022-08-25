@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/jhd_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/jhd_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/john_henry_dolph_full.jpg",
+   "highResImageHeight" : 2514,
+   "highResImageWidth" : 3027,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/john_henry_dolph_small.jpg",
+   "mediumResImageHeight" : 1198,
+   "mediumResImageWidth" : 1443,
    "metaDescription" : "Dolph was a versatile and talented artist who became the foremost \"cat-painter\" in America. He left home (Fort Ann, New York) at a young age, after the death of",
    "metaKeywords" : "",
    "metaTitle" : "John Henry Dolph Painting - Stand-Off - 19th Century American Fine Art",

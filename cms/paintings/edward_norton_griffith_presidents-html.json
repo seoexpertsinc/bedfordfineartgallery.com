@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/griffith_presidents_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/griffith_presidents_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/griffith_presidents_full.jpg",
+   "highResImageHeight" : 3098,
+   "highResImageWidth" : 2456,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/griffith_presidents_small.jpg",
+   "mediumResImageHeight" : 1549,
+   "mediumResImageWidth" : 1228,
    "metaDescription" : "Trompe l'oeil life artist Edward Norton Griffith was born in Belvedere, New Jersey, the son of a Methodist preacher.  American Art Historian, William A. Gerdts, desc",
    "metaKeywords" : "",
    "metaTitle" : "Edward Norton (E.N.) Griffith Painting - Presidential Trompe l'Oeil - 19th Century American Fine Art",

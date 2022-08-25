@@ -8,7 +8,11 @@
    "featured" : true,
    "galleryCropImage" : "/cms-uploads/batcheller_fruit_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/batcheller_fruit_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/batcheller_fruit_full.jpg",
+   "highResImageHeight" : 2575,
+   "highResImageWidth" : 3386,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/batcheller_fruit_small.jpg",
+   "mediumResImageHeight" : 773,
+   "mediumResImageWidth" : 1016,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

@@ -10,7 +10,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/sc_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/sc_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/steeplechase_original_2.jpg",
+   "highResImageHeight" : 1435,
+   "highResImageWidth" : 1900,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -26,6 +30,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/steeplechase_small_2.jpg",
+   "mediumResImageHeight" : 839,
+   "mediumResImageWidth" : 1111,
    "metaDescription" : "Owen, a noted Impressionist landscapist, was born in North Adams, Massachusetts. He studied at the Eric Pape Art School (Boston), Art Students League of New York, Na",
    "metaKeywords" : "",
    "metaTitle" : "Frank Harmon Myers Painting - Steeplechase - 19th Century American Fine Art",

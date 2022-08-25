@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/decker_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/decker_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/decker_full.jpg",
+   "highResImageHeight" : 3042,
+   "highResImageWidth" : 2466,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/decker_small.jpg",
+   "mediumResImageHeight" : 1571,
+   "mediumResImageWidth" : 1274,
    "metaDescription" : "Decker was born in Troy, New York; however, his family then moved to Brooklyn, New York circa 1860 and in 1870, they moved to Maquoketa, Iowa where Decker establishe",
    "metaKeywords" : "",
    "metaTitle" : "Robert Decker Painting - A Fall Landscape - 19th Century American Fine Art",

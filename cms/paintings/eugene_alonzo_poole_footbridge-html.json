@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/poole_grid3_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/poole_grid3.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/poole_bridge_full.jpg",
+   "highResImageHeight" : 2150,
+   "highResImageWidth" : 3104,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/poole_bridge_small.jpg",
+   "mediumResImageHeight" : 1039,
+   "mediumResImageWidth" : 1500,
    "metaDescription" : "Eugene Poole was southwestern Pennsylvania landscape painter—one of the Scalp Level artists who painted alongside George Hetzel, founder of the Scalp Level Movemen",
    "metaKeywords" : "",
    "metaTitle" : "Eugene Alonzo Poole Painting - Footbridge Over a Creek - 19th Century American Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/7_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/7_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/across_the_potomac_original.jpg",
+   "highResImageHeight" : 1824,
+   "highResImageWidth" : 2365,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/across_the_potomac_small.jpg",
+   "mediumResImageHeight" : 1016,
+   "mediumResImageWidth" : 1318,
    "metaDescription" : "John Ross Key was born in Hagerstown, Maryland, the son of U.S. Attorney for the District of Columbia and grandson of Francis Scott Key, who penned the lyrics to our",
    "metaKeywords" : "",
    "metaTitle" : "John Ross Key Painting - Washington, D.C. Across the Potomac - 19th Century American Fine Art",

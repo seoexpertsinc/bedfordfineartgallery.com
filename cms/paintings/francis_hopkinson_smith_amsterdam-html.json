@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0246-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0246-sm.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0246.jpg",
+   "highResImageHeight" : 2557,
+   "highResImageWidth" : 3304,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0246-m.jpg",
+   "mediumResImageHeight" : 1137,
+   "mediumResImageWidth" : 1471,
    "metaDescription" : "Francis Smith, born in Baltimore, Maryland, was the great grandson of Francis Hopkinson, a signer of the Declaration of Independence. Both his great-grandfather and",
    "metaKeywords" : "",
    "metaTitle" : "Francis Hopkinson Smith Painting - Amsterdam - 19th Century American Fine Art",

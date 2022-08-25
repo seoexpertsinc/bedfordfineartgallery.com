@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 15.5 x 17.5 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/reid_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/reid_full.jpg",
+   "highResImageHeight" : 2688,
+   "highResImageWidth" : 3000,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/reid_small.jpg",
+   "mediumResImageHeight" : 981,
+   "mediumResImageWidth" : 1094,
    "metaDescription" : "Reid, best known for her floral still-lifes, was born in Reading, Pennsylvania, but after the death of her father when she was still an infant, her mother took Mary",
    "metaKeywords" : "",
    "metaTitle" : "Mary Augusta Hiester Reid - Daisies in Oriental Vase - 19th Century American Fine Art",

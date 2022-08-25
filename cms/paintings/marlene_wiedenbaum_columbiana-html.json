@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/wiedenbaum_grid3_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/wiedenbaum_grid3.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/wiedenbaum_full3.jpg",
+   "highResImageHeight" : 3120,
+   "highResImageWidth" : 2277,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wiedenbaum_small3.jpg",
+   "mediumResImageHeight" : 1248,
+   "mediumResImageWidth" : 911,
    "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
    "metaKeywords" : "",
    "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",

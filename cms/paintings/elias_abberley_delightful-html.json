@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/ea_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/ea_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ea_original.jpg",
+   "highResImageHeight" : 2173,
+   "highResImageWidth" : 2633,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ea_small.jpg",
+   "mediumResImageHeight" : 1116,
+   "mediumResImageWidth" : 1352,
    "metaDescription" : "Known mostly for his still-lifes, little is known of Abberly's life or training. He often combined an outdoor still-life of apples or corn with a squirrel for deli",
    "metaKeywords" : "",
    "metaTitle" : "Elias Abberly Painting - Delightful Find - 19th Century American Fine Art",

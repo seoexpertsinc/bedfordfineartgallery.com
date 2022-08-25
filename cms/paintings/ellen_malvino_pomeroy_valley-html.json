@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas on support, 27.5 x 44.75 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/pomeroy_valley_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/pomeroy_valley_full.jpg",
+   "highResImageHeight" : 2544,
+   "highResImageWidth" : 3693,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/pomeroy_valley_small.jpg",
+   "mediumResImageHeight" : 764,
+   "mediumResImageWidth" : 1108,
    "metaDescription" : "An article in the April 17, 1892 edition of The Philadelphia Inquirer writes that \"Miss Ellen is in Washington for a few weeks' experience in porcelain painting,",
    "metaKeywords" : "",
    "metaTitle" : "Ellen Malvino Pomeroy Painting - Shenandoah Valley - 19th Century American Fine Art",

@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 21.75 x 29.75 inches / Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/lwpond_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/lwp_original.jpg",
+   "highResImageHeight" : 1965,
+   "highResImageWidth" : 2421,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/lwp_small.jpg",
+   "mediumResImageHeight" : 1075,
+   "mediumResImageWidth" : 1324,
    "metaDescription" : "Landscape painter, Charles Linford was born in Pittsburgh, Pennsylvania and was a student of noted Scalp Level founder, George Hetzel. It was through Hetzel that he",
    "metaKeywords" : "",
    "metaTitle" : "Charles Linford Painting - Landscape with Pond - 19th Century American Fine Art",

@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4052_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4052_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4052_original.jpg",
+   "highResImageHeight" : 1526,
+   "highResImageWidth" : 2078,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4052_small.jpg",
+   "mediumResImageHeight" : 845,
+   "mediumResImageWidth" : 1151,
    "metaDescription" : "Although recognized as one of the 10 best portrait painters in the United States; he began his professional life as a hydraulic engineer. It was not until his employ",
    "metaKeywords" : "",
    "metaTitle" : "Edwin M.R. Weiner Painting - Still Life with Fruit - 19th Century American Fine Art",

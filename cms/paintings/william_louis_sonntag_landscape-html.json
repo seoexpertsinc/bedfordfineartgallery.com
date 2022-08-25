@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/23_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/23_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ls_original.jpg",
+   "highResImageHeight" : 1591,
+   "highResImageWidth" : 2169,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ls_small.jpg",
+   "mediumResImageHeight" : 902,
+   "mediumResImageWidth" : 1229,
    "metaDescription" : "Considered one of the major Hudson River School artists, Sonntag was born in the East Liberty section of Pittsburgh, PA. Despite his parent's objections, he left P",
    "metaKeywords" : "",
    "metaTitle" : "William Louis Sonntag Painting - Landscape - 19th Century American Fine Art",

@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 8.75 x 13.25 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/edward_hill_art_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/edward_hill_art_original.jpg",
+   "highResImageHeight" : 2337,
+   "highResImageWidth" : 2994,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/edward_hill_art_small.jpg",
+   "mediumResImageHeight" : 1181,
+   "mediumResImageWidth" : 1513,
    "metaDescription" : "Born in Wolverton, Staffordshire, England, his family immigrated to the United States in 1844 and first settled in Taunton, Massachusetts, finally to then Gardner, M",
    "metaKeywords" : "",
    "metaTitle" : "Edward Hill Painting - Sheep Along the River - 19th Century American Fine Art",

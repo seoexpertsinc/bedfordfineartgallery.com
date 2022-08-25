@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 17.25 x 26.5 inches / Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/albert_fancis_king_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/albert_fancis_king.jpg",
+   "highResImageHeight" : 1864,
+   "highResImageWidth" : 2532,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/albert_fancis_king_small.jpg",
+   "mediumResImageHeight" : 1078,
+   "mediumResImageWidth" : 1464,
    "metaDescription" : "Albert Francis King was born in Pittsburgh, Pennsylvania and was recognized as Pittsburgh's primary still-life painter during the 19th century. King was largely se",
    "metaKeywords" : "",
    "metaTitle" : "Albert Francis King Painting - Rowing on the River - 19th Century American Fine Art",

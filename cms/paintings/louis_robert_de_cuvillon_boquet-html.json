@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4395_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4395_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4395_original.jpg",
+   "highResImageHeight" : 1572,
+   "highResImageWidth" : 2034,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4395_small.jpg",
+   "mediumResImageHeight" : 1038,
+   "mediumResImageWidth" : 1344,
    "metaDescription" : "Listed French artist Louis-Robert de Cuvillon's watercolors are very subtle and delicate. Many of his passionate works such as \"Woman with a Tambourine\", \"Wo",
    "metaKeywords" : "",
    "metaTitle" : "Louis-Robert de Cuvillon Painting - Reclining Woman with Bouquet - 19th Century French Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/sommer_deer_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/sommer_deer_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/sommer_deer_full.jpg",
+   "highResImageHeight" : 2693,
+   "highResImageWidth" : 3744,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/sommer_deer_small.jpg",
+   "mediumResImageHeight" : 1078,
+   "mediumResImageWidth" : 1498,
    "metaDescription" : "Sommer was a German artist living in Munich before immigrating to the United States – destination, probably New York City, although the year is unknown.  His lands",
    "metaKeywords" : "",
    "metaTitle" : "Otto Sommer Painting - Deer at Dusk - 19th Century American Fine Art",

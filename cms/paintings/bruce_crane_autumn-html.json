@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/crane_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/crane_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/crane_full.jpg",
+   "highResImageHeight" : 2279,
+   "highResImageWidth" : 2806,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/crane_small.jpg",
+   "mediumResImageHeight" : 1245,
+   "mediumResImageWidth" : 1533,
    "metaDescription" : "Robert Bruce Crane was born in New York City, but by circa 1874 the family was living in Elizabeth, New Jersey, where he worked as a draftsman for an architect and b",
    "metaKeywords" : "",
    "metaTitle" : "Bruce (Robert Bruce) Crane Painting - Autumn Landscape - 19th Century American Fine Art",

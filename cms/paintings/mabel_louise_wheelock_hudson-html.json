@@ -5,6 +5,8 @@
    "dimensions" : "Oil on canvas, 12 x 20 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/wheelock_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "",
    "highlights" : [
       {
@@ -21,6 +23,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/wheelock_small.jpg",
+   "mediumResImageHeight" : 1081,
+   "mediumResImageWidth" : 1461,
    "metaDescription" : "Illinois artist Mabel Wheelock was born into a wealthy family in the Village of Wilmette, Illinois on Lake Michigan. She attended the former Armour Institute of Tech",
    "metaKeywords" : "",
    "metaTitle" : "Mabel Louise Wheelock Painting - On the Esopus Creek, Hudson River - 19th Century American Fine Art",

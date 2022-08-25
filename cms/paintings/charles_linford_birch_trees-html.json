@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 17 x 12 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/linford_trees_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/linford_trees_full.jpg",
+   "highResImageHeight" : 3417,
+   "highResImageWidth" : 2771,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/linford_trees_small.jpg",
+   "mediumResImageHeight" : 1099,
+   "mediumResImageWidth" : 909,
    "metaDescription" : "Landscape painter, Charles Linford was born in Pittsburgh, Pennsylvania and was a student of noted Scalp Level founder, George Hetzel. Linford's characteristic sty",
    "metaKeywords" : "",
    "metaTitle" : "Charles Linford Painting - Birch Trees in Rocky Forest with Cows - 19th Century American Fine Art",

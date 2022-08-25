@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0334-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0334-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0334.jpg",
+   "highResImageHeight" : 2012,
+   "highResImageWidth" : 3248,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0334-m.jpg",
+   "mediumResImageHeight" : 1042,
+   "mediumResImageWidth" : 1682,
    "metaDescription" : "Impressionist painter Louis Ritter was born in Cincinnati, Ohio and studied at the McMicken School of Design from 1873 to 1874. In 1878 he traveled to Munich, German",
    "metaKeywords" : "",
    "metaTitle" : "Louis Ritter Painting - East Gloucester 2 Landscape - 19th Century American Fine Art",

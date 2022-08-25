@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/cochran_grid2_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/cochran_grid2.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/cochran_full.jpg",
+   "highResImageHeight" : 2674,
+   "highResImageWidth" : 3061,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/cochran_small.jpg",
+   "mediumResImageHeight" : 910,
+   "mediumResImageWidth" : 1041,
    "metaDescription" : "Born in Cincinnati, Ohio, Cochran moved to Woodstock, New York and became a member of the early 20th century \"utopian\" Byrdcliffe Art Colony there.  Cochran adop",
    "metaKeywords" : "",
    "metaTitle" : "Allen Dean Cochran Painting - Winter Landscape - 19th Century American Fine Art",

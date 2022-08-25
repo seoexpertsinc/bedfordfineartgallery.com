@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4074_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4074_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4074_original.jpg",
+   "highResImageHeight" : 1632,
+   "highResImageWidth" : 1960,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4074_small.jpg",
+   "mediumResImageHeight" : 807,
+   "mediumResImageWidth" : 974,
    "metaDescription" : "This listed French artist is known for his soft realistic watercolors. Bruneau's work has been sold at such venues as Sloans & Kenyon and Sotheby's",
    "metaKeywords" : "",
    "metaTitle" : "Andrien-Louis Bruneau Painting - Mice - 19th Century French Fine Art",

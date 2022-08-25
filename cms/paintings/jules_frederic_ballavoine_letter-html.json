@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/ballavoine_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/ballavoine_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/ballavoine_full.jpg",
+   "highResImageHeight" : 3014,
+   "highResImageWidth" : 2668,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/ballavoine_small.jpg",
+   "mediumResImageHeight" : 1407,
+   "mediumResImageWidth" : 1245,
    "metaDescription" : "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter. He received some notoriety during the early decades of the Frenc",
    "metaKeywords" : "",
    "metaTitle" : "Jules Frederic Ballavoine Painting - Penning a Love Letter - 19th Century French Fine Art",

@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/baer_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/baer_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/baer_full.jpg",
+   "highResImageHeight" : 3010,
+   "highResImageWidth" : 2604,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/baer_small.jpg",
+   "mediumResImageHeight" : 1238,
+   "mediumResImageWidth" : 1121,
    "metaDescription" : "William Jacob Baer, considered the foremost American miniature painter, was born in Cincinnati, Ohio.  He is responsible for the revival in miniature painting in the",
    "metaKeywords" : "",
    "metaTitle" : "William Jacob Baer Painting - Seated Young Girl in a Landscape - 19th Century American Fine Art",

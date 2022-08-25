@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/schaldach_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/schaldach_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/schaldach_full.jpg",
+   "highResImageHeight" : 2494,
+   "highResImageWidth" : 2196,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/schaldach_small.jpg",
+   "mediumResImageHeight" : 1073,
+   "mediumResImageWidth" : 945,
    "metaDescription" : "Schaldach was born in Elkart, Indiana, but when he was 12 the family moved to Michigan. An early interest in hunting, fishing and drawing would serve him well later",
    "metaKeywords" : "",
    "metaTitle" : "W.J. Schaldach Painting - Rising Trout - 20th Century American Fine Art",

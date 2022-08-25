@@ -9,7 +9,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/hunt_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/hunt_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/huntingdon_original.jpg",
+   "highResImageHeight" : 1200,
+   "highResImageWidth" : 1082,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -25,6 +29,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/huntingdon_small.jpg",
+   "mediumResImageHeight" : 986,
+   "mediumResImageWidth" : 889,
    "metaDescription" : "Huntington was regarded as the successor to both Hudson River School founder, Thomas Cole and history painter, Washington Allston. He was a distant relative of Ameri",
    "metaKeywords" : "",
    "metaTitle" : "Daniel Huntington Painting - Crossing the Creek - 19th Century American Fine Art",

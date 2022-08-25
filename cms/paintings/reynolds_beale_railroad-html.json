@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0393-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0393-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0393.jpg",
+   "highResImageHeight" : 2286,
+   "highResImageWidth" : 2673,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0393-m.jpg",
+   "mediumResImageHeight" : 1187,
+   "mediumResImageWidth" : 1388,
    "metaDescription" : "Known variously as and",
    "metaKeywords" : "",
    "metaTitle" : "Reynolds Beal Painting - Poughkeepsie Railroad Bridge - 19th Century American Fine Art",

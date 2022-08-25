@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_0389-sm_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_0389-sm.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_0389.jpg",
+   "highResImageHeight" : 2356,
+   "highResImageWidth" : 3068,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_0389-m.jpg",
+   "mediumResImageHeight" : 1191,
+   "mediumResImageWidth" : 1551,
    "metaDescription" : "Hodgdon was born in Salem, Massachusetts on Christmas Day 1830, the son of a wealthy Salem currier. His formal art training was with Salem portrait painter, Edward H",
    "metaKeywords" : "",
    "metaTitle" : "Sylvester Phelps Hodgdon Painting - River Landscape in Autumn, 1857 - 19th Century American Fine Art",

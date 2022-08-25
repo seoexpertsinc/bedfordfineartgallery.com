@@ -5,7 +5,11 @@
    "dimensions" : "OOB, 9.75 x 6.75 inches/Signed lower left",
    "featured" : false,
    "gridImage" : "/cms-uploads/hobbs_stream_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/hobbs_stream_full.jpg",
+   "highResImageHeight" : 2656,
+   "highResImageWidth" : 2054,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/hobbs_stream_small.jpg",
+   "mediumResImageHeight" : 1088,
+   "mediumResImageWidth" : 843,
    "metaDescription" : "Hobbs was born in Philadelphia, Pennsylvania, the son of architect Isaac H. Hobbs. Like his father, he became an architect and in 1871 his father's firm had change",
    "metaKeywords" : "",
    "metaTitle" : "George Thompson Hobbs Painting - Whitewater Stream - 19th Century American Fine Art",

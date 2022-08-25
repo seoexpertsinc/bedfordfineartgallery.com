@@ -18,11 +18,26 @@ export default {
         }
     },
     data() {
+        let src, thumbnail, w, h
+        if (this.mobile) {
+            src = this.painting.gridImage
+            thumbnail = this.painting.gridImage
+            w = this.painting.gridImageWidth
+            h = this.painting.gridImageHeight
+        } else {
+            src = this.painting.highResImage || this.painting.mediumResImage
+            thumbnail = this.painting.mediumResImage
+            w = this.painting.highResImage ? this.painting.highResImageWidth : this.painting.mediumResImageWidth
+            h = this.painting.highResImage ? this.painting.highResImageHeight : this.painting.mediumResImageHeight
+        }
+
         return {
             items: [
                 {
-                    src: this.mobile ? this.painting.gridImage : this.painting.highResImage || this.painting.mediumResImage,
-                    thumbnail: this.mobile ? this.painting.gridImage : this.painting.mediumResImage,
+                    src,
+                    thumbnail,
+                    w,
+                    h,
                 },
             ],
         }

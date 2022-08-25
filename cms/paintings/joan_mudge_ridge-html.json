@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/mudge_ridge_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/mudge_ridge_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/mudge_ridge_full.jpg",
+   "highResImageHeight" : 2991,
+   "highResImageWidth" : 2547,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/mudge_ridge_small.jpg",
+   "mediumResImageHeight" : 1317,
+   "mediumResImageWidth" : 1121,
    "metaDescription" : "Contemporary artist Joan Mudge has always enjoyed art, both the act of creating art and studying art history.  Watching the light hit the trees before a storm, or no",
    "metaKeywords" : "",
    "metaTitle" : "Joan Mudge Painting - Towards Laurel Ridge from SAMA Ligonier, PA - 19th Century American Fine Art",

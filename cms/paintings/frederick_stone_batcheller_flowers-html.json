@@ -6,7 +6,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/batch_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/batch_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/batcheller_original.jpg",
+   "highResImageHeight" : 1864,
+   "highResImageWidth" : 1440,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -22,6 +26,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/batcheller_small.jpg",
+   "mediumResImageHeight" : 1147,
+   "mediumResImageWidth" : 887,
    "metaDescription" : "Batcheller was born in the fledgling industrial city of Providence, Rhode Island. As Providence was growing into a major industrial center, Batcheller, along with fe",
    "metaKeywords" : "",
    "metaTitle" : "Frederick Stone Batcheller Painting - Flowers in Victorian Vase - 19th Century American Fine Art",

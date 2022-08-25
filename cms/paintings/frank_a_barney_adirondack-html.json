@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/barney_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/barney_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/barney_full.jpg",
+   "highResImageHeight" : 2472,
+   "highResImageWidth" : 2954,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/barney_small.jpg",
+   "mediumResImageHeight" : 1223,
+   "mediumResImageWidth" : 1461,
    "metaDescription" : "Barney was known as the",
    "metaKeywords" : "",
    "metaTitle" : "Frank A. Barney Painting - An Adirondack Stream - 19th Century American Fine Art",

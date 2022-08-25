@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/barney_stream_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/barney_stream_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/barney_stream_full.jpg",
+   "highResImageHeight" : 2726,
+   "highResImageWidth" : 3608,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/barney_stream_small.jpg",
+   "mediumResImageHeight" : 1091,
+   "mediumResImageWidth" : 1444,
    "metaDescription" : "Barney was known as the",
    "metaKeywords" : "",
    "metaTitle" : "Frank A. Barney Painting - Stream in Landscape - 19th Century American Fine Art",

@@ -5,7 +5,11 @@
    "dimensions" : "Oil on canvas, 9.5 x 17.5 inches/Signed lower right",
    "featured" : false,
    "gridImage" : "/cms-uploads/boese_grid.jpg",
+   "gridImageHeight" : 261,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/boese_full.jpg",
+   "highResImageHeight" : 1963,
+   "highResImageWidth" : 3116,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -21,6 +25,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/boese_small.jpg",
+   "mediumResImageHeight" : 1046,
+   "mediumResImageWidth" : 1661,
    "metaDescription" : "There is very little biographical information available for native New York artist, Henry Boese (also spelled",
    "metaKeywords" : "",
    "metaTitle" : "Henry Boese Painting - Hurry Before the Storm - 19th Century American Fine Art",

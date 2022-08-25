@@ -8,7 +8,11 @@
    "featured" : false,
    "galleryCropImage" : "/cms-uploads/img_4330_grid_gallery_crop.jpg",
    "gridImage" : "/cms-uploads/img_4330_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
    "highResImage" : "/cms-uploads/img_4330_original.jpg",
+   "highResImageHeight" : 1957,
+   "highResImageWidth" : 1678,
    "highlights" : [
       {
          "highlight" : "Available for purchase"
@@ -24,6 +28,8 @@
       }
    ],
    "mediumResImage" : "/cms-uploads/img_4330_small.jpg",
+   "mediumResImageHeight" : 1067,
+   "mediumResImageWidth" : 915,
    "metaDescription" : "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling",
    "metaKeywords" : "",
    "metaTitle" : "Maximilienne Goepp Guyon Painting - Lady Waving - 19th Century French Fine Art",
