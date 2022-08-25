@@ -1,35 +1,36 @@
 {
-   "artist" : "alfred_t_bricher_artwork-html",
-   "body" : "Bricher is best known for his maritime water colors and is considered to be one of the 19th century’s greatest maritime painters.  Employed as a businessman in Boston, he took art classes at the Lowell Institute.  Although he studied under famous Hudson River School artist Albert Bierstadt, he was primarily a self-taught Luminist—the study of how light is reflected, refracted and absorbed.  In 1868 Bricher moved to New York at which time he switched from oils to water colors.  One observer of a Bricher painting stated that “he makes water sparkle like diamonds in a silver setting”.  He painted at Shinnecock, Narragansett, Chatham, Cape Cod, and along the Maine and Massachusetts coastline and other locales in New York.  In the 1870s he became affiliated with the Swedenborgian Church, as did American artists William Page and George Inness.  Bricher’s paintings at this time reflect the Swedenborg ideas with symbolic components and soft misty glows.  In the 1880s, he switched to a more atmospheric, Tonalist manner, with concentration on a single dominant color.  Bricher was one of the last of the second generation Hudson River School artists.",
-   "categories" : [],
-   "dimensions" : "Watercolor, 5 x 12.25 inches / Signed lower right",
-   "featured" : false,
-   "gridImage" : "/cms-uploads/seascape_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "",
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/seascape_small.jpg",
-   "mediumResImageHeight" : 1090,
-   "mediumResImageWidth" : 1586,
-   "metaDescription" : "Bricher is best known for his maritime water colors and is considered to be one of the 19th century's greatest maritime painters. Employed as a businessman in Bost",
-   "metaKeywords" : "",
-   "metaTitle" : "Alfred T. Bricher Painting - Seascape - 19th Century American Fine Art",
-   "slug" : "alfred_thompson_bricher_seascape-html",
-   "status" : "Sold",
-   "title" : "",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/BtOAgjpGw6o?rel=0"
+  "body": "Bricher is best known for his maritime water colors and is considered to be one of the 19th century’s greatest maritime painters.  Employed as a businessman in Boston, he took art classes at the Lowell Institute.  Although he studied under famous Hudson River School artist Albert Bierstadt, he was primarily a self-taught Luminist—the study of how light is reflected, refracted and absorbed.  In 1868 Bricher moved to New York at which time he switched from oils to water colors.  One observer of a Bricher painting stated that “he makes water sparkle like diamonds in a silver setting”.  He painted at Shinnecock, Narragansett, Chatham, Cape Cod, and along the Maine and Massachusetts coastline and other locales in New York.  In the 1870s he became affiliated with the Swedenborgian Church, as did American artists William Page and George Inness.  Bricher’s paintings at this time reflect the Swedenborg ideas with symbolic components and soft misty glows.  In the 1880s, he switched to a more atmospheric, Tonalist manner, with concentration on a single dominant color.  Bricher was one of the last of the second generation Hudson River School artists.",
+  "artist": "alfred_t_bricher_artwork-html",
+  "slug": "alfred_thompson_bricher_seascape-html",
+  "dimensions": "Watercolor, 5 x 12.25 inches / Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/BtOAgjpGw6o?rel=0",
+  "mediumResImage": "/cms-uploads/seascape_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "Alfred T. Bricher Painting - Seascape - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/seascape_grid.jpg",
+  "mediumResImageWidth": 1586,
+  "mediumResImageHeight": 1090,
+  "metaDescription": "Bricher is best known for his maritime water colors and is considered to be one of the 19th century's greatest maritime painters. Employed as a businessman in Bost",
+  "title": "Seascape",
+  "galleryCropImage": "/cms-uploads/seascape_grid.jpg",
+  "categories": [],
+  "gridImageHeight": 260,
+  "highResImage": "",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
