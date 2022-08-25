@@ -75,7 +75,7 @@ collections:
                 name: 'galleryCropImage',
                 widget: 'image',
                 allow_multiple: false,
-                required: true,
+                required: false,
                 hint: 'This will show on the gallery pages.'
             }
           - {
