@@ -1,10 +1,10 @@
 {
-   "alias" : "Elias T. Abberley,  Elias T Abberley",
-   "hasLandingPage" : false,
-   "name" : "Elias Abberley",
-   "paintings" : [
-      "elias_abberley_delightful-html"
-   ],
-   "slug" : "elias_abberley_artwork-html",
-   "tinyDescription" : "19th - 20th Century"
+  "alias": "Elias T. Abberley, Elias T Abberley",
+  "hasLandingPage": false,
+  "name": "Elias Abberley",
+  "paintings": [
+    "elias_abberley_delightful-html"
+  ],
+  "slug": "elias_abberley_artwork-html",
+  "tinyDescription": "19th - 20th Century"
 }
