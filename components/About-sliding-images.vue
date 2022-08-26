@@ -1,17 +1,17 @@
 <template>
     <div>
         <VueSlickCarousel v-bind="settings">
-            <div><nuxt-img src="/mural_1.jpg" /></div>
-            <div><nuxt-img src="/mural_2.jpg" /></div>
-            <div><nuxt-img src="/mural_3.jpg" /></div>
-            <div><nuxt-img src="/mural_4.jpg" /></div>
-            <div><nuxt-img src="/mural_5.jpg" /></div>
-            <div><nuxt-img src="/mural_6.jpg" /></div>
-            <div><nuxt-img src="/mural_7.jpg" /></div>
-            <div><nuxt-img src="/mural_8.jpg" /></div>
-            <div><nuxt-img src="/mural_9.jpg" /></div>
-            <div><nuxt-img src="/mural_10.jpg" /></div>
-            <div><nuxt-img src="/mural_11.jpg" /></div>
+            <div><nuxt-picture src="/mural_1.jpg" /></div>
+            <div><nuxt-picture src="/mural_2.jpg" /></div>
+            <div><nuxt-picture src="/mural_3.jpg" /></div>
+            <div><nuxt-picture src="/mural_4.jpg" /></div>
+            <div><nuxt-picture src="/mural_5.jpg" /></div>
+            <div><nuxt-picture src="/mural_6.jpg" /></div>
+            <div><nuxt-picture src="/mural_7.jpg" /></div>
+            <div><nuxt-picture src="/mural_8.jpg" /></div>
+            <div><nuxt-picture src="/mural_9.jpg" /></div>
+            <div><nuxt-picture src="/mural_10.jpg" /></div>
+            <div><nuxt-picture src="/mural_11.jpg" /></div>
         </VueSlickCarousel>
     </div>
 </template>

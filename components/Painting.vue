@@ -145,7 +145,10 @@
                             >
                         </div>
                     </div>
+
+                    <!-- eslint-disable vue/no-v-html -->
                     <div v-interpolation v-html="$md.render(painting.body)" />
+                    <!--eslint-enable-->
 
                     <div id="contact_anchor" class="more_info">
                         <h3 style="text-transform: none; color: #841012; font-size: 1.1em; line-height: 1.3em">

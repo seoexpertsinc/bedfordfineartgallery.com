@@ -1,41 +1,41 @@
 {
-   "artist" : "franklin_edward_morris_artwork-html",
-   "body" : "Morris lived in Mansfield, Ohio, but was active in New York, Maine, Connecticut Pennsylvania and Washington, D.C. as well.  As a youth Morris spent some time in the western United States and western panoramas and mountain paintings comprised his earliest works.  He was largely self-taught, but with natural skill, a keen eye, and under the influence of early 20th century American Impressionism, Morris produced many wonderful paintings including the gardens at Kingwood Center in Mansfield; the Krohn Conservatory in Cincinnati (OH); the steel mills along the Ohio River and snowy New York City street scenes.  Morris exhibited at the Vixsebose Gallery (Cleveland, OH); Cincinnati Art Galleries; Cooley Gallery (Old Lyme, CT); Griffith Gallery (Pittsburg, PA); and Swain Galleries (Morristown, NJ).\r\n",
-   "categories" : [
-      "Landscape",
-      "Genre"
-   ],
-   "dimensions" : "Oil on Board, 16 x 20 inches / Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/img_0276-sm_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/morris_beach_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/img_0276.jpg",
-   "highResImageHeight" : 2508,
-   "highResImageWidth" : 2956,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/img_0276-m.jpg",
-   "mediumResImageHeight" : 1131,
-   "mediumResImageWidth" : 1333,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "slug" : "franklin_morris_beach-html",
-   "status" : "None",
-   "title" : "",
-   "youtubeEmbedLink" : ""
+  "body": "Morris lived in Mansfield, Ohio, but was active in New York, Maine, Connecticut Pennsylvania and Washington, D.C. as well.  As a youth Morris spent some time in the western United States and western panoramas and mountain paintings comprised his earliest works.  He was largely self-taught, but with natural skill, a keen eye, and under the influence of early 20th century American Impressionism, Morris produced many wonderful paintings including the gardens at Kingwood Center in Mansfield; the Krohn Conservatory in Cincinnati (OH); the steel mills along the Ohio River and snowy New York City street scenes.  Morris exhibited at the Vixsebose Gallery (Cleveland, OH); Cincinnati Art Galleries; Cooley Gallery (Old Lyme, CT); Griffith Gallery (Pittsburg, PA); and Swain Galleries (Morristown, NJ).\r\n",
+  "highResImageHeight": 2508,
+  "artist": "franklin_edward_morris_artwork-html",
+  "highResImageWidth": 2956,
+  "slug": "franklin_morris_beach-html",
+  "dimensions": "Oil on Board, 16 x 20 inches / Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/img_0276-m.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/morris_beach_grid.jpg",
+  "mediumResImageWidth": 1333,
+  "mediumResImageHeight": 1131,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "title": "Sunny Day Ogunquit, Maine",
+  "galleryCropImage": "/cms-uploads/img_0276-sm_gallery_crop.jpg",
+  "categories": [
+    "Landscape",
+    "Genre"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/img_0276.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }

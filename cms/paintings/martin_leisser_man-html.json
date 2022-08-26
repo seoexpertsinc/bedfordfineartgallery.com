@@ -1,38 +1,38 @@
 {
-   "artist" : "martin_leisser_art-html",
-   "body" : "Leisser was the noted Pittsburgh artist who convinced Pittsburgh Industrialist, Andrew Carnegie to add a School of Applied Design to the Carnegie School of Technology (now Carnegie Mellon University). Leisser explained to Carnegie, in a 1911 letter, how “art is related to every facet of Life”. Leisser who years earlier had gotten a fidgety Carnegie to sit for a family portrait, obviously still had considerable influence with the philanthropist. In 1912, seven years after the Carnegie School of Technology began accepting students, the cornerstone was laid for the new art school. Considered as the “father” of the new school, Leisser was an important artistic icon in Pittsburgh, maintaining a studio at 35 Fifth Avenue. He was an accomplished portraitist; however, he studied with noted Pittsburgh landscapist and Scalp Level School founder, George Hetzel and painted with other members during their summer excursions to Scalp Level. Leisser studied at the Munich Academy of Fine Arts, and the Academie Julian, Paris. He exhibited paintings at the Pennsylvania Academy of the Fine Arts and the National Academy of Design.\n\nHigh auction record for this artist is $6,168.",
-   "categories" : [],
-   "dimensions" : "Oil on canvas, 22.5 x 17.25 inches / Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/21_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/21_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/mwb_original.jpg",
-   "highResImageHeight" : 3066,
-   "highResImageWidth" : 2462,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/mwb_small.jpg",
-   "mediumResImageHeight" : 1370,
-   "mediumResImageWidth" : 1100,
-   "metaDescription" : "Leisser was the noted Pittsburgh artist who convinced Pittsburgh Industrialist, Andrew Carnegie to add a School of Applied Design to the Carnegie School of Technolog",
-   "metaKeywords" : "",
-   "metaTitle" : "Martin Leisser Painting - Man with Bread - 19th Century American Fine Art",
-   "slug" : "martin_leisser_man-html",
-   "status" : "None",
-   "title" : "",
-   "youtubeEmbedLink" : ""
+  "body": "Leisser was the noted Pittsburgh artist who convinced Pittsburgh Industrialist, Andrew Carnegie to add a School of Applied Design to the Carnegie School of Technology (now Carnegie Mellon University). Leisser explained to Carnegie, in a 1911 letter, how “art is related to every facet of Life”. Leisser who years earlier had gotten a fidgety Carnegie to sit for a family portrait, obviously still had considerable influence with the philanthropist. In 1912, seven years after the Carnegie School of Technology began accepting students, the cornerstone was laid for the new art school. Considered as the “father” of the new school, Leisser was an important artistic icon in Pittsburgh, maintaining a studio at 35 Fifth Avenue. He was an accomplished portraitist; however, he studied with noted Pittsburgh landscapist and Scalp Level School founder, George Hetzel and painted with other members during their summer excursions to Scalp Level. Leisser studied at the Munich Academy of Fine Arts, and the Academie Julian, Paris. He exhibited paintings at the Pennsylvania Academy of the Fine Arts and the National Academy of Design.\n\nHigh auction record for this artist is $6,168.",
+  "highResImageHeight": 3066,
+  "artist": "martin_leisser_art-html",
+  "highResImageWidth": 2462,
+  "slug": "martin_leisser_man-html",
+  "dimensions": "Oil on canvas, 22.5 x 17.25 inches / Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/mwb_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Martin Leisser Painting - Man with Bread - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/21_grid.jpg",
+  "mediumResImageWidth": 1100,
+  "mediumResImageHeight": 1370,
+  "metaDescription": "Leisser was the noted Pittsburgh artist who convinced Pittsburgh Industrialist, Andrew Carnegie to add a School of Applied Design to the Carnegie School of Technolog",
+  "title": "Man with Beard",
+  "galleryCropImage": "/cms-uploads/21_grid_gallery_crop.jpg",
+  "categories": [],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/mwb_original.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }

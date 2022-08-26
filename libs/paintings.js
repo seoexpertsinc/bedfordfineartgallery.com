@@ -14,8 +14,8 @@ async function loadArtists ({ $content, artistSlugs }) {
 	}, {})
 }
 
-export const loadGalleryPaintings = async ({ $content, category, sold = false, additionalColumns = [] }) => {
-	let query = $content('paintings').only(['title', 'slug', 'galleryCropImage', 'gridImage', 'mediumResImage', 'artist', 'status', ...additionalColumns])
+export const loadGalleryPaintings = async ({ $content, category, sold = false, columns = ['title', 'slug', 'galleryCropImage', 'gridImage', 'mediumResImage', 'artist', 'status'], additionalColumns = [] }) => {
+	let query = $content('paintings').only([...columns, ...additionalColumns])
 
 	if (sold) {
 		query = query.where({ status: { $eq: 'Sold' } })

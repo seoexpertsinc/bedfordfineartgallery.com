@@ -3,7 +3,7 @@ backend:
     branch: master
 
 site_url: https://www.bedfordfineartgallery.com
-logo_url: https://www.bedfordfineartgallery.com/logo.png
+logo_url: https://alpha.bedfordfineartgallery.com/logo.png
 media_folder: 'static/cms-uploads'
 public_folder: '/cms-uploads'
 show_preview_links: false
@@ -75,7 +75,7 @@ collections:
                 name: 'galleryCropImage',
                 widget: 'image',
                 allow_multiple: false,
-                required: true,
+                required: false,
                 hint: 'This will show on the gallery pages.'
             }
           - {

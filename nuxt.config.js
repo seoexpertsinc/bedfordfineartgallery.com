@@ -21,7 +21,11 @@ export default {
     css: ['~/assets/css/fonts.css', '~/assets/css/global.css'],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: [],
+    plugins: [
+        '~/plugins/vue-gtag.client.js',
+        '~/plugins/head.js',
+        '~/plugins/referer.client.js',
+    ],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
     components: true,
@@ -55,6 +59,9 @@ export default {
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {
         transpile: ['vue-picture-swipe'],
+    },
+    loading: {
+        color: '#CCB38D',
     },
     router: {
         trailingSlash: false,
