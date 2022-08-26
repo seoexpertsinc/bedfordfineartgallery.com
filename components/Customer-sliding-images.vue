@@ -1,16 +1,16 @@
 <template>
     <div>
         <VueSlickCarousel v-bind="settings">
-            <div><nuxt-img src="/customer-images/1.jpg" /></div>
-            <div><nuxt-img src="/customer-images/2.jpg" /></div>
-            <div><nuxt-img src="/customer-images/3.jpg" /></div>
-            <div><nuxt-img src="/customer-images/4.jpg" /></div>
-            <div><nuxt-img src="/customer-images/5.jpg" /></div>
-            <div><nuxt-img src="/customer-images/6.jpg" /></div>
-            <div><nuxt-img src="/customer-images/7.jpg" /></div>
-            <div><nuxt-img src="/customer-images/8.jpg" /></div>
-            <div><nuxt-img src="/customer-images/9.jpg" /></div>
-            <div><nuxt-img src="/customer-images/10.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/1.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/2.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/3.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/4.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/5.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/6.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/7.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/8.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/9.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/10.jpg" /></div>
         </VueSlickCarousel>
     </div>
 </template>

@@ -9,8 +9,7 @@
                             src="gallery_thanks.jpg"
                             width="660"
                             height="792"
-                            alt="The Lookout
-"
+                            alt="The Lookout"
                         />
                     </div>
                     <div class="mobile_1">

@@ -5,10 +5,10 @@
                 <div class="sold">
                     <span class="soldTag">sold</span
                     ><nuxt-link :to="painting.slug.replace('-html', '.html')"
-                        ><nuxt-img
+                        ><nuxt-picture
                             loading="lazy"
                             :src="painting.gridImage || painting.mediumResImage || ''"
-                            :alt="nameWithTinyDescription(painting.artist)"
+                            :img-attrs="{alt: nameWithTinyDescription(painting.artist)}"
                         />
                         <p class="artist_gallery_title">{{ nameWithTinyDescription(painting.artist) }}</p>
                     </nuxt-link>

@@ -8,6 +8,8 @@
                 </div>
 
                 <HighlightPreview v-for="(highlight, index) in highlights" :key="index" :highlight="highlight"/>
+
+                <ArtLoversNicheArticles/>
             </section>
         </div>
         <div
@@ -22,10 +24,11 @@
 </template>
 
 <script>
+import ArtLoversNicheArticles from '~/components/ArtLoversNicheArticles';
 import HighlightPreview from '~/components/HighlightPreview.vue'
 
 export default {
-    components: { HighlightPreview },
+    components: { ArtLoversNicheArticles, HighlightPreview },
     async asyncData({ $content }) {
         return {
             highlights: await $content("articles").sortBy("date", "desc").fetch()
