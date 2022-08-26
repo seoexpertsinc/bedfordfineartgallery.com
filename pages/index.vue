@@ -52,8 +52,8 @@
                     <div class="flex_6">
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
-                        <YouTubeVideo link="https://www.youtube.com/embed/9-yObV8vpLc?rel=0"/>
-                        </div>
+                                <YouTubeVideo link="https://www.youtube.com/embed/9-yObV8vpLc?rel=0" />
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -217,7 +217,6 @@
                     >
                 </div>
             </section>
-
         </div>
 
         <div class="container primary" style="padding-bottom: 24px">
@@ -261,7 +260,7 @@
                             Dr. Terri Nicole Sawyer
                         </h2>
                         <div class="video-container" style="margin: 0px auto 30px auto; width: 90%">
-                            <YouTubeVideo link="https://www.youtube.com/embed/cFAempT0P1Y?rel=0"/>
+                            <YouTubeVideo link="https://www.youtube.com/embed/cFAempT0P1Y?rel=0" />
                         </div>
                     </div>
 
@@ -279,7 +278,7 @@
                             Virtual Tour
                         </h2>
                         <div id="video_anchor" class="video-container" style="margin: 0px auto 30px auto; width: 90%">
-                            <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0"/>
+                            <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0" />
                         </div>
                     </div>
                 </div>
@@ -306,7 +305,7 @@
                 </h2>
                 <div style="max-width: 660px; margin: auto">
                     <div class="video-container2" style="clear: both">
-                        <YouTubeVideo link="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"/>
+                        <YouTubeVideo link="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0" />
                     </div>
                 </div>
                 <p style="color: #742924; font-weight: bold; text-align: center; margin-top: 20px">
@@ -335,17 +334,17 @@
                 <div class="flex_wrap">
                     <div class="flex_3">
                         <div class="video-container">
-                            <YouTubeVideo link="https://www.youtube.com/embed/5I8BEyiGICs?rel=0"/>
+                            <YouTubeVideo link="https://www.youtube.com/embed/5I8BEyiGICs?rel=0" />
                         </div>
                     </div>
                     <div class="flex_3">
                         <div class="video-container">
-                            <YouTubeVideo link="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0"/>
+                            <YouTubeVideo link="https://www.youtube.com/embed/3asJzvyy-ZQ?rel=0" />
                         </div>
                     </div>
                     <div class="flex_3">
                         <div class="video-container">
-                            <YouTubeVideo link="https://www.youtube.com/embed/o6PhOHhaA5M?rel=0"/>
+                            <YouTubeVideo link="https://www.youtube.com/embed/o6PhOHhaA5M?rel=0" />
                         </div>
                     </div>
                 </div>
@@ -540,23 +539,26 @@
                         Our current inventory boasts a wide diversity of subject matter from
                         <nuxt-link :to="{ name: 'landscape-artwork' }" class="internalLinkReverse">landscape</nuxt-link
                         >, <nuxt-link :to="{ name: 'marine-artwork' }" class="internalLinkReverse">marine</nuxt-link>,
-                        <nuxt-link :to="{ name: 'still-life-artwork' }"
-                             class="internalLinkReverse">still life</nuxt-link
+                        <nuxt-link :to="{ name: 'still-life-artwork' }" class="internalLinkReverse"
+                            >still life</nuxt-link
                         >, <nuxt-link :to="{ name: 'genre-artwork' }" class="internalLinkReverse">genre</nuxt-link>,
 
-                        <nuxt-link :to="{ name: 'historical-and-political-artwork' }"
-                             class="internalLinkReverse">American historical/political</nuxt-link
+                        <nuxt-link :to="{ name: 'historical-and-political-artwork' }" class="internalLinkReverse"
+                            >American historical/political</nuxt-link
                         >
                         ,
                         <nuxt-link :to="{ name: 'sporting-art' }" class="internalLinkReverse">sporting art</nuxt-link>,
                         and
                         <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link>
                         themes. Our gallery features both American and European 19th century painters such as
-                        <nuxt-link to="john_henry_dolph_duo.html" class="internalLinkReverse">John Henry Dolph</nuxt-link>,
-                        <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
-                        <nuxt-link to="william_bromley_III.html" class="internalLinkReverse">William Bromley III</nuxt-link>, and
-                        <nuxt-link to="barton_stone_hays_apple.html"
-                             class="internalLinkReverse">Barton Stone Hays</nuxt-link
+                        <nuxt-link to="john_henry_dolph_duo.html" class="internalLinkReverse"
+                            >John Henry Dolph</nuxt-link
+                        >, <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
+                        <nuxt-link to="william_bromley_III.html" class="internalLinkReverse"
+                            >William Bromley III</nuxt-link
+                        >, and
+                        <nuxt-link to="barton_stone_hays_apple.html" class="internalLinkReverse"
+                            >Barton Stone Hays</nuxt-link
                         >, to name a few. To see more of our 19th century artists, please visit our
                         <nuxt-link :to="{ name: 'artists' }" class="internalLinkReverse">Artists page</nuxt-link>. Good
                         art is timeless and only you know what &quot;wows&quot; you. You know it when you see it and we
@@ -615,7 +617,7 @@
                         Charles Augustus (Shorty) Lasar Artist Quotes
                     </h2>
                     <div class="video-container" style="width: 100%; padding-top: 0">
-                        <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0"/>
+                        <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0" />
                     </div>
                 </div>
             </div>
@@ -715,7 +717,11 @@ export default {
     components: { NotableSales, YouTubeVideo },
     async asyncData({ $content }) {
         return {
-            soldPaintings: await loadGalleryPaintings({ $content, sold: true, columns: ['title', 'slug', 'gridImage', 'mediumResImage', 'artist'] }),
+            soldPaintings: await loadGalleryPaintings({
+                $content,
+                sold: true,
+                columns: ['title', 'slug', 'gridImage', 'mediumResImage', 'artist'],
+            }),
         }
     },
     data() {
