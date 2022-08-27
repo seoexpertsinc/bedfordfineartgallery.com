@@ -1,41 +1,41 @@
 {
-   "artist" : "william_sidney_cooper-html",
-   "body" : "William Sidney Cooper studied with his great-uncle Thomas Sidney Cooper at his School of Art in\r\nCanterbury (now he University College for the Creative Arts at Canterbury). Following in his great-uncle’s\r\nfootsteps, the younger Cooper’s forte became cattle and sheep, which feature prominently in his\r\nwatercolour and oil paintings. In 1890 Cooper moved to Herne Bay in Kent where he painted the\r\nsurrounding pastoral countryside with its herds of cattle and flocks of sheep. Cooper was an avid golfer\r\nand enjoyed playing tennis and lawn bowls. A capable musician, he played at local events. He also\r\napparently possessed architectural skills as he built a number of houses in Canterbury and the\r\nsurrounding area of Alcroft Grange. Cooper exhibited at the Royal Academy, the Royal Society of British\r\nArtists, and the Royal Watercolour Society.\n\nHigh auction record for this artist is $33,760.",
-   "categories" : [
-      "Landscape",
-      "Animal"
-   ],
-   "dimensions" : "Oil on canvas, 19.25 x 29.25 inches/Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/sidney_cooper_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/sidney_cooper_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/sidney_cooper_full.jpg",
-   "highResImageHeight" : 2168,
-   "highResImageWidth" : 3104,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/sidney_cooper_small.jpg",
-   "mediumResImageHeight" : 1109,
-   "mediumResImageWidth" : 1588,
-   "metaDescription" : "William Sidney Cooper studied with his great-uncle Thomas Sidney Cooper at his School of Art in Canterbury (now he University College for the Creative Arts at Canter",
-   "metaKeywords" : "",
-   "metaTitle" : "William Sidney Cooper Painting - Landscape with Sheep - 19th Century British Fine Art",
-   "slug" : "william_sidney_cooper_landscape-html",
-   "status" : "None",
-   "title" : "Landscape with Sheep",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/e1Q_gbR6X0c?rel=0"
+  "body": "William Sidney Cooper studied with his great-uncle Thomas Sidney Cooper at his School of Art in Canterbury (now he University College for the Creative Arts at Canterbury). Following in his great-uncle’s footsteps, the younger Cooper’s forte became cattle and sheep, which feature prominently in his watercolour and oil paintings. In 1890 Cooper moved to Herne Bay in Kent where he painted the surrounding pastoral countryside with its herds of cattle and flocks of sheep. Cooper was an avid golfer and enjoyed playing tennis and lawn bowls. A capable musician, he played at local events. He also apparently possessed architectural skills as he built a number of houses in Canterbury and the surrounding area of Alcroft Grange. Cooper exhibited at the Royal Academy, the Royal Society of British Artists, and the Royal Watercolour Society.\n\nHigh auction record for this artist is $33,760.",
+  "highResImageHeight": 2168,
+  "artist": "william_sidney_cooper-html",
+  "highResImageWidth": 3104,
+  "slug": "william_sidney_cooper_landscape-html",
+  "dimensions": "Oil on canvas, 19.25 x 29.25 inches/Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/e1Q_gbR6X0c?rel=0",
+  "mediumResImage": "/cms-uploads/sidney_cooper_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "William Sidney Cooper Painting - Landscape with Sheep - 19th Century British Fine Art",
+  "gridImage": "/cms-uploads/sidney_cooper_grid.jpg",
+  "mediumResImageWidth": 1588,
+  "mediumResImageHeight": 1109,
+  "metaDescription": "William Sidney Cooper studied with his great-uncle Thomas Sidney Cooper at his School of Art in Canterbury (now he University College for the Creative Arts at Canter",
+  "title": "Landscape with Sheep",
+  "galleryCropImage": "/cms-uploads/sidney_cooper_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape",
+    "Animal"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/sidney_cooper_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
