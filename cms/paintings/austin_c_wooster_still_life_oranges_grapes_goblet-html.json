@@ -1,40 +1,40 @@
 {
-   "artist" : "austin_c_wooster-html",
-   "body" : "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg).  His great-grandfather was a member of the Pennsylvania Militia during the Revolutionary War.  Although Wooster had natural artistic ability, his grand-parents, who raised him after the deaths of his parents, discouraged him from pursuing art, thinking of it as criminal and an insane fantasy.  Wooster persevered and eventually moved to Union Township (Greentree), Allegheny County, where he earned a living as an artist, painting portraits, landscapes, and still lifes.  Nothing is known of his art training; however, it appears that he was influenced by another Pittsburgh artistâA.F. King, who specialized in still lifes.  Other than serving with the Union Army, under General John J. Peck, during the Civil War, Wooster never strayed far from his Pittsburgh environs.  It has been reported, but not substantiated that Wooster had painted a portrait of General Peck.  Wooster began his career as a painter of river landscapes, but later focused on still lifes.  In addition to exhibiting at the Western Pennsylvania Exposition Society, Wooster sold paintings through Pittsburgh department stores. \n\nHigh auction record for this artist is $7,700.",
-   "categories" : [
-      "Still Life"
-   ],
-   "dimensions" : "Oil on canvas, 11.75 x 14.5 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/wooster_still_life_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/wooster_still_life_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/wooster_still_life_full.jpg",
-   "highResImageHeight" : 2796,
-   "highResImageWidth" : 3247,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/wooster_still_life_small.jpg",
-   "mediumResImageHeight" : 917,
-   "mediumResImageWidth" : 1066,
-   "metaDescription" : "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg).  Wooster began his career as a painter of river landscapes, but later foc",
-   "metaKeywords" : "",
-   "metaTitle" : "Austin C. Wooster - Still-life - Oranges, Grapes, and Goblet - 19th Century American Fine Art",
-   "slug" : "austin_c_wooster_still_life_oranges_grapes_goblet-html",
-   "status" : "None",
-   "title" : "Still-life—Oranges, Grapes and Goblet",
-   "youtubeEmbedLink" : ""
+  "body": "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg). His great-grandfather was a member of the Pennsylvania Militia during the Revolutionary War. Although Wooster had natural artistic ability, his grand-parents, who raised him after the deaths of his parents, discouraged him from pursuing art, thinking of it as criminal and an insane fantasy. Wooster persevered and eventually moved to Union Township (Greentree), Allegheny County, where he earned a living as an artist, painting portraits, landscapes, and still lifes. Nothing is known of his art training; however, it appears that he was influenced by another Pittsburgh artist—A.F. King, who specialized in still lifes. Other than serving with the Union Army, under General John J. Peck, during the Civil War, Wooster never strayed far from his Pittsburgh environs. It has been reported, but not substantiated that Wooster had painted a portrait of General Peck. Wooster began his career as a painter of river landscapes, but later focused on still lifes. In addition to exhibiting at the Western Pennsylvania Exposition Society, Wooster sold paintings through Pittsburgh department stores.\n\nHigh auction record for this artist is $7,700.",
+  "highResImageHeight": 2796,
+  "artist": "austin_c_wooster-html",
+  "highResImageWidth": 3247,
+  "slug": "austin_c_wooster_still_life_oranges_grapes_goblet-html",
+  "dimensions": "Oil on canvas, 11.75 x 14.5 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/wooster_still_life_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Austin C. Wooster - Still-life - Oranges, Grapes, and Goblet - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/wooster_still_life_grid.jpg",
+  "mediumResImageWidth": 1066,
+  "mediumResImageHeight": 917,
+  "metaDescription": "Austin C. Wooster was born in Chartiers Valley, Allegheny County, Pennsylvania (Thornburg).  Wooster began his career as a painter of river landscapes, but later foc",
+  "title": "Still-life—Oranges, Grapes and Goblet",
+  "galleryCropImage": "/cms-uploads/wooster_still_life_grid_gallery_crop.jpg",
+  "categories": [
+    "Still Life"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/wooster_still_life_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
