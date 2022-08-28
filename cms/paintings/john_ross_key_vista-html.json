@@ -1,37 +1,37 @@
 {
-   "artist" : "john_ross_key-html",
-   "body" : "Key was born in Hagerstown, Maryland, but was raised in Washington, D.C. by his famous grandfather, Francis Scott, who penned the lyrics to our national Anthem.  Key began his art career relatively lateâhe did not receive his formal training until 1873 when he traveled to Europe to study in Munich, Germany and Paris, France.  His early training (~1857 to 1865) was as a draftsman with the United States Coast Survey, the oldest scientific organization in the United States.  The Survey hired only the best scientists and naturalists and Key served with artists James McNeill Whistler and Gilbert Munge who made engravings of the features of the eastern United States seaboard.  His employment with the Survey brought him off the coastline of Charleston in 1863, South Carolina, where he witnessed and documented the siege of that city during the American Civil War.  Following the war, Key moved to New York City for a brief stay.  By 1867 he was in Baltimore, Maryland, and then in 1869 he was sent to California by Lois Prang (the Boston lithographer) to paint a series of landscapes that included the Golden Gate Bridge, Yosemite, the giant sequoia trees, and Lake Tahoe.  When Key returned from his studies abroad in 1875, he worked in Chicago, St. Louis, New York and Baltimore and finally in Boston, where he opened a studio.  Key moved to Washington, D.C. in 1908 and stayed there until 1917, at which point he moved to Baltimore until his death in 1920.  Key exhibited at the National Academy of Design, The Pennsylvania Academy of the Fine Arts, The Boston Athenaeum, Mechanics Institute (San Francisco), The Boston Art Club, Corcoran Gallery, and the Society of Independent Artists. ",
-   "categories" : [],
-   "dimensions" : "Oil on canvas, 12.5” x 23”/Signed lower right",
-   "featured" : false,
-   "gridImage" : "/cms-uploads/key_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/key_large.jpg",
-   "highResImageHeight" : 2232,
-   "highResImageWidth" : 3507,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively priced"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/key_small.jpg",
-   "mediumResImageHeight" : 1042,
-   "mediumResImageWidth" : 1638,
-   "metaDescription" : "Key was born in Hagerstown, Maryland, but was raised in Washington, D.C. by his famous grandfather, Francis Scott, who penned the lyrics to our national Anthem. Key",
-   "metaKeywords" : "",
-   "metaTitle" : "John Ross Key Painting - Lake Vista - 19th Century American Fine Art",
-   "slug" : "john_ross_key_vista-html",
-   "status" : "Sold",
-   "title" : "Lake Tahoe",
-   "youtubeEmbedLink" : ""
+  "body": "Key was born in Hagerstown, Maryland, but was raised in Washington, D.C. by his famous grandfather, Francis Scott, who penned the lyrics to our national Anthem. Key began his art career relatively late—he did not receive his formal training until 1873 when he traveled to Europe to study in Munich, Germany and Paris, France. His early training (~1857 to 1865) was as a draftsman with the United States Coast Survey, the oldest scientific organization in the United States. The Survey hired only the best scientists and naturalists and Key served with artists James McNeill Whistler and Gilbert Munge who made engravings of the features of the eastern United States seaboard. His employment with the Survey brought him off the coastline of Charleston in 1863, South Carolina, where he witnessed and documented the siege of that city during the American Civil War. Following the war, Key moved to New York City for a brief stay. By 1867 he was in Baltimore, Maryland, and then in 1869 he was sent to California by Lois Prang (the Boston lithographer) to paint a series of landscapes that included the Golden Gate Bridge, Yosemite, the giant sequoia trees, and Lake Tahoe. When Key returned from his studies abroad in 1875, he worked in Chicago, St. Louis, New York and Baltimore and finally in Boston, where he opened a studio. Key moved to Washington, D.C. in 1908 and stayed there until 1917, at which point he moved to Baltimore until his death in 1920. Key exhibited at the National Academy of Design, The Pennsylvania Academy of the Fine Arts, The Boston Athenaeum, Mechanics Institute (San Francisco), The Boston Art Club, Corcoran Gallery, and the Society of Independent Artists.",
+  "highResImageHeight": 2232,
+  "artist": "john_ross_key-html",
+  "highResImageWidth": 3507,
+  "slug": "john_ross_key_vista-html",
+  "dimensions": "Oil on canvas, 12.5” x 23”/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/key_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "John Ross Key Painting - Lake Vista - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/key_grid.jpg",
+  "mediumResImageWidth": 1638,
+  "mediumResImageHeight": 1042,
+  "metaDescription": "Key was born in Hagerstown, Maryland, but was raised in Washington, D.C. by his famous grandfather, Francis Scott, who penned the lyrics to our national Anthem. Key",
+  "title": "Lake Tahoe",
+  "categories": [],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/key_large.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively priced"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
