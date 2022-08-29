@@ -503,10 +503,10 @@
                     <li class="divider">/</li>
                     <li><nuxt-link :to="{ name: 'still-life-artwork' }">Still Life</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link :to="{ name: 'genre-artwork.html' }">Genre</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'genre-artwork' }">Genre</nuxt-link></li>
                     <li class="divider">/</li>
                     <li>
-                        <nuxt-link :to="{ name: 'historical-and-political-artwork.html' }"
+                        <nuxt-link :to="{ name: 'historical-and-political-artwork' }"
                             >American Historical / Political</nuxt-link
                         >
                     </li>
