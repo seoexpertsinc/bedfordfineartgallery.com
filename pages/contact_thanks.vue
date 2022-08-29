@@ -4,12 +4,12 @@
             <section class="wrapper clearfix">
                 <div class="flex">
                     <div>
-                        <nuxt-img
-                            class="art_detail"
+                    <nuxt-picture
                             src="gallery_thanks.jpg"
                             width="660"
                             height="792"
                             alt="The Lookout"
+                            :imgAttrs="{class:'art_detail_img'}"
                         />
                     </div>
                     <div class="mobile_1">
@@ -36,8 +36,8 @@
                         </span>
                     </div>
                     <div>
-                        <nuxt-img
-                            style="width: 100%; height: auto; border: 1px solid #9a9661; padding: 1px"
+                        <nuxt-picture
+                            :imgAttrs="{class:'art_detail_img'}"
                             src="Jerry-and-Joan-web.jpg"
                             width="1200"
                             height="1652"

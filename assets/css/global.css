@@ -2026,3 +2026,29 @@ width: 100%;
     width: 90%;
     margin: auto;
 }
+.bullet_list {
+    list-style-type: disc;
+    margin-left: 16px;
+    padding-bottom: 20px;
+    font-size: 1.1em;
+  }
+  .bullet_list li {
+    margin-bottom: 5px;
+  }
+
+  .art_detail_img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #9a9661;
+    padding: 1px;
+
+  }
+
+  @media screen and (max-width: 860px)
+  {
+  .art_detail_img {
+    max-width: 350px;
+    margin: 15px auto;
+    display: block;
+  }
+}
