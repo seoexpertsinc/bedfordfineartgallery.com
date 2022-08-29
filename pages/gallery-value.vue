@@ -11,9 +11,9 @@
 
                 <div class="lead_callout">
                     <p>
-                        <nuxt-img
+                        <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                             loading="lazy"
-                            style="width: 100%; height: auto; border: 1px solid #9a9661; padding: 1px"
                             src="/Jerry-and-Joan-web.jpg"
                             width="1200"
                             height="1652"

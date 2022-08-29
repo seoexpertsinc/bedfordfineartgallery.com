@@ -121,9 +121,9 @@
                     art - here are some of the kind words they had to say:
                 </h2>
 
-                <nuxt-img
+                <nuxt-picture
+                    :imgAttrs="{class:'star_img'}"
                     loading="lazy"
-                    style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
                     height="283"
@@ -143,9 +143,9 @@
                     >
                 </div>
 
-                <nuxt-img
+               <nuxt-picture
+                    :imgAttrs="{class:'star_img'}"
                     loading="lazy"
-                    style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
                     height="283"
@@ -169,9 +169,9 @@
                     >
                 </div>
 
-                <nuxt-img
+                <nuxt-picture
+                    :imgAttrs="{class:'star_img'}"
                     loading="lazy"
-                    style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
                     height="283"
@@ -194,9 +194,9 @@
                     >
                 </div>
 
-                <nuxt-img
+                <nuxt-picture
+                    :imgAttrs="{class:'star_img'}"
                     loading="lazy"
-                    style="width: 100%; height: auto; max-width: 150px; margin: auto; display: block; padding: 20px 0px"
                     src="star_reviews.png"
                     width="1566"
                     height="283"
@@ -366,14 +366,13 @@
 
                     <div class="artwork leadPhoto">
                         <nuxt-link to="Artists--Bios.html"
-                            ><nuxt-img
+                            ><nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                                 loading="lazy"
                                 class="art_detail"
                                 src="gallery_logo.jpg"
                                 width="798"
                                 height="515"
-                                alt="19th Centruy Art from Bedford Fine Art Gallery
-"
                         /></nuxt-link>
                     </div>
                     <div class="scroll_container scroller_show" style="margin-top: 46px">

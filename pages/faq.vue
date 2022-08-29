@@ -8,13 +8,14 @@
                 </div>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                    <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="poole_grid2.jpg"
                         width="392"
                         height="260"
                         alt="19th Century Fine Art Legacy"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+
                     />
                 </div>
                 <div class="highlights_prev">
@@ -48,14 +49,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                      <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="wall_grid.jpg"
                         width="392"
                         height="260"
-                        alt="The Perfect 19th Century Paintings for Your Home
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="The Perfect 19th Century Paintings for Your Home"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -87,14 +87,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="palmer_grid2.jpg"
                         width="392"
                         height="260"
-                        alt="Geology and Landscape Art in 19th Century America
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Geology and Landscape Art in 19th Century America"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -128,14 +127,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="kaelin_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Featured Artist - Harry Herman Roseland
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Featured Artist - Harry Herman Roseland"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -177,14 +175,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="jones_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Geology and Landscape Art in 19th Century America
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Geology and Landscape Art in 19th Century America"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -223,14 +220,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="hays12_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Location. Location. Location.
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Location. Location. Location."
                     />
                 </div>
                 <div class="highlights_prev">
@@ -264,14 +260,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="moser_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -304,14 +299,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="thieme_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -335,14 +329,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="marr_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -376,14 +369,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="crane_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -422,14 +414,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="mulhaupt_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -466,14 +457,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="linford_grid.jpg"
                         width="392"
                         height="260"
-                        alt="Bedford Fine Art Gallery
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="Bedford Fine Art Gallery"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -509,14 +499,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="black_grid.jpg"
                         width="392"
                         height="260"
-                        alt="How to Conserve, Restore, and Maintain 19th Century Paintings
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="How to Conserve, Restore, and Maintain 19th Century Paintings"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -548,14 +537,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="gruppe_grid.jpg"
                         width="392"
                         height="260"
-                        alt="FEATURED ARTIST – ALBERT FRANCIS KING
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="FEATURED ARTIST – ALBERT FRANCIS KING"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -592,14 +580,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="hgs_grid.jpg"
                         width="392"
                         height="260"
-                        alt="FEATURED ARTIST – JOHN HENTRY DOLPH
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="FEATURED ARTIST – JOHN HENTRY DOLPH"
                     />
                 </div>
                 <div class="highlights_prev">
@@ -695,14 +682,13 @@
                 ></span>
 
                 <div class="highlights_thumbnail">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="stanlaws_grid.jpg"
                         width="392"
                         height="260"
-                        alt="FEATURED ARTIST – JOHN HENTRY DOLPH
-"
-                        style="width: 100%; height: auto; border: 1px solid #222222"
+                        alt="FEATURED ARTIST – JOHN HENTRY DOLPH"
                     />
                 </div>
                 <div class="highlights_prev">
