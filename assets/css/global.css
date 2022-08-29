@@ -2052,3 +2052,30 @@ width: 100%;
     display: block;
   }
 }
+.dir_img{
+width: 100%;
+height: auto;
+margin-bottom: 1.4em;
+max-width: 300px;
+margin: auto
+}
+.star_img {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    margin: auto;
+    display: block;
+    padding: 20px 0px;
+}
+
+.wall_img {
+    width: 100%;
+    height: auto;
+    display: block;
+    vertical-align: top;
+    max-width: 480px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 12px;
+}

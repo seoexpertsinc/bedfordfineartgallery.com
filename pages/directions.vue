@@ -8,9 +8,9 @@
                     <span class="hr"></span>
                 </div>
                 <div class="col_40 artwork">
-                    <nuxt-img
+                     <nuxt-picture
+                        :imgAttrs="{class:'art_detail_img'}"
                         loading="lazy"
-                        class="art_detail"
                         src="bedford_art_gallery_int.jpg"
                         width="550"
                         height="798"
@@ -34,27 +34,25 @@
                         <p class="oblique" style="margin-bottom: 1em">
                             See our ads at the nearby Bedford Springs Resort.
                         </p>
-                        <nuxt-img
+                         <nuxt-picture
+                        :imgAttrs="{class:'dir_img'}"
                             loading="lazy"
                             src="bsr.jpg"
                             width="749"
                             height="423"
-                            style="width: 100%; height: auto; margin-bottom: 1.4em; max-width: 300px; margin: auto"
-                            alt="bedford springs resort
-"
+                            alt="bedford springs resort"
                         />
 
                         <p class="oblique" style="margin-bottom: 1em; margin-top: 1.5em">
                             See our display at the nearby Chanceller's House Bed and Breakfast.
                         </p>
-                        <nuxt-img
+                        <nuxt-picture
+                        :imgAttrs="{class:'dir_img'}"
                             loading="lazy"
                             src="chancellorshouse.jpg"
                             width="304"
                             height="224"
-                            style="width: 100%; height: auto; margin-bottom: 1.4em; max-width: 300px; margin: auto"
-                            alt="Chanceller's House Bed and Breakfast
-"
+                            alt="Chanceller's House Bed and Breakfast"
                         />
                     </div>
 
@@ -172,9 +170,9 @@
 
                     <h4>We accept:</h4>
 
-                    <nuxt-img
+                    <nuxt-picture
+                        :imgAttrs="{style:'margin-bottom: 12px',}"
                         loading="lazy"
-                        style="margin-bottom: 12px"
                         src="cc.png"
                         width="286"
                         height="44"

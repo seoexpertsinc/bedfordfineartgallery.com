@@ -17,8 +17,8 @@
                     </div>
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <nuxt-img
-                            class="img1x"
+                            <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_1.jpg"
@@ -26,8 +26,8 @@
                         height="559"
                         alt="Upload a photo of your room"
                     />
-                    <nuxt-img
-                            class="img2x"
+                     <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_23.jpg"
@@ -55,8 +55,8 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <nuxt-img
-                            class="img1x"
+                            <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_30.jpg"
@@ -64,8 +64,8 @@
                         height="896"
                         alt="Define the area on which you want the painting to be placed"
                     />
-                            <nuxt-img
-                            class="img2x"
+                            <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_25.jpg"
@@ -114,8 +114,8 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                            <nuxt-img
-                            class="img1x"
+                            <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_27.jpg"
@@ -123,8 +123,8 @@
                         height="896"
                         alt="preview artwork on the wall"
                     />
-                     <nuxt-img
-                            class="img2x"
+                      <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_28.jpg"
@@ -159,8 +159,8 @@
 
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
-                             <nuxt-img
-                            class="img1x"
+                             <nuxt-picture
+                        :imgAttrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_29.jpg"
@@ -168,7 +168,7 @@
                         height="896"
                         alt="preview artwork on the wall"
                     />
-                            
+
                         </div>
 
                         <div class="step_flex_content">
