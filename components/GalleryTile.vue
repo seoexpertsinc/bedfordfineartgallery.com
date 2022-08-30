@@ -4,7 +4,7 @@
             <span v-if="isSold" class="soldTag">sold</span>
 
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
-                <nuxt-img
+                <nuxt-picture
                     loading="lazy"
                     :src="galleryImage"
                     :alt="artistNameWithTinyDescription"
