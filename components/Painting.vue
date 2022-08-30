@@ -147,7 +147,7 @@
                     </div>
 
                     <!-- eslint-disable vue/no-v-html -->
-                    <div v-interpolation v-html="$md.render(painting.body)" />
+                    <div v-interpolation class="detail_content" v-html="$md.render(painting.body)" />
                     <!--eslint-enable-->
 
                     <div id="contact_anchor" class="more_info">
