@@ -2,7 +2,7 @@
     <div class="artist_wrap">
         <div class="artist_col_img">
             <nuxt-link :to="artistLink"
-                ><nuxt-img
+                ><nuxt-picture
 					loading="lazy"
                     :src="gridImage"
                     :alt="nameWithTinyDescription"
