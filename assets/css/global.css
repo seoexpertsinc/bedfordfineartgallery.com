@@ -2079,3 +2079,15 @@ margin: auto
     border-radius: 6px;
     margin-bottom: 12px;
 }
+.detail_content ul {
+    list-style: disc;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    margin-top: -16px;
+}
+.detail_content p {
+    margin-bottom: 0px;
+  }
+  .detail_content strong {
+  font-weight: bold;
+  }
