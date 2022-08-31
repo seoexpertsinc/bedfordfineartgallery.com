@@ -166,6 +166,7 @@
                         </p>
 
                         <ContactForm form-name="Contact" form-type="desktop" />
+                        <ContactForm form-name="Contact" form-type="mobile" />
                     </div>
 
                     <h4>We accept:</h4>
