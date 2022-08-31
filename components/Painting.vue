@@ -30,7 +30,7 @@
                     <template v-if="sold">
                         <div class="sold">
                             <span class="soldTag">sold</span>
-                            <nuxt-img
+                            <nuxt-picture
                                 loading="lazy"
                                 class="art_detail"
                                 :alt="artistNameWithTinyDescription"
