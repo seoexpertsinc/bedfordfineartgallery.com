@@ -165,7 +165,7 @@
                             We are on-site and available 7 days a week by appointment anytime.
                         </p>
 
-                        <ContactFormDesktop />
+                        <ContactForm form-name="Contact" form-type="desktop" />
                     </div>
 
                     <h4>We accept:</h4>

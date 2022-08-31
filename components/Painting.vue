@@ -173,10 +173,8 @@
                             >
                         </h3>
 
-                        <ContactFormDesktop />
-                        <ContactFormMobile />
-
-                        <!-- </form> -->
+                        <ContactForm form-name="Painting" form-type="desktop" :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" />
+                        <ContactForm form-name="Painting" form-type="mobile" :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" />
                     </div>
                 </div>
                 <div class="breadcrumb"><nuxt-link :to="{ name: 'artists-bios' }">Back to Gallery</nuxt-link></div>
