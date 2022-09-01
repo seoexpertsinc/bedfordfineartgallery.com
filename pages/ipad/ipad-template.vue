@@ -13,7 +13,7 @@
 
                 <div class="col_40 artwork">
                     <a id="btn" href="#"
-                        ><nuxt-img
+                        ><nuxt-picture
                             class="art_detail"
                             alt="Eugene Alonzo Poole (American 1841 – 1912)
 \"
