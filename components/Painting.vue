@@ -61,7 +61,7 @@
                             >
                         </div>
                         <ul
-                            v-if="painting.highlights.length > 0 && !sold"
+                            v-if="showHighlights"
                             class="checkmark"
                             style="width: 100%; max-width: 350px; margin: auto"
                         >
@@ -131,7 +131,7 @@
 
                 <div class="col_60 artwork_details">
                     <div class="desktop_cta">
-                        <ul v-if="painting.highlights.length > 0 && !sold" class="checkmark">
+                        <ul v-if="showHighlights" class="checkmark">
                             <li v-for="(highlight, index) in painting.highlights" :key="index">
                                 {{ highlight.highlight }}
                             </li>
@@ -218,6 +218,9 @@ export default {
         },
         artplacerHeight() {
             return this.showArtPlacer ? this.painting.paintingHeight : ''
+        },
+        showHighlights() {
+            return this.painting.highlights && this.painting.highlights.length > 0 && !this.sold
         }
     },
 }
