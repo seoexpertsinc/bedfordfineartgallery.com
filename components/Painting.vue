@@ -70,17 +70,17 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="breadcrumb view_on_wall" style="margin-top: 10px">
+                    <div v-if="showArtPlacer" class="breadcrumb view_on_wall" style="margin-top: 10px">
                         <artplacer
                             gallery="3188"
                             type="1"
                             text="VIEW THIS PAINTING ON YOUR WALL"
                             classname="btn_wall_view"
-                            artwork_url="https://www.bedfordfineartgallery.com/images/perspective_crop/fredericks_winter_full.jpg"
+                            :artwork_url="artworkUrl"
                             frames="false"
                             catalog="false"
-                            size="36 x 29.75"
-                            height="29.75"
+                            :size="artplacerSize"
+                            :height="artplacerHeight"
                         ></artplacer>
                     </div>
 
@@ -205,7 +205,20 @@ export default {
         },
 		sold() {
 			return this.painting.status === 'Sold'
-		}
+		},
+        artworkUrl() {
+            const origin = process.client && window.location.hostname !== 'localhost' ? window.location.origin : 'https://alpha.bedfordfineartgallery.com'
+            return origin + this.painting.highResImage
+        },
+        showArtPlacer() {
+            return this.painting.status !== 'Sold' && !this.painting.categories.includes('Sculpture')
+        },
+        artplacerSize() {
+            return this.showArtPlacer ? `${this.painting.paintingWidth} x ${this.painting.paintingHeight}` : ''
+        },
+        artplacerHeight() {
+            return this.showArtPlacer ? this.painting.paintingHeight : ''
+        }
     },
 }
 </script>
