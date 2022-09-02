@@ -12,6 +12,19 @@ import { urlSlugToSlug } from '~/libs/slug'
 import { loadPaintings } from '~/libs/paintings'
 
 export default {
+    head() {
+        const script =
+            this.type === 'painting'
+                ? [
+                      {
+                          src: '//widget.artplacer.com/js/script.js',
+                      },
+                  ]
+                : []
+        return {
+            script,
+        }
+    },
     components: { Highlight, ArtistBio, Painting },
     async asyncData({ $content, params, error }) {
         let object, type
