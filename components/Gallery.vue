@@ -11,23 +11,23 @@
                         </li>
                     </ul>
                 </div>
-                <input v-model="search_filter" type="text" class="form-control search-box" placeholder="Filter by Artist Name" />
+                <input v-model="filter" type="text" class="form-control search-box" placeholder="Filter by Artist Name" autocomplete="off" />
 
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <div
-                        v-if="featuredPaintings.length"
+                        v-if="filteredFeaturePaintings.length"
                         style="border: 4px solid #712621; padding: 10px 5px; margin-bottom: 20px"
                     >
                         <h2
-                            style="font-size: 24px; color: #fff; margin-bottom: 5px; padding-bottom: 20px"
                             id="featured"
+                            style="font-size: 24px; color: #fff; margin-bottom: 5px; padding-bottom: 20px"
                         >
                             FEATURED
                         </h2>
-                        <GalleryTile v-for="painting in featuredPaintings" :key="painting.slug" :painting="painting" />
+                        <GalleryTile v-for="painting in filteredFeaturePaintings" :key="painting.slug" :painting="painting" />
                     </div>
 
-                    <GalleryTile v-for="painting in paintings" :key="painting.slug" :painting="painting" />
+                    <GalleryTile v-for="painting in filteredPaintings" :key="painting.slug" :painting="painting" />
                 </ul>
 
                 <div
@@ -112,6 +112,15 @@
 
 <script>
 import YouTubeVideo from '~/components/YouTubeVideo'
+import { whitespaceEmpty } from '~/libs/empty'
+
+function filterPaintings (paintings, filter) {
+    if (whitespaceEmpty(filter)) {
+        return paintings
+    }
+
+    return paintings.filter(painting => painting.artist.name.toLowerCase().includes(filter.toLowerCase()))
+}
 
 export default {
     components: { YouTubeVideo },
@@ -145,6 +154,7 @@ export default {
     },
     data() {
         return {
+            filter: '',
             headerLinks: [
                 { routeName: 'artists-bios', name: 'All' },
                 { routeName: 'landscape-artwork', name: 'Landscape' },
@@ -158,6 +168,14 @@ export default {
                 { routeName: 'notable-sales', name: 'Recently Sold' },
             ],
         }
+    },
+    computed: {
+        filteredFeaturePaintings() {
+            return filterPaintings(this.featuredPaintings, this.filter)
+        },
+        filteredPaintings() {
+            return filterPaintings(this.paintings, this.filter)
+        },
     },
 }
 </script>

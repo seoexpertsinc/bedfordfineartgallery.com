@@ -1,41 +1,43 @@
 {
-  "body": "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle, Thomas Sidney Cooper, one of England's most prominent mid-19th century painters. As with his great-uncle, the younger Cooper’s forte was cattle and sheep, which are featured prominently in his watercolour and oil paintings. Cooper became a successful artist and exhibited at the Royal Academy, the Royal Society of British Artists, and the Royal Watercolour Society.\n\nHigh auction record for this artist is $33,760.",
-  "highResImageHeight": 701,
-  "artist": "william_sidney_cooper-html",
-  "highResImageWidth": 786,
-  "slug": "william_sidney_cooper_coast-html",
-  "dimensions": "Watercolor, 7.75 x 10.8 inches / Signed lower left",
-  "featured": false,
-  "metaKeywords": "",
-  "youtubeEmbedLink": "",
-  "mediumResImage": "/cms-uploads/img_4029_small.jpg",
-  "gridImageWidth": 392,
-  "status": "None",
-  "metaTitle": "William Sidney Cooper Painting - Sheep on the Coast - 19th Century British Fine Art",
-  "gridImage": "/cms-uploads/img_4029_grid.jpg",
-  "mediumResImageWidth": 783,
-  "mediumResImageHeight": 655,
-  "metaDescription": "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle",
-  "title": "Sheep on the Coast",
-  "galleryCropImage": "/cms-uploads/img_4029_grid_gallery_crop.jpg",
-  "categories": [
-    "Landscape",
-    "Animal"
-  ],
-  "gridImageHeight": 260,
-  "highResImage": "/cms-uploads/img_4029_original.jpg",
-  "highlights": [
-    {
-      "highlight": "Available for purchase"
-    },
-    {
-      "highlight": "Professionally conserved and framed"
-    },
-    {
-      "highlight": "Competitively priced"
-    },
-    {
-      "highlight": "Custom framing available"
-    }
-  ]
+   "artist" : "william_sidney_cooper-html",
+   "body" : "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle, Thomas Sidney Cooper, one of England's most prominent mid-19th century painters. As with his great-uncle, the younger Cooper’s forte was cattle and sheep, which are featured prominently in his watercolour and oil paintings. Cooper became a successful artist and exhibited at the Royal Academy, the Royal Society of British Artists, and the Royal Watercolour Society.\n\nHigh auction record for this artist is $33,760.",
+   "categories" : [
+      "Landscape",
+      "Animal"
+   ],
+   "dimensions" : "Watercolor, 7.75 x 10.8 inches / Signed lower left",
+   "featured" : false,
+   "galleryCropImage" : "/cms-uploads/img_4029_grid_gallery_crop.jpg",
+   "gridImage" : "/cms-uploads/img_4029_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
+   "highResImage" : "/cms-uploads/img_4029_original.jpg",
+   "highResImageHeight" : 701,
+   "highResImageWidth" : 786,
+   "highlights" : [
+      {
+         "highlight" : "Available for purchase"
+      },
+      {
+         "highlight" : "Professionally conserved and framed"
+      },
+      {
+         "highlight" : "Competitively priced"
+      },
+      {
+         "highlight" : "Custom framing available"
+      }
+   ],
+   "mediumResImage" : "/cms-uploads/img_4029_small.jpg",
+   "mediumResImageHeight" : 655,
+   "mediumResImageWidth" : 783,
+   "metaDescription" : "William Sidney Cooper was an English landscape artist, best known for his paintings of the countryside around Herne Bay in Kent. Cooper studied under his great-uncle",
+   "metaKeywords" : "",
+   "metaTitle" : "William Sidney Cooper Painting - Sheep on the Coast - 19th Century British Fine Art",
+   "paintingHeight" : "14.50",
+   "paintingWidth" : "17.50",
+   "slug" : "william_sidney_cooper_coast-html",
+   "status" : "None",
+   "title" : "Sheep on the Coast",
+   "youtubeEmbedLink" : ""
 }

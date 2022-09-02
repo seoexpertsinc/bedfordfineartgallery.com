@@ -1,40 +1,42 @@
 {
-  "body": "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman. He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada). Fox traveled to Europe to gain further artistic enlightenment. In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia. Fox became a successful commercial illustrator—commissioned by major calendar companies and art print publishers. His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers. His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets. He also painted Indians and Indian maidens and the \"Wild West\", although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt.\n\nHigh auction record for this artist is $9,200.",
-  "highResImageHeight": 3070,
-  "artist": "robert_atkinson_fox_artwork-html",
-  "highResImageWidth": 2377,
-  "slug": "robert_atkinson_fox_sunset-html",
-  "dimensions": "Oil on canvas, 29.75 x 21.75 inches/Signed lower right",
-  "featured": false,
-  "metaKeywords": "",
-  "youtubeEmbedLink": "https://www.youtube.com/embed/sicTMF-OOXw?rel=0",
-  "mediumResImage": "/cms-uploads/fox_sunset_small.jpg",
-  "gridImageWidth": 392,
-  "status": "None",
-  "metaTitle": "Robert Atkinson Fox Painting - Sunset in the High Mountains - 19th Century American Fine Art",
-  "gridImage": "/cms-uploads/fox_sunset_grid.jpg",
-  "mediumResImageWidth": 1046,
-  "mediumResImageHeight": 1351,
-  "metaDescription": "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman. He began his career painting portraits which included those of Grover Cleveland, (the 22nd",
-  "title": "Sunset in the High Mountains",
-  "galleryCropImage": "/cms-uploads/fox_sunset_grid_gallery_crop.jpg",
-  "categories": [
-    "Landscape"
-  ],
-  "gridImageHeight": 260,
-  "highResImage": "/cms-uploads/fox_sunset_full.jpg",
-  "highlights": [
-    {
-      "highlight": "Available for purchase"
-    },
-    {
-      "highlight": "Professionally conserved and framed"
-    },
-    {
-      "highlight": "Competitively priced"
-    },
-    {
-      "highlight": "Custom framing available"
-    }
-  ]
+   "artist" : "robert_atkinson_fox_artwork-html",
+   "body" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman. He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada). Fox traveled to Europe to gain further artistic enlightenment. In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia. Fox became a successful commercial illustrator—commissioned by major calendar companies and art print publishers. His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers. His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets. He also painted Indians and Indian maidens and the \"Wild West\", although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt.\n\nHigh auction record for this artist is $9,200.",
+   "categories" : [
+      "Landscape"
+   ],
+   "dimensions" : "Oil on canvas, 29.75 x 21.75 inches/Signed lower right",
+   "featured" : false,
+   "galleryCropImage" : "/cms-uploads/fox_sunset_grid_gallery_crop.jpg",
+   "gridImage" : "/cms-uploads/fox_sunset_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
+   "highResImage" : "/cms-uploads/fox_sunset_full.jpg",
+   "highResImageHeight" : 3070,
+   "highResImageWidth" : 2377,
+   "highlights" : [
+      {
+         "highlight" : "Available for purchase"
+      },
+      {
+         "highlight" : "Professionally conserved and framed"
+      },
+      {
+         "highlight" : "Competitively priced"
+      },
+      {
+         "highlight" : "Custom framing available"
+      }
+   ],
+   "mediumResImage" : "/cms-uploads/fox_sunset_small.jpg",
+   "mediumResImageHeight" : 1351,
+   "mediumResImageWidth" : 1046,
+   "metaDescription" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman. He began his career painting portraits which included those of Grover Cleveland, (the 22nd",
+   "metaKeywords" : "",
+   "metaTitle" : "Robert Atkinson Fox Painting - Sunset in the High Mountains - 19th Century American Fine Art",
+   "paintingHeight" : "34.75",
+   "paintingWidth" : "26.75",
+   "slug" : "robert_atkinson_fox_sunset-html",
+   "status" : "None",
+   "title" : "Sunset in the High Mountains",
+   "youtubeEmbedLink" : "https://www.youtube.com/embed/sicTMF-OOXw?rel=0"
 }
