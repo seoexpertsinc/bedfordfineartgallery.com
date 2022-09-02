@@ -1,38 +1,40 @@
 {
-  "body": "\"Tige\" Reynolds was born in Oskaloosa, Iowa and later moved to Sioux Falls, North Dakota with his parents.  At 17 he moved to California and became a train boy on the Southern Pacific Orange Belt line; soon realized that this was not his calling.  In high school in Sioux Falls, he had often been preoccupied with sketching war-bonneted Indians and caricatures of his teachers.  He began drawing in earnest when he landed a job as apprentice at a local newspaper office.  His career was launched, with a brief hiatus beginning in 1898, when the under-age Reynolds enlisted in 7th Infantry to fight in the Spanish American War.  After he married in 1903, he joined the Tacoma Ledger and it was there in 1911 that he created his iconic mascot, “Tige”.  Named for the Tacoma Tigers, the whimsical little cub graced almost every one of Reynolds’s cartoons.  So beloved was “Tige”, the public nick-named Reynolds “Tige”.  The little mascot followed Reynolds to each of the newspapers for which he later worked.  He became one of the leading cartoonists of the Northwest Coast and probably the best known independent cartoonist in the United States.  Reynolds’s good-humored cartoons were never mean or purposely offensive—he used humor to make a point, not to denigrate.  His artwork appeared in the Tacoma Ledger, The Oregonian, and The Province (Vancouver, British Columbia). ",
-  "highResImageHeight": 3131,
-  "artist": "edward_s_tige_reynolds_artwork-html",
-  "highResImageWidth": 2761,
-  "slug": "edward_s_reynolds_uncle_sam-html",
-  "dimensions": "Ink on paper, 19.5 x 16 inches / Signed lower left",
-  "featured": false,
-  "metaKeywords": "",
-  "youtubeEmbedLink": "",
-  "mediumResImage": "/cms-uploads/us_small.jpg",
-  "gridImageWidth": 392,
-  "status": "None",
-  "metaTitle": "Edward S. \"Tige\" Reynolds Painting - Uncle Sam - 19th Century American Fine Art",
-  "gridImage": "/cms-uploads/grid_us.jpg",
-  "mediumResImageWidth": 1147,
-  "mediumResImageHeight": 1301,
-  "metaDescription": null,
-  "title": "Uncle Sam",
-  "galleryCropImage": "/cms-uploads/grid_us_gallery_crop.jpg",
-  "categories": [],
-  "gridImageHeight": 260,
-  "highResImage": "/cms-uploads/us.jpg",
-  "highlights": [
-    {
-      "highlight": "Available for purchase"
-    },
-    {
-      "highlight": "Professionally conserved and framed"
-    },
-    {
-      "highlight": "Competitively priced"
-    },
-    {
-      "highlight": "Custom framing available"
-    }
-  ]
+   "artist" : "edward_s_tige_reynolds_artwork-html",
+   "body" : "\"Tige\" Reynolds was born in Oskaloosa, Iowa and later moved to Sioux Falls, North Dakota with his parents.  At 17 he moved to California and became a train boy on the Southern Pacific Orange Belt line; soon realized that this was not his calling.  In high school in Sioux Falls, he had often been preoccupied with sketching war-bonneted Indians and caricatures of his teachers.  He began drawing in earnest when he landed a job as apprentice at a local newspaper office.  His career was launched, with a brief hiatus beginning in 1898, when the under-age Reynolds enlisted in 7th Infantry to fight in the Spanish American War.  After he married in 1903, he joined the Tacoma Ledger and it was there in 1911 that he created his iconic mascot, “Tige”.  Named for the Tacoma Tigers, the whimsical little cub graced almost every one of Reynolds’s cartoons.  So beloved was “Tige”, the public nick-named Reynolds “Tige”.  The little mascot followed Reynolds to each of the newspapers for which he later worked.  He became one of the leading cartoonists of the Northwest Coast and probably the best known independent cartoonist in the United States.  Reynolds’s good-humored cartoons were never mean or purposely offensive—he used humor to make a point, not to denigrate.  His artwork appeared in the Tacoma Ledger, The Oregonian, and The Province (Vancouver, British Columbia). ",
+   "categories" : [],
+   "dimensions" : "Ink on paper, 19.5 x 16 inches / Signed lower left",
+   "featured" : false,
+   "galleryCropImage" : "/cms-uploads/grid_us_gallery_crop.jpg",
+   "gridImage" : "/cms-uploads/grid_us.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
+   "highResImage" : "/cms-uploads/us.jpg",
+   "highResImageHeight" : 3131,
+   "highResImageWidth" : 2761,
+   "highlights" : [
+      {
+         "highlight" : "Available for purchase"
+      },
+      {
+         "highlight" : "Professionally conserved and framed"
+      },
+      {
+         "highlight" : "Competitively priced"
+      },
+      {
+         "highlight" : "Custom framing available"
+      }
+   ],
+   "mediumResImage" : "/cms-uploads/us_small.jpg",
+   "mediumResImageHeight" : 1301,
+   "mediumResImageWidth" : 1147,
+   "metaDescription" : null,
+   "metaKeywords" : "",
+   "metaTitle" : "Edward S. \"Tige\" Reynolds Painting - Uncle Sam - 19th Century American Fine Art",
+   "paintingHeight" : "29.5",
+   "paintingWidth" : "25.5",
+   "slug" : "edward_s_reynolds_uncle_sam-html",
+   "status" : "None",
+   "title" : "Uncle Sam",
+   "youtubeEmbedLink" : ""
 }

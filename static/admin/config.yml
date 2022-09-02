@@ -101,6 +101,22 @@ collections:
                 required: false,
                 hint: 'This will show on the painting detail pages.'
             }
+          - {
+                label: 'Painting Width',
+                name: 'paintingWidth',
+                widget: 'number',
+                value_type: float,
+                required: false,
+                hint: 'This is used for the art wall placer',
+            }
+          - {
+                label: 'Painting Height',
+                name: 'paintingHeight',
+                widget: 'number',
+                value_type: float,
+                required: false,
+                hint: 'This is used for the art wall placer',
+            }
           - label: Highlights
             name: "highlights"
             widget: "list"
