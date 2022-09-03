@@ -200,6 +200,7 @@
 <script>
 import PaintingVisitsMixin from '~/mixins/PaintingVisitsMixin'
 import YouTubeVideo from '~/components/YouTubeVideo'
+import { artistNameWithTinyDescription } from '~/libs/artist'
 
 export default {
     components: { YouTubeVideo },
@@ -212,12 +213,7 @@ export default {
     },
     computed: {
         artistNameWithTinyDescription() {
-            let nameWithTinyDescription = this.painting.artist.name
-            if (this.painting.artist.tinyDescription) {
-                nameWithTinyDescription += ` (${this.painting.artist.tinyDescription})`
-            }
-
-            return nameWithTinyDescription
+            return artistNameWithTinyDescription(this.painting.artist)
         },
         sold() {
             return this.painting.status === 'Sold'
