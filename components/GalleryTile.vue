@@ -22,6 +22,8 @@
 </template>
 
 <script>
+import { artistNameWithTinyDescription } from '~/libs/artist'
+
 export default {
 	props: {
 		painting: {
@@ -31,12 +33,7 @@ export default {
 	},
 	computed: {
 		artistNameWithTinyDescription() {
-            let artistNameWithTinyDescription = this.painting.artist.name
-            if (this.painting.artist.tinyDescription) {
-                artistNameWithTinyDescription += ` (${this.painting.artist.tinyDescription})`
-            }
-
-            return artistNameWithTinyDescription
+            return artistNameWithTinyDescription(this.painting.artist)
         },
 		isNew() {
 			return this.painting.status === 'New'
