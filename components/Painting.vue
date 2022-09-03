@@ -1,7 +1,12 @@
 <template>
     <div>
         <div v-if="showModal">
-            <Modal :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" :medium-res-image="painting.mediumResImage || painting.highResImage"  @close="showModal = false" />
+            <Modal
+                :painting-title="painting.title"
+                :artist-name-with-tiny-description="artistNameWithTinyDescription"
+                :medium-res-image="painting.mediumResImage || painting.highResImage"
+                @close="showModal = false"
+            />
         </div>
 
         <div class="container primary">
@@ -63,11 +68,7 @@
                                 >Buy Painting / Contact Us</a
                             >
                         </div>
-                        <ul
-                            v-if="showHighlights"
-                            class="checkmark"
-                            style="width: 100%; max-width: 350px; margin: auto"
-                        >
+                        <ul v-if="showHighlights" class="checkmark" style="width: 100%; max-width: 350px; margin: auto">
                             <li v-for="(highlight, index) in painting.highlights" :key="index">
                                 {{ highlight.highlight }}
                             </li>
@@ -176,8 +177,18 @@
                             >
                         </h3>
 
-                        <ContactForm form-name="Painting" form-type="desktop" :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" />
-                        <ContactForm form-name="Painting" form-type="mobile" :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" />
+                        <ContactForm
+                            form-name="Painting"
+                            form-type="desktop"
+                            :painting-title="painting.title"
+                            :artist-name-with-tiny-description="artistNameWithTinyDescription"
+                        />
+                        <ContactForm
+                            form-name="Painting"
+                            form-type="mobile"
+                            :painting-title="painting.title"
+                            :artist-name-with-tiny-description="artistNameWithTinyDescription"
+                        />
                     </div>
                 </div>
                 <div class="breadcrumb"><nuxt-link :to="{ name: 'artists-bios' }">Back to Gallery</nuxt-link></div>
@@ -208,11 +219,14 @@ export default {
 
             return nameWithTinyDescription
         },
-		sold() {
-			return this.painting.status === 'Sold'
-		},
+        sold() {
+            return this.painting.status === 'Sold'
+        },
         artworkUrl() {
-            const origin = process.client && window.location.hostname !== 'localhost' ? window.location.origin : 'https://alpha.bedfordfineartgallery.com'
+            const origin =
+                process.client && window.location.hostname !== 'localhost'
+                    ? window.location.origin
+                    : 'https://alpha.bedfordfineartgallery.com'
             return origin + this.painting.highResImage
         },
         showArtPlacer() {
@@ -226,7 +240,7 @@ export default {
         },
         showHighlights() {
             return this.painting.highlights && this.painting.highlights.length > 0 && !this.sold
-        }
+        },
     },
 }
 </script>
