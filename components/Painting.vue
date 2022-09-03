@@ -1,6 +1,9 @@
 <template>
     <div>
-        <!-- <Modal /> -->
+        <div v-if="showModal">
+            <Modal :painting-title="painting.title" :artist-name-with-tiny-description="artistNameWithTinyDescription" :medium-res-image="painting.mediumResImage || painting.highResImage"  @close="showModal = false" />
+        </div>
+
         <div class="container primary">
             <section class="wrapper clearfix">
                 <div class="artwork_header">
@@ -184,10 +187,12 @@
 </template>
 
 <script>
+import PaintingVisitsMixin from '~/mixins/PaintingVisitsMixin'
 import YouTubeVideo from '~/components/YouTubeVideo'
 
 export default {
     components: { YouTubeVideo },
+    mixins: [PaintingVisitsMixin],
     props: {
         painting: {
             type: Object,
