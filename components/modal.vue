@@ -1,25 +1,40 @@
 <template>
     <div>
         <transition name="fade" appear>
-            <div v-if="showModal" class="modal-overlay" @click="showModal = false"></div>
+            <div class="modal-overlay" @click="$emit('close')"></div>
         </transition>
         <transition name="pop" appear>
-            <div v-if="showModal" class="modal" role="dialog">
+            <div class="modal" role="dialog">
                 <div style="position: relative">
                     <h2>Interested in this painting?</h2>
                     <div class="guide_info_popup">
-                        <nuxt-img
-                            class="art_detail"
-                            alt="Edward Moran
-"
-                            height="953"
-                            src="curnock_small.jpg"
-                            width="1396"
-                        />
+                        <nuxt-img class="art_detail" :alt="artistNameWithTinyDescription" :src="mediumResImage" />
                     </div>
+
                     <RemodalText />
-                    <RemodalForm />
-                    <button class="button button-x" @click="showModal = false">X</button>
+
+                    <form id="contactform" name="contactform" @submit.prevent="submit()">
+                        <input
+                            id="name"
+                            v-model="form.name"
+                            style="margin-bottom: 8px; margin-top: 15px"
+                            placeholder="Name"
+                            name="name"
+                            type="text"
+                            :disabled="isSubmitting"
+                        />
+                        <input id="email" v-model="form.email" style="margin-bottom: 8px" placeholder="Email" name="email" type="text" :disabled="isSubmitting" />
+                        <input id="phone" v-model="form.phone" placeholder="Phone" name="phone" type="text" :disabled="isSubmitting" />
+
+                        <span style="font-size: 12px; padding-top: 5px"
+                            >We will only use your email to reply to you. We respect your privacy.</span
+                        >
+                        <div class="buttons">
+                            <button class="submit">Send to Jerry &raquo;</button>
+                        </div>
+                    </form>
+
+                    <button class="button button-x" @click="$emit('close')">X</button>
                 </div>
             </div>
         </transition>
@@ -27,11 +42,57 @@
 </template>
 
 <script>
+import NextLeadMixin from '~/mixins/NextLeadMixin'
+
 export default {
+    mixins: [NextLeadMixin],
+    props: {
+        mediumResImage: {
+            type: String,
+            required: true,
+        },
+        paintingTitle: {
+            type: String,
+            required: false,
+            default: undefined,
+        },
+        artistNameWithTinyDescription: {
+            type: String,
+            required: false,
+            default: undefined,
+        },
+    },
     data() {
         return {
-            showModal: true,
+            formName: 'Modal',
+            submitStatus: null,
+            form: {
+                painting: this.paintingTitle,
+                artist: this.artistNameWithTinyDescription,
+                name: null,
+                phone: null,
+                email: null,
+            },
         }
+    },
+    computed: {
+        isSubmitting() {
+            return this.submitStatus === 'submitting'
+        },
+    },
+    methods: {
+        async submit() {
+            this.submitStatus = 'submitting'
+
+            try {
+                await this.submitToNextLead({})
+                this.$router.push({ name: 'contact_thanks' })
+            } catch (e) {
+                // eslint-disable-next-line no-console
+                console.log(e)
+                this.submitStatus = 'error'
+            }
+        },
     },
 }
 </script>
