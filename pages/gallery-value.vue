@@ -72,8 +72,7 @@
                     <YouTubeVideo link="https://www.youtube.com/embed/UlgTd5n_CEE?rel=0"/>
 
                     </div>
-                    <!--<img class="art_detail" src="images/gallery_logo.jpg" width="798" height="515" alt="Bedford Fine Art Gallery
-"/>-->
+                    <!--<nuxt-img class="art_detail" src="images/gallery_logo.jpg" width="798" height="515" alt="Bedford Fine Art Gallery "/>-->
 
                     <p class="oblique" style="margin-bottom: 1em; margin-top: 1em">
                         Take a virtual tour of our gallery
