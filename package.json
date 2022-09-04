@@ -6,7 +6,7 @@
         "dev": "nuxt",
         "build": "nuxt build",
         "start": "nuxt start",
-        "generate": "node update-image-width-height.mjs && nuxt generate && for f in dist/*.htm.html; do mv -- \"$f\" \"${f%.htm.html}.htm\"; done && for f in dist/*.html.html; do mv -- \"$f\" \"${f%.html.html}.html\"; done && for f in dist/ipad/*.html.html; do mv -- \"$f\" \"${f%.html.html}.html\"; done && cp _redirects dist/"
+        "generate": "node update-image-width-height.mjs && nuxt generate && for f in dist/*.htm.html; do mv -- \"$f\" \"${f%.htm.html}.htm\"; done && for f in dist/*.html.html; do mv -- \"$f\" \"${f%.html.html}.html\"; done && for f in dist/ipad/*.html.html; do mv -- \"$f\" \"${f%.html.html}.html\"; done"
     },
     "lint-staged": {
         "*.{js,vue}": "eslint --cache",
