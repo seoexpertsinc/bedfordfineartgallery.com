@@ -28,7 +28,6 @@
         "vue-picture-swipe": "^2.1.0",
         "vue-server-renderer": "^2.6.14",
         "vue-slick-carousel": "^1.0.6",
-        "vue-split-carousel": "^2.2.3",
         "vue-template-compiler": "^2.6.14",
         "webpack": "^4.46.0"
     },
