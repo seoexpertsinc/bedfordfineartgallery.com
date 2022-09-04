@@ -9,7 +9,7 @@
                 </div>
                 <div class="col_40 artwork">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="bedford_art_gallery_int.jpg"
                         width="550"
@@ -35,7 +35,7 @@
                             See our ads at the nearby Bedford Springs Resort.
                         </p>
                          <nuxt-picture
-                        :imgAttrs="{class:'dir_img'}"
+                            :img-attrs="{class:'dir_img'}"
                             loading="lazy"
                             src="bsr.jpg"
                             width="749"
@@ -47,7 +47,7 @@
                             See our display at the nearby Chanceller's House Bed and Breakfast.
                         </p>
                         <nuxt-picture
-                        :imgAttrs="{class:'dir_img'}"
+                            :img-attrs="{class:'dir_img'}"
                             loading="lazy"
                             src="chancellorshouse.jpg"
                             width="304"
@@ -109,7 +109,7 @@
 "
                         /></a>
                         <a href="https://www.tumblr.com/search/bedford fine art gallery" target="_blank" rel="nofollow"
-                            ><img
+                            ><nuxt-img
                                 class="social"
                                 style="max-width: 77px"
                                 src="images/tumblr.png"
@@ -172,7 +172,7 @@
                     <h4>We accept:</h4>
 
                     <nuxt-picture
-                        :imgAttrs="{style:'margin-bottom: 12px',}"
+                        :img-attrs="{style:'margin-bottom: 12px',}"
                         loading="lazy"
                         src="cc.png"
                         width="286"
@@ -249,10 +249,10 @@
                             target="_blank"
                             rel="nofollow"
                             style="color: #000000"
-                            ><img
+                            ><nuxt-img
                                 style="width: 100%; height: auto; max-width: 120px"
                                 class="social2"
-                                src="images/bcvb.png"
+                                src="/images/bcvb.png"
                                 width="220"
                                 height="100"
                                 alt=""

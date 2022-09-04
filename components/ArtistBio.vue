@@ -25,12 +25,12 @@
                         <div v-if="sold(painting)" class="sold">
                             <span class="soldTag">sold</span>
                             <nuxt-link :to="`/${painting.replace('-html', '.html')}`"
-                                ><img :src="artist.paintingToObj[painting].gridImage" :alt="nameWithTinyDescription" />
+                                ><nuxt-img :src="artist.paintingToObj[painting].gridImage" :alt="nameWithTinyDescription" />
                             </nuxt-link>
                         </div>
 						<template v-else>
                             <nuxt-link :to="`/${painting.replace('-html', '.html')}`"
-                                ><img :src="artist.paintingToObj[painting].gridImage" :alt="nameWithTinyDescription" />
+                                ><nuxt-img :src="artist.paintingToObj[painting].gridImage" :alt="nameWithTinyDescription" />
                             </nuxt-link>
 						</template>
                     </li>
