@@ -14,15 +14,23 @@
                         <YouTubeVideo :link="painting.youtubeEmbedLink" />
                     </template>
                     <template v-else>
-                        <p class="artist_bio">
-                            {{ painting.body }}
-                        </p>
+                        <!-- eslint-disable vue/no-v-html -->
+                        <div
+                            v-interpolation
+                            class="artist_bio detail_content"
+                            v-html="$md.render(painting.body)"
+                        />
+                        <!--eslint-enable-->
                     </template>
                 </div>
 
-                <p v-if="painting.youtubeEmbedLink" class="artist_bio">
-                    {{ painting.body }}
-                </p>
+                <div
+                    v-if="painting.youtubeEmbedLink"
+                    v-interpolation
+                    class="artist_bio detail_content"
+                    v-html="$md.render(painting.body)"
+                />
+                <!--eslint-enable-->
 
                 <div class="breadcrumb"><nuxt-link to="/ipad/">Back to Gallery</nuxt-link></div>
             </section>

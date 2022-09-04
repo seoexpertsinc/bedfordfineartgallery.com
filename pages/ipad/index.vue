@@ -25,7 +25,6 @@ import { loadGalleryPaintings } from '~/libs/paintings'
 export default {
     layout: 'ipad',
     async asyncData({ $content }) {
-
         return {
             paintings: await loadGalleryPaintings({ $content })
         }
