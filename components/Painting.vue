@@ -11,19 +11,7 @@
 
         <div class="container primary">
             <section class="wrapper clearfix">
-                <div class="artwork_header">
-                    <h1>
-                        <span class="artistTitle">{{ artistNameWithTinyDescription }}</span>
-                        <span v-if="painting.artist.alias" class="alias"
-                            >(&nbsp;&nbsp;aka&nbsp;&nbsp;{{ painting.artist.alias }}&nbsp;&nbsp;)</span
-                        >
-                        {{ painting.title }}
-                    </h1>
-
-                    <p v-if="painting.dimensions" class="dimensions">{{ painting.dimensions }}</p>
-
-                    <span class="hr"></span>
-                </div>
+                <PaintingHeader :painting="painting"/>
 
                 <div class="col_40 artwork">
                     <p class="mobile_phone_cta">
