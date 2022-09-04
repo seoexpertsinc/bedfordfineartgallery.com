@@ -74,10 +74,14 @@ export default {
             const { $content } = require('@nuxt/content')
 
             const paintings = await $content('paintings').only(['slug']).fetch()
+            const ipadPaintings = await $content('paintings').only(['slug']).fetch()
+            ipadPaintings.forEach((ipadPainting) => {
+                ipadPainting.slug = `/ipad/${ipadPainting.slug}`
+            })
             const artists = await $content('artists').where({ hasLandingPage: true }).only(['slug']).fetch()
             const articles = await $content('articles').only(['slug']).fetch()
 
-            return [...paintings, ...artists, ...articles].map((painting) => painting.slug.replace('-html', '.html'))
+            return [...paintings, ...ipadPaintings, ...artists, ...articles].map((painting) => painting.slug.replace('-html', '.html'))
         },
     },
 }
