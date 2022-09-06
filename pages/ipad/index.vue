@@ -42,6 +42,7 @@ export default {
 .secondary {
     background-color: #222;
 }
+
 </style>
 
 <router>

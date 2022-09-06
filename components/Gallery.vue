@@ -11,8 +11,13 @@
                         </li>
                     </ul>
                 </div>
+                <div class="flex">
+                    <div>
                 <input v-model="filter" type="text" class="form-control search-box" placeholder="Filter by Artist Name" autocomplete="off" />
+                    </div>
+                    <div class="txt_right">
 
+Please click photos for a COMPLETE image and description. </div></div>
                 <ul id="myUL" class="productGrid2" style="padding-top: 15px">
                     <div
                         v-if="filteredFeaturePaintings.length"
@@ -185,5 +190,30 @@ export default {
     background-image: none;
     background-repeat: repeat;
     background: #222;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    color: #fff;
+    padding-top: 1em;
+}
+.flex > * {
+    flex: 1;
+}
+.txt_right {
+    text-align: right;
+}
+@media only screen and (max-width:800px) {
+.flex {
+    flex-direction: column
+}
+.flex > * {
+    width: 100%;
+}
+.txt_right {
+    text-align: center;
+}
 }
 </style>
