@@ -1,7 +1,7 @@
 <template>
     <li>
         <div :class="{ sold: isSold }">
-            <span v-if="isSold" class="soldTag">sold</span>
+            <span v-if="isSoldOrHold" class="soldTag">{{ soldOrHoldText }}</span>
 
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
                 <nuxt-picture
@@ -38,9 +38,12 @@ export default {
 		isNew() {
 			return this.painting.status === 'New'
 		},
-        isSold() {
-			return this.painting.status === 'Sold'
+        isSoldOrHold() {
+			return ['Sold', 'Hold'].includes(this.painting.status)
 		},
+        soldOrHoldText() {
+			return this.painting.status === 'Sold' ? 'sold' : 'hold'
+        },
         galleryImage() {
             return this.painting.galleryCropImage || this.painting.gridImage || this.painting.mediumResImage || ''
         }
