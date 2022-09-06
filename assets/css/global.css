@@ -2139,3 +2139,11 @@ border-collapse: collapse;
     margin: auto;
   }
 }
+
+.home-lead-photo {
+    max-width: 175px;
+    margin: auto;
+    display: block;
+    width: 100%;
+    height: auto;
+}
