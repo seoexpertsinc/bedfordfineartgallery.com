@@ -11,7 +11,7 @@ export default ({ app }, inject) => {
         app.router,
     )
 
-    Vue.$gtag('set', {
+    Vue.$gtag.set({
         phone_conversion_number: '7244590612',
     })
 
