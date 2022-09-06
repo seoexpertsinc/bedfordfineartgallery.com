@@ -6,6 +6,7 @@ export default ({ app }, inject) => {
         VueGtag,
         {
             config: { id: 'UA-71843284-1' },
+            includes: [{ id: 'AW-927063623' }],
         },
         app.router,
     )
