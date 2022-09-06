@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container primary">
-            <section class="wrapper clearfix">
+            <section class="wrapper clearfix artist_title_container">
                 <PaintingHeader :painting="painting" />
 
                 <div class="col_40 artwork">

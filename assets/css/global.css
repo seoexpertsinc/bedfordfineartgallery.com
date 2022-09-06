@@ -2115,3 +2115,27 @@ margin: auto
 	margin:auto;
 	line-height:44px;
 }
+.highlights_prev table {
+border-collapse: collapse;
+        margin: 0px 0px 32px 0px;
+        font-size: 1em;
+        line-height: 1.8em;
+        border: 1px solid #B8AC8F;
+
+}
+.highlights_prev table td, .highlights_prev table th {
+    border-bottom: 1px solid #B8AC8F;
+    padding: 16px;
+    width: 50%;
+    border-left: 1px solid #B8AC8F;
+  }
+
+
+  @media screen and (max-width: 1060px) {
+.artist_title_container .artistTitle {
+    display: block;
+    padding-top: 0;
+    max-width: 400px;
+    margin: auto;
+  }
+}
