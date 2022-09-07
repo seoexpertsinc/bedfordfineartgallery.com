@@ -1,6 +1,6 @@
 <template>
     <li>
-        <div :class="{ sold: isSold }">
+        <div :class="{ sold: isSoldOrHold }">
             <span v-if="isSoldOrHold" class="soldTag">{{ soldOrHoldText }}</span>
 
             <nuxt-link :to="painting.slug.replace('-html', '.html')">
