@@ -13,6 +13,7 @@
                 />
                 <p class="artist_gallery_title">
                     <span v-if="isNew" class="gallery_new_label label">NEW</span>
+                    <span v-if="isHold" class="gallery_new_label label">HOLD</span>
                     {{ artistNameWithTinyDescription }}
                 </p>
                 <p class="artist_gallery_artwork">{{ painting.title }}</p>
@@ -37,6 +38,9 @@ export default {
         },
 		isNew() {
 			return this.painting.status === 'New'
+		},
+        isHold() {
+			return this.painting.status === 'Hold'
 		},
         isSoldOrHold() {
 			return ['Sold', 'Hold'].includes(this.painting.status)
