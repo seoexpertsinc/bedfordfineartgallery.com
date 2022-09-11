@@ -23,9 +23,9 @@
                             >724-459-0612</a
                         >
                     </p>
-                    <template v-if="isSoldOrHold">
+                    <template v-if="isSold">
                         <div class="sold">
-                            <span class="soldTag">{{ soldOrHoldText }}</span>
+                            <span class="soldTag">sold</span>
                             <nuxt-picture
                                 loading="lazy"
                                 class="art_detail"
@@ -44,12 +44,12 @@
                             <Zoom :mobile="true" :painting="painting" />
                         </div>
                     </template>
-                    <p v-if="!isSoldOrHold" class="zoom">Click image to zoom</p>
+                    <p v-if="!isSold" class="zoom">Click image to zoom</p>
 
                     <div class="mobile_cta">
                         <div class="breadcrumb" style="margin-top: 2px; text-align: center">
                             <a
-                                v-if="!isSoldOrHold"
+                                v-if="!isSold"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 class="mobile_buy_cta"
@@ -76,7 +76,7 @@
                         ></artplacer>
                     </div>
 
-                    <div v-if="!isSoldOrHold" style="width: 100%; max-width: 340px; margin: auto">
+                    <div v-if="!isSold" style="width: 100%; max-width: 340px; margin: auto">
                         <p style="text-align: left; padding-bottom: 10px; padding-top: 20px; font-weight: bold">
                             Click the button above, then 3 easy steps:
                         </p>
@@ -130,7 +130,7 @@
                         </ul>
                         <div class="breadcrumb" style="margin-top: 16px; text-align: left">
                             <a
-                                v-if="!isSoldOrHold"
+                                v-if="!isSold"
                                 href="#contact_anchor"
                                 style="display: inline-block; margin: 0 auto 24px auto; background-color: #2c57ac"
                                 >Buy Painting / Contact Us</a
@@ -203,12 +203,9 @@ export default {
         artistNameWithTinyDescription() {
             return artistNameWithTinyDescription(this.painting.artist)
         },
-        isSoldOrHold() {
-			return ['Sold', 'Hold'].includes(this.painting.status)
+        isSold() {
+			return this.painting.status === 'Sold'
 		},
-        soldOrHoldText() {
-			return this.painting.status === 'Sold' ? 'sold' : 'hold'
-        },
         artworkUrl() {
             const origin =
                 process.client && window.location.hostname !== 'localhost'
