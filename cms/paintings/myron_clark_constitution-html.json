@@ -1,25 +1,29 @@
 {
-  "body": "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution.  He worked in both oil and watercolor, painting mostly Massachusetts scenes; however, he made forays into Canada as recorded through his oil landscape of Mounts Skihist and Lilovet, which was painted north of Vancouver, British Columbia.  Many of his works are in the collection of the Peabody Museum in Salem, Massachusetts.",
-  "artist": "c_myron_clark_art-html",
-  "slug": "myron_clark_constitution-html",
-  "dimensions": "Oil on canvas board, 20 x 28 inches / Signed and dated lower left",
-  "featured": false,
-  "metaKeywords": "",
-  "youtubeEmbedLink": "",
-  "mediumResImage": "/cms-uploads/img_4363.jpg",
-  "gridImageWidth": 392,
-  "status": "Sold",
-  "metaTitle": "C. Myron Clark Painting - USS Constitution - 19th Century American Fine Art",
-  "gridImage": "/cms-uploads/img_4363_grid.jpg",
-  "mediumResImageWidth": 800,
-  "mediumResImageHeight": 617,
-  "metaDescription": "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution. He worked i",
-  "title": "USS Constitution",
-  "galleryCropImage": "/cms-uploads/img_4363_grid_new_gallery_crop.jpg",
-  "categories": [
-    "Marine"
-  ],
-  "gridImageHeight": 260,
-  "highResImage": "",
-  "highlights": []
+   "artist" : "c_myron_clark_art-html",
+   "body" : "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution.  He worked in both oil and watercolor, painting mostly Massachusetts scenes; however, he made forays into Canada as recorded through his oil landscape of Mounts Skihist and Lilovet, which was painted north of Vancouver, British Columbia.  Many of his works are in the collection of the Peabody Museum in Salem, Massachusetts.",
+   "categories" : [
+      "Marine"
+   ],
+   "dimensions" : "Oil on canvas board, 20 x 28 inches / Signed and dated lower left",
+   "featured" : false,
+   "galleryCropImage" : "/cms-uploads/img_4363_grid_new_gallery_crop.jpg",
+   "gridImage" : "/cms-uploads/img_4363_grid.jpg",
+   "gridImageHeight" : 260,
+   "gridImageWidth" : 392,
+   "highResImage" : "",
+   "highlights" : [
+      {
+         "highlight" : "Competitively Priced $6,500"
+      }
+   ],
+   "mediumResImage" : "/cms-uploads/img_4363.jpg",
+   "mediumResImageHeight" : 617,
+   "mediumResImageWidth" : 800,
+   "metaDescription" : "C. Myron Clark was a Massachusetts mountain landscapist, who also is known for his paintings of ships, the best-know of which is of the USS Constitution. He worked i",
+   "metaKeywords" : "",
+   "metaTitle" : "C. Myron Clark Painting - USS Constitution - 19th Century American Fine Art",
+   "slug" : "myron_clark_constitution-html",
+   "status" : "Sold",
+   "title" : "USS Constitution",
+   "youtubeEmbedLink" : ""
 }

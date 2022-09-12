@@ -13,7 +13,11 @@
    "highResImage" : "/cms-uploads/mulhaupt_full.jpg",
    "highResImageHeight" : 2226,
    "highResImageWidth" : 2820,
-   "highlights" : [],
+   "highlights" : [
+      {
+         "highlight" : "Competitively Priced $31,500"
+      }
+   ],
    "mediumResImage" : "/cms-uploads/mulhaupt_small.jpg",
    "mediumResImageHeight" : 1038,
    "mediumResImageWidth" : 1315,
