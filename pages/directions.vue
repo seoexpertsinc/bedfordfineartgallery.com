@@ -279,11 +279,6 @@
                             >
                         </p>
                         <p style="margin-top: 4px; margin-bottom: 0px">
-                            <a href="http://www.artworld.us/" target="_blank" style="color: #000000" rel="nofollow"
-                                >Art World</a
-                            >
-                        </p>
-                        <p style="margin-top: 4px; margin-bottom: 0px">
                             <a href="http://www.ushistory.org/" target="_blank" style="color: #000000" rel="nofollow"
                                 >ushistory.org</a
                             >
