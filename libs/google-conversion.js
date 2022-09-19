@@ -1,4 +1,3 @@
 export const googleConvert = ($gtag) => {
-    // TODO(adam): Get conversion ID.
-    // $gtag.event('conversion', { send_to: 'xxx' })
+    $gtag.event('conversion', { send_to: 'AW-927063623/eEQDCOWat6UBEMe8h7oD' })
 }
