@@ -22,8 +22,8 @@
                 </p>
                 <ul class="productGrid2" style="text-align: center">
                     <li v-for="(painting, index) in artist.paintings" :key="index">
-                        <div v-if="sold(painting)" class="sold">
-                            <span class="soldTag">sold</span>
+                        <div v-if="isSoldOrHold(painting)" class="sold">
+                            <span class="soldTag">{{ soldOrHoldText(painting) }}</span>
                             <nuxt-link :to="`/${painting.replace('-html', '.html')}`"
                                 ><nuxt-img :src="artist.paintingToObj[painting].gridImage" :alt="nameWithTinyDescription" />
                             </nuxt-link>
@@ -73,7 +73,7 @@
 
                 <span class="more bio_mobile" style="max-width: 860px; margin: auto; line-height: 28px">
 					{{ mobileBio }}
-                     &nbsp;&nbsp;<span @click="showFullMobileBio = !showFullMobileBio" class="morelink">{{ showFullMobileBio ? 'Less' : 'More' }}</span>
+                     &nbsp;&nbsp;<span class="morelink" @click="showFullMobileBio = !showFullMobileBio">{{ showFullMobileBio ? 'Less' : 'More' }}</span>
 					 </span>
                 <p
                     class="bio_mobile" style="font-weight: bold; max-width: 860px; margin: auto; line-height: 28px; padding-top: 16px"
@@ -128,9 +128,12 @@ export default {
 		}
     },
 	methods: {
-		sold(painting) {
-			return this.artist.paintingToObj[painting].status === 'Sold'
-		}
+        isSoldOrHold(painting) {
+			return ['Sold', 'Hold'].includes(this.artist.paintingToObj[painting].status)
+		},
+        soldOrHoldText(painting) {
+			return this.artist.paintingToObj[painting].status === 'Sold' ? 'sold' : 'hold'
+        },
 	},
 }
 </script>
