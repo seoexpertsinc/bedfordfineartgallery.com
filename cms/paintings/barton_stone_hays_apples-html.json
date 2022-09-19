@@ -1,40 +1,40 @@
 {
-   "artist" : "barton_stone_hays_art-html",
-   "body" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana “pioneers” (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe’s “Uncle Tom’s Cabin”, painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city’s leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  His still-life paintings are much sought-after and the Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays’ still-life paintings in the country. \n\nHigh auction record for this artist is $9,000.",
-   "categories" : [],
-   "dimensions" : "Oil on canvas, 13.75 x 19.75 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/bsh_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/bsh_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/barton_stone_hays_original.jpg",
-   "highResImageHeight" : 1649,
-   "highResImageWidth" : 2181,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $4,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/barton_stone_hays_small.jpg",
-   "mediumResImageHeight" : 832,
-   "mediumResImageWidth" : 1101,
-   "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
-   "metaKeywords" : "",
-   "metaTitle" : "Barton Stone Hays Painting - Apples on Plate and Tablecloth - 19th Century American Fine Art",
-   "paintingHeight" : "13.5",
-   "paintingWidth" : "18.5",
-   "slug" : "barton_stone_hays_apples-html",
-   "status" : "None",
-   "title" : "Apples on Plate and Tablecloth",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "18.5",
+  "body": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana “pioneers” (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe’s “Uncle Tom’s Cabin”, painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city’s leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  His still-life paintings are much sought-after and the Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays’ still-life paintings in the country. \n\nHigh auction record for this artist is $9,000.",
+  "highResImageHeight": 1649,
+  "artist": "barton_stone_hays_art-html",
+  "highResImageWidth": 2181,
+  "paintingHeight": "13.5",
+  "slug": "barton_stone_hays_apples-html",
+  "dimensions": "Oil on canvas, 13.75 x 19.75 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/barton_stone_hays_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "Barton Stone Hays Painting - Apples on Plate and Tablecloth - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/bsh_grid.jpg",
+  "mediumResImageWidth": 1101,
+  "mediumResImageHeight": 832,
+  "metaDescription": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
+  "title": "Apples on Plate and Tablecloth",
+  "galleryCropImage": "/cms-uploads/bsh_grid_gallery_crop.jpg",
+  "categories": [],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/barton_stone_hays_original.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $4,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
