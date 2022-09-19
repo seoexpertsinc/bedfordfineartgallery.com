@@ -1,42 +1,42 @@
 {
-   "artist" : "alfred_de_breanski_sr_artwork-html",
-   "body" : "Alfred De Breanski (a.k.a. Alfred de Branski, Alfred Breansky) was born in London, England and is best today known for his paintings of the rugged Welsh mountains and the isolated Scottish lochs.  He was a master at capturing natural textures—rocks and foliage, complemented by his exquisite treatment of light.  His attention to detail, however, does not disguise nor detract from his romantic approach to portraying the natural world of his time.  He first exhibited at the Royal Academy in 1872, and his landscape was purchased by the Bishop of Peterborough. He was firmly established as an artist by 1880, and began spending time in London where painted scenes of the Thames River.  De Breanski began exhibiting his Welsh landscapes at the Royal Cambrian Academy in Wales circa 1882.  De Breanski exhibited at the Royal Cambrian Academy; the Royal Society of British Artists; Royal Institute of Oil Painters; Royal Society of Artists (Birmingham); London art galleries Dudley, Grosvenor and Arthur Tooth & Sons; Walker Art Gallery (Liverpool); Manchester City Art Gallery; Royal Institute of Painters in Watercolor; and the Royal Hibernian Academy. \n\nHigh auction record for this artist is $85,170. ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 23.5 x 35.25 inches/Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/de_breanski_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/de_breanski_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/de_breanski_full.jpg",
-   "highResImageHeight" : 2739,
-   "highResImageWidth" : 3779,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $7,600"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/de_breanski_small.jpg",
-   "mediumResImageHeight" : 720,
-   "mediumResImageWidth" : 992,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "29.5",
-   "paintingWidth" : "41",
-   "slug" : "alfred_de_breanski_swans-html",
-   "status" : "None",
-   "title" : "Swans on the Thames",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/znaeB4HIxaI?rel=0"
+  "paintingWidth": "41",
+  "body": "Alfred De Breanski (a.k.a. Alfred de Branski, Alfred Breansky) was born in London, England and is best today known for his paintings of the rugged Welsh mountains and the isolated Scottish lochs.  He was a master at capturing natural textures—rocks and foliage, complemented by his exquisite treatment of light.  His attention to detail, however, does not disguise nor detract from his romantic approach to portraying the natural world of his time.  He first exhibited at the Royal Academy in 1872, and his landscape was purchased by the Bishop of Peterborough. He was firmly established as an artist by 1880, and began spending time in London where painted scenes of the Thames River.  De Breanski began exhibiting his Welsh landscapes at the Royal Cambrian Academy in Wales circa 1882.  De Breanski exhibited at the Royal Cambrian Academy; the Royal Society of British Artists; Royal Institute of Oil Painters; Royal Society of Artists (Birmingham); London art galleries Dudley, Grosvenor and Arthur Tooth & Sons; Walker Art Gallery (Liverpool); Manchester City Art Gallery; Royal Institute of Painters in Watercolor; and the Royal Hibernian Academy. \n\nHigh auction record for this artist is $85,170. ",
+  "highResImageHeight": 2739,
+  "artist": "alfred_de_breanski_sr_artwork-html",
+  "highResImageWidth": 3779,
+  "paintingHeight": "29.5",
+  "slug": "alfred_de_breanski_swans-html",
+  "dimensions": "Oil on canvas, 23.5 x 35.25 inches/Signed lower left",
+  "featured": true,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/znaeB4HIxaI?rel=0",
+  "mediumResImage": "/cms-uploads/de_breanski_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/de_breanski_grid.jpg",
+  "mediumResImageWidth": 992,
+  "mediumResImageHeight": 720,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "title": "Swans on the Thames",
+  "galleryCropImage": "/cms-uploads/de_breanski_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/de_breanski_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $7,600"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
