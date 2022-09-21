@@ -1,42 +1,43 @@
 {
-   "artist" : "william_ruthven_wheeler_artwork-html",
-   "body" : "BOTH WHEELER PAINTINGS SOLD AS A PAIRWheeler was born in Scio, Michigan and in his teens took his first art lessons with an itinerant miniature portrait painter and with portraitist Alvah Bradish in Detroit while in his twenties.  In 1862 he moved to Hartford, Connecticut where he set up his studio and was to become one of Hartford’s popular portrait painters.  Wheeler also maintained a summer home at Twin Lakes in Salisbury, Litchfield County, Connecticut.  Although primarily known for his portraits, Wheeler had begun painting landscapes circa the mid-1860s, and the subjects of his portraits were often placed against the backdrop of a beautifully detailed Landscape.  His landscape paintings featured the local Connecticut scenery of Farmington, and Bloomfield, flanked by the Talcott Mountain, and the White Mountains of New Hampshire.  In 1872 he exhibited a painting of Mount Washington, in the Prudential Range of the White Mountains, at the Hartford Art Association (later the Connecticut School of Design).  Wheeler was a vice president of the Hartford Art Association and an officer of the Connecticut School of Design.  He exhibited at the Boston Athenaeum (1859); Hartford Art Association (1872); and the Detroit Art Association (1876). \n\nNote: These paintings were painted for the purpose of using arched frames.  If the frames were to be removed, you would find that the painting itself  is not rectangular but arched. ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 17.25 x 11.25 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/wheeler_fisherman_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/wheeler_fisherman_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/wheeler_fisherman_full.jpg",
-   "highResImageHeight" : 2409,
-   "highResImageWidth" : 1796,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $12,000"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/wheeler_fisherman_small.jpg",
-   "mediumResImageHeight" : 1325,
-   "mediumResImageWidth" : 988,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "23",
-   "paintingWidth" : "17",
-   "slug" : "william_ruthven_wheeler_fisherman-html",
-   "status" : "None",
-   "title" : "Fearless Fisherman",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/PPGF5R6DS8c?rel=0"
+  "paintingWidth": "17",
+  "body": "BOTH WHEELER PAINTINGS SOLD AS A PAIRWheeler was born in Scio, Michigan and in his teens took his first art lessons with an itinerant miniature portrait painter and with portraitist Alvah Bradish in Detroit while in his twenties.  In 1862 he moved to Hartford, Connecticut where he set up his studio and was to become one of Hartford’s popular portrait painters.  Wheeler also maintained a summer home at Twin Lakes in Salisbury, Litchfield County, Connecticut.  Although primarily known for his portraits, Wheeler had begun painting landscapes circa the mid-1860s, and the subjects of his portraits were often placed against the backdrop of a beautifully detailed Landscape.  His landscape paintings featured the local Connecticut scenery of Farmington, and Bloomfield, flanked by the Talcott Mountain, and the White Mountains of New Hampshire.  In 1872 he exhibited a painting of Mount Washington, in the Prudential Range of the White Mountains, at the Hartford Art Association (later the Connecticut School of Design).  Wheeler was a vice president of the Hartford Art Association and an officer of the Connecticut School of Design.  He exhibited at the Boston Athenaeum (1859); Hartford Art Association (1872); and the Detroit Art Association (1876). \n\nNote: These paintings were painted for the purpose of using arched frames.  If the frames were to be removed, you would find that the painting itself  is not rectangular but arched. ",
+  "highResImageHeight": 2409,
+  "artist": "william_ruthven_wheeler_artwork-html",
+  "highResImageWidth": 1796,
+  "paintingHeight": "23",
+  "slug": "william_ruthven_wheeler_fisherman-html",
+  "dimensions": "Oil on canvas, 17.25 x 11.25 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/PPGF5R6DS8c?rel=0",
+  "mediumResImage": "/cms-uploads/wheeler_fisherman_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/wheeler_fisherman_grid.jpg",
+  "mediumResImageWidth": 988,
+  "mediumResImageHeight": 1325,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "title": "Fearless Fisherman",
+  "galleryCropImage": "/cms-uploads/wheeler_fisherman_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/wheeler_fisherman_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $12,000",
+      "pairedPainting": "william_ruthven_wheeler_rocky_outcrop-html"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
