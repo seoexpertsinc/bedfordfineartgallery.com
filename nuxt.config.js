@@ -80,8 +80,9 @@ export default {
             })
             const artists = await $content('artists').where({ hasLandingPage: true }).only(['slug']).fetch()
             const articles = await $content('articles').only(['slug']).fetch()
+            const artLoversNicheArticles = await $content('artLoversNicheArticles').only(['slug']).fetch()
 
-            return [...paintings, ...ipadPaintings, ...artists, ...articles].map((painting) => painting.slug.replace('-html', '.html'))
+            return [...paintings, ...ipadPaintings, ...artists, ...articles, ...artLoversNicheArticles].map((painting) => painting.slug.replace('-html', '.html'))
         },
     },
 }
