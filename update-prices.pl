@@ -32,10 +32,10 @@ sub main($price_csv) {
         my $painting_from_json = slurp_json $file;
 
         my $highlights = $painting_from_json->{highlights} ||= [];
-        my $competitively_priced_index = first { $highlights->[$_]{highlight} =~ /Competitively priced/i } 0..$highlights->@* - 1;
+        my $competitively_priced_index = first { $highlights->[$_]{highlight} =~ /Competitively Priced/i } 0..$highlights->@* - 1;
         my $new_competitively_priced = { highlight => "Competitively Priced $price" };
         if ($competitively_priced_index) {
-            if ($highlights->[$competitively_priced_index]{highlight} ne 'Competitively priced') {
+            if ($highlights->[$competitively_priced_index]{highlight} ne 'Competitively Priced') {
                 say qq{Existing competitively priced: '$highlights->[$competitively_priced_index]{highlight}' on line $index: $file};
                 say qq{Accept new one? '$new_competitively_priced->{highlight} (y/n)'};
                 chomp(my $answer = <STDIN>);
