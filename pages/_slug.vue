@@ -31,6 +31,18 @@ export default {
         try {
             try {
                 object = await $content('paintings', urlSlugToSlug(params.slug)).fetch()
+                object.highlights = object.highlights || []
+
+                for (let i = 0; i < object.highlights.length; i++) {
+                    if (object.highlights[i].pairedPainting) {
+                        const pairedPainting = await $content('paintings', object.highlights[i].pairedPainting).only(['title']).fetch()
+                        object.highlights[i].pairedPainting = {
+                            slug: object.highlights[i].pairedPainting,
+                            title: pairedPainting.title,
+                        }
+                    }
+                }
+
                 object.artist = await $content('artists', object.artist).only(['name', 'tinyDescription', 'slug', 'alias', 'hasLandingPage']).fetch()
                 type = 'painting'
             } catch (e) {}

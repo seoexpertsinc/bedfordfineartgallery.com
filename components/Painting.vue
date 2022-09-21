@@ -59,6 +59,9 @@
                         <ul v-if="showHighlights" class="checkmark" style="width: 100%; max-width: 350px; margin: auto">
                             <li v-for="(highlight, index) in painting.highlights" :key="index">
                                 {{ highlight.highlight }}
+                                <template v-if="highlight.pairedPainting">
+                                    (sold as a pair with <nuxt-link :to="highlight.pairedPainting.slug.replace('-html', '.html')">{{ highlight.pairedPainting.title }}</nuxt-link>)
+                                </template>
                             </li>
                         </ul>
                     </div>
@@ -126,6 +129,9 @@
                         <ul v-if="showHighlights" class="checkmark">
                             <li v-for="(highlight, index) in painting.highlights" :key="index">
                                 {{ highlight.highlight }}
+                                <template v-if="highlight.pairedPainting">
+                                    (sold as a pair with <nuxt-link :to="highlight.pairedPainting.slug.replace('-html', '.html')">{{ highlight.pairedPainting.title }}</nuxt-link>)
+                                </template>
                             </li>
                         </ul>
                         <div class="breadcrumb" style="margin-top: 16px; text-align: left">

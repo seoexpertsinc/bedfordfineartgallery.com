@@ -13,7 +13,7 @@ collections:
       label: 'Artists'
       label_singular: Artist
       editor:
-          preview: true
+          preview: false
       format: 'json'
       folder: 'cms/artists'
       create: true
@@ -61,7 +61,7 @@ collections:
       label: 'Paintings'
       label_singular: Painting
       editor:
-          preview: true
+          preview: false
       format: 'json'
       folder: 'cms/paintings'
       create: true
@@ -123,6 +123,18 @@ collections:
             summary: '{{fields.highlight}}'
             fields:
                 - {label: Text, name: highlight, widget: string }
+                - {
+                    label: 'Paired Painting',
+                    name: pairedPainting,
+                    widget: relation,
+                    multiple: false,
+                    required: false,
+                    collection: paintings,
+                    hint: 'Painting that is sold as a pair with this one',
+                    search_fields: ['title', 'tinyDescription'],
+                    display_fields: ['title', 'tinyDescription'],
+                    value_field: 'slug',
+                  }
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {
                 label: 'Artist',
@@ -183,7 +195,7 @@ collections:
       label: 'Articles'
       label_singular: Article
       editor:
-          preview: true
+          preview: false
       format: 'json'
       folder: 'cms/articles'
       create: true
@@ -224,6 +236,53 @@ collections:
             fields:
                 - { label: 'Text', name: 'text', widget: 'string' }
                 - { label: 'Link', name: 'link', widget: 'string' }
+          - { label: 'Slug', name: 'slug', widget: 'string' }
+          - {
+                label: 'Meta Title',
+                name: 'metaTitle',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to the title of the post',
+            }
+          - {
+                label: 'Meta Description',
+                name: 'metaDescription',
+                widget: 'text',
+                required: false,
+                hint: 'This will default to a preview from the post (about the first 250 characters)',
+            }
+          - {
+                label: 'Meta Keywords',
+                name: 'metaKeywords',
+                widget: 'text',
+                required: false,
+                hint: 'The keywords for this painting separated by commas',
+            }
+    - name: 'artLoversNicheArticles'
+      label: 'Art Lovers Niche Articles'
+      label_singular: Art Lovers Niche Article
+      editor:
+          preview: false
+      format: 'json'
+      folder: 'cms/artLoversNicheArticles'
+      create: true
+      slug: '{{fields.slug}}'
+      fields:
+          - {
+                label: 'Publish Date',
+                name: 'date',
+                widget: 'datetime',
+                required: false,
+                date_format: 'MM/DD/YYYY',
+                time_format: false,
+            }
+          - {
+                label: 'Preview',
+                name: 'preview',
+                widget: 'text',
+                hint: 'This will show on the highlights list page'
+            }
+          - { label: 'Body', name: 'body', widget: 'text' }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {
                 label: 'Meta Title',
