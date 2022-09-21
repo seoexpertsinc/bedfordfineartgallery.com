@@ -2,30 +2,19 @@
     <Painting v-if="type === 'painting'" :painting="object" />
     <Highlight v-else-if="type === 'highlight'" :highlight="object" />
     <ArtistBio v-else-if="type === 'artist'" :artist="object" />
+    <ArtLoversNicheArticle v-else-if="type === 'artLoversNicheArticle'" :art-lovers-niche-article="object" />
 </template>
 
 <script>
 import Highlight from '~/components/Highlight'
+import ArtLoversNicheArticle from '~/components/ArtLoversNicheArticle'
 import ArtistBio from '~/components/ArtistBio'
 import Painting from '~/components/Painting'
 import { urlSlugToSlug } from '~/libs/slug'
 import { loadPaintings } from '~/libs/paintings'
 
 export default {
-    head() {
-        const script =
-            this.type === 'painting'
-                ? [
-                      {
-                          src: '//widget.artplacer.com/js/script.js',
-                      },
-                  ]
-                : []
-        return {
-            script,
-        }
-    },
-    components: { Highlight, ArtistBio, Painting },
+    components: { Highlight, ArtLoversNicheArticle, ArtistBio, Painting },
     async asyncData({ $content, params, error }) {
         let object, type
         try {
@@ -67,6 +56,13 @@ export default {
             }
 
             if (!object) {
+                try {
+                    object = await $content('artLoversNicheArticles', urlSlugToSlug(params.slug)).fetch()
+                    type = 'artLoversNicheArticle'
+                } catch (e) {}
+            }
+
+            if (!object) {
                 throw new Error('unknown page')
             }
         } catch (e) {
@@ -74,6 +70,19 @@ export default {
         }
 
         return { object, type }
+    },
+    head() {
+        const script =
+            this.type === 'painting'
+                ? [
+                      {
+                          src: '//widget.artplacer.com/js/script.js',
+                      },
+                  ]
+                : []
+        return {
+            script,
+        }
     },
 }
 </script>

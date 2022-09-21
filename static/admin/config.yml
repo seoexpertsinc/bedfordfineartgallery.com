@@ -276,12 +276,6 @@ collections:
                 date_format: 'MM/DD/YYYY',
                 time_format: false,
             }
-          - {
-                label: 'Preview',
-                name: 'preview',
-                widget: 'text',
-                hint: 'This will show on the highlights list page'
-            }
           - { label: 'Body', name: 'body', widget: 'text' }
           - { label: 'Slug', name: 'slug', widget: 'string' }
           - {

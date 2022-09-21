@@ -9,7 +9,9 @@
 
                 <HighlightPreview v-for="(highlight, index) in highlights" :key="index" :highlight="highlight"/>
 
-                <ArtLoversNicheArticles/>
+                <nuxt-img loading="lazy" src="/images/Top-Banner.jpg" alt="Art Lovers' Niche" style="width: 100%; height:auto; max-width:660px; margin:auto; display:block;"></nuxt-img>
+
+                <ArtLoversNicheArticlePreview v-for="(artLoversNicheArticle, index) in artLoversNicheArticles" :key="index" :art-lovers-niche-article="artLoversNicheArticle" />
             </section>
         </div>
         <div
@@ -24,14 +26,15 @@
 </template>
 
 <script>
-import ArtLoversNicheArticles from '~/components/ArtLoversNicheArticles';
+import ArtLoversNicheArticlePreview from '~/components/ArtLoversNicheArticlePreview';
 import HighlightPreview from '~/components/HighlightPreview.vue'
 
 export default {
-    components: { ArtLoversNicheArticles, HighlightPreview },
+    components: { ArtLoversNicheArticlePreview, HighlightPreview },
     async asyncData({ $content }) {
         return {
-            highlights: await $content("articles").sortBy("date", "desc").fetch()
+            highlights: await $content("articles").sortBy('date', 'desc').fetch(),
+            artLoversNicheArticles: await $content("artLoversNicheArticles").sortBy('date', 'desc').fetch()
         };
     },
 }
