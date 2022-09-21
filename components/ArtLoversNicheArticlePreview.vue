@@ -11,9 +11,9 @@
             /></nuxt-link>
         </div>
         <div class="highlights_prev">
-            <h2>{{ artLoversNicheArticle.title }}</h2>
+            <h2>Art Lovers' Niche - {{ date }}</h2>
             <p>
-				{{ getPostPreview(artLoversNicheArticle.body) }}
+				{{ getPostPreview(artLoversNicheArticle.body).replace(/\&nbsp;/g, ' ') }}
             </p>
 
             <p><nuxt-link :to="artLoversNicheArticle.slug.replace('-html', '.html')" class="readmore">Read More</nuxt-link></p>
@@ -26,6 +26,7 @@
 </template>
 
 <script>
+import { formatDateNoTime } from '~/libs/format-date'
 import { getPostPreview } from '~/libs/post'
 
 export default {
@@ -36,5 +37,10 @@ export default {
         }
     },
 	methods: { getPostPreview },
+    computed: {
+        date() {
+            return formatDateNoTime(this.artLoversNicheArticle.date)
+        },
+    },
 }
 </script>
