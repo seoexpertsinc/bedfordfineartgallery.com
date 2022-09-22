@@ -1,43 +1,44 @@
 {
-   "artist" : "barton_stone_hays_art-html",
-   "body" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana “pioneers” (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe’s “Uncle Tom’s Cabin”, painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city’s leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  This landscape painting is likewise uncluttered--a charming painting of horses and ducks.  The Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays’ paintings in the country.\n\nHigh auction record for this artist is $9,000.",
-   "categories" : [
-      "Landscape",
-      "Animal"
-   ],
-   "dimensions" : "Oil on canvas, 21.5 x 26.25 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/barton_stone_hays_art_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/barton_stone_hays_art_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/barton_stone_hays_full.jpg",
-   "highResImageHeight" : 2295,
-   "highResImageWidth" : 2722,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $3,000"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/barton_stone_hays_mobile.jpg",
-   "mediumResImageHeight" : 1113,
-   "mediumResImageWidth" : 1320,
-   "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
-   "metaKeywords" : "",
-   "metaTitle" : "Barton Stone Hays Painting - Tender Moments - 19th Century American Fine Art",
-   "paintingHeight" : "24",
-   "paintingWidth" : "29.5",
-   "slug" : "barton_stone_hays_moment-html",
-   "status" : "None",
-   "title" : "Tender Moments",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/PfZblrnHMU8?rel=0"
+  "paintingWidth": "29.5",
+  "body": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana “pioneers” (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe’s “Uncle Tom’s Cabin”, painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city’s leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  This landscape painting is likewise uncluttered--a charming painting of horses and ducks.  The Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays’ paintings in the country.\n\nHigh auction record for this artist is $9,000.",
+  "highResImageHeight": 2295,
+  "artist": "barton_stone_hays_art-html",
+  "highResImageWidth": 2722,
+  "paintingHeight": "24",
+  "slug": "barton_stone_hays_moment-html",
+  "dimensions": "Oil on canvas, 21.5 x 26.25 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/PfZblrnHMU8?rel=0",
+  "mediumResImage": "/cms-uploads/barton_stone_hays_mobile.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "Barton Stone Hays Painting - Tender Moments - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/barton_stone_hays_art_grid.jpg",
+  "mediumResImageWidth": 1320,
+  "mediumResImageHeight": 1113,
+  "metaDescription": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
+  "scrollingHomepageImage": false,
+  "title": "Tender Moments",
+  "galleryCropImage": "/cms-uploads/barton_stone_hays_art_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape",
+    "Animal"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/barton_stone_hays_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $3,000"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
