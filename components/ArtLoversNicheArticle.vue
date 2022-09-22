@@ -5,7 +5,7 @@
             <span class="hr"></span>
         </div>
 
-        <div style="max-width: 660px; margin: auto; padding-bottom: 20px;">
+        <div style="max-width: 660px; margin: auto; padding: 20px;">
             <div style="padding-bottom: 20px">
                 <p style="margin: 0px">
                     <nuxt-link to="/"
