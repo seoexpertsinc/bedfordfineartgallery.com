@@ -676,7 +676,7 @@ p.content_btn a {
     position: relative;
     padding-bottom: 56.25%;
 
-    padding-top: 30px;
+    padding-top: 0px;
     height: 0;
     overflow: hidden;
 }
@@ -1164,6 +1164,8 @@ p.content_btn a {
 
 .home_logo {
     max-width: 120px;
+    display: block;
+    margin: auto;
 }
 .home_tagline {
     color: rgba(16, 88, 185, 1);
@@ -1174,6 +1176,7 @@ p.content_btn a {
     text-align: left;
     font-size: 1.3em;
     font-weight: bold;
+    text-align: center;
 }
 
 .home_tagline span {
@@ -2146,4 +2149,12 @@ border-collapse: collapse;
     display: block;
     width: 100%;
     height: auto;
+}
+ul.checkmark a {
+    color:rgba(16, 88, 185, 1);
+    text-decoration: underline;
+}
+ul.checkmark a:visited {
+    color:rgba(16, 88, 185, 1);
+    text-decoration: underline;
 }

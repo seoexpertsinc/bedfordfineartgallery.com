@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div style="padding-top: 1em;">
         <div class="artwork_header">
             <h1>Art Lovers' Niche - {{ date }}</h1>
             <span class="hr"></span>
