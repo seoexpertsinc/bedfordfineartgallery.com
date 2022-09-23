@@ -1,43 +1,44 @@
 {
-   "artist" : "charles_h_clair_art-html",
-   "body" : "Charles H. Clair is a well-known French artist and engraver who is best known for his paintings of charming bucolic pastoral compositions featuring sheep, cows, horses, and chickens.  His work includes rustic landscapes and harvest scenes, and compositions featuring women washing laundry and shepardesses.  He also produced landscapes and still-life paintings.  His work was regularly exhibited at the Salon d’Artiste Francais, where he became a member in 1913. ",
-   "categories" : [
-      "Landscape",
-      "Animal"
-   ],
-   "dimensions" : "Oil on canvas, 14.5 x 17.5 inches/Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/clair_creek_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/clair_creek_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/clair_creek_full.jpg",
-   "highResImageHeight" : 2203,
-   "highResImageWidth" : 2612,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $3,900"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/clair_creek_small.jpg",
-   "mediumResImageHeight" : 838,
-   "mediumResImageWidth" : 993,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "22.5",
-   "paintingWidth" : "26",
-   "slug" : "charles_h_clair_creek-html",
-   "status" : "New",
-   "title" : "Sheep at a Creek",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "26",
+  "body": "Charles H. Clair is a well-known French artist and engraver who is best known for his paintings of charming bucolic pastoral compositions featuring sheep, cows, horses, and chickens.  His work includes rustic landscapes and harvest scenes, and compositions featuring women washing laundry and shepardesses.  He also produced landscapes and still-life paintings.  His work was regularly exhibited at the Salon d’Artiste Francais, where he became a member in 1913. ",
+  "highResImageHeight": 2203,
+  "artist": "charles_h_clair_art-html",
+  "highResImageWidth": 2612,
+  "paintingHeight": "22.5",
+  "slug": "charles_h_clair_creek-html",
+  "dimensions": "Oil on canvas, 14.5 x 17.5 inches/Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/clair_creek_small.jpg",
+  "gridImageWidth": 392,
+  "status": "New",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/clair_creek_grid.jpg",
+  "mediumResImageWidth": 993,
+  "mediumResImageHeight": 838,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": true,
+  "title": "Sheep at a Creek",
+  "galleryCropImage": "/cms-uploads/clair_creek_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape",
+    "Animal"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/clair_creek_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $3,900"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
