@@ -693,7 +693,7 @@
                     <li class="divider">/</li>
                     <li><nuxt-link :to="{ name: 'sculpture' }">Sculptures</nuxt-link></li>
                     <li class="divider">/</li>
-                    <li><nuxt-link :to="{ name: 'artists-bios' }">All 19th Century Paintings</nuxt-link></li>
+                    <li><nuxt-link :to="{ name: 'artists-bios' }">All</nuxt-link></li>
                 </ul>
             </section>
         </div>
@@ -726,14 +726,14 @@
                         <nuxt-link :to="{ name: 'sporting-art' }" class="internalLinkReverse">sporting art</nuxt-link>,
                         and
                         <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link>
-                        themes. Our gallery features both American and European 19th century painters such as
-                        <nuxt-link to="john_henry_dolph_duo.html" class="internalLinkReverse"
+                        themes and <nuxt-link :to="{ name: 'sculpture' }" class="internalLinkReverse">sculptures</nuxt-link>. Our gallery features both American and European 19th century painters such as
+                        <nuxt-link to="john_henry_dolph_art.html" class="internalLinkReverse"
                             >John Henry Dolph</nuxt-link
                         >, <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
                         <nuxt-link to="william_bromley_III.html" class="internalLinkReverse"
                             >William Bromley III</nuxt-link
                         >, and
-                        <nuxt-link to="barton_stone_hays_apple.html" class="internalLinkReverse"
+                        <nuxt-link to="barton_stone_hays_art.html" class="internalLinkReverse"
                             >Barton Stone Hays</nuxt-link
                         >, to name a few. To see more of our 19th century artists, please visit our
                         <nuxt-link :to="{ name: 'artists' }" class="internalLinkReverse">Artists page</nuxt-link>. Good
