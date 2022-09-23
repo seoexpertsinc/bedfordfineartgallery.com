@@ -1,42 +1,43 @@
 {
-   "artist" : "charles_augustus_lasar-html",
-   "body" : "Charles Augustus Lasar, known as “Shorty” Lasar was a Johnstown, Pennsylvania-born artist. As did many American artists, he travelled to Paris broaden his art education. He studied under painter-sculptor Jean-Leon Gerome, who also taught Pennsylvania-born artists Mary Cassatt and Thomas Eakins. Lasar’s draftsmanship became legendary during his tenure at Jean-Leon Gerome’s atelier. After several years of successful exhibitions, Lasar opened his own atelier, which catered to English-speaking female artists. Cecilia Beaux, considered the finest woman painter at the turn of the last century and a friend of “Shorty’s”, described him as “a funny little man with intensely bright eyes and dark hair, standing around—and his legs about two feet long”. Beaux felt that Shorty’s lessons were too technical; she preferred a more intuitive approach to painting. However, she observed that Shorty’s students “clung to his strictures as if to a lifeline”.\n\nHigh auction record for this artist is $7,638.",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 14 x 10.5 inches / Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/img_4289_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/img_4289_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/img_4289_original.jpg",
-   "highResImageHeight" : 1986,
-   "highResImageWidth" : 1635,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $4,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/img_4289_small.jpg",
-   "mediumResImageHeight" : 1144,
-   "mediumResImageWidth" : 941,
-   "metaDescription" : "Charles Augustus Lasar, known as \"Shorty\" Lasar was a Johnstown, Pennsylvania-born artist. As did many American artists, he travelled to Paris broaden his art ed",
-   "metaKeywords" : "",
-   "metaTitle" : "Charles Augustus Painting - The Old Mill at Salleport England - 19th Century American Fine Art",
-   "paintingHeight" : "19.75",
-   "paintingWidth" : "16",
-   "slug" : "charles_augustus_lasar_mill-html",
-   "status" : "None",
-   "title" : "The Old Mill at Salleport England",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "16",
+  "body": "Charles Augustus Lasar, known as “Shorty” Lasar was a Johnstown, Pennsylvania-born artist. As did many American artists, he travelled to Paris broaden his art education. He studied under painter-sculptor Jean-Leon Gerome, who also taught Pennsylvania-born artists Mary Cassatt and Thomas Eakins. Lasar’s draftsmanship became legendary during his tenure at Jean-Leon Gerome’s atelier. After several years of successful exhibitions, Lasar opened his own atelier, which catered to English-speaking female artists. Cecilia Beaux, considered the finest woman painter at the turn of the last century and a friend of “Shorty’s”, described him as “a funny little man with intensely bright eyes and dark hair, standing around—and his legs about two feet long”. Beaux felt that Shorty’s lessons were too technical; she preferred a more intuitive approach to painting. However, she observed that Shorty’s students “clung to his strictures as if to a lifeline”.\n\nHigh auction record for this artist is $7,638.",
+  "highResImageHeight": 1986,
+  "artist": "charles_augustus_lasar-html",
+  "highResImageWidth": 1635,
+  "paintingHeight": "19.75",
+  "slug": "charles_augustus_lasar_mill-html",
+  "dimensions": "Oil on canvas, 14 x 10.5 inches / Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/img_4289_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Charles Augustus Painting - The Old Mill at Salleport England - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/img_4289_grid.jpg",
+  "mediumResImageWidth": 941,
+  "mediumResImageHeight": 1144,
+  "metaDescription": "Charles Augustus Lasar, known as \"Shorty\" Lasar was a Johnstown, Pennsylvania-born artist. As did many American artists, he travelled to Paris broaden his art ed",
+  "scrollingHomepageImage": true,
+  "title": "The Old Mill at Salleport England",
+  "galleryCropImage": "/cms-uploads/img_4289_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/img_4289_original.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $4,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
