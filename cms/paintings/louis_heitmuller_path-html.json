@@ -1,42 +1,43 @@
 {
-   "artist" : "louis_heitmuller_art-html",
-   "body" : "Louis (Ludwig) Heitmuller, a portraitist and landscapist, was born at Klein Palubin in Poland in 1863.  He studied at The Royal Academy of Fine Arts in Dusseldorf (Germany), Ecole des Beaux-arts du Genevois (Geneva, Switzerland), with additional studies in Munich and Paris.  His early works while a student at Dusseldorf were landscapes and portraits he painted while traveling throughout Northern Africa.  He also traveled through Europe and South America.  Heitmuller moved to the North Side of Pittsburgh, Pennsylvania in 1893.  He was to become prominent in Pittsburgh art circles and accompanied Pittsburgh landscape painter, George Hetzel, to Scalp Level (near Johnstown, PA) on occasion.  Most of his portraiture work was done prior to immigrating to the United States, while landscapes were a larger part of his oeuvre while living in Pittsburgh.  Heitmuller also depicted the steel mills that existed along Pittsburgh’s rivers at that time.  This painting is one of three obtained from a descendent of Heitmuller’s landlord on Hobart Street in Squirrel Hill (PA).  Heitmuller would give the landlord paintings in lieu of rent.  During the last ten years of his life, Heitmuller painted Biblical scenes for Pittsburgh Churches.  Heitmuller had just moved to St. Petersburg, Florida when he died.  He was a member Society of Independent Artists, where he exhibited and also exhibited at the First Carnegie International (Pittsburgh, 1896). ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on board, 7.75 x 10.75 inches/Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/heitmuller_path_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/heitmuller_path_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/heitmuller_path_full.jpg",
-   "highResImageHeight" : 1751,
-   "highResImageWidth" : 2258,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $1,800"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/heitmuller_path_small.jpg",
-   "mediumResImageHeight" : 771,
-   "mediumResImageWidth" : 994,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "12",
-   "paintingWidth" : "15.5",
-   "slug" : "louis_heitmuller_path-html",
-   "status" : "New",
-   "title" : "Winding Path",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "15.5",
+  "body": "Louis (Ludwig) Heitmuller, a portraitist and landscapist, was born at Klein Palubin in Poland in 1863.  He studied at The Royal Academy of Fine Arts in Dusseldorf (Germany), Ecole des Beaux-arts du Genevois (Geneva, Switzerland), with additional studies in Munich and Paris.  His early works while a student at Dusseldorf were landscapes and portraits he painted while traveling throughout Northern Africa.  He also traveled through Europe and South America.  Heitmuller moved to the North Side of Pittsburgh, Pennsylvania in 1893.  He was to become prominent in Pittsburgh art circles and accompanied Pittsburgh landscape painter, George Hetzel, to Scalp Level (near Johnstown, PA) on occasion.  Most of his portraiture work was done prior to immigrating to the United States, while landscapes were a larger part of his oeuvre while living in Pittsburgh.  Heitmuller also depicted the steel mills that existed along Pittsburgh’s rivers at that time.  This painting is one of three obtained from a descendent of Heitmuller’s landlord on Hobart Street in Squirrel Hill (PA).  Heitmuller would give the landlord paintings in lieu of rent.  During the last ten years of his life, Heitmuller painted Biblical scenes for Pittsburgh Churches.  Heitmuller had just moved to St. Petersburg, Florida when he died.  He was a member Society of Independent Artists, where he exhibited and also exhibited at the First Carnegie International (Pittsburgh, 1896). ",
+  "highResImageHeight": 1751,
+  "artist": "louis_heitmuller_art-html",
+  "highResImageWidth": 2258,
+  "paintingHeight": "12",
+  "slug": "louis_heitmuller_path-html",
+  "dimensions": "Oil on board, 7.75 x 10.75 inches/Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/heitmuller_path_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/heitmuller_path_grid.jpg",
+  "mediumResImageWidth": 994,
+  "mediumResImageHeight": 771,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": false,
+  "title": "Winding Path",
+  "galleryCropImage": "/cms-uploads/heitmuller_path_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/heitmuller_path_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $1,800"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
