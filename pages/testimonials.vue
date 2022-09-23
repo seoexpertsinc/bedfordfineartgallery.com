@@ -9,10 +9,13 @@
                 </div>
 
                 <div style="max-width: 960px; margin: auto">
-                    <div  v-for="(testimonial, index) in testimonials" :key="index" :id="`testimonial-${index + 1}`" style="padding: 0px 10px 10px 10px; border-bottom: 1px solid #dfe1bc">
-                        <p style="text-align: left">
-                            "{{ testimonial.longTestimonial }}"
-                        </p>
+                    <div
+                        v-for="(testimonial, index) in testimonials"
+                        :key="index"
+                        :id="`testimonial-${index + 1}`"
+                        style="padding: 0px 10px 10px 10px; border-bottom: 1px solid #dfe1bc"
+                    >
+                        <p style="text-align: left">"{{ testimonial.longTestimonial }}"</p>
                         <span style="display: block; font-weight: bold; padding-top: 5px">{{ testimonial.name }}</span>
                     </div>
 
@@ -31,8 +34,11 @@
 export default {
     async asyncData({ $content }) {
         return {
-            testimonials: await $content('testimonials').only(['name', 'longTestimonial']).sortBy('name', 'asc').fetch(),
-        };
+            testimonials: await $content('testimonials')
+                .only(['name', 'longTestimonial'])
+                .sortBy('name', 'asc')
+                .fetch(),
+        }
     },
 }
 </script>
