@@ -1040,9 +1040,3 @@ export default {
 }
 }
 </style>
-
-<router>
-  {
-    path: '/index.html',
-  }
-</router>
