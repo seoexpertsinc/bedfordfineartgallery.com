@@ -1,43 +1,44 @@
 {
-   "artist" : "david_hagerbaumer_artwork-html",
-   "body" : "Growing up in Quincy, Illinois during the Great Depression and Hagerbaumer hunted, trapped and fished with his father, uncles and grandfather to put food on the family table.  Following in his grandfather’s footsteps he began carving duck decoys in the late 1930s.  During World War II, he spent four years on Midway Island in the Pacific.  After the war Hagerbaumer enrolled in San Diego State College and was a preparator and assistant ornithologist at the Carson City Museum (Nevada) at the same time operating Custom-Bilt Decoys in San Diego (CA) with his cousin—his cousin lathed the bodies and Hagerbaumer carved the heads of pintails, mallards, canvasbacks, wigeon, brant, and Canada geese.  A year later they went out of business when the shop burned down.  In 1951 he served again during the Korean War where he drew maps and propaganda posters.  He got his break in 1954 when Edward Selden Spaulding, founder of the Laguna Blanca School in Santa Barbara (CA) showed his watercolors to Ralph Terrill, who managed the former Crossroads of Sport in New York City.  After his sporting art began appearing in their catalogs and their Manhattan museum, his career took off.  In 1957 Hagerbaumer worked as a staff artist at the Santa Barbara Museum--he painted weeknights and sold them at shows on the weekends.  He wrote and illustrated a number of books — Waterfowling these Past Fifty Years, Especially Brant (1998); Selected American Game Birds (1972); Best Birds Upland and Shore (2007); Selected American Game Birds (1980); David Hagerbaumer Sporting Images: Etchings, Drypoints and Drawings (2008); Big December Canvasbacks (1997); The Art of a Sporting Life - The Wildlife Art of David Hagerbaumer and Sporting Images (2010); and Wildfowling Tales (two volumes, 1998).  Hagerbaumer in his own words--I am a loner and that's how I would like to be remembered. I've gone my own way, created my own style, and gathered my own reference material with field sketches and photos. I hope to be remembered as one who did his best and walked his talk. \n\nHigh auction record for this artist is $13,530.",
-   "categories" : [
-      "Sporting Art",
-      "Animal"
-   ],
-   "dimensions" : "Watercolor, 12 x 9 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/hagerbaumer_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/hagerbaumer_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/hagerbaumer_full.jpg",
-   "highResImageHeight" : 2793,
-   "highResImageWidth" : 2390,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $2,800"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/hagerbaumer_small.jpg",
-   "mediumResImageHeight" : 1509,
-   "mediumResImageWidth" : 1291,
-   "metaDescription" : "Growing up in Quincy, Illinois during the Great Depression and Hagerbaumer hunted, trapped and fished with his father, uncles and grandfather to put food on the fami",
-   "metaKeywords" : "",
-   "metaTitle" : "David Hagerbaumer Painting - Woodcock - 19th Century American Fine Art",
-   "paintingHeight" : "20.5",
-   "paintingWidth" : "17.5",
-   "slug" : "david_hagerbaumer_woodcock-html",
-   "status" : "None",
-   "title" : "Woodcock",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "17.5",
+  "body": "Growing up in Quincy, Illinois during the Great Depression and Hagerbaumer hunted, trapped and fished with his father, uncles and grandfather to put food on the family table.  Following in his grandfather’s footsteps he began carving duck decoys in the late 1930s.  During World War II, he spent four years on Midway Island in the Pacific.  After the war Hagerbaumer enrolled in San Diego State College and was a preparator and assistant ornithologist at the Carson City Museum (Nevada) at the same time operating Custom-Bilt Decoys in San Diego (CA) with his cousin—his cousin lathed the bodies and Hagerbaumer carved the heads of pintails, mallards, canvasbacks, wigeon, brant, and Canada geese.  A year later they went out of business when the shop burned down.  In 1951 he served again during the Korean War where he drew maps and propaganda posters.  He got his break in 1954 when Edward Selden Spaulding, founder of the Laguna Blanca School in Santa Barbara (CA) showed his watercolors to Ralph Terrill, who managed the former Crossroads of Sport in New York City.  After his sporting art began appearing in their catalogs and their Manhattan museum, his career took off.  In 1957 Hagerbaumer worked as a staff artist at the Santa Barbara Museum--he painted weeknights and sold them at shows on the weekends.  He wrote and illustrated a number of books — Waterfowling these Past Fifty Years, Especially Brant (1998); Selected American Game Birds (1972); Best Birds Upland and Shore (2007); Selected American Game Birds (1980); David Hagerbaumer Sporting Images: Etchings, Drypoints and Drawings (2008); Big December Canvasbacks (1997); The Art of a Sporting Life - The Wildlife Art of David Hagerbaumer and Sporting Images (2010); and Wildfowling Tales (two volumes, 1998).  Hagerbaumer in his own words--I am a loner and that's how I would like to be remembered. I've gone my own way, created my own style, and gathered my own reference material with field sketches and photos. I hope to be remembered as one who did his best and walked his talk. \n\nHigh auction record for this artist is $13,530.",
+  "highResImageHeight": 2793,
+  "artist": "david_hagerbaumer_artwork-html",
+  "highResImageWidth": 2390,
+  "paintingHeight": "20.5",
+  "slug": "david_hagerbaumer_woodcock-html",
+  "dimensions": "Watercolor, 12 x 9 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/hagerbaumer_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "David Hagerbaumer Painting - Woodcock - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/hagerbaumer_grid.jpg",
+  "mediumResImageWidth": 1291,
+  "mediumResImageHeight": 1509,
+  "metaDescription": "Growing up in Quincy, Illinois during the Great Depression and Hagerbaumer hunted, trapped and fished with his father, uncles and grandfather to put food on the fami",
+  "scrollingHomepageImage": true,
+  "title": "Woodcock",
+  "galleryCropImage": "/cms-uploads/hagerbaumer_grid_gallery_crop.jpg",
+  "categories": [
+    "Sporting Art",
+    "Animal"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/hagerbaumer_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $2,800"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
