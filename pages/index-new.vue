@@ -142,7 +142,7 @@
                                 alt="19th Century Paintings"
                             /></div>
 
-<ArtworkSlidingImagesHome />
+<ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
 
 
                 <div class="home_sales">
@@ -314,7 +314,7 @@
                         </div>
                     </div>
                 </div>
-                <div style="padding: 24px 0px;"><ArtworkSlidingImagesHome /></div>
+                <div style="padding: 24px 0px;"><ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" /></div>
                   <div class="breadcrumb">
                     <nuxt-link :to="{ name: 'artists' }" class="content_btn"
                         >view over 250 well listed artists</nuxt-link
@@ -823,6 +823,11 @@ export default {
                 $content,
                 sold: true,
                 columns: ['title', 'slug', 'gridImage', 'mediumResImage', 'artist'],
+            }),
+            scrollingHomepageImages: await loadGalleryPaintings({
+                $content,
+                scrollingHomepageImage: true,
+                columns: ['title', 'slug', 'gridImage', 'mediumResImage'],
             }),
         }
     },
