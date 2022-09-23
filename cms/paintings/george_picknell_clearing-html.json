@@ -1,42 +1,43 @@
 {
-   "artist" : "george_w_picknell_artwork-html",
-   "body" : "George Picknell was born in North Springfield, Vermont, but spent his youth in Boston, Massachusetts.  He was the younger brother of noted plein air landscapist William Lamb Picknell and as a young man he was apprenticed to a Boston engraver.  In 1887 he traveled to Paris, France to study at the Academie Julian under Jules Lefebvre and Benjamin Constant.  In 1890 Picknell returned to Boston and worked as an illustrator in Boston and New York for several years.  Circa 1895 Picknell left for Paris a second time.  This time he stayed for 15 years, returning to the United States circa 1910.  He first lived in Freehold, NJ followed by a move, in 1912, to the art colony at Silvermine, CT, where he lived until his death in 1943.  Picknell is best known for his landscapes and seascapes of Connecticut and Massachusetts.  During his time in France, in addition to “typical” landscapes, he painted the salt marshes at Etaples.  During World War I, Picknell and his artist wife, Florence, operated the Fine Arts Theater in Westport, CT.  Picknell was a founding member of the American Artists Association in Paris; a member of the Knockers Club; founding member of the Silvermine Guild of Artists (formerly the Knockers Club); Salmagundi Club; Springfield Art Association (IL).  and the American Federation of Arts.  While in France, he exhibited the Salon des Artistes Français (Paris), and at Toulouse and Nice.  In the United States Picknell exhibited at the Pennsylvania Academy of the Fine Arts, The Society of Independent Artists, the Chicago Art Institute and the John Herron Institute (Indianapolis, IN, 1911; now the Indianapolis Museum of Art).  \n\nHigh auction record for this artist is $75,250.",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 17.5 x 21.25 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/pinknell_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/pinknell_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/pinknell_full.jpg",
-   "highResImageHeight" : 2548,
-   "highResImageWidth" : 2940,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $7,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/pinknell_small.jpg",
-   "mediumResImageHeight" : 1020,
-   "mediumResImageWidth" : 1176,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "23.25",
-   "paintingWidth" : "27",
-   "slug" : "george_picknell_clearing-html",
-   "status" : "None",
-   "title" : "The Clearing",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "27",
+  "body": "George Picknell was born in North Springfield, Vermont, but spent his youth in Boston, Massachusetts.  He was the younger brother of noted plein air landscapist William Lamb Picknell and as a young man he was apprenticed to a Boston engraver.  In 1887 he traveled to Paris, France to study at the Academie Julian under Jules Lefebvre and Benjamin Constant.  In 1890 Picknell returned to Boston and worked as an illustrator in Boston and New York for several years.  Circa 1895 Picknell left for Paris a second time.  This time he stayed for 15 years, returning to the United States circa 1910.  He first lived in Freehold, NJ followed by a move, in 1912, to the art colony at Silvermine, CT, where he lived until his death in 1943.  Picknell is best known for his landscapes and seascapes of Connecticut and Massachusetts.  During his time in France, in addition to “typical” landscapes, he painted the salt marshes at Etaples.  During World War I, Picknell and his artist wife, Florence, operated the Fine Arts Theater in Westport, CT.  Picknell was a founding member of the American Artists Association in Paris; a member of the Knockers Club; founding member of the Silvermine Guild of Artists (formerly the Knockers Club); Salmagundi Club; Springfield Art Association (IL).  and the American Federation of Arts.  While in France, he exhibited the Salon des Artistes Français (Paris), and at Toulouse and Nice.  In the United States Picknell exhibited at the Pennsylvania Academy of the Fine Arts, The Society of Independent Artists, the Chicago Art Institute and the John Herron Institute (Indianapolis, IN, 1911; now the Indianapolis Museum of Art).  \n\nHigh auction record for this artist is $75,250.",
+  "highResImageHeight": 2548,
+  "artist": "george_w_picknell_artwork-html",
+  "highResImageWidth": 2940,
+  "paintingHeight": "23.25",
+  "slug": "george_picknell_clearing-html",
+  "dimensions": "Oil on canvas, 17.5 x 21.25 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/pinknell_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/pinknell_grid.jpg",
+  "mediumResImageWidth": 1176,
+  "mediumResImageHeight": 1020,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": true,
+  "title": "The Clearing",
+  "galleryCropImage": "/cms-uploads/pinknell_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/pinknell_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $7,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
