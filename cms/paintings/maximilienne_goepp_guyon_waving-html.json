@@ -1,42 +1,42 @@
 {
-   "artist" : "maximilienne_goepp_guyon-html",
-   "body" : "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling purse in 1894, the first woman to whom it was given. She was held in high regard as a teacher, instructing the Princess Mathilde (of Saxony), who in her own right became a talented artist. Mme. Guyon was a successful portrait painter, having the ability to “unmask” the subject by artfully rendering individual characteristics of which they were previously unaware.  \n\nHigh auction record for this artist is $9,770.",
-   "categories" : [
-      "Genre"
-   ],
-   "dimensions" : "Watercolor, 17.25 x 10.25 inches / Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/img_4330_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/img_4330_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/img_4330_original.jpg",
-   "highResImageHeight" : 1957,
-   "highResImageWidth" : 1678,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $3,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/img_4330_small.jpg",
-   "mediumResImageHeight" : 1067,
-   "mediumResImageWidth" : 915,
-   "metaDescription" : "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling",
-   "metaKeywords" : "",
-   "metaTitle" : "Maximilienne Goepp Guyon Painting - Lady Waving - 19th Century French Fine Art",
-   "paintingHeight" : "25",
-   "paintingWidth" : "21.5",
-   "slug" : "maximilienne_goepp_guyon_waving-html",
-   "status" : "None",
-   "title" : "Lady Waving",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "21.5",
+  "body": "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling purse in 1894, the first woman to whom it was given. She was held in high regard as a teacher, instructing the Princess Mathilde (of Saxony), who in her own right became a talented artist. Mme. Guyon was a successful portrait painter, having the ability to “unmask” the subject by artfully rendering individual characteristics of which they were previously unaware.  \n\nHigh auction record for this artist is $9,770.",
+  "highResImageHeight": 1957,
+  "artist": "maximilienne_goepp_guyon-html",
+  "highResImageWidth": 1678,
+  "paintingHeight": "25",
+  "slug": "maximilienne_goepp_guyon_waving-html",
+  "dimensions": "Watercolor, 17.25 x 10.25 inches / Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/img_4330_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Sold",
+  "metaTitle": "Maximilienne Goepp Guyon Painting - Lady Waving - 19th Century French Fine Art",
+  "gridImage": "/cms-uploads/img_4330_grid.jpg",
+  "mediumResImageWidth": 915,
+  "mediumResImageHeight": 1067,
+  "metaDescription": "Maximilienne Guyon was an award-winning painter, illustrator, and etcher. She exhibited often, primarily in France, and won numerous awards, receiving the traveling",
+  "title": "Lady Waving",
+  "galleryCropImage": "/cms-uploads/img_4330_grid_gallery_crop.jpg",
+  "categories": [
+    "Genre"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/img_4330_original.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $3,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
