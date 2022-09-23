@@ -1,42 +1,43 @@
 {
-   "artist" : "james_lobley_artwork-html",
-   "body" : "This fine watercolor is by a very well listed, sought after British artist, James Lobley. The symbolic composition “Remember the Poor” is typical of his religious genre scenes such as “Saying God be Merciful to Me a Sinner” and the “Interior of Hubberholme Church.” His works have been sold at venues such as Andrew Hartley Fine Arts, Phillip Leeds, Christies South Kensington, and Sotheby’s London (with his most recent sale of an oil painting at Sotheby’s London for $82,647).",
-   "categories" : [
-      "Genre"
-   ],
-   "dimensions" : "Watercolor, 12 x 8 inches / Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/img_3942_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/img_3942_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/img_3942_original.jpg",
-   "highResImageHeight" : 2644,
-   "highResImageWidth" : 2043,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $2,200"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/img_3942_small.jpg",
-   "mediumResImageHeight" : 1583,
-   "mediumResImageWidth" : 1224,
-   "metaDescription" : "This fine watercolor is by a very well listed, sought after British artist, James Lobley. The symbolic composition \"Remember the Poor\" is typical of his religiou",
-   "metaKeywords" : "",
-   "metaTitle" : "James Lobley Painting - Remember the Poor - 19th Century British Fine Art",
-   "paintingHeight" : "18",
-   "paintingWidth" : "14",
-   "slug" : "james_lobley_poor-html",
-   "status" : "None",
-   "title" : "Remember the Poor",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "14",
+  "body": "This fine watercolor is by a very well listed, sought after British artist, James Lobley. The symbolic composition “Remember the Poor” is typical of his religious genre scenes such as “Saying God be Merciful to Me a Sinner” and the “Interior of Hubberholme Church.” His works have been sold at venues such as Andrew Hartley Fine Arts, Phillip Leeds, Christies South Kensington, and Sotheby’s London (with his most recent sale of an oil painting at Sotheby’s London for $82,647).",
+  "highResImageHeight": 2644,
+  "artist": "james_lobley_artwork-html",
+  "highResImageWidth": 2043,
+  "paintingHeight": "18",
+  "slug": "james_lobley_poor-html",
+  "dimensions": "Watercolor, 12 x 8 inches / Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/img_3942_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "James Lobley Painting - Remember the Poor - 19th Century British Fine Art",
+  "gridImage": "/cms-uploads/img_3942_grid.jpg",
+  "mediumResImageWidth": 1224,
+  "mediumResImageHeight": 1583,
+  "metaDescription": "This fine watercolor is by a very well listed, sought after British artist, James Lobley. The symbolic composition \"Remember the Poor\" is typical of his religiou",
+  "scrollingHomepageImage": true,
+  "title": "Remember the Poor",
+  "galleryCropImage": "/cms-uploads/img_3942_grid_gallery_crop.jpg",
+  "categories": [
+    "Genre"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/img_3942_original.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $2,200"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
