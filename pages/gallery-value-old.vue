@@ -243,6 +243,6 @@
 
 <router>
   {
-    path: '/Gallery-Value.html',
+    path: '/Gallery-Value-Old.html',
   }
 </router>

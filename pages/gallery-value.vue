@@ -255,6 +255,6 @@ testimonials that we post on the website. Thank you.</p>
 
 <router>
   {
-    path: '/Gallery-Value-New.html',
+    path: '/Gallery-Value.html',
   }
 </router>

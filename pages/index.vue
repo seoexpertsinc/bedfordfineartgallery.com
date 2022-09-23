@@ -1043,6 +1043,6 @@ export default {
 
 <router>
   {
-    path: '/index2.html',
+    path: '/index.html',
   }
 </router>
