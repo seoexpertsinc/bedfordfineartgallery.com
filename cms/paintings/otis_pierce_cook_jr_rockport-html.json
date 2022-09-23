@@ -1,42 +1,43 @@
 {
-   "artist" : "otis_pierce_cook_jr_artwork-html",
-   "body" : "Otis Cook, noted marine artist, was born in New Bedford, Massachusetts. He studied at the Swain School of Design in New Bedford, in the 1930s and also studied under Gloucester artist Emil Gruppe.  He opened a studio/gallery and giftshop on Bearskin neck, Rockport, called \"Boatshop Studios.\"  He painted mostly scenes of the Cape Ann and Rockport areas, area, notably Motif #1, Rockport’s iconic fishing shack on Bearskin Neck.  Cook was a member (and director) of the Rockport Art Association; North Shore Art Association; the Boston Guild of Artists; Boston Art Club; Academic Artists of Springfield (CT), Independent Artists of Boston, and Longboat Key Art Center, Longboat Key, Florida. ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 19.25 x 23.25 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/cook_rockport_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/cook_rockport_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/cook_rockport_full.jpg",
-   "highResImageHeight" : 2717,
-   "highResImageWidth" : 3183,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $4,200"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/cook_rockport_small.jpg",
-   "mediumResImageHeight" : 1087,
-   "mediumResImageWidth" : 1274,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "24.25",
-   "paintingWidth" : "28.5",
-   "slug" : "otis_pierce_cook_jr_rockport-html",
-   "status" : "None",
-   "title" : "Rockport, Massachusetts",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "28.5",
+  "body": "Otis Cook, noted marine artist, was born in New Bedford, Massachusetts. He studied at the Swain School of Design in New Bedford, in the 1930s and also studied under Gloucester artist Emil Gruppe.  He opened a studio/gallery and giftshop on Bearskin neck, Rockport, called \"Boatshop Studios.\"  He painted mostly scenes of the Cape Ann and Rockport areas, area, notably Motif #1, Rockport’s iconic fishing shack on Bearskin Neck.  Cook was a member (and director) of the Rockport Art Association; North Shore Art Association; the Boston Guild of Artists; Boston Art Club; Academic Artists of Springfield (CT), Independent Artists of Boston, and Longboat Key Art Center, Longboat Key, Florida. ",
+  "highResImageHeight": 2717,
+  "artist": "otis_pierce_cook_jr_artwork-html",
+  "highResImageWidth": 3183,
+  "paintingHeight": "24.25",
+  "slug": "otis_pierce_cook_jr_rockport-html",
+  "dimensions": "Oil on canvas, 19.25 x 23.25 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/cook_rockport_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/cook_rockport_grid.jpg",
+  "mediumResImageWidth": 1274,
+  "mediumResImageHeight": 1087,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": true,
+  "title": "Rockport, Massachusetts",
+  "galleryCropImage": "/cms-uploads/cook_rockport_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/cook_rockport_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $4,200"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
