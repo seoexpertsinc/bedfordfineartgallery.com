@@ -1,43 +1,44 @@
 {
-   "artist" : "robert_atkinson_fox_artwork-html",
-   "body" : "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman.  He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada).  Fox traveled to Europe to gain further artistic enlightenment.  In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia.  Fox became a successful commercial illustrator—commissioned by major calendar companies and art print publishers.  His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers.  His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets.  He also painted Indians and Indian maidens and the “Wild West”, although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt. ",
-   "categories" : [
-      "Landscape",
-      "American Historic / Political"
-   ],
-   "dimensions" : "Oil on canvas, 26 x 18 inches/Signed lower left",
-   "featured" : true,
-   "galleryCropImage" : "/cms-uploads/fox_harbor_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/fox_harbor_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/fox_harbor_full.jpg",
-   "highResImageHeight" : 2577,
-   "highResImageWidth" : 1916,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $6,200"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/fox_harbor_small.jpg",
-   "mediumResImageHeight" : 1134,
-   "mediumResImageWidth" : 844,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "31",
-   "paintingWidth" : "23.5",
-   "slug" : "robert_atkinson_fox_harbor-html",
-   "status" : "New",
-   "title" : "New York Harbor",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "23.5",
+  "body": "Robert Atkinson Fox studied under portrait painter John Wesley Bridgeman.  He began his career painting portraits which included those of Grover Cleveland, (the 22nd and 24th United States President), Benjamin Harrison (23rd United States President) and Sir John McDonald (the first Prime Minister of Canada).  Fox traveled to Europe to gain further artistic enlightenment.  In the late 1800s Fox immigrated to the United States, first residing in New York City, then Philadelphia.  Fox became a successful commercial illustrator—commissioned by major calendar companies and art print publishers.  His work appeared as art prints, calendars, advertising pieces, ink blotters, candy, handkerchief and jewelry boxes, magazine covers, children's books, newspaper inserts, postcards, puzzles, and thermometers.  His subjects included genre (women and children), landscapes, enchanted gardens, country-sides, cottages, animals and pets.  He also painted Indians and Indian maidens and the “Wild West”, although he had never visited the West, and historical and contemporary themes, hunting and fishing scenes, adventure, ships, and historic figures such as Washington, Lafayette, Franklin and Theodore Roosevelt. ",
+  "highResImageHeight": 2577,
+  "artist": "robert_atkinson_fox_artwork-html",
+  "highResImageWidth": 1916,
+  "paintingHeight": "31",
+  "slug": "robert_atkinson_fox_harbor-html",
+  "dimensions": "Oil on canvas, 26 x 18 inches/Signed lower left",
+  "featured": true,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/fox_harbor_small.jpg",
+  "gridImageWidth": 392,
+  "status": "New",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/fox_harbor_grid.jpg",
+  "mediumResImageWidth": 844,
+  "mediumResImageHeight": 1134,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": true,
+  "title": "New York Harbor",
+  "galleryCropImage": "/cms-uploads/fox_harbor_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape",
+    "American Historic / Political"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/fox_harbor_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $6,200"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
