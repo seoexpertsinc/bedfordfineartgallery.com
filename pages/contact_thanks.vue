@@ -9,7 +9,7 @@
                             width="660"
                             height="792"
                             alt="The Lookout"
-                            :imgAttrs="{class:'art_detail_img'}"
+                            :img-attrs="{class:'art_detail_img'}"
                         />
                     </div>
                     <div class="mobile_1">
@@ -37,7 +37,7 @@
                     </div>
                     <div>
                         <nuxt-picture
-                            :imgAttrs="{class:'art_detail_img'}"
+                            :img-attrs="{class:'art_detail_img'}"
                             src="Jerry-and-Joan-web.jpg"
                             width="1200"
                             height="1652"

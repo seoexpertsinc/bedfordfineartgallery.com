@@ -50,7 +50,6 @@ import 'vue-slick-carousel/dist/vue-slick-carousel.css'
 import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
 
 export default {
-    name: 'MyComponent',
     components: { VueSlickCarousel },
     data() {
         return {

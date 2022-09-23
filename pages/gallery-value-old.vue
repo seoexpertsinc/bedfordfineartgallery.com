@@ -12,7 +12,7 @@
                 <div class="lead_callout">
                     <p>
                         <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                             loading="lazy"
                             src="/Jerry-and-Joan-web.jpg"
                             width="1200"

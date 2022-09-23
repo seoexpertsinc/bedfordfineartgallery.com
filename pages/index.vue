@@ -249,7 +249,7 @@
                 </h2>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -271,7 +271,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -297,7 +297,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -322,7 +322,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -544,7 +544,7 @@
                     <div class="artwork leadPhoto">
                         <nuxt-link to="Artists--Bios.html"
                             ><nuxt-picture
-                                :imgAttrs="{ class: 'art_detail_img' }"
+                                :img-attrs="{ class: 'art_detail_img' }"
                                 loading="lazy"
                                 class="art_detail"
                                 src="gallery_logo.jpg"

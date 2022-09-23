@@ -5,7 +5,7 @@
                 <div class="flex">
                     <div>
                         <nuxt-picture
-                            :imgAttrs="{class:'art_detail_img'}"
+                            :img-attrs="{class:'art_detail_img'}"
                             src="gallery_thanks.jpg"
                             width="660"
                             height="792"
@@ -31,7 +31,7 @@
                     </div>
                     <div>
                        <nuxt-picture
-                            :imgAttrs="{class:'art_detail_img'}"
+                            :img-attrs="{class:'art_detail_img'}"
                             src="Jerry-and-Joan-web.jpg"
                             width="1200"
                             height="1652"
