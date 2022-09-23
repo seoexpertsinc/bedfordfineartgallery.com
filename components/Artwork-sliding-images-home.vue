@@ -1,7 +1,7 @@
 <template>
     <div>
         <VueSlickCarousel v-bind="settings">
-            <nuxt-link v-for="scrollingHomepageImage in scrollingHomepageImages" :to="scrollingHomepageImage.slug.replace('-html', '.html')" :key="scrollingHomepageImage.slug"
+            <nuxt-link v-for="scrollingHomepageImage in scrollingHomepageImages" :key="scrollingHomepageImage.slug" :to="scrollingHomepageImage.slug.replace('-html', '.html')"
                 ><nuxt-img :src="getImage(scrollingHomepageImage)" width="290" height="200" :alt="scrollingHomepageImage.title"
             /></nuxt-link>
         </VueSlickCarousel>
