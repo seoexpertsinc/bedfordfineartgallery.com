@@ -2,58 +2,81 @@
     <div>
         <div class="container primary">
             <section class="wrapper">
-                <div class="flex_wrap">
-                    <div class="flex_4 flex_sub">
-                        <div class="flex_3 flex_3_no_100">
-                            <nuxt-img
-                                loading="lazy"
-                                class="home_logo"
-                                src="/logo.png"
-                                width="123"
-                                height="124"
-                                alt="19th Century Paintings"
-                            />
-                        </div>
-                        <div class="flex_7 flex_center flex_7_no_100">
-                            <h2 class="home_tagline">
-                                Fine art you will cherish forever. <span>Trust your instincts.</span
-                                ><span>Trust yourself. </span>
-                            </h2>
-                        </div>
-                        <div style="display: block; width: 100%; padding-top: 10px">
-                            <div class="breadcrumb" style="margin-top: 10px">
-                                <nuxt-link
-                                    :to="{ name: 'artists-bios' }"
-                                    style="display: block; width: 100%"
-                                    class="content_btn home_btn_small"
-                                    ><span class="btn_text_break">click now to find a painting</span>
-                                    <span class="btn_text_break">that "speaks to you"</span></nuxt-link
-                                >
+                <div class="grid">
+                    <div>
+                        <div>
+                            <div class="flex_home_logo_tagline">
+                                <div>
+                                    <nuxt-img
+                                        loading="lazy"
+                                        class="home_logo"
+                                        src="/logo.png"
+                                        width="123"
+                                        height="124"
+                                        alt="19th Century Paintings"
+                                    />
+                                </div>
+                                <div>
+                                    <h2 class="home_tagline">The most honest art gallery in the world</h2>
+                                </div>
                             </div>
-                            <div class="breadcrumb" style="margin-top: 10px">
-                                <nuxt-link
-                                    :to="{ name: 'art-lovers-niche' }"
-                                    style="display: block; width: 100%"
-                                    class="content_btn home_btn_small"
-                                    ><span class="btn_text_break">Join us at </span> Art Lovers' Niche.
-                                    <span class="btn_text_break">Don't miss out!</span></nuxt-link
-                                >
-                            </div>
-                            <div class="breadcrumb" style="margin-top: 10px">
-                                <a
-                                    style="display: block; width: 100%"
-                                    href="tel:1-724-459-0612"
-                                    class="content_btn home_btn_small"
-                                    ><span class="btn_text_break">Call us anytime: 724-459-0612</span></a
-                                >
+                            <div style="display: block; width: 100%; padding-top: 10px">
+                                <nuxt-img
+                                    class="home-lead-photo"
+                                    loading="lazy"
+                                    src="/joan_jerry22.jpg"
+                                    width="1200"
+                                    height="1652"
+                                    alt=""
+                                />
+
+                                <div class="breadcrumb" style="margin-top: 10px">
+                                    <a
+                                        style="display: block; width: 100%"
+                                        href="tel:1-724-459-0612"
+                                        class="content_btn home_btn_small"
+                                        ><span class="btn_text_break">Call us anytime: 724-459-0612</span></a
+                                    >
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="flex_6">
+
+                    <div>
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
-                                <YouTubeVideo link="https://www.youtube.com/embed/9-yObV8vpLc?rel=0" />
+                                <video width="100%" height="auto" autoplay loop>
+                                    <source src="/scrolling_video.mp4" type="video/mp4" />
+
+                                    Your browser does not support the video tag.
+                                </video>
                             </div>
+                        </div>
+                        <div class="breadcrumb" style="margin-top: 10px">
+                            <nuxt-link
+                                :to="{ name: 'art-lovers-niche' }"
+                                style="display: block; width: 100%"
+                                class="content_btn home_btn_small"
+                                ><span class="btn_text_break">Join us at </span> Art Lovers' Niche.
+                                <span class="btn_text_break">Don't miss out!</span></nuxt-link
+                            >
+                        </div>
+                    </div>
+
+                    <div>
+                        <div style="max-width: 550px; margin: auto">
+                            <div class="video-container">
+                                <YouTubeVideo link="https://www.youtube.com/embed/TGu-5wpJxGw?rel=0" />
+                            </div>
+                        </div>
+                        <div class="breadcrumb" style="margin-top: 10px">
+                            <nuxt-link
+                                :to="{ name: 'artists-bios' }"
+                                style="display: block; width: 100%"
+                                class="content_btn home_btn_small"
+                                ><span class="btn_text_break">click now to find a painting</span>
+                                <span class="btn_text_break">that "speaks to you"</span></nuxt-link
+                            >
                         </div>
                     </div>
                 </div>
@@ -84,9 +107,12 @@
             </section>
         </div>
 
-        <div class="container primary" style="padding-top: 0px">
+        <div class="container primary" style="padding-top: 32px">
             <section class="wrapper">
-                <div class="home_sales">
+                <div style="padding-bottom: 24px">
+                    <CustomerSlidingImages />
+                </div>
+                       <div class="home_sales">
                     <p class="home_thumbnails" style="color: rgba(16, 88, 185, 1); text-align: center">
                         Bedford Fine Art Gallery is your best resource for finding paintings with that "wow factor",
                         that are the focal point in any room. The best testimonials to the fine art people have fallen
@@ -105,12 +131,113 @@
 
                 <NotableSales :sold-paintings="soldPaintings" />
 
-                <CustomerSlidingImages />
-                <div class="breadcrumb">
-                    <nuxt-link :to="{ name: 'artists-bios' }"
-                        >click to view over 250 unique paintings for sale now</nuxt-link
-                    >
+                <div class="flex_wrap" style="clear: both; padding-top: 15px">
+                    <div class="flex_3">
+                        <h2
+                            style="
+                                color: #742924;
+                                text-transform: capitalize;
+                                text-align: center;
+                                padding: 10px;
+                                font-size: 20px;
+                                font-weight: bold;
+                            "
+                        >
+                            Virtual Tour
+                        </h2>
+                        <div class="video-container">
+                            <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0" />
+                        </div>
+                        <div class="breadcrumb desktop_hide" style="margin-top: 15px; margin-bottom: 15px">
+                            <nuxt-link :to="{ name: 'artists-bios' }"
+                        >Show me a painting I will love</nuxt-link>
+                        </div>
+                    </div>
+                    <div class="flex_3">
+                        <h2
+                            style="
+                                color: #742924;
+                                text-transform: capitalize;
+                                text-align: center;
+                                padding: 10px;
+                                font-size: 20px;
+                                font-weight: bold;
+                            "
+                        >
+                            Art Lovers' Niche
+                        </h2>
+                        <div class="video-container">
+                            <YouTubeVideo link="https://www.youtube.com/embed/oY3C5t3A1zQ?rel=0" />
+                        </div>
+                        <div class="breadcrumb desktop_hide" style="margin-top: 15px; margin-bottom: 15px">
+                            <nuxt-link :to="{ name: 'art-lovers-niche' }"
+                        >Join us at art lovers' niche<br />don't miss out!</nuxt-link>
+                        </div>
+                    </div>
+                    <div class="flex_3">
+                        <h2
+                            style="
+                                color: #742924;
+                                text-transform: capitalize;
+                                text-align: center;
+                                padding: 10px;
+                                font-size: 20px;
+                                font-weight: bold;
+                            "
+                        >
+                            Instagram
+                        </h2>
+                        <a href="https://www.instagram.com/bedfordfineartgallery/" target="_blank"
+                            ><nuxt-img src="instagram_invite.jpg" width="675" height="525" alt=""
+                        /></a>
+                        <div class="breadcrumb desktop_hide" style="margin-top: 15px; margin-bottom: 15px">
+                            <a href="https://www.instagram.com/bedfordfineartgallery/" target="_blank"
+                                >Follow us on Instagram</a
+                            >
+                        </div>
+                    </div>
                 </div>
+
+                <div class="flex_wrap desktop_show" style="clear: both; padding-top: 15px">
+                    <div class="flex_3">
+                        <div class="breadcrumb" style="margin-top: 0">
+                            <a class="home_btn_small" href="Artists--Bios.html">Show me a painting<br />I will love</a>
+                        </div>
+                    </div>
+
+                    <div class="flex_3">
+                        <div class="breadcrumb" style="margin-top: 0">
+                            <a class="home_btn_small" href="art_lovers_niche.htm"
+                                >Get more of Bedford Fine<br />Art Gallery! Subscribe</a
+                            >
+                        </div>
+                    </div>
+
+                    <div class="flex_3">
+                        <div class="breadcrumb" style="margin-top: 0">
+                            <a
+                                class="home_btn_small"
+                                href="https://www.instagram.com/bedfordfineartgallery/"
+                                target="_blank"
+                                >Follow us<br />on Instagram</a
+                            >
+                        </div>
+                    </div>
+                </div>
+                <div style="padding-top: 32px; padding-bottom: 24px">
+                    <nuxt-img
+                        loading="lazy"
+                        class="img_full"
+                        src="/whats_in_it.jpg"
+                        width="1200"
+                        height="872"
+                        alt="19th Century Paintings"
+                    />
+                </div>
+
+                <ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
+
+
             </section>
         </div>
 
@@ -122,7 +249,7 @@
                 </h2>
 
                 <nuxt-picture
-                    :img-attrs="{class:'star_img'}"
+                    :imgAttrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -143,8 +270,8 @@
                     >
                 </div>
 
-               <nuxt-picture
-                    :img-attrs="{class:'star_img'}"
+                <nuxt-picture
+                    :imgAttrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -170,7 +297,7 @@
                 </div>
 
                 <nuxt-picture
-                    :img-attrs="{class:'star_img'}"
+                    :imgAttrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -195,7 +322,7 @@
                 </div>
 
                 <nuxt-picture
-                    :img-attrs="{class:'star_img'}"
+                    :imgAttrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -214,6 +341,56 @@
                     </p>
                     <span style="display: block; font-weight: bold; color: #f2f2f2; padding-top: 10px"
                         >Sam Berkovitz, Certified Appraiser, Appraisers Association of America.</span
+                    >
+                </div>
+            </section>
+        </div>
+
+        <div class="container secondary_dk" style="padding-bottom: 24px">
+            <section class="wrapper clearfix" style="margin: auto; max-width: 1000px">
+                <div class="grid_2">
+                    <div id="start_vid">
+                        <h2
+                            style="
+                                color: #742924;
+                                text-transform: capitalize;
+                                text-align: center;
+                                padding: 10px;
+                                font-size: 20px;
+                                font-weight: bold;
+                            "
+                        >
+                            Dr. Terri Nicole Sawyer
+                        </h2>
+                        <div class="video-container">
+                            <YouTubeVideo link="https://www.youtube.com/embed/cFAempT0P1Y?rel=0" />
+                        </div>
+                    </div>
+
+                    <div id="video_anchor">
+                        <h2
+                            style="
+                                color: #742924;
+                                text-transform: capitalize;
+                                text-align: center;
+                                padding: 10px;
+                                font-size: 20px;
+                                font-weight: bold;
+                            "
+                        >
+                            Charles Augustus (Shorty) Lasar Artist Quotes
+                        </h2>
+                        <div id="video_anchor" class="video-container">
+                            <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0" />
+                        </div>
+                    </div>
+                </div>
+                <div style="padding: 24px 0px">
+                    <ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
+                </div>
+                <div class="breadcrumb">
+                    <nuxt-link :to="{ name: 'artists' }" class="content_btn"
+                        >view over 250 well listed artists</nuxt-link
                     >
                 </div>
             </section>
@@ -243,7 +420,7 @@
             </section>
         </div>
 
-        <div class="container secondary_dk" style="padding-bottom: 24px">
+        <!--<div class="container secondary_dk" style="padding-bottom: 24px">
             <section class="wrapper clearfix">
                 <div class="flex_2">
                     <div id="start_vid" style="max-width: 550px; margin: 23px auto 0px auto">
@@ -327,7 +504,7 @@
                     >
                 </p>
             </section>
-        </div>
+        </div>-->
 
         <div class="container secondary_dk" style="padding-bottom: 24px">
             <section class="wrapper clearfix scondary_dk_divider">
@@ -350,8 +527,8 @@
                 </div>
 
                 <div class="breadcrumb">
-                    <nuxt-link :to="{ name: 'artists' }" class="content_btn"
-                        >view over 250 well listed artists</nuxt-link
+                    <nuxt-link :to="{ name: 'artists-bios' }" class="content_btn"
+                        >click to view over 250 unique paintings for sale now</nuxt-link
                     >
                 </div>
             </section>
@@ -367,7 +544,7 @@
                     <div class="artwork leadPhoto">
                         <nuxt-link to="Artists--Bios.html"
                             ><nuxt-picture
-                                :img-attrs="{class:'art_detail_img'}"
+                                :imgAttrs="{ class: 'art_detail_img' }"
                                 loading="lazy"
                                 class="art_detail"
                                 src="gallery_logo.jpg"
@@ -547,8 +724,9 @@
                         >
                         ,
                         <nuxt-link :to="{ name: 'sporting-art' }" class="internalLinkReverse">sporting art</nuxt-link>,
+                        and
                         <nuxt-link :to="{ name: 'animal-artwork' }" class="internalLinkReverse">animal</nuxt-link>
-                        themes, and  <nuxt-link :to="{ name: 'sculpture' }" class="internalLinkReverse">sculptures</nuxt-link>. Our gallery features both American and European 19th century painters such as
+                        themes and <nuxt-link :to="{ name: 'sculpture' }" class="internalLinkReverse">sculptures</nuxt-link>. Our gallery features both American and European 19th century painters such as
                         <nuxt-link to="john_henry_dolph_art.html" class="internalLinkReverse"
                             >John Henry Dolph</nuxt-link
                         >, <nuxt-link to="george_hetzel.html" class="internalLinkReverse">George Hetzel</nuxt-link>,
@@ -564,7 +742,7 @@
                     </p>
                 </div>
                 <div class="clear">
-                    <ArtworkSlidingImagesSmall />
+                    <ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
                 </div>
                 <div class="breadcrumb">
                     <nuxt-link :to="{ name: 'artists-bios' }">click to view over 250 unique paintings</nuxt-link>
@@ -573,7 +751,7 @@
         </div>
 
         <div style="text-align: center; background-color: #efefde; padding: 24px 12px">
-            <div class="flex_2" style="max-width: 1060px; margin: auto">
+            <!--<div class="flex_2" style="max-width: 1060px; margin: auto">
                 <div>
                     <h2
                         style="
@@ -618,7 +796,7 @@
                         <YouTubeVideo link="https://www.youtube.com/embed/6cJ4bSC_AGw?rel=0" />
                     </div>
                 </div>
-            </div>
+            </div>-->
 
             <div style="max-width: 1200px; margin: 0px auto 0px auto; border-top: 1px solid #dddd85; padding-top: 15px">
                 <div class="flex_wrap" style="align-content: flex-start">
@@ -720,17 +898,11 @@ export default {
                 sold: true,
                 columns: ['title', 'slug', 'gridImage', 'mediumResImage', 'artist'],
             }),
-        }
-    },
-    head() {
-        return {
-            script: [
-                {
-                    src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
-                    async: true,
-                    defer: true,
-                },
-            ],
+            scrollingHomepageImages: await loadGalleryPaintings({
+                $content,
+                scrollingHomepageImage: true,
+                columns: ['title', 'slug', 'gridImage', 'mediumResImage'],
+            }),
         }
     },
     data() {
@@ -804,4 +976,73 @@ export default {
 .home_test span {
     color: #f2f2f2 !important;
 }
+.art_detail_img {
+    max-width: 175px;
+}
+
+.grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr;
+}
+.grid_2 {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr;
+}
+.flex_home_logo_tagline {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
+.flex_home_logo_tagline div {
+    flex: 1;
+}
+
+@media screen and (min-width: 700px) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .grid_2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.flex_3 img {
+    margin: auto;
+    display: block;
+}
+
+.desktop_show {
+    display: none;
+}
+.desktop_hide {
+    display: block;
+}
+@media screen and (min-width: 600px) {
+    .desktop_show {
+        display: flex;
+    }
+    .video-container {
+        /* padding-bottom: 70%; */
+    }
+    .desktop_hide {
+        display: none;
+    }
+}
+.img_full {
+    width: 100%;
+    height: auto;
+}
+@media screen and (max-width: 600px) {
+.flex_wrap .flex_3 {
+    margin-bottom: 1em;
+}
+}
 </style>
+
+<router>
+  {
+    path: '/index2.html',
+  }
+</router>

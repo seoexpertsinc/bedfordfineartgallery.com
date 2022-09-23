@@ -1,11 +1,10 @@
-
 <template>
     <div>
         <div class="container primary">
             <section class="wrapper clearfix">
                 <div class="artwork_header">
-                    <h1>our story</h1>
-                    <h2>Bedford Fine Art Gallery – A totally different fine art gallery that is all about you!</h2>
+                    <h1>Our story. Bedford Fine Art Gallery</h1>
+                    <h2>A totally different fine art gallery that is all about you!</h2>
                     <span class="hr"></span>
                 </div>
 
@@ -14,55 +13,68 @@
                         <nuxt-picture
                         :imgAttrs="{class:'art_detail_img'}"
                             loading="lazy"
-                            src="/Jerry-and-Joan-web.jpg"
+                            src="/joan_jerry22.jpg"
                             width="1200"
                             height="1652"
                             alt=""
-                        />Like you, we (Joan and Jerry Hawk) have worked hard in our professional careers. We both are
-                        professional geologists. We met in 1982 and married in 1987. We started out with nothing
-                        (literally!). Our work ethics, and drive to be the best, have allowed us to live out the
-                        American dream. Like you, we own a beautiful home that we are proud of. Way before we met or
-                        started our careers, however, we both had a love of art.
+                        />We would like to thank the thousands of fellow art-lovers who explore our
+website, join us for email updates via Art Lovers’ Niche, follow us on Instagram,
+and stop to see us at the gallery. Many of you are already familiar with Bedford
+Fine Art Gallery, but we want to take this opportunity to bring you up-to-date.
                     </p>
                     <p>
-                        This is where the story gets interesting. You see, instead of just some run-of-the-mill type
-                        hobby, decorating our house with art became our true passion. Like many that first start out
-                        buying or collecting in the art market, we were a novice 30 years ago. The one thing we did know
-                        for certain was that we both loved antiques and fine art. At that time, we felt fortunate,
-                        however, because there was a fine art expert appraiser/restorer that had a gallery near us. We
-                        quickly found out that our local “art expert” seemed to know everything about every 19th century
-                        artist/painting we would purchase and take to him for an appraisal and restoration.
+                        <strong>Background</strong> – We have always loved art and started collecting over 30 years ago.
+In the beginning, we thought a local art expert would be able to help us with our
+selections. We quickly found out; however, the so-called art expert was not
+honest with us about the paintings we purchased. We stopped seeing this
+individual and figured there had to be a better way to feel safe and trust our
+purchasing decisions. We, therefore, worked hard to buck the typical galleries
+and auction houses by creating a truly unique fine art gallery experience for our
+many customers.
                     </p>
                     <p>
-                        There are over 240,000 listed artists. We, therefore, found it hard to believe someone can be
-                        that knowledgeable about every 19th century artist/painting we brought to them. We quickly began
-                        to suspect this art expert was just telling us what he thinks we wanted to hear. A trip to a
-                        free appraisal day at Christies confirmed our suspicions and we found out that not only did our
-                        local art expert not know everything, but the new “art expert” told us some of the paintings we
-                        purchased were fake.
+                        <strong>Bedford, Pennsylvania</strong> – Joan was born and raised in Bedford, but we spent our
+first 31 years together living closer to Pittsburgh. We always dreamed of owning
+an older home. Long story short, we ended up purchasing our home in Bedford,
+which is on the street where Joan grew up. It was built in 1889 and, after the
+original family was not longer living there, served as a public library (where Joan
+would go to read many books!). From the beginning, we thought our Bedford
+home would be the perfect venue for a fine art gallery. We are also proud that
+Bedford has many great things to offer guests who visit the gallery: The Omni
+Bedford Springs resort, several great B&amp;B’s, many specialty shops and boutiques,
+great restaurants, and the list goes on!
                     </p>
                     <p>
-                        We rose to this challenge, however, and have spent the past 30 years finding solutions to the
-                        intimidating fine art market. Our solutions may have initially started out via the school of
-                        hard knocks, but we quickly turned back toward the roots of our day job – education, hard work
-                        and perseverance (don’t let them wear you down!).
+                        <strong>Technology</strong> – When we were in college in the late ‘70’s, there was one fortran
+computer that used key-punch cards for our computer science class! A lot has
+changed since then and we felt it is important to stay up-to-date with technology.
+Since the beginning of Bedford Fine Art Gallery, we have teamed with website
+design experts and are pleased that our customers find the site easy to navigate,
+full of representative images and videos, and packed with great fine art for sale.
+The proof of this is that a majority of our sales are via the internet to folks that
+were not able to visit the gallery in-person.
                     </p>
-                    <p style="margin-bottom: 1.5em">
-                        Today, we are proud that customers can come visit our 1889 Victorian home/fine art gallery in
-                        beautiful historic Bedford, Pennsylvania or visit our outstanding website. Both venues allow our
-                        customers to fall in love with a painting they will treasure forever. We are honored to have a
-                        great many very smart customers (IT specialists, financial advisors, chocolatiers, doctors,
-                        lawyers, dentists, fortune 500 CEO’s, market securities experts, college professors, home
+                    <p>
+                        <strong>One big community</strong> – In addition to our Art Lovers’ Niche and Instagram
+communities, we also help serve our local community. We are a part of the
+Southern Alleghenies Museum of Art (SAMA). SAMA is a fully-accredited museum
 
-                        improvement consultants, engineers, small business owners, etc.). We are also humbled that our
-                        customers trust us as their guide in purchasing unique fine art that they love. Maybe we are
-                        old-school, but we truly believe in being honest, fair, and reasonable and that only our
-                        customers know what painting speaks to them. In short, we do what we say and really do live our
-                        story.
+that started in 1976 and has five museum locations that serve six counties in
+Pennsylvania. We feel fortunate to be able to help with programing for children’s
+education, the elderly, and our veterans throughout the local communities.
                     </p>
+                    <p style="margin-bottom: 1.5em"><strong>Bottom line</strong> – Again, we would like to thank all our art-lover friends who have
+been with us while we are living the dream! We have worked hard to make
+Bedford Fine Art Gallery the most honest art gallery in the world. We have said it
+before, but it is needs to be said again – are customers are the best! We feel very
+honored when our customers share their many experiences with us, through their
+testimonials that we post on the website. Thank you.</p>
+                </div>
+                <div>
+<CustomerSlidingImages />
                 </div>
 
-                <div class="col_40 artwork">
+                <div class="col_40 artwork" style="display: none;">
                     <div class="video-container2" style="clear: both; margin-bottom: 1.5em">
                     <YouTubeVideo link="https://www.youtube.com/embed/AJdfGyGnrAw?rel=0"/>
 
@@ -89,7 +101,7 @@
                         <AboutSlidingImages />
                     </div>
                 </div>
-                <div class="col_60 artwork_details">
+                <div class="col_60 artwork_details" style="display: none;">
                     <h4>Commitment</h4>
                     <p>
                         For over 50 years, Bedford has always been considered home. We (Jerry and Joan Hawk), have over
@@ -243,6 +255,6 @@
 
 <router>
   {
-    path: '/Gallery-Value.html',
+    path: '/Gallery-Value-New.html',
   }
 </router>
