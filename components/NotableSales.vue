@@ -85,4 +85,16 @@ ul.productGrid2 li {
 .home_test span {
     color: #f2f2f2 !important;
 }
+
+  @media screen and (max-width: 800px) {
+ul.productGrid2 li {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  transition: all 0.8s ease;
+  font-size: 16px;
+  width: 24%;
+  vertical-align: top;
+}
+}
 </style>

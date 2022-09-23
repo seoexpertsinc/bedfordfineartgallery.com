@@ -112,6 +112,24 @@
                 <div style="padding-bottom: 24px">
                     <CustomerSlidingImages />
                 </div>
+                       <div class="home_sales">
+                    <p class="home_thumbnails" style="color: rgba(16, 88, 185, 1); text-align: center">
+                        Bedford Fine Art Gallery is your best resource for finding paintings with that "wow factor",
+                        that are the focal point in any room. The best testimonials to the fine art people have fallen
+                        in love with are our notable sales to many happy customers throughout the United States and in
+                        select locations around the world.
+                    </p>
+
+                    <h2
+                        id="testimonialsAnchor"
+                        class="reverse_header"
+                        style="margin-top: 0px; color: rgba(16, 88, 185, 1)"
+                    >
+                        Some notable sales to many happy customers
+                    </h2>
+                </div>
+
+                <NotableSales :sold-paintings="soldPaintings" />
 
                 <div class="flex_wrap" style="clear: both; padding-top: 15px">
                     <div class="flex_3">
@@ -131,7 +149,8 @@
                             <YouTubeVideo link="https://www.youtube.com/embed/iQuzsnwvbM8?rel=0" />
                         </div>
                         <div class="breadcrumb desktop_hide" style="margin-top: 15px; margin-bottom: 15px">
-                            <a href="Artists--Bios.html">Show me a painting I will love</a>
+                            <nuxt-link :to="{ name: 'artists-bios' }"
+                        >Show me a painting I will love</nuxt-link>
                         </div>
                     </div>
                     <div class="flex_3">
@@ -151,7 +170,8 @@
                             <YouTubeVideo link="https://www.youtube.com/embed/oY3C5t3A1zQ?rel=0" />
                         </div>
                         <div class="breadcrumb desktop_hide" style="margin-top: 15px; margin-bottom: 15px">
-                            <a href="art_lovers_niche.htm">Join us at art lovers' niche<br />don't miss out!</a>
+                            <nuxt-link :to="{ name: 'art-lovers-niche' }"
+                        >Join us at art lovers' niche<br />don't miss out!</nuxt-link>
                         </div>
                     </div>
                     <div class="flex_3">
@@ -217,24 +237,7 @@
 
                 <ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
 
-                <div class="home_sales">
-                    <p class="home_thumbnails" style="color: rgba(16, 88, 185, 1); text-align: center">
-                        Bedford Fine Art Gallery is your best resource for finding paintings with that "wow factor",
-                        that are the focal point in any room. The best testimonials to the fine art people have fallen
-                        in love with are our notable sales to many happy customers throughout the United States and in
-                        select locations around the world.
-                    </p>
 
-                    <h2
-                        id="testimonialsAnchor"
-                        class="reverse_header"
-                        style="margin-top: 0px; color: rgba(16, 88, 185, 1)"
-                    >
-                        Some notable sales to many happy customers
-                    </h2>
-                </div>
-
-                <NotableSales :sold-paintings="soldPaintings" />
             </section>
         </div>
 
@@ -739,7 +742,7 @@
                     </p>
                 </div>
                 <div class="clear">
-                    <ArtworkSlidingImagesSmall />
+                    <ArtworkSlidingImagesHome :scrolling-homepage-images="scrollingHomepageImages" />
                 </div>
                 <div class="breadcrumb">
                     <nuxt-link :to="{ name: 'artists-bios' }">click to view over 250 unique paintings</nuxt-link>
@@ -1030,6 +1033,11 @@ export default {
 .img_full {
     width: 100%;
     height: auto;
+}
+@media screen and (max-width: 600px) {
+.flex_wrap .flex_3 {
+    margin-bottom: 1em;
+}
 }
 </style>
 

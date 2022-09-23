@@ -11,6 +11,38 @@
             <div><nuxt-picture src="/customer-images/8.jpg" /></div>
             <div><nuxt-picture src="/customer-images/9.jpg" /></div>
             <div><nuxt-picture src="/customer-images/10.jpg" /></div>
+             <div><nuxt-picture src="/customer-images/11.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/12.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/13.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/14.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/15.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/16.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/17.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/18.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/19.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/20.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/21.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/22.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/23.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/24.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/25.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/26.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/27.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/28.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/29.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/30.jpg" /></div>
+             <div><nuxt-picture src="/customer-images/31.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/32.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/33.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/34.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/35.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/36.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/37.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/38.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/39.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/40.jpg" /></div>
+             <div><nuxt-picture src="/customer-images/41.jpg" /></div>
+            <div><nuxt-picture src="/customer-images/42.jpg" /></div>
         </VueSlickCarousel>
     </div>
 </template>
@@ -36,6 +68,32 @@ export default {
                 speed: 9000,
                 autoplaySpeed: 2000,
                 cssEase: 'linear',
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 3,
+                            infinite: true,
+                            dots: true,
+                        },
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 2,
+                            initialSlide: 2,
+                        },
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
+                        },
+                    },
+                ],
             },
         }
     },
