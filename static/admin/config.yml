@@ -312,3 +312,30 @@ collections:
                 required: false,
                 hint: 'The keywords for this painting separated by commas',
             }
+    - name: 'testimonials'
+      label: 'Testimonials'
+      label_singular: Testimonial
+      editor:
+          preview: false
+      format: 'json'
+      folder: 'cms/testimonials'
+      create: true
+      fields:
+          - {
+                label: 'Name',
+                name: 'name',
+                widget: string,
+                required: true,
+            }
+          - {
+                label: 'Long Testimonial',
+                name: 'longTestimonial',
+                widget: text,
+                required: true,
+            }
+          - {
+                label: 'Short Testimonial',
+                name: 'shortTestimonial',
+                widget: text,
+                required: true,
+            }
