@@ -1,40 +1,41 @@
 {
-   "artist" : "barton_stone_hays_art-html",
-   "body" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still-life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana \"pioneers\" (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe's \"Uncle Tom's Cabin\", painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city's leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  His still-life paintings are much sought-after and the Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays' still-life paintings in the country. \n\nHigh auction record for this artist is $9,000.",
-   "categories" : [],
-   "dimensions" : "Oil on canvas, 11.5 x 15.5 inches / Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/barton_stone_hays_artwork_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/barton_stone_hays_artwork_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/barton_stone_hays_artwork.jpg",
-   "highResImageHeight" : 2198,
-   "highResImageWidth" : 2761,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $7,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/barton_stone_hays_artwork_small.jpg",
-   "mediumResImageHeight" : 1145,
-   "mediumResImageWidth" : 1438,
-   "metaDescription" : "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
-   "metaKeywords" : "",
-   "metaTitle" : "Barton Stone Hays Painting - Tabletop Still-Life - 19th Century American Fine Art",
-   "paintingHeight" : "19",
-   "paintingWidth" : "25",
-   "slug" : "barton_stone_hays_tabletop-html",
-   "status" : "None",
-   "title" : "Tabletop Still-life",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/xLZn9mat5GU?rel=0"
+  "paintingWidth": "25",
+  "body": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826.  He was self-taught and was known, first for his portrait paintings, and later for his landscape and still-life paintings.  In the early 1850s Hays migrated to Northern Indiana, where he made a successful career by painting portraits of the Indiana \"pioneers\" (Indiana having been admitted as the 19th state only a few years earlier).  He was a fervent abolitionist and, after having read Harriet Beecher Stowe's \"Uncle Tom's Cabin\", painted a panorama depicting the most vivid scenes from that novel.  That panorama, and a second one, was met with much acclaim.  In 1858 Hays moved to Indianapolis where he became one of the city's leading painters of portraits and landscapes.  In 1882, after moving to Minneapolis, Minnesota, Hays concentrated on still-life painting, for which he is best known.  His still-life paintings are small, realistic, uncluttered compositions of fruit set on a table-top, against a muted background.  His still-life paintings are much sought-after and the Bedford Fine Art Gallery is proud to have the best collection of Barton Stone Hays' still-life paintings in the country. \n\nHigh auction record for this artist is $9,000.",
+  "highResImageHeight": 2198,
+  "artist": "barton_stone_hays_art-html",
+  "highResImageWidth": 2761,
+  "paintingHeight": "19",
+  "slug": "barton_stone_hays_tabletop-html",
+  "dimensions": "Oil on canvas, 11.5 x 15.5 inches / Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/xLZn9mat5GU?rel=0",
+  "mediumResImage": "/cms-uploads/barton_stone_hays_artwork_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Barton Stone Hays Painting - Tabletop Still-Life - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/barton_stone_hays_artwork_grid.jpg",
+  "mediumResImageWidth": 1438,
+  "mediumResImageHeight": 1145,
+  "metaDescription": "Barton Stone Hays was born in Greenville, Ohio on April 5 1826. He was self-taught and was known, first for his portrait paintings, and later for his landscape and s",
+  "scrollingHomepageImage": true,
+  "title": "Tabletop Still-life",
+  "galleryCropImage": "/cms-uploads/barton_stone_hays_artwork_grid_gallery_crop.jpg",
+  "categories": [],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/barton_stone_hays_artwork.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $7,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
