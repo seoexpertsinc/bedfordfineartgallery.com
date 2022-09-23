@@ -1,42 +1,43 @@
 {
-   "artist" : "charles_augustus_lasar-html",
-   "body" : "Charles Augustus Lasar, known as “Shorty” Lasar was a Johnstown, Pennsylvania-born artist.  As a young man, he traveled to Paris, France to study art under painter-sculptor Jean-Leon Gerome, and Paris was to become his home for the remainder of his life.  Lasar was spending a summer in Brittany with a fellow Pennsylvania artist, Alexander Harrison, when some American girls asked him to teach them, which he did.  From this inauspicious beginning sprang his school, which became one of the best in Paris.  Located in the Montparnasse area of Paris, he taught primarily English-speaking women artists landscape painting en plein air., and held his classes from Auvers to Normandy in France, to Belgium, Holland, and Salisbury, England.  His notable students included Minerva Chapman, Violet Oakley, and Cecilia Beaux.  In the summer of 1881 Beaux studied with Lasar in Concarneau, Brittany, France.  She described him as “a funny little man with intensely bright eyes and dark hair, standing around—and his legs about two feet long”.  Chapman’s bold, plein-air painting style was heavily influenced by Lasar.  Oakley had studied with him in England.  Mary Godsall, the English actress/artist was also a student of Lasar’s in Paris, as were American artists Alice Beckingham, Allegra Eggleston, Charlotte Belle Emerson, Alice DeWolf Kellogg and Carlotta Blaurock Venatta.  In 1891, he patented his Lasar’s Angle Measurement Devise to help artist’s draw angles accurately.  In 1910, Lasar published his Practical Hints for Art Students.  Lasar exhibited at the Paris Salon, 1885-87, 1889; Pennsylvania Academy of the Fine Arts Ann.; 1885-1903 (4 times); Exposition Universelle, Paris (1889); Salons of the Société Nationale des Beaux Arts, 1890; Art Institute of Chicago, 1902, 1908. ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 18 x 24 inches/Signed lower left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/lasar_landscape_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/lasar_landscape_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/lasar_landscape_full.jpg",
-   "highResImageHeight" : 2029,
-   "highResImageWidth" : 2591,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $5,200"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/lasar_landscape_small.jpg",
-   "mediumResImageHeight" : 812,
-   "mediumResImageWidth" : 1037,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "21",
-   "paintingWidth" : "27",
-   "slug" : "charles_augustus_lasar_landscape-html",
-   "status" : "New",
-   "title" : "French Landscape",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "27",
+  "body": "Charles Augustus Lasar, known as “Shorty” Lasar was a Johnstown, Pennsylvania-born artist.  As a young man, he traveled to Paris, France to study art under painter-sculptor Jean-Leon Gerome, and Paris was to become his home for the remainder of his life.  Lasar was spending a summer in Brittany with a fellow Pennsylvania artist, Alexander Harrison, when some American girls asked him to teach them, which he did.  From this inauspicious beginning sprang his school, which became one of the best in Paris.  Located in the Montparnasse area of Paris, he taught primarily English-speaking women artists landscape painting en plein air., and held his classes from Auvers to Normandy in France, to Belgium, Holland, and Salisbury, England.  His notable students included Minerva Chapman, Violet Oakley, and Cecilia Beaux.  In the summer of 1881 Beaux studied with Lasar in Concarneau, Brittany, France.  She described him as “a funny little man with intensely bright eyes and dark hair, standing around—and his legs about two feet long”.  Chapman’s bold, plein-air painting style was heavily influenced by Lasar.  Oakley had studied with him in England.  Mary Godsall, the English actress/artist was also a student of Lasar’s in Paris, as were American artists Alice Beckingham, Allegra Eggleston, Charlotte Belle Emerson, Alice DeWolf Kellogg and Carlotta Blaurock Venatta.  In 1891, he patented his Lasar’s Angle Measurement Devise to help artist’s draw angles accurately.  In 1910, Lasar published his Practical Hints for Art Students.  Lasar exhibited at the Paris Salon, 1885-87, 1889; Pennsylvania Academy of the Fine Arts Ann.; 1885-1903 (4 times); Exposition Universelle, Paris (1889); Salons of the Société Nationale des Beaux Arts, 1890; Art Institute of Chicago, 1902, 1908. ",
+  "highResImageHeight": 2029,
+  "artist": "charles_augustus_lasar-html",
+  "highResImageWidth": 2591,
+  "paintingHeight": "21",
+  "slug": "charles_augustus_lasar_landscape-html",
+  "dimensions": "Oil on canvas, 18 x 24 inches/Signed lower left",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/lasar_landscape_small.jpg",
+  "gridImageWidth": 392,
+  "status": "New",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/lasar_landscape_grid.jpg",
+  "mediumResImageWidth": 1037,
+  "mediumResImageHeight": 812,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "scrollingHomepageImage": true,
+  "title": "French Landscape",
+  "galleryCropImage": "/cms-uploads/lasar_landscape_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/lasar_landscape_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $5,200"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
