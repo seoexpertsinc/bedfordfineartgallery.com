@@ -24,7 +24,7 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
@@ -33,6 +33,7 @@
 <script>
 import { loadPaintings } from '~/libs/paintings'
 import ArtistPreview from '~/components/ArtistPreview'
+import { loadShortTestimonials } from '~/libs/testimonials'
 
 export default {
     components: { ArtistPreview },
@@ -46,6 +47,7 @@ export default {
         return {
             artists,
             paintingToGridImage: await loadPaintings({ $content, paintingSlugs }),
+            testimonials: await loadShortTestimonials($content),
         }
     },
 }

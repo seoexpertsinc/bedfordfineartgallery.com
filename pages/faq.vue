@@ -715,14 +715,21 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
 </template>
 
 <script>
+import { loadShortTestimonials } from '~/libs/testimonials'
+
 export default {
+    async asyncData({ $content }) {
+        return {
+            testimonials: await loadShortTestimonials($content),
+        }
+    },
     data() {
         return {
             readMore: false,

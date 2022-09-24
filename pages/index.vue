@@ -90,7 +90,7 @@
                 </h2>
 
                 <div class="home_test">
-                    <TestimonialsScroll />
+                    <TestimonialsScroll :testimonials="testimonials" />
                 </div>
                 <nuxt-link
                     :to="{ name: 'testimonials' }"
@@ -867,6 +867,7 @@
 import NotableSales from '~/components/NotableSales'
 import YouTubeVideo from '~/components/YouTubeVideo'
 import { loadGalleryPaintings } from '~/libs/paintings'
+import { loadShortTestimonials } from '~/libs/testimonials'
 
 const defaultConfig = {
     displayAmount: 4,
@@ -903,6 +904,7 @@ export default {
                 scrollingHomepageImage: true,
                 columns: ['title', 'slug', 'gridImage', 'mediumResImage'],
             }),
+            testimonials: await loadShortTestimonials($content),
         }
     },
     data() {

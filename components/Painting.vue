@@ -116,7 +116,7 @@
                     >
                         <section class="wrapper" style="width: 90%; max-width: 860px; margin: auto">
                             <div class="home_test">
-                                <TestimonialsScroll />
+                                <TestimonialsScroll :testimonials="testimonials"/>
                             </div>
                             <!--#include virtual="testimonials_scroll.html"-->
                         </section>
@@ -202,6 +202,10 @@ export default {
     props: {
         painting: {
             type: Object,
+            required: true,
+        },
+        testimonials: {
+            type: Array,
             required: true,
         },
     },

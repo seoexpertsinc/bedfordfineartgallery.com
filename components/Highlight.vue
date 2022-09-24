@@ -33,7 +33,7 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
@@ -48,7 +48,11 @@ export default {
 		highlight: {
 			type: Object,
 			required: true,
-		}
+		},
+        testimonials: {
+            type: Array,
+            required: true,
+        }
 	},
 }
 </script>

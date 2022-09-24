@@ -1,8 +1,8 @@
 <template>
-    <Painting v-if="type === 'painting'" :painting="object" />
-    <Highlight v-else-if="type === 'highlight'" :highlight="object" />
-    <ArtistBio v-else-if="type === 'artist'" :artist="object" />
-    <ArtLoversNicheArticle v-else-if="type === 'artLoversNicheArticle'" :art-lovers-niche-article="object" />
+    <Painting v-if="type === 'painting'" :painting="object" :testimonials="testimonials" />
+    <Highlight v-else-if="type === 'highlight'" :highlight="object" :testimonials="testimonials"/>
+    <ArtistBio v-else-if="type === 'artist'" :artist="object" :testimonials="testimonials"/>
+    <ArtLoversNicheArticle v-else-if="type === 'artLoversNicheArticle'" :art-lovers-niche-article="object" :testimonials="testimonials"/>
 </template>
 
 <script>
@@ -12,10 +12,12 @@ import ArtistBio from '~/components/ArtistBio'
 import Painting from '~/components/Painting'
 import { urlSlugToSlug } from '~/libs/slug'
 import { loadPaintings } from '~/libs/paintings'
+import { loadShortTestimonials } from '~/libs/testimonials'
 
 export default {
     components: { Highlight, ArtLoversNicheArticle, ArtistBio, Painting },
     async asyncData({ $content, params, error }) {
+        const testimonials = await loadShortTestimonials($content)
         let object, type
         try {
             try {
@@ -69,7 +71,7 @@ export default {
             error({ statusCode: 404, message: 'Page not found' })
         }
 
-        return { object, type }
+        return { object, type, testimonials }
     },
     head() {
         const script =
