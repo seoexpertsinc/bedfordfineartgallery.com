@@ -46,7 +46,7 @@
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
                                 <video width="100%" height="auto" autoplay loop>
-                                    <source src="~/assets/videos/scrolling_video.mp4" type="video/mp4" />
+                                    <source src="/scrolling_video.mp4" type="video/mp4" />
 
                                     Your browser does not support the video tag.
                                 </video>
