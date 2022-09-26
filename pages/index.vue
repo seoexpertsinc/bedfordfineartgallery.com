@@ -45,12 +45,7 @@
                     <div>
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
-                                <YouTubeVideo link="https://www.youtube.com/embed/xQjafbqEYWI?controls=0&autoplay=1&loop=1" />
-                                <!---<video width="100%" height="auto" autoplay loop>
-                                    <source src="/scrolling_video.mp4" type="video/mp4" />
-
-                                    Your browser does not support the video tag.
-                                </video>-->
+                                <iframe src="https://www.youtube.com/embed/xQjafbqEYWI?playlist=xQjafbqEYWI&loop=1&rel=0&autoplay=1&mute=1&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
                             </div>
                         </div>
                         <div class="breadcrumb" style="margin-top: 10px">
