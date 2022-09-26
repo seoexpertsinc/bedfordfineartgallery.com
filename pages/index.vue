@@ -45,11 +45,12 @@
                     <div>
                         <div style="max-width: 550px; margin: auto">
                             <div class="video-container">
-                                <video width="100%" height="auto" autoplay loop>
+                                <YouTubeVideo link="https://www.youtube.com/embed/xQjafbqEYWI?controls=0&autoplay=1&loop=1" />
+                                <!---<video width="100%" height="auto" autoplay loop>
                                     <source src="/scrolling_video.mp4" type="video/mp4" />
 
                                     Your browser does not support the video tag.
-                                </video>
+                                </video>-->
                             </div>
                         </div>
                         <div class="breadcrumb" style="margin-top: 10px">
@@ -1037,8 +1038,8 @@ export default {
     height: auto;
 }
 @media screen and (max-width: 600px) {
-.flex_wrap .flex_3 {
-    margin-bottom: 1em;
-}
+    .flex_wrap .flex_3 {
+        margin-bottom: 1em;
+    }
 }
 </style>
