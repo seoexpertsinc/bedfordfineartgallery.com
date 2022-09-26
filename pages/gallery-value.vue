@@ -37,7 +37,7 @@ many customers.
 first 31 years together living closer to Pittsburgh. We always dreamed of owning
 an older home. Long story short, we ended up purchasing our home in Bedford,
 which is on the street where Joan grew up. It was built in 1889 and, after the
-original family was not longer living there, served as a public library (where Joan
+original family was no longer living there, served as a public library (where Joan
 would go to read many books!). From the beginning, we thought our Bedford
 home would be the perfect venue for a fine art gallery. We are also proud that
 Bedford has many great things to offer guests who visit the gallery: The Omni

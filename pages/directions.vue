@@ -186,11 +186,12 @@
                             padding-bottom: 6px;
                             border-bottom: 1px solid #580406;
                             margin-top: 18px;
+                            display: none;
                         "
                     >
                         Downtown Bedford, Inc. - Initial interview
                     </h4>
-                    <div class="video-container" style="clear: both">
+                    <div class="video-container" style="clear: both; display: none;">
                         <iframe
                             src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDowntownBedford%2Fvideos%2F516727528841595%2F&show_text=0&width=560&mute=0"
                             width="560"
@@ -258,7 +259,7 @@
                                 alt=""
                             /><br />Member of the Bedford County Visitors Bureau</a
                         >
-                        <p style="margin-top: 16px; margin-bottom: 0px; padding-bottom: 6px">
+                        <p style="margin-top: 16px; margin-bottom: 0px; padding-bottom: 6px; display:none;">
                             Bedford Fine Art Gallery is a member of the
                             <a
                                 style="color: #000000"

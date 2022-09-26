@@ -9,7 +9,7 @@
                 </div>
 
                 <div class="headerTagline">
-                    <p>Enriching today’s décor with exceptional paintings from the past</p>
+                    <p>The most honest art gallery in the world.</p>
                 </div>
             </header>
 
