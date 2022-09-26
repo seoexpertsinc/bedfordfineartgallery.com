@@ -9,7 +9,7 @@
 
                 <div class="highlights_thumbnail">
                     <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="poole_grid2.jpg"
                         width="392"
@@ -50,7 +50,7 @@
 
                 <div class="highlights_thumbnail">
                       <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="wall_grid.jpg"
                         width="392"
@@ -88,7 +88,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="palmer_grid2.jpg"
                         width="392"
@@ -128,7 +128,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="kaelin_grid.jpg"
                         width="392"
@@ -176,7 +176,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="jones_grid.jpg"
                         width="392"
@@ -221,7 +221,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="hays12_grid.jpg"
                         width="392"
@@ -261,7 +261,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="moser_grid.jpg"
                         width="392"
@@ -300,7 +300,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="thieme_grid.jpg"
                         width="392"
@@ -330,7 +330,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="marr_grid.jpg"
                         width="392"
@@ -370,7 +370,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="crane_grid.jpg"
                         width="392"
@@ -415,7 +415,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="mulhaupt_grid.jpg"
                         width="392"
@@ -458,7 +458,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="linford_grid.jpg"
                         width="392"
@@ -500,7 +500,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="black_grid.jpg"
                         width="392"
@@ -538,7 +538,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="gruppe_grid.jpg"
                         width="392"
@@ -581,7 +581,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="hgs_grid.jpg"
                         width="392"
@@ -683,7 +683,7 @@
 
                 <div class="highlights_thumbnail">
                      <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                         loading="lazy"
                         src="stanlaws_grid.jpg"
                         width="392"
@@ -715,14 +715,21 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
 </template>
 
 <script>
+import { loadShortTestimonials } from '~/libs/testimonials'
+
 export default {
+    async asyncData({ $content }) {
+        return {
+            testimonials: await loadShortTestimonials($content),
+        }
+    },
     data() {
         return {
             readMore: false,

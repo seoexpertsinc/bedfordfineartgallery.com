@@ -12,7 +12,7 @@
                 <div class="lead_callout">
                     <p>
                         <nuxt-picture
-                        :imgAttrs="{class:'art_detail_img'}"
+                        :img-attrs="{class:'art_detail_img'}"
                             loading="lazy"
                             src="/Jerry-and-Joan-web.jpg"
                             width="1200"
@@ -202,11 +202,23 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
 </template>
+
+<script>
+    import { loadShortTestimonials } from '~/libs/testimonials'
+
+    export default {
+        async asyncData({ $content }) {
+            return {
+                testimonials: await loadShortTestimonials($content),
+            }
+        },
+    }
+</script>
 
 <style>
 .about_slideshow .slick-prev::before,

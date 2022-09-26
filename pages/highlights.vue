@@ -19,7 +19,7 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
@@ -28,13 +28,15 @@
 <script>
 import ArtLoversNicheArticlePreview from '~/components/ArtLoversNicheArticlePreview';
 import HighlightPreview from '~/components/HighlightPreview.vue'
+import { loadShortTestimonials } from '~/libs/testimonials'
 
 export default {
     components: { ArtLoversNicheArticlePreview, HighlightPreview },
     async asyncData({ $content }) {
         return {
             highlights: await $content("articles").sortBy('date', 'desc').fetch(),
-            artLoversNicheArticles: await $content("artLoversNicheArticles").sortBy('date', 'desc').fetch()
+            artLoversNicheArticles: await $content("artLoversNicheArticles").sortBy('date', 'desc').fetch(),
+            testimonials: await loadShortTestimonials($content),
         };
     },
 }

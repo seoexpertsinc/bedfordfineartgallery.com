@@ -70,22 +70,6 @@
                         </li>
                     </ul>
                 </div>
-
-                <style scoped>
-                    .lead_callout img {
-                        display: block;
-
-                        max-width: 300px;
-                        margin: 0px auto 10px auto;
-                    }
-
-                    .lead_callout p {
-                        font-size: 1.1em;
-
-                        line-height: 1.8em;
-                        margin-bottom: 1em;
-                    }
-                </style>
             </section>
         </div>
         <div
@@ -93,11 +77,39 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials" />
             </section>
         </div>
     </div>
 </template>
+
+<script>
+import { loadShortTestimonials } from '~/libs/testimonials'
+
+export default {
+    async asyncData({ $content }) {
+        return {
+            testimonials: await loadShortTestimonials($content),
+        }
+    },
+}
+</script>
+
+<style scoped>
+.lead_callout img {
+    display: block;
+
+    max-width: 300px;
+    margin: 0px auto 10px auto;
+}
+
+.lead_callout p {
+    font-size: 1.1em;
+
+    line-height: 1.8em;
+    margin-bottom: 1em;
+}
+</style>
 
 <router>
   {

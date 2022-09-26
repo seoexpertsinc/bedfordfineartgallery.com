@@ -90,7 +90,7 @@
                 </h2>
 
                 <div class="home_test">
-                    <TestimonialsScroll />
+                    <TestimonialsScroll :testimonials="testimonials" />
                 </div>
                 <nuxt-link
                     :to="{ name: 'testimonials' }"
@@ -249,7 +249,7 @@
                 </h2>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -271,7 +271,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -297,7 +297,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -322,7 +322,7 @@
                 </div>
 
                 <nuxt-picture
-                    :imgAttrs="{ class: 'star_img' }"
+                    :img-attrs="{ class: 'star_img' }"
                     loading="lazy"
                     src="star_reviews.png"
                     width="1566"
@@ -544,7 +544,7 @@
                     <div class="artwork leadPhoto">
                         <nuxt-link to="Artists--Bios.html"
                             ><nuxt-picture
-                                :imgAttrs="{ class: 'art_detail_img' }"
+                                :img-attrs="{ class: 'art_detail_img' }"
                                 loading="lazy"
                                 class="art_detail"
                                 src="gallery_logo.jpg"
@@ -867,6 +867,7 @@
 import NotableSales from '~/components/NotableSales'
 import YouTubeVideo from '~/components/YouTubeVideo'
 import { loadGalleryPaintings } from '~/libs/paintings'
+import { loadShortTestimonials } from '~/libs/testimonials'
 
 const defaultConfig = {
     displayAmount: 4,
@@ -903,6 +904,7 @@ export default {
                 scrollingHomepageImage: true,
                 columns: ['title', 'slug', 'gridImage', 'mediumResImage'],
             }),
+            testimonials: await loadShortTestimonials($content),
         }
     },
     data() {
@@ -1040,9 +1042,3 @@ export default {
 }
 }
 </style>
-
-<router>
-  {
-    path: '/index.html',
-  }
-</router>

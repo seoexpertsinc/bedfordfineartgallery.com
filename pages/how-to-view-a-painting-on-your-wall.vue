@@ -18,7 +18,7 @@
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
                             <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_1.jpg"
@@ -27,7 +27,7 @@
                         alt="Upload a photo of your room"
                     />
                      <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_23.jpg"
@@ -56,7 +56,7 @@
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
                             <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_30.jpg"
@@ -65,7 +65,7 @@
                         alt="Define the area on which you want the painting to be placed"
                     />
                             <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_25.jpg"
@@ -115,7 +115,7 @@
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
                             <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_27.jpg"
@@ -124,7 +124,7 @@
                         alt="preview artwork on the wall"
                     />
                       <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_28.jpg"
@@ -160,7 +160,7 @@
                     <div class="step_content step_flex">
                         <div class="step_flex_img">
                              <nuxt-picture
-                        :imgAttrs="{class:'wall_img'}"
+                        :img-attrs="{class:'wall_img'}"
                         loading="lazy"
                         style="margin-bottom: 12px"
                         src="artplacer_29.jpg"
@@ -192,11 +192,23 @@
             style="padding-top: 24px; width: 100%; margin: 0px auto; background-color: rgba(16, 88, 185, 1)"
         >
             <section class="wrapper" style="max-width: 860px; margin: auto">
-                <TestimonialsScroll />
+                <TestimonialsScroll :testimonials="testimonials"/>
             </section>
         </div>
     </div>
 </template>
+
+<script>
+    import { loadShortTestimonials } from '~/libs/testimonials'
+
+    export default {
+        async asyncData({ $content }) {
+            return {
+                testimonials: await loadShortTestimonials($content),
+            }
+        },
+    }
+</script>
 
 <style scoped>
 .step_container {
