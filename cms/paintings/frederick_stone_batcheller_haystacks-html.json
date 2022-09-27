@@ -1,42 +1,42 @@
 {
-   "artist" : "frederick_stone_batcheller_artwork-html",
-   "body" : "Batcheller was born in the fledgling industrial city of Providence, Rhode Island.  As Providence was growing into a major industrial center, Batcheller, along with fellow artists (George Whitaker, Edward Bannister, James Lewin, John Arnold, Charles Stetson, Thomas Robinson, and Marcus Waterman), were molding it into an eastern cultural center.  Together they formed The Group of 1855 to promote art and culture in Providence.  Known primarily for his beautifully detailed still-lifes, he had begun his career as a sculptor, having apprenticed as a youth with Providence marble cutters, Tingley Brothers.  His foray into painting apparently coincided with the inception of The Group of 1855.  He was known for his “moodiness” and during periods of melancholy he would confine himself to his studio with his violin, not unlike the fictional sleuth, Sherlock Holmes.  This quirk led his friend George Whitaker to call him “the \"Romantic\".  His mood swings did not hamper his art, but perhaps even enhanced it—his still-lifes are among the best of those produced during that time.  Batcheller, with Sydney Burleigh, George Whitaker, among others, was a founder of the Providence Art Club in 1880, the nation's second-oldest art club, only after the Salmagundi Club in New York City.  He exhibited his still-lifes there, in addition to some of his landscapes.  A skilled artist and well respected by his contemporaries, Batcheller never attained the same level of recognition as his friends.  Nonetheless, his paintings are treasures waiting to be rediscovered by those with a discerning eye. ",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 15.25 x 23.25 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/batcheller_haystacks_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/batcheller_haystacks_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/batcheller_haystacks_full.jpg",
-   "highResImageHeight" : 2829,
-   "highResImageWidth" : 3922,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $3,600"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/batcheller_haystacks_small.jpg",
-   "mediumResImageHeight" : 743,
-   "mediumResImageWidth" : 1030,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "22",
-   "paintingWidth" : "30",
-   "slug" : "frederick_stone_batcheller_haystacks-html",
-   "status" : "New",
-   "title" : "Haystacks with Pumpkins",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "30",
+  "body": "Batcheller was born in the fledgling industrial city of Providence, Rhode Island.  As Providence was growing into a major industrial center, Batcheller, along with fellow artists (George Whitaker, Edward Bannister, James Lewin, John Arnold, Charles Stetson, Thomas Robinson, and Marcus Waterman), were molding it into an eastern cultural center.  Together they formed The Group of 1855 to promote art and culture in Providence.  Known primarily for his beautifully detailed still-lifes, he had begun his career as a sculptor, having apprenticed as a youth with Providence marble cutters, Tingley Brothers.  His foray into painting apparently coincided with the inception of The Group of 1855.  He was known for his “moodiness” and during periods of melancholy he would confine himself to his studio with his violin, not unlike the fictional sleuth, Sherlock Holmes.  This quirk led his friend George Whitaker to call him “the \"Romantic\".  His mood swings did not hamper his art, but perhaps even enhanced it—his still-lifes are among the best of those produced during that time.  Batcheller, with Sydney Burleigh, George Whitaker, among others, was a founder of the Providence Art Club in 1880, the nation's second-oldest art club, only after the Salmagundi Club in New York City.  He exhibited his still-lifes there, in addition to some of his landscapes.  A skilled artist and well respected by his contemporaries, Batcheller never attained the same level of recognition as his friends.  Nonetheless, his paintings are treasures waiting to be rediscovered by those with a discerning eye. ",
+  "highResImageHeight": 2829,
+  "artist": "frederick_stone_batcheller_artwork-html",
+  "highResImageWidth": 3922,
+  "paintingHeight": "22",
+  "slug": "frederick_stone_batcheller_haystacks-html",
+  "dimensions": "Oil on canvas, 15.25 x 23.25 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/batcheller_haystacks_small.jpg",
+  "gridImageWidth": 392,
+  "status": "New",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/batcheller_haystacks_grid.jpg",
+  "mediumResImageWidth": 1030,
+  "mediumResImageHeight": 743,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "title": "Haystacks with Pumpkins",
+  "galleryCropImage": "/cms-uploads/batcheller_haystacks_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/batcheller_haystacks_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $4,600"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
