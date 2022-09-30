@@ -240,6 +240,7 @@ collections:
             name: "additionalLink"
             widget: "object"
             summary: '{{fields.text}} -> {{fields.link}}'
+            required: false
             fields:
                 - { label: 'Text', name: 'text', widget: 'string' }
                 - { label: 'Link', name: 'link', widget: 'string' }
