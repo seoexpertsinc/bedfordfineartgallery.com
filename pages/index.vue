@@ -903,6 +903,17 @@ export default {
             testimonials: await loadShortTestimonials($content),
         }
     },
+    head() {
+        return {
+            script: [
+                {
+                    src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
+                    async: true,
+                    defer: true,
+                },
+            ],
+        }
+    },
     data() {
         return {
             readMore: false,
