@@ -1,42 +1,42 @@
 {
-   "artist" : "max_friedrich_ferdinand_rabes_artwork-html",
-   "body" : "Rabes was born in Samter, Poland, but the family moved to Stargard/Pomerania in 1870.  There is currently little biographical information available for him, but he is known to have he studied in Berlin under artist Paul Graeb and had apprenticed under decorative painter Paul Borgman.  Rabe loved to travel and spent little time in Germany.  He traveled throughout Europe and Scandinavia and the Orient.  He had a fascination with the Orient, especially Cairo, Egypt, where and he painted numerous scenes there, capturing the people and scenery.  In order to subsidize his travels, Rabe earned money by painting murals for wealthy Italian patrons and painting stage sets for theaters.  He was a member of the Association of Berlin Artists and the Munich Artists Association.\n\nHigh auction record for this artist is $67,000. ",
-   "categories" : [
-      "Genre"
-   ],
-   "dimensions" : "Oil on canvas, 30.5 x 22.5 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/rabes_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/rabes_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/rabes_full.jpg",
-   "highResImageHeight" : 3075,
-   "highResImageWidth" : 3683,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $6,500"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/rabes_small.jpg",
-   "mediumResImageHeight" : 807,
-   "mediumResImageWidth" : 967,
-   "metaDescription" : "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
-   "metaKeywords" : "",
-   "metaTitle" : "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
-   "paintingHeight" : "30",
-   "paintingWidth" : "38.5",
-   "slug" : "max_friedrich_ferdinand_rabes_woman_on_bench-html",
-   "status" : "None",
-   "title" : "Young Woman Sitting on a Bench",
-   "youtubeEmbedLink" : ""
+  "paintingWidth": "38.5",
+  "body": "Rabes was born in Samter, Poland, but the family moved to Stargard/Pomerania in 1870.  There is currently little biographical information available for him, but he is known to have he studied in Berlin under artist Paul Graeb and had apprenticed under decorative painter Paul Borgman.  Rabe loved to travel and spent little time in Germany.  He traveled throughout Europe and Scandinavia and the Orient.  He had a fascination with the Orient, especially Cairo, Egypt, where and he painted numerous scenes there, capturing the people and scenery.  In order to subsidize his travels, Rabe earned money by painting murals for wealthy Italian patrons and painting stage sets for theaters.  He was a member of the Association of Berlin Artists and the Munich Artists Association.\n\nHigh auction record for this artist is $67,000. ",
+  "highResImageHeight": 3075,
+  "artist": "max_friedrich_ferdinand_rabes_artwork-html",
+  "highResImageWidth": 3683,
+  "paintingHeight": "30",
+  "slug": "max_friedrich_ferdinand_rabes_woman_on_bench-html",
+  "dimensions": "Oil on canvas, 30.5 x 22.5 inches/Signed lower right",
+  "featured": false,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "",
+  "mediumResImage": "/cms-uploads/rabes_small.jpg",
+  "gridImageWidth": 392,
+  "status": "Hold",
+  "metaTitle": "19th Century Paintings - Bedford Fine Art Gallery - 19th Century Art for Sale",
+  "gridImage": "/cms-uploads/rabes_grid.jpg",
+  "mediumResImageWidth": 967,
+  "mediumResImageHeight": 807,
+  "metaDescription": "Historic gallery of 19th century paintings for sale, featuring the 19th century art of European, British and American 19th century artists. Many 1800s paintings incl",
+  "title": "Young Woman Sitting on a Bench",
+  "galleryCropImage": "/cms-uploads/rabes_grid_gallery_crop.jpg",
+  "categories": [
+    "Genre"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/rabes_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $6,500"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
