@@ -1,42 +1,42 @@
 {
-   "artist" : "levi_wells_prentice_art-html",
-   "body" : "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm.  However, after moving to Brooklyn circa 1883, he eventually abandoned landscapes for still-lifes and it these for which he is best known.  There are significant gaps in his biography and it is not known whether he associated with, or knew, fellow Brooklynite, noted still-life painter, Joseph Decker.  It is known, however, that his resume during his time in Brooklyn included carpentry, frame-making, and teaching art.  Prentice's still-life compositions illustrate his remarkable skill at rendering color, form, and texture, with dramatic contrasts between the background and foreground subject.  He did not totally abandon landscape painting, as many of his still-life compositions are depicted within a landscape setting, instead of the usual table top setting.  His works exhibit a 3-D quality (trompe l'oeil) as if you could pluck the fruit right from the canvas.  His sketchy biography also reveals that throughout his career, in addition to the Adirondack Mountains and Lake George, Prentice either lived or worked in New York's Hudson River Valley and Niagara Falls areas, and Arizona's Grand Canyon area.  Prentice was a member of the Brooklyn Art Association where he often exhibited his paintings. \n\nHigh auction record for this artist is $134,500.",
-   "categories" : [
-      "Landscape"
-   ],
-   "dimensions" : "Oil on canvas, 11.75 x 17.75 inches/Signed lower right",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/prentice_mountains_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/prentice_mountains_grid.jpg",
-   "gridImageHeight" : 261,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/prentice_mountains_full.jpg",
-   "highResImageHeight" : 2481,
-   "highResImageWidth" : 3282,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $30,000"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/prentice_mountains_small.jpg",
-   "mediumResImageHeight" : 993,
-   "mediumResImageWidth" : 1313,
-   "metaDescription" : "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm.  Prent",
-   "metaKeywords" : "",
-   "metaTitle" : "Levi Wells Prentice Painting - Near Lake Placid, Adirondack Mountains, NY - 19th Century American Fine Art",
-   "paintingHeight" : "19.5",
-   "paintingWidth" : "25.5",
-   "slug" : "levi_wells_prentice_mountains-html",
-   "status" : "None",
-   "title" : "Near Lake Placid, Adirondack Mountains, NY",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/J6YiLUHtpXg?rel=0"
+  "paintingWidth": "25.5",
+  "body": "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm.  However, after moving to Brooklyn circa 1883, he eventually abandoned landscapes for still-lifes and it these for which he is best known.  There are significant gaps in his biography and it is not known whether he associated with, or knew, fellow Brooklynite, noted still-life painter, Joseph Decker.  It is known, however, that his resume during his time in Brooklyn included carpentry, frame-making, and teaching art.  Prentice's still-life compositions illustrate his remarkable skill at rendering color, form, and texture, with dramatic contrasts between the background and foreground subject.  He did not totally abandon landscape painting, as many of his still-life compositions are depicted within a landscape setting, instead of the usual table top setting.  His works exhibit a 3-D quality (trompe l'oeil) as if you could pluck the fruit right from the canvas.  His sketchy biography also reveals that throughout his career, in addition to the Adirondack Mountains and Lake George, Prentice either lived or worked in New York's Hudson River Valley and Niagara Falls areas, and Arizona's Grand Canyon area.  Prentice was a member of the Brooklyn Art Association where he often exhibited his paintings. \n\nHigh auction record for this artist is $134,500.",
+  "highResImageHeight": 2481,
+  "artist": "levi_wells_prentice_art-html",
+  "highResImageWidth": 3282,
+  "paintingHeight": "19.5",
+  "slug": "levi_wells_prentice_mountains-html",
+  "dimensions": "Oil on canvas, 11.75 x 17.75 inches/Signed lower right",
+  "featured": true,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/J6YiLUHtpXg?rel=0",
+  "mediumResImage": "/cms-uploads/prentice_mountains_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Levi Wells Prentice Painting - Near Lake Placid, Adirondack Mountains, NY - 19th Century American Fine Art",
+  "gridImage": "/cms-uploads/prentice_mountains_grid.jpg",
+  "mediumResImageWidth": 1313,
+  "mediumResImageHeight": 993,
+  "metaDescription": "Born in Lewis County, New York, in the Adirondack Mountains, Prentice began his art career, not surprisingly, painting the landscape surrounding boyhood farm.  Prent",
+  "title": "Near Lake Placid, Adirondack Mountains, NY",
+  "galleryCropImage": "/cms-uploads/prentice_mountains_grid_gallery_crop.jpg",
+  "categories": [
+    "Landscape"
+  ],
+  "gridImageHeight": 261,
+  "highResImage": "/cms-uploads/prentice_mountains_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $30,000"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
