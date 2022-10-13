@@ -1,42 +1,42 @@
 {
-   "artist" : "jules_frederic_ballavoine_artwork-html",
-   "body" : "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter.  He received some notoriety during the early decades of the French Third Republic for his paintings of nude women.  Ballavoine received his formal art education at the École des Beaux Art in Paris under historical painter Isidore Alexandre Augustin Pils.  He exhibited his first oil painting at the Paris Salon in 1865, where he exhibited regularly for the next thirty years.  Ballavoine had great success with his paintings of small Paris street scenes, which were said to rival those of Jean Beraud.  But it was his exquisitely executed pictures of young women, such as Penning a Love Letter, that are the most desirable.  Ballavoine last exhibited in 1911.  Most of his works are now held in private collections. \n\nHigh auction record for this artist is $36,800.",
-   "categories" : [
-      "Genre"
-   ],
-   "dimensions" : "Oil on canvas, 18.75 x 14.75 inches / Signed upper left",
-   "featured" : false,
-   "galleryCropImage" : "/cms-uploads/ballavoine_grid_gallery_crop.jpg",
-   "gridImage" : "/cms-uploads/ballavoine_grid.jpg",
-   "gridImageHeight" : 260,
-   "gridImageWidth" : 392,
-   "highResImage" : "/cms-uploads/ballavoine_full.jpg",
-   "highResImageHeight" : 3014,
-   "highResImageWidth" : 2668,
-   "highlights" : [
-      {
-         "highlight" : "Available for purchase"
-      },
-      {
-         "highlight" : "Professionally conserved and framed"
-      },
-      {
-         "highlight" : "Competitively Priced $9,000"
-      },
-      {
-         "highlight" : "Custom framing available"
-      }
-   ],
-   "mediumResImage" : "/cms-uploads/ballavoine_small.jpg",
-   "mediumResImageHeight" : 1407,
-   "mediumResImageWidth" : 1245,
-   "metaDescription" : "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter. He received some notoriety during the early decades of the Frenc",
-   "metaKeywords" : "",
-   "metaTitle" : "Jules Frederic Ballavoine Painting - Penning a Love Letter - 19th Century French Fine Art",
-   "paintingHeight" : "30",
-   "paintingWidth" : "26",
-   "slug" : "jules_frederic_ballavoine_letter-html",
-   "status" : "None",
-   "title" : "Penning a Love Letter",
-   "youtubeEmbedLink" : "https://www.youtube.com/embed/yV8lWlnhZs8?rel=0"
+  "paintingWidth": "26",
+  "body": "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter.  He received some notoriety during the early decades of the French Third Republic for his paintings of nude women.  Ballavoine received his formal art education at the École des Beaux Art in Paris under historical painter Isidore Alexandre Augustin Pils.  He exhibited his first oil painting at the Paris Salon in 1865, where he exhibited regularly for the next thirty years.  Ballavoine had great success with his paintings of small Paris street scenes, which were said to rival those of Jean Beraud.  But it was his exquisitely executed pictures of young women, such as Penning a Love Letter, that are the most desirable.  Ballavoine last exhibited in 1911.  Most of his works are now held in private collections. \n\nHigh auction record for this artist is $36,800.",
+  "highResImageHeight": 3014,
+  "artist": "jules_frederic_ballavoine_artwork-html",
+  "highResImageWidth": 2668,
+  "paintingHeight": "30",
+  "slug": "jules_frederic_ballavoine_letter-html",
+  "dimensions": "Oil on canvas, 18.75 x 14.75 inches / Signed upper left",
+  "featured": true,
+  "metaKeywords": "",
+  "youtubeEmbedLink": "https://www.youtube.com/embed/yV8lWlnhZs8?rel=0",
+  "mediumResImage": "/cms-uploads/ballavoine_small.jpg",
+  "gridImageWidth": 392,
+  "status": "None",
+  "metaTitle": "Jules Frederic Ballavoine Painting - Penning a Love Letter - 19th Century French Fine Art",
+  "gridImage": "/cms-uploads/ballavoine_grid.jpg",
+  "mediumResImageWidth": 1245,
+  "mediumResImageHeight": 1407,
+  "metaDescription": "Ballavoine was born in Paris and was to become a highly recognized Parisian illustrator and painter. He received some notoriety during the early decades of the Frenc",
+  "title": "Penning a Love Letter",
+  "galleryCropImage": "/cms-uploads/ballavoine_grid_gallery_crop.jpg",
+  "categories": [
+    "Genre"
+  ],
+  "gridImageHeight": 260,
+  "highResImage": "/cms-uploads/ballavoine_full.jpg",
+  "highlights": [
+    {
+      "highlight": "Available for purchase"
+    },
+    {
+      "highlight": "Professionally conserved and framed"
+    },
+    {
+      "highlight": "Competitively Priced $9,000"
+    },
+    {
+      "highlight": "Custom framing available"
+    }
+  ]
 }
