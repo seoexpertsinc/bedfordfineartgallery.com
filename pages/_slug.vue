@@ -13,6 +13,7 @@ import Painting from '~/components/Painting'
 import { urlSlugToSlug } from '~/libs/slug'
 import { loadPaintings } from '~/libs/paintings'
 import { loadShortTestimonials } from '~/libs/testimonials'
+import { getMetaTitleAndDescription} from '~/libs/meta'
 
 export default {
     components: { Highlight, ArtLoversNicheArticle, ArtistBio, Painting },
@@ -74,6 +75,10 @@ export default {
         return { object, type, testimonials }
     },
     head() {
+        const { title, description } = getMetaTitleAndDescription({
+            content: this.object,
+        })
+
         const script =
             this.type === 'painting'
                 ? [
@@ -83,7 +88,15 @@ export default {
                   ]
                 : []
         return {
+            title,
             script,
+            meta: [
+                {
+                    hid: 'description',
+                    name: 'description',
+                    content: description,
+                },
+            ],
         }
     },
 }
